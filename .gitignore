@@ -1,0 +1,8 @@
+# Virtual Environment
+myvenv/
+
+# Configuration Files
+config.py
+
+# Results/Output Files
+STK36_pubmed_papers.txt
