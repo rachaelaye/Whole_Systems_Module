@@ -11,7 +11,7 @@ from Bio import Entrez
 from config import email  # Import email from config.py
 from xml.etree import ElementTree as ET
 
-# Function to fetch PubMed papers related to the gene "SUFU"
+# Function to fetch PubMed papers related to the gene "STK36"
 def fetch_pubmed_papers(gene):
     # Set email
     Entrez.email = email
@@ -57,6 +57,7 @@ def fetch_pubmed_papers(gene):
         papers.append(article)
 
     return papers
+
 
 if __name__ == "__main__":
     gene = "STK36"

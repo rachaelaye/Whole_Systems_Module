@@ -1,0 +1,140 @@
+PMID: 38184689
+Title: Serine/threonine kinase 36 induced epithelial-mesenchymal transition promotes docetaxel resistance in prostate cancer.
+Authors: He Tao, Li Nan-Xing, Pan Zhao-Jun, Zou Zi-Hao, Chen Jie-Chuan, Yu Si-Zhe, Lv Fa, Xie Quan-Cheng, Zou Jun
+Journal: Scientific reports
+Year: 2024
+Pages: 729
+
+PMID: 38096226
+Title: Ulk4 promotes Shh signaling by regulating Stk36 ciliary localization and Gli2 phosphorylation.
+Authors: Zhou Mengmeng, Han Yuhong, Jiang Jin
+Journal: eLife
+Year: 2023
+Pages: N/A
+
+PMID: 37667859
+Title: Global and local functions of the Fused kinase ortholog CdaH in intracellular patterning in Tetrahymena.
+Authors: Lee Chinkyu, Maier Wolfgang, Jiang Yu-Yang, Nakano Kentaro, Lechtreck Karl F, Gaertig Jacek
+Journal: Journal of cell science
+Year: 2024
+Pages: N/A
+
+PMID: 37584603
+Title: The putative protein kinase Stk36 is essential for ciliogenesis and CSF flow by associating with Ulk4.
+Authors: Zhang Hongye, Yang Meimei, Zhang Jianhua, Li Li, Guan Tianyuan, Liu Jiaxin, Gong Xuanwei, Yang Fan, Shen Sanbing, Liu Min, Han Yongfeng
+Journal: FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+Year: 2023
+Pages: e23138
+
+PMID: 36989043
+Title: ULK4 and Fused/STK36 interact to mediate assembly of a motile flagellum.
+Authors: McCoy Ciaran J, Paupelin-Vaucelle Humbeline, Gorilak Peter, Beneke Tom, Varga Vladimir, Gluenz Eva
+Journal: Molecular biology of the cell
+Year: 2023
+Pages: ar66
+
+PMID: 36786090
+Title: STK36 splice site variant in an Australian Shepherd dog with primary ciliary dyskinesia.
+Authors: Christen Matthias, Ludwig-Peisker Odette, Jagannathan Vidhya, Hetzel Udo, Schönball Ulrike, Leeb Tosso
+Journal: Animal genetics
+Year: 2023
+Pages: 412-415
+
+PMID: 35186941
+Title: Gli Phosphorylation Code in Hedgehog Signal Transduction.
+Authors: Zhou Mengmeng, Jiang Jin
+Journal: Frontiers in cell and developmental biology
+Year: 2022
+Pages: 846927
+
+PMID: 34562256
+Title: Ci/Gli Phosphorylation by the Fused/Ulk Family Kinases.
+Authors: Han Yuhong, Jiang Jin
+Journal: Methods in molecular biology (Clifton, N.J.)
+Year: 2022
+Pages: 213-229
+
+PMID: 34275739
+Title: The role of sonic hedgehog homologue signal pathway in hypospadias aetiology.
+Authors: Saraç Mehmet, Canpolat Şenay, Önalan Etem Ebru, Tektemur Ahmet, Tartar Tugay, Bakal Unal, Kazez Ahmet
+Journal: Journal of pediatric urology
+Year: 2021
+Pages: 630.e1-630.e7
+
+PMID: 31735554
+Title: Integrated miRNA and mRNA expression profiling identifies novel targets and pathological mechanisms in autoimmune thyroid diseases.
+Authors: Martínez-Hernández Rebeca, Serrano-Somavilla Ana, Ramos-Leví Ana, Sampedro-Nuñez Miguel, Lens-Pardo Alberto, Muñoz De Nova José Luis, Triviño Juan Carlos, González María Ujue, Torné Lorena, Casares-Arias Javier, Martín-Cófreces Noa B, Sánchez-Madrid Francisco, Marazuela Mónica
+Journal: EBioMedicine
+Year: 2019
+Pages: 329-342
+
+PMID: 31612017
+Title: Next generation DNA sequencing of atypical choroid plexus papilloma of brain: Identification of novel mutations in a female patient by Ion Proton.
+Authors: Taher Mohiuddin M, Hassan Amal Ali, Saeed Muhammad, Jastania Raid A, Nageeti Tahani H, Alkhalidi Hisham, Dairi Ghida, Abduljaleel Zainularifeen, Athar Mohammad, Bouazzaoui Abdellatif, El-Bjeirami Wafa M, Al-Allaf Faisal A
+Journal: Oncology letters
+Year: 2019
+Pages: 5063-5076
+
+PMID: 31279575
+Title: Phosphorylation of Ci/Gli by Fused Family Kinases Promotes Hedgehog Signaling.
+Authors: Han Yuhong, Wang Bing, Cho Yong Suk, Zhu Jian, Wu Jiang, Chen Yongbin, Jiang Jin
+Journal: Developmental cell
+Year: 2019
+Pages: 610-626.e4
+
+PMID: 28543983
+Title: Mutation of serine/threonine protein kinase 36 (STK36) causes primary ciliary dyskinesia with a central pair defect.
+Authors: Edelbusch Christine, Cindrić Sandra, Dougherty Gerard W, Loges Niki T, Olbrich Heike, Rivlin Joseph, Wallmeier Julia, Pennekamp Petra, Amirav Israel, Omran Heymut
+Journal: Human mutation
+Year: 2017
+Pages: 964-969
+
+PMID: 27282200
+Title: Temple-Baraitser Syndrome and Zimmermann-Laband Syndrome: one clinical entity?
+Authors: Mégarbané André, Al-Ali Rashid, Choucair Nancy, Lek Monko, Wang Ena, Ladjimi Moncef, Rose Catherine M, Hobeika Remy, Macary Yvette, Temanni Ramzi, Jithesh Puthen V, Chouchane Aouatef, Sastry Konduru S, Thomas Remy, Tomei Sara, Liu Wei, Marincola Francesco M, MacArthur Daniel, Chouchane Lotfi
+Journal: BMC medical genetics
+Year: 2016
+Pages: 42
+
+PMID: 25887635
+Title: Genome-wide association studies (GWAS) identify a QTL close to PRKAG3 affecting meat pH and colour in crossbred commercial pigs.
+Authors: Zhang Chunyan, Wang Zhiquan, Bruce Heather, Kemp Robert Alan, Charagu Patrick, Miar Younes, Yang Tianfu, Plastow Graham
+Journal: BMC genetics
+Year: 2015
+Pages: 33
+
+PMID: 25604826
+Title: Variant allele frequency enrichment analysis in vitro reveals sonic hedgehog pathway to impede sustained temozolomide response in GBM.
+Authors: Biswas Nidhan K, Chandra Vikas, Sarkar-Roy Neeta, Das Tapojyoti, Bhattacharya Rabindra N, Tripathy Laxmi N, Basu Sunandan K, Kumar Shantanu, Das Subrata, Chatterjee Ankita, Mukherjee Ankur, Basu Pryiadarshi, Maitra Arindam, Chattopadhyay Ansuman, Basu Analabha, Dhara Surajit
+Journal: Scientific reports
+Year: 2015
+Pages: 7915
+
+PMID: 23907739
+Title: Fused (Stk36) is a ciliary protein required for central pair assembly and motile cilia orientation in the mammalian oviduct.
+Authors: Nozawa Yoko Inès, Yao Erica, Lin Chuwen, Yang Jehn-Hsiahn, Wilson Christopher W, Gacayan Rhodora, Chuang Pao-Tien
+Journal: Developmental dynamics : an official publication of the American Association of Anatomists
+Year: 2013
+Pages: 1307-19
+
+PMID: 22391301
+Title: Mammalian homologues of Drosophila fused kinase.
+Authors: Maloverjan Alla, Piirsoo Marko
+Journal: Vitamins and hormones
+Year: 2012
+Pages: 91-113
+
+PMID: 21746835
+Title: Congenital hydrocephalus in genetically engineered mice.
+Authors: Vogel P, Read R W, Hansen G M, Payne B J, Small D, Sands A T, Zambrowicz B P
+Journal: Veterinary pathology
+Year: 2012
+Pages: 166-81
+
+PMID: 21460635
+Title: The requirement of uncoordinated 51-like kinase 1 (ULK1) and ULK2 in the regulation of autophagy.
+Authors: Lee Eun-Ju, Tournier Cathy
+Journal: Autophagy
+Year: 2011
+Pages: 689-95
+
