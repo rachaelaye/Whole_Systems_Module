@@ -165,6 +165,56 @@ with open(output_file, 'w', encoding='utf-8') as file:
 print(f"Comparison results saved to '{output_file}'")
 
 """
+Create Netwrok file of all genes from Entrez and STRING to import to Cytoscape for visualisation
+"""
+
+# Define the source and database columns
+source_gene = "STK36"
+entrez_database = "Entrez/NCBI"
+string_database = "STRING"
+
+# Read interactions from the STRING file (assuming it's a TSV file)
+string_interactions_file = "string_interactions.tsv"
+
+interactions_from_string = []
+with open(string_interactions_file, "r", newline='') as tsvfile:
+    reader = csv.reader(tsvfile, delimiter='\t')
+    next(reader)  # Skip header
+    for row in reader:
+        interaction = (row[0], row[1])  # Assuming first two columns are source and target
+        interactions_from_string.append(interaction)
+
+# Read the other genes from the text file
+other_genes_file = "other_genes.txt"
+with open(other_genes_file, "r") as file:
+    other_genes = [line.strip() for line in file.readlines()]
+
+# Combine all interactions
+all_interactions = interactions_from_string + [(source_gene, gene) for gene in other_genes]
+
+# Define the CSV file name
+csv_file_name = "network_gene_interactions.csv"
+
+# Write to the CSV file
+with open(csv_file_name, "w", newline='') as csvfile:
+    csv_writer = csv.writer(csvfile)
+
+    # Write the header
+    csv_writer.writerow(["source", "target", "database"])
+
+    # Write interactions from STRING database
+    for interaction in interactions_from_string:
+        csv_writer.writerow([interaction[0], interaction[1], string_database])
+
+    # Write interactions with other genes using STK36 as source and Entrez/NCBI as database
+    for gene in other_genes:
+        csv_writer.writerow([source_gene, gene, entrez_database])
+
+print(f"Data saved to '{csv_file_name}'")
+
+
+
+"""
 import requests
 from bs4 import BeautifulSoup
 
