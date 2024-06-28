@@ -12,11 +12,21 @@ Data Presentation: NCBI aggregates and presents this interaction data in a struc
 Dynamic Updates: The interaction data displayed on the NCBI Gene webpage is regularly updated as new information becomes available. NCBI aims to provide the most current and comprehensive data possible, reflecting ongoing research and database updates.
 Accessing Interaction Data: While you can view and explore interaction data interactively on the NCBI Gene webpage, this specific presentation is not queryable in the same way as raw data in NCBI's primary databases. Instead, NCBI provides APIs (like Entrez utilities) and downloads (like FTP repositories) for accessing bulk data from sources that contribute to interaction data.
 
+In the webpage there are 50 genes in the Interaction table though 7 of them are present more than once:
+SUFU
+GL1
+GL2
+GL3
+MAST2
+FRMPD4
+CDK5RAP2
+
 """
 
 import csv
 import requests
 from bs4 import BeautifulSoup
+import time
 
 def fetch_interaction_data(base_url, params):
     """
@@ -54,49 +64,53 @@ def parse_html_for_other_genes(soup):
 def save_other_genes_to_file(other_genes, filename="other_genes.txt"):
     """
     Saves the list of "Other Gene" names to a file.
+    using "a" instead of "w" means the file is opened with "a" mode (append mode). 
+    This ensures that each time you write to the file, the content is appended to the end of the existing file content, rather than overwriting it.
     """
-    with open(filename, "w") as file:
+    with open(filename, "a") as file:
         for gene in other_genes:
             file.write(gene + "\n")
     print(f"Other genes saved to '{filename}'")
 
+
 def main():
-    base_url = "https://www.ncbi.nlm.nih.gov/gene/27148/data/interaction/"
+    base_url = "https://www.ncbi.nlm.nih.gov/gene/27148/data/interaction/?"
     params = {
         "p$l": "Ajax",
         "p$debugoutput": "off",
-        "p$st": "entrez",
-        "p$saveparams": "false",
-        "pageize": "25",  # Adjust as per your pagination size
-        "p$pg": 1  # Starting page number
+        "page": 0,
+        "pageSize": "25",
     }
 
-    other_genes = []
+    previous_genes = set()  # Store genes from the previous page
+
     while True:
-        # Fetch interaction data
+        params["page"] += 1
         soup = fetch_interaction_data(base_url, params)
+        
         if soup:
-            # Parse HTML for other genes
-            other_genes.extend(parse_html_for_other_genes(soup))
+            # After fetching and parsing the current page (current_genes), convert it to a set for efficient comparison
+            current_genes = set(parse_html_for_other_genes(soup))
+            
+            # Compute new_genes as the difference between current_genes and previous_genes.
+            new_genes = current_genes - previous_genes
 
-            # Check if there's a next page
-            next_page = soup.find('input', {'title': 'Next Page'})
-            if not next_page:
-                break  # Exit loop if no next page link is found
-
-            # Update parameters for the next page
-            params['p$pg'] += 1
-
+            # Check if new_genes is not empty (if new_genes:) before appending it to other_genes.txt using save_other_genes_to_file.
+            if new_genes:
+                save_other_genes_to_file(new_genes)
+            else:
+                print(f"No new genes found on page {params['page']}. Exiting.")
+                break
+            
+            previous_genes.update(current_genes)
+            time.sleep(1)  # Add a small delay to avoid overwhelming the server
+        
         else:
-            print("Error: Unable to fetch or parse data.")
+            print(f"Error fetching or parsing data on page {params['page']}. Exiting.")
             break
-
-    # Save other genes to file
-    save_other_genes_to_file(other_genes)
 
 if __name__ == "__main__":
     main()
-
 
 """
 Creata a list of genes from the exported TSV from STRING Database
