@@ -5,4 +5,4 @@ myvenv/
 config.py
 
 # Results/Output Files
-STK36_pubmed_papers.txt
+saved_interaction_data.html
