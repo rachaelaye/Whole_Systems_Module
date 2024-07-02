@@ -1,0 +1,65 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+MID1,NM_000381.4(MID1):c.1298C>T (p.Ser433Leu),single nucleotide variant,Conflicting classifications of pathogenicity,X-linked Opitz G/BBB syndrome,rs780880323
+MID1,NM_000381.4(MID1):c.1101C>T (p.Ser367=),single nucleotide variant,Benign/Likely benign,not specified,rs372570608
+MID1,NM_000381.4(MID1):c.870G>A (p.Met290Ile),single nucleotide variant,Uncertain significance,not provided,rs1203361279
+MID1,NM_000381.4(MID1):c.1014-73del,Deletion,Benign,not provided,rs201939023
+MID1,NM_000381.4(MID1):c.757-10782G>A,single nucleotide variant,Benign,not provided,rs7065297
+MID1,NM_000381.4(MID1):c.1285+282A>C,single nucleotide variant,Benign,not provided,rs191267069
+MID1,NM_000381.4(MID1):c.757-142A>C,single nucleotide variant,Benign,not provided,rs41303177
+MID1,NM_000381.4(MID1):c.865-131T>C,single nucleotide variant,Benign,not provided,rs113847616
+MID1,NM_000381.4(MID1):c.-56-232del,Deletion,Benign,not provided,rs111606462
+MID1,NM_000381.4(MID1):c.1285+285C>T,single nucleotide variant,Benign,not provided,rs147820647
+MID1,NM_000381.4(MID1):c.1285+334dup,Duplication,Benign,not provided,rs201921135
+MID1,NM_000381.4(MID1):c.-56-195T>C,single nucleotide variant,Benign,not provided,rs12852005
+MID1,NM_000381.4(MID1):c.1285+147G>C,single nucleotide variant,Benign,not provided,rs114091079
+MID1,NM_000381.4(MID1):c.1142-88G>A,single nucleotide variant,Benign,not provided,rs73492943
+MID1,NM_000381.4(MID1):c.661-6G>T,single nucleotide variant,Benign,not provided,rs868267567
+MID1,NM_000381.4(MID1):c.661-7del,Deletion,Benign,not provided,rs375668839
+MID1,NM_000381.4(MID1):c.1286-219T>C,single nucleotide variant,Benign,not provided,rs41309681
+MID1,NM_000381.4(MID1):c.1414C>T (p.Arg472Cys),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs1339922842
+MID1,NM_000381.4(MID1):c.1279G>A (p.Val427Ile),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs755985917
+MID1,NM_000381.4(MID1):c.2001G>A (p.Pro667=),single nucleotide variant,Likely benign,not provided,rs764985543
+MID1,NM_000381.4(MID1):c.107G>A (p.Arg36His),single nucleotide variant,Uncertain significance,X-linked Opitz G/BBB syndrome,rs1270080835
+MID1,NM_000381.4(MID1):c.370C>G (p.Gln124Glu),single nucleotide variant,Uncertain significance,not provided,rs866271060
+MID1,NM_000381.4(MID1):c.807C>T (p.Leu269=),single nucleotide variant,Likely benign,not provided,rs1602304051
+MID1,NM_000381.4(MID1):c.302G>A (p.Arg101His),single nucleotide variant,Benign/Likely benign,not provided,rs202142461
+MID1,NM_000381.4(MID1):c.130A>G (p.Thr44Ala),single nucleotide variant,Likely benign,not provided,rs779960944
+MID1,NM_000381.4(MID1):c.1968C>T (p.Ile656=),single nucleotide variant,Benign,Inborn genetic diseases,rs754871464
+MID1,NM_000381.4(MID1):c.948G>A (p.Ala316=),single nucleotide variant,Benign,not provided,rs769379244
+MID1,NM_000381.4(MID1):c.900A>G (p.Ala300=),single nucleotide variant,Likely benign,not provided,rs1221754470
+MID1,NM_000381.4(MID1):c.642G>A (p.Glu214=),single nucleotide variant,Benign/Likely benign,MID1-related disorder,rs201251755
+MID1,NM_000381.4(MID1):c.661-6_661-5insT,Insertion,Benign,not provided,rs747606825
+MID1,NM_000381.4(MID1):c.1013+9A>G,single nucleotide variant,Likely benign,not provided,rs368826696
+MID1,NM_000381.4(MID1):c.1495G>A (p.Val499Met),single nucleotide variant,Uncertain significance,X-linked Opitz G/BBB syndrome,rs868016081
+MID1,NM_000381.4(MID1):c.1888G>A (p.Asp630Asn),single nucleotide variant,Uncertain significance,not specified,rs150291968
+MID1,NM_000381.4(MID1):c.1282G>A (p.Val428Ile),single nucleotide variant,Uncertain significance,not provided,rs1280989248
+MID1,NM_000381.4(MID1):c.250G>A (p.Asp84Asn),single nucleotide variant,Conflicting classifications of pathogenicity,History of neurodevelopmental disorder,rs374851071
+MID1,NM_000381.4(MID1):c.1242C>T (p.Tyr414=),single nucleotide variant,Benign/Likely benign,Inborn genetic diseases,rs142718564
+MID1,NM_000381.4(MID1):c.1074A>G (p.Thr358=),single nucleotide variant,Likely benign,Inborn genetic diseases,rs761240374
+MID1,NM_000381.4(MID1):c.1605T>C (p.Phe535=),single nucleotide variant,Benign/Likely benign,Inborn genetic diseases,rs768522341
+MID1,NM_000381.4(MID1):c.1663A>G (p.Ile555Val),single nucleotide variant,Conflicting classifications of pathogenicity,not specified,rs398123341
+MID1,NM_000381.4(MID1):c.1354G>A (p.Gly452Ser),single nucleotide variant,Uncertain significance,not provided,rs1556004404
+MID1,NM_000381.4(MID1):c.1483C>T (p.Arg495Ter),single nucleotide variant,Pathogenic,not provided,rs745554420
+MID1,NM_000381.4(MID1):c.1765A>G (p.Asn589Asp),single nucleotide variant,Uncertain significance,Low-set ears,rs1556001939
+MID1,NM_000381.4(MID1):c.1698A>G (p.Glu566=),single nucleotide variant,Benign/Likely benign,MID1-related disorder,rs34554583
+MID1,NM_000381.4(MID1):c.757-5745G>A,single nucleotide variant,Likely benign,not provided,rs111428432
+MID1,NM_000381.4(MID1):c.1541AGA[1] (p.Lys515del),Microsatellite,Uncertain significance,MID1-related disorder,rs1300755857
+MID1,NM_000381.4(MID1):c.567C>T (p.Thr189=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs1555905154
+MID1,NM_000381.4(MID1):c.229G>A (p.Val77Ile),single nucleotide variant,Conflicting classifications of pathogenicity,not specified,rs143416243
+MID1,NM_000381.4(MID1):c.1695T>C (p.His565=),single nucleotide variant,Likely benign,not specified,rs902247260
+MID1,NM_000381.4(MID1):c.1562G>A (p.Arg521His),single nucleotide variant,Uncertain significance,not provided,rs369909019
+MID1,NM_000381.4(MID1):c.340G>A (p.Ala114Thr),single nucleotide variant,Uncertain significance,not provided,rs749995175
+MID1,NM_000381.4(MID1):c.1679A>G (p.Lys560Arg),single nucleotide variant,Uncertain significance,X-linked Opitz G/BBB syndrome,rs1057520313
+MID1,NM_000381.4(MID1):c.1414_1419dup (p.Arg472_Ser473dup),Duplication,Uncertain significance,not provided,rs748883619
+MID1,NM_000381.4(MID1):c.661-8_661-7del,Deletion,Benign/Likely benign,not specified,rs375668839
+MID1,NM_000381.4(MID1):c.420C>G (p.Ser140=),single nucleotide variant,Conflicting classifications of pathogenicity,not specified,rs201845920
+MID1,NM_000381.4(MID1):c.342C>T (p.Ala114=),single nucleotide variant,Conflicting classifications of pathogenicity,not specified,rs765698306
+MID1,NM_000381.4(MID1):c.1510T>C (p.Leu504=),single nucleotide variant,Conflicting classifications of pathogenicity,not specified,rs797045704
+MID1,NM_000381.4(MID1):c.1489C>T (p.Leu497=),single nucleotide variant,Conflicting classifications of pathogenicity,not specified,rs138629923
+MID1,NM_000381.4(MID1):c.1561C>T (p.Arg521Cys),single nucleotide variant,Benign/Likely benign,Inborn genetic diseases,rs149482288
+MID1,NM_000381.4(MID1):c.1266C>T (p.Thr422=),single nucleotide variant,Benign/Likely benign,not specified,rs148477118
+MID1,NM_000381.4(MID1):c.661-7dup,Duplication,Benign,not specified,rs375668839
+MID1,NM_000381.4(MID1):c.661-22_661-21dup,Duplication,Benign,not specified,rs375668839
+MID1,NM_000381.4(MID1):c.588C>G (p.Ala196=),single nucleotide variant,Benign/Likely benign,MID1-related disorder,rs41303167
+MID1,NM_000381.4(MID1):c.1767T>C (p.Asn589=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs750022332
+MID1,NM_000381.4(MID1):c.99C>T (p.Cys33=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs727504015

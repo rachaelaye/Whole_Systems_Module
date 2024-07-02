@@ -1,0 +1,26 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+RBM28,NM_018077.3(RBM28):c.1745G>A (p.Arg582Gln),single nucleotide variant,Uncertain significance,not specified,rs201234922
+RBM28,NM_018077.3(RBM28):c.1728G>C (p.Glu576Asp),single nucleotide variant,Uncertain significance,Microcephaly,rs765780383
+RBM28,NM_018077.3(RBM28):c.946G>T (p.Ala316Ser),single nucleotide variant,Likely pathogenic,ANE syndrome,rs1427042125
+RBM28,NM_018077.3(RBM28):c.449-7C>T,single nucleotide variant,Likely benign,not provided,rs775658501
+RBM28,NM_018077.3(RBM28):c.2135C>T (p.Ser712Leu),single nucleotide variant,Benign/Likely benign,RBM28-related disorder,rs73230638
+RBM28,NM_018077.3(RBM28):c.718G>C (p.Asp240His),single nucleotide variant,Benign,not provided,rs113178095
+RBM28,NM_018077.3(RBM28):c.2015C>T (p.Ala672Val),single nucleotide variant,Benign,not provided,rs61733106
+RBM28,NM_018077.3(RBM28):c.726AGA[1] (p.Glu243del),Microsatellite,Benign,not provided,rs370008356
+RBM28,NM_018077.3(RBM28):c.1608G>A (p.Lys536=),single nucleotide variant,Benign,not provided,rs59848577
+RBM28,NM_018077.3(RBM28):c.1284G>A (p.Thr428=),single nucleotide variant,Likely benign,not provided,rs144509151
+RBM28,NM_018077.3(RBM28):c.2077C>T (p.His693Tyr),single nucleotide variant,Likely benign,RBM28-related disorder,rs142674151
+RBM28,NM_018077.3(RBM28):c.87G>A (p.Pro29=),single nucleotide variant,Benign,not provided,rs144136436
+RBM28,NM_018077.3(RBM28):c.786C>T (p.Thr262=),single nucleotide variant,Likely benign,not provided,rs781581825
+RBM28,NM_018077.3(RBM28):c.280A>T (p.Asn94Tyr),single nucleotide variant,Conflicting classifications of pathogenicity,not specified,rs138007655
+RBM28,NM_018077.3(RBM28):c.591T>C (p.Asp197=),single nucleotide variant,Likely benign,not provided,rs1163309768
+RBM28,NM_018077.3(RBM28):c.1563+7C>T,single nucleotide variant,Likely benign,not provided,rs189194330
+RBM28,NM_018077.3(RBM28):c.1944C>T (p.Thr648=),single nucleotide variant,Likely benign,RBM28-related disorder,rs142393569
+RBM28,NM_018077.3(RBM28):c.1251G>A (p.Ala417=),single nucleotide variant,Likely benign,not provided,rs754195447
+RBM28,NM_018077.3(RBM28):c.2185C>T (p.Arg729Cys),single nucleotide variant,Likely benign,not provided,rs183368277
+RBM28,NM_018077.3(RBM28):c.1387A>C (p.Met463Leu),single nucleotide variant,Likely benign,not provided,rs138703329
+RBM28,NM_018077.3(RBM28):c.1683C>T (p.Asn561=),single nucleotide variant,Benign,not provided,rs117179081
+RBM28,NM_018077.3(RBM28):c.306G>A (p.Pro102=),single nucleotide variant,Benign/Likely benign,not provided,rs61733107
+RBM28,NM_018077.3(RBM28):c.1552C>T (p.Arg518Cys),single nucleotide variant,Likely benign,not provided,rs138112810
+RBM28,NM_018077.3(RBM28):c.2273A>G (p.Asp758Gly),single nucleotide variant,Benign,not specified,rs148028531
+RBM28,NM_018077.3(RBM28):c.1052T>C (p.Leu351Pro),single nucleotide variant,Pathogenic,ANE syndrome,rs118204055

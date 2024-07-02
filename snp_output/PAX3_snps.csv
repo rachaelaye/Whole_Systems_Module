@@ -1,0 +1,165 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+PAX3,NM_181458.4(PAX3):c.683C>T (p.Ala228Val),single nucleotide variant,Uncertain significance,Waardenburg syndrome type 1,rs775433032
+PAX3,NM_181458.4(PAX3):c.731C>A (p.Pro244His),single nucleotide variant,Uncertain significance,not provided,rs777246206
+PAX3,NM_181458.4(PAX3):c.1127C>A (p.Pro376His),single nucleotide variant,Uncertain significance,not provided,rs1692132493
+PAX3,NM_181458.4(PAX3):c.*257G>T,single nucleotide variant,Likely benign,not provided,rs3731858
+PAX3,NM_181458.4(PAX3):c.322-20G>T,single nucleotide variant,Likely benign,not provided,rs753357130
+PAX3,NM_181458.4(PAX3):c.510C>A (p.Ala170=),single nucleotide variant,Likely benign,not provided,rs1322254660
+PAX3,NM_181458.4(PAX3):c.321+3G>A,single nucleotide variant,Uncertain significance,not provided,rs759085579
+PAX3,NM_181458.4(PAX3):c.484T>C (p.Phe162Leu),single nucleotide variant,Uncertain significance,not provided,rs148977636
+PAX3,NM_181458.4(PAX3):c.321+6C>A,single nucleotide variant,Uncertain significance,not provided,rs754445060
+PAX3,NM_181458.4(PAX3):c.118C>T (p.Gln40Ter),single nucleotide variant,Pathogenic,not provided,rs1461573611
+PAX3,NM_181458.4(PAX3):c.382A>G (p.Met128Val),single nucleotide variant,Uncertain significance,not provided,rs140921855
+PAX3,NM_181458.4(PAX3):c.998C>T (p.Pro333Leu),single nucleotide variant,Uncertain significance,not provided,rs551614431
+PAX3,NM_181458.4(PAX3):c.707G>A (p.Arg236His),single nucleotide variant,Uncertain significance,not provided,rs745673188
+PAX3,NM_181458.4(PAX3):c.64C>A (p.Arg22Ser),single nucleotide variant,Uncertain significance,not provided,rs1026986168
+PAX3,NM_181458.4(PAX3):c.163A>G (p.Ile55Val),single nucleotide variant,Uncertain significance,not provided,rs1574771815
+PAX3,NM_181458.4(PAX3):c.586+5G>T,single nucleotide variant,Uncertain significance,not provided,rs755362476
+PAX3,NM_181458.4(PAX3):c.658C>A (p.Arg220Ser),single nucleotide variant,Uncertain significance,not provided,rs917104474
+PAX3,NM_181458.4(PAX3):c.1151T>C (p.Ile384Thr),single nucleotide variant,Uncertain significance,not provided,rs139806736
+PAX3,NM_181458.4(PAX3):c.424G>T (p.Val142Phe),single nucleotide variant,Uncertain significance,not provided,rs1193030438
+PAX3,NM_181458.4(PAX3):c.467G>T (p.Arg156Leu),single nucleotide variant,Uncertain significance,not provided,rs768608755
+PAX3,NM_181458.4(PAX3):c.1036T>C (p.Ser346Pro),single nucleotide variant,Uncertain significance,Waardenburg syndrome type 3,rs778178524
+PAX3,NM_181458.4(PAX3):c.874G>A (p.Gly292Arg),single nucleotide variant,Uncertain significance,not specified,rs142651003
+PAX3,NM_181458.4(PAX3):c.854C>T (p.Ala285Val),single nucleotide variant,Uncertain significance,not provided,rs762975677
+PAX3,NM_181458.4(PAX3):c.287T>C (p.Ile96Thr),single nucleotide variant,Uncertain significance,not provided,rs1695336314
+PAX3,NM_181458.4(PAX3):c.*354GT[11],Microsatellite,Benign,not provided,rs373626774
+PAX3,NM_181458.4(PAX3):c.451+129C>A,single nucleotide variant,Benign,not provided,rs28546421
+PAX3,NC_000002.12:g.222299309G>C,single nucleotide variant,Benign,not provided,rs10193524
+PAX3,NM_181458.4(PAX3):c.452-235C>A,single nucleotide variant,Benign,not provided,rs13414716
+PAX3,NM_181458.4(PAX3):c.86-92A>C,single nucleotide variant,Benign,not provided,rs6754024
+PAX3,NM_181458.4(PAX3):c.792+88C>G,single nucleotide variant,Benign,not provided,rs1965791
+PAX3,NM_181458.4(PAX3):c.452-99G>T,single nucleotide variant,Benign,not provided,rs2303948
+PAX3,NM_181458.4(PAX3):c.586+233del,Deletion,Benign,not provided,rs10712898
+PAX3,NM_181458.4(PAX3):c.*109dup,Duplication,Benign,not provided,rs3832105
+PAX3,NM_181458.4(PAX3):c.451+25C>G,single nucleotide variant,Likely benign,not provided,rs189139166
+PAX3,NM_181458.4(PAX3):c.958+294G>A,single nucleotide variant,Benign,not provided,rs13353354
+PAX3,NM_181458.4(PAX3):c.1173+26G>A,single nucleotide variant,Benign,not provided,rs13022712
+PAX3,NM_181458.4(PAX3):c.321+73T>C,single nucleotide variant,Benign,not provided,rs12694578
+PAX3,NM_181458.4(PAX3):c.1421-76C>T,single nucleotide variant,Benign,not provided,rs13014735
+PAX3,NM_181458.4(PAX3):c.*257G>C,single nucleotide variant,Benign,not provided,rs3731858
+PAX3,NM_181458.4(PAX3):c.586+729del,Deletion,Benign,not provided,rs45466693
+PAX3,NM_181458.4(PAX3):c.586+86A>C,single nucleotide variant,Benign,not provided,rs28945093
+PAX3,NM_181458.4(PAX3):c.587-251A>G,single nucleotide variant,Benign,not provided,rs10932947
+PAX3,NM_181458.4(PAX3):c.586+332G>A,single nucleotide variant,Likely benign,not provided,rs187795109
+PAX3,NM_181458.4(PAX3):c.586+96G>C,single nucleotide variant,Likely benign,not provided,rs192792747
+PAX3,NM_181458.4(PAX3):c.586+745A>T,single nucleotide variant,Likely benign,not provided,rs77569906
+PAX3,NM_181458.4(PAX3):c.1420+126del,Deletion,Likely benign,not provided,rs368725878
+PAX3,NM_181458.4(PAX3):c.1421-17C>T,single nucleotide variant,Likely benign,not provided,rs200777940
+PAX3,NM_181458.4(PAX3):c.86-99G>T,single nucleotide variant,Likely benign,not provided,rs45499698
+PAX3,NM_181458.4(PAX3):c.86-342G>A,single nucleotide variant,Likely benign,not provided,rs45555633
+PAX3,NM_181458.4(PAX3):c.1174-10G>A,single nucleotide variant,Likely benign,not provided,rs2855268
+PAX3,NM_181458.4(PAX3):c.586+638C>A,single nucleotide variant,Likely benign,not provided,rs190583424
+PAX3,NM_181458.4(PAX3):c.321+258A>G,single nucleotide variant,Likely benign,not provided,rs45485396
+PAX3,NM_181458.4(PAX3):c.959-28T>C,single nucleotide variant,Likely benign,not provided,rs553899131
+PAX3,NM_181458.4(PAX3):c.451+89C>T,single nucleotide variant,Likely benign,not provided,rs45498898
+PAX3,NM_181458.4(PAX3):c.1174-287G>A,single nucleotide variant,Likely benign,not provided,rs45493391
+PAX3,NM_181458.4(PAX3):c.451+211C>A,single nucleotide variant,Likely benign,not provided,rs45537932
+PAX3,NM_181458.4(PAX3):c.1173+40C>T,single nucleotide variant,Likely benign,not provided,rs150637194
+PAX3,NM_181458.4(PAX3):c.322-29C>T,single nucleotide variant,Likely benign,not provided,rs45477501
+PAX3,NM_181458.4(PAX3):c.322-117G>A,single nucleotide variant,Likely benign,not provided,rs45441600
+PAX3,NM_181458.4(PAX3):c.322-274T>A,single nucleotide variant,Likely benign,not provided,rs45437593
+PAX3,NM_181458.4(PAX3):c.*108_*109dup,Duplication,Likely benign,not provided,rs3832105
+PAX3,NM_181458.4(PAX3):c.86-31T>A,single nucleotide variant,Likely benign,not provided,rs376941714
+PAX3,NM_181458.4(PAX3):c.1145C>A (p.Pro382His),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs756229758
+PAX3,NM_181458.4(PAX3):c.564C>G (p.Ile188Met),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs759181003
+PAX3,NM_181458.4(PAX3):c.*175C>T,single nucleotide variant,Pathogenic,Waardenburg syndrome type 1,rs780660984
+PAX3,NM_181458.4(PAX3):c.467G>C (p.Arg156Pro),single nucleotide variant,Uncertain significance,Craniofacial-deafness-hand syndrome,rs768608755
+PAX3,NM_181458.4(PAX3):c.706C>A (p.Arg236Ser),single nucleotide variant,Pathogenic,Waardenburg syndrome type 1,rs769650688
+PAX3,NM_181458.4(PAX3):c.241G>C (p.Gly81Arg),single nucleotide variant,Pathogenic,Waardenburg syndrome type 1,rs483353059
+PAX3,NM_181458.4(PAX3):c.586+52C>A,single nucleotide variant,Benign/Likely benign,not provided,rs201251689
+PAX3,NM_181458.4(PAX3):c.378G>A (p.Pro126=),single nucleotide variant,Likely benign,not specified,rs553884686
+PAX3,NM_181458.4(PAX3):c.144C>T (p.Gly48=),single nucleotide variant,Uncertain significance,Waardenburg syndrome,rs1252612539
+PAX3,NM_181458.4(PAX3):c.1240C>T (p.Pro414Ser),single nucleotide variant,Uncertain significance,Waardenburg syndrome,rs1691318066
+PAX3,NM_181458.4(PAX3):c.567C>T (p.Asp189=),single nucleotide variant,Uncertain significance,Waardenburg syndrome,rs774455796
+PAX3,NM_181458.4(PAX3):c.1253G>T (p.Gly418Val),single nucleotide variant,Uncertain significance,Waardenburg syndrome,rs1691316648
+PAX3,NM_181458.4(PAX3):c.1420+103C>T,single nucleotide variant,Uncertain significance,Craniofacial-deafness-hand syndrome,rs544726519
+PAX3,NM_181458.4(PAX3):c.-99C>T,single nucleotide variant,Uncertain significance,Waardenburg syndrome,rs1695446616
+PAX3,NM_181458.4(PAX3):c.981C>T (p.Thr327=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs374429328
+PAX3,NM_181458.4(PAX3):c.1420+165G>T,single nucleotide variant,Uncertain significance,Waardenburg syndrome,rs1395471577
+PAX3,NM_181458.4(PAX3):c.1420+186G>A,single nucleotide variant,Benign,Craniofacial-deafness-hand syndrome,rs78035924
+PAX3,NM_181458.4(PAX3):c.71G>T (p.Gly24Val),single nucleotide variant,Likely benign,not provided,rs200928747
+PAX3,NM_181458.4(PAX3):c.1071C>T (p.Pro357=),single nucleotide variant,Benign/Likely benign,PAX3-related disorder,rs35913673
+PAX3,NM_181458.4(PAX3):c.150G>A (p.Pro50=),single nucleotide variant,Likely benign,not provided,rs778990733
+PAX3,NM_181458.4(PAX3):c.1420+14T>A,single nucleotide variant,Likely benign,not provided,rs768521579
+PAX3,NM_181458.4(PAX3):c.879G>A (p.Gly293=),single nucleotide variant,Likely benign,not provided,rs45522331
+PAX3,NM_181458.4(PAX3):c.1248C>T (p.Thr416=),single nucleotide variant,Conflicting classifications of pathogenicity,Waardenburg syndrome,rs376147620
+PAX3,NM_181458.4(PAX3):c.1029G>A (p.Thr343=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs747502205
+PAX3,NM_181458.4(PAX3):c.924G>A (p.Ser308=),single nucleotide variant,Likely benign,not provided,rs199952493
+PAX3,NM_181458.4(PAX3):c.1230C>T (p.Tyr410=),single nucleotide variant,Likely benign,not provided,rs147111779
+PAX3,NM_181458.4(PAX3):c.1173+9C>T,single nucleotide variant,Likely benign,not provided,rs752483694
+PAX3,NM_181458.4(PAX3):c.1197C>T (p.His399=),single nucleotide variant,Likely benign,not provided,rs377508524
+PAX3,NM_181458.4(PAX3):c.405C>T (p.Asp135=),single nucleotide variant,Likely benign,not provided,rs778738002
+PAX3,NM_181458.4(PAX3):c.627T>G (p.Ser209=),single nucleotide variant,Likely benign,not provided,rs142331431
+PAX3,NM_181458.4(PAX3):c.1107C>T (p.Ser369=),single nucleotide variant,Likely benign,not provided,rs931413137
+PAX3,NM_181458.4(PAX3):c.321+91G>T,single nucleotide variant,Benign,not provided,rs13405641
+PAX3,NM_181458.4(PAX3):c.1166C>G (p.Ser389Ter),single nucleotide variant,Pathogenic,Rare genetic deafness,rs758136826
+PAX3,NM_181458.4(PAX3):c.100G>T (p.Gly34Cys),single nucleotide variant,Uncertain significance,not provided,rs777273543
+PAX3,NM_181458.4(PAX3):c.1277C>A (p.Ser426Ter),single nucleotide variant,Likely pathogenic,Waardenburg syndrome type 1,rs369886550
+PAX3,NM_181458.4(PAX3):c.818G>A (p.Arg273Lys),single nucleotide variant,Uncertain significance,Waardenburg syndrome type 1,rs1020175890
+PAX3,NM_181458.4(PAX3):c.808C>T (p.Arg270Cys),single nucleotide variant,Pathogenic/Likely pathogenic,not provided,rs1228590199
+PAX3,NM_181458.4(PAX3):c.452-9C>A,single nucleotide variant,Conflicting classifications of pathogenicity,Waardenburg syndrome type 1,rs1379006499
+PAX3,NM_181458.4(PAX3):c.246C>A (p.Cys82Ter),single nucleotide variant,Likely pathogenic,Waardenburg syndrome type 1,rs777297575
+PAX3,NM_181458.4(PAX3):c.246C>G (p.Cys82Trp),single nucleotide variant,Likely pathogenic,Waardenburg syndrome type 3,rs777297575
+PAX3,NM_181458.4(PAX3):c.210C>A (p.Cys70Ter),single nucleotide variant,Pathogenic/Likely pathogenic,not provided,rs1356246522
+PAX3,NM_181458.4(PAX3):c.1230C>G (p.Tyr410Ter),single nucleotide variant,Pathogenic,Waardenburg syndrome type 1,rs147111779
+PAX3,NM_181458.4(PAX3):c.721A>T (p.Thr241Ser),single nucleotide variant,Likely benign,not provided,rs529347506
+PAX3,NM_181458.4(PAX3):c.528G>A (p.Glu176=),single nucleotide variant,Likely benign,not specified,rs758785525
+PAX3,NM_181458.4(PAX3):c.958+6G>A,single nucleotide variant,Uncertain significance,not specified,rs558822810
+PAX3,NM_181458.4(PAX3):c.871C>T (p.Pro291Ser),single nucleotide variant,Uncertain significance,not provided,rs199651907
+PAX3,NM_181458.4(PAX3):c.1116T>A (p.Pro372=),single nucleotide variant,Likely benign,not specified,rs770424826
+PAX3,NM_181458.4(PAX3):c.534G>A (p.Glu178=),single nucleotide variant,Likely benign,not provided,rs569880951
+PAX3,NM_181458.4(PAX3):c.540C>G (p.Ser180Arg),single nucleotide variant,Conflicting classifications of pathogenicity,Waardenburg syndrome type 3,rs200679164
+PAX3,NM_181458.4(PAX3):c.580G>A (p.Glu194Lys),single nucleotide variant,Conflicting classifications of pathogenicity,not specified,rs148454691
+PAX3,NM_181458.4(PAX3):c.9G>A (p.Thr3=),single nucleotide variant,Likely benign,not provided,rs377366463
+PAX3,NM_181458.4(PAX3):c.958+9G>A,single nucleotide variant,Conflicting classifications of pathogenicity,Craniofacial-deafness-hand syndrome,rs185119406
+PAX3,NM_181458.4(PAX3):c.982G>A (p.Val328Ile),single nucleotide variant,Likely benign,PAX3-related disorder,rs149799356
+PAX3,NM_181458.4(PAX3):c.667C>T (p.Arg223Ter),single nucleotide variant,Pathogenic,Waardenburg syndrome type 1,rs772241382
+PAX3,NM_181458.4(PAX3):c.583C>T (p.Arg195Ter),single nucleotide variant,Pathogenic,not provided,rs1220219700
+PAX3,NM_181458.4(PAX3):c.124G>C (p.Gly42Arg),single nucleotide variant,Likely pathogenic,Intellectual disability,rs773327091
+PAX3,NM_181458.4(PAX3):c.586+427G>T,single nucleotide variant,Uncertain significance,not provided,rs747070982
+PAX3,NM_181458.4(PAX3):c.835G>A (p.Gly279Arg),single nucleotide variant,Uncertain significance,not provided,rs1064796626
+PAX3,NM_181458.4(PAX3):c.-359G>T,single nucleotide variant,Benign,Waardenburg syndrome,rs45501095
+PAX3,NM_181458.4(PAX3):c.-248A>C,single nucleotide variant,Uncertain significance,Waardenburg syndrome,rs886055677
+PAX3,NM_181458.4(PAX3):c.-205C>T,single nucleotide variant,Benign,Craniofacial-deafness-hand syndrome,rs565554258
+PAX3,NM_181458.4(PAX3):c.-156C>A,single nucleotide variant,Uncertain significance,Waardenburg syndrome,rs867534042
+PAX3,NM_181458.4(PAX3):c.-156C>T,single nucleotide variant,Uncertain significance,Waardenburg syndrome,rs867534042
+PAX3,NM_181458.4(PAX3):c.47C>T (p.Pro16Leu),single nucleotide variant,Uncertain significance,not provided,rs886055676
+PAX3,NM_181458.4(PAX3):c.126C>A (p.Gly42=),single nucleotide variant,Benign/Likely benign,PAX3-related disorder,rs369680052
+PAX3,NM_181458.4(PAX3):c.807C>T (p.Asn269=),single nucleotide variant,Benign,Waardenburg syndrome,rs45501393
+PAX3,NM_181458.4(PAX3):c.1118C>T (p.Pro373Leu),single nucleotide variant,Conflicting classifications of pathogenicity,Waardenburg syndrome,rs200701839
+PAX3,NM_181458.4(PAX3):c.1204G>A (p.Val402Ile),single nucleotide variant,Uncertain significance,Craniofacial-deafness-hand syndrome,rs374318137
+PAX3,NM_181458.4(PAX3):c.1229A>T (p.Tyr410Phe),single nucleotide variant,Uncertain significance,Waardenburg syndrome,rs886055675
+PAX3,NM_181458.4(PAX3):c.1420+55C>T,single nucleotide variant,Benign,Craniofacial-deafness-hand syndrome,rs186207055
+PAX3,NM_181458.4(PAX3):c.1420+104G>A,single nucleotide variant,Benign,Craniofacial-deafness-hand syndrome,rs142988099
+PAX3,NM_181458.4(PAX3):c.1420+125T>G,single nucleotide variant,Uncertain significance,Waardenburg syndrome,rs886055674
+PAX3,NM_181458.4(PAX3):c.1420+112dup,Duplication,Conflicting classifications of pathogenicity,Waardenburg syndrome,rs368725878
+PAX3,NM_181458.4(PAX3):c.1420+201C>T,single nucleotide variant,Uncertain significance,Craniofacial-deafness-hand syndrome,rs573451372
+PAX3,NM_181458.4(PAX3):c.1420+220C>T,single nucleotide variant,Benign,Craniofacial-deafness-hand syndrome,rs45624434
+PAX3,NM_181458.4(PAX3):c.784C>T (p.Arg262Ter),single nucleotide variant,Pathogenic,not provided,rs886041319
+PAX3,NM_181458.4(PAX3):c.812G>A (p.Arg271His),single nucleotide variant,Pathogenic,Alveolar rhabdomyosarcoma,rs774528745
+PAX3,NM_181458.4(PAX3):c.321+8G>A,single nucleotide variant,Likely benign,not specified,rs766942977
+PAX3,NM_181458.4(PAX3):c.968A>G (p.Asp323Gly),single nucleotide variant,Uncertain significance,not specified,rs879255434
+PAX3,NM_181458.4(PAX3):c.505G>A (p.Glu169Lys),single nucleotide variant,Uncertain significance,not provided,rs878853019
+PAX3,NM_181458.4(PAX3):c.1174-3del,Deletion,Uncertain significance,not specified,rs749733628
+PAX3,NM_181458.4(PAX3):c.572T>C (p.Ile191Thr),single nucleotide variant,Conflicting classifications of pathogenicity,PAX3-related disorder,rs199560470
+PAX3,NM_181458.4(PAX3):c.561C>G (p.Ser187Arg),single nucleotide variant,Uncertain significance,not specified,rs375978379
+PAX3,NM_181458.4(PAX3):c.668G>A (p.Arg223Gln),single nucleotide variant,Pathogenic,Rare genetic deafness,rs876657717
+PAX3,NM_181458.4(PAX3):c.1449C>T (p.Ile483=),single nucleotide variant,Likely benign,not specified,rs757964568
+PAX3,NM_181458.4(PAX3):c.586+57A>G,single nucleotide variant,Benign/Likely benign,not specified,rs202175449
+PAX3,NM_181458.4(PAX3):c.1174-10G>C,single nucleotide variant,Benign,not specified,rs2855268
+PAX3,NM_181458.4(PAX3):c.879G>T (p.Gly293=),single nucleotide variant,Benign/Likely benign,not provided,rs45522331
+PAX3,NM_181458.4(PAX3):c.873C>T (p.Pro291=),single nucleotide variant,Benign/Likely benign,not specified,rs141545923
+PAX3,NM_181458.4(PAX3):c.321+10C>A,single nucleotide variant,Benign,not specified,rs140960868
+PAX3,NM_181458.4(PAX3):c.156C>G (p.Pro52=),single nucleotide variant,Benign,not specified,rs28945092
+PAX3,NM_181458.4(PAX3):c.1003C>T (p.Pro335Ser),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs151199924
+PAX3,NM_181458.4(PAX3):c.525G>C (p.Lys175Asn),single nucleotide variant,Benign/Likely benign,Waardenburg syndrome,rs116473352
+PAX3,NM_181458.4(PAX3):c.944C>A (p.Thr315Lys),single nucleotide variant,Conflicting classifications of pathogenicity,not specified,rs2234675
+PAX3,NM_181458.4(PAX3):c.129T>C (p.Gly43=),single nucleotide variant,Benign,not specified,rs12623857
+PAX3,NM_181458.4(PAX3):c.241G>T (p.Gly81Cys),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs483353059
+PAX3,NM_181458.4(PAX3):c.167G>T (p.Arg56Leu),single nucleotide variant,Pathogenic/Likely pathogenic,Waardenburg syndrome,rs267606931
+PAX3,NM_181458.4(PAX3):c.268T>C (p.Tyr90His),single nucleotide variant,Pathogenic,Waardenburg syndrome type 3,rs104893654
+PAX3,NM_181458.4(PAX3):c.139A>C (p.Asn47His),single nucleotide variant,Pathogenic,Waardenburg syndrome type 3,rs104893653
+PAX3,NM_181458.4(PAX3):c.141C>G (p.Asn47Lys),single nucleotide variant,Likely pathogenic,not provided,rs104893652
+PAX3,NM_181458.4(PAX3):c.251C>T (p.Ser84Phe),single nucleotide variant,Pathogenic,Waardenburg syndrome type 1,rs104893651
+PAX3,NM_181458.4(PAX3):c.149C>T (p.Pro50Leu),single nucleotide variant,Pathogenic,Waardenburg syndrome type 1,rs104893650

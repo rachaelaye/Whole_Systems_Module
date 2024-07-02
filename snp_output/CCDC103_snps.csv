@@ -1,0 +1,93 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+CCDC103,NM_213607.3(CCDC103):c.486G>A (p.Ala162=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs562183648
+CCDC103,NM_213607.3(CCDC103):c.146G>A (p.Gly49Asp),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs148724732
+CCDC103,NM_213607.3(CCDC103):c.558A>C (p.Ala186=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1034464450
+CCDC103,NM_213607.3(CCDC103):c.298G>T (p.Glu100Ter),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs759224168
+CCDC103,NM_213607.3(CCDC103):c.566_569del (p.Glu189fs),Microsatellite,Pathogenic,Primary ciliary dyskinesia,rs746242380
+CCDC103,NM_213607.3(CCDC103):c.553C>T (p.Arg185Trp),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs773807492
+CCDC103,NM_213607.3(CCDC103):c.328C>T (p.Arg110Ter),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs147738533
+CCDC103,NM_213607.3(CCDC103):c.355C>T (p.Arg119Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs755188855
+CCDC103,NM_213607.3(CCDC103):c.276G>A (p.Pro92=),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs749064353
+CCDC103,NM_213607.3(CCDC103):c.619G>A (p.Val207Met),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs140977922
+CCDC103,NM_213607.3(CCDC103):c.144-1G>A,single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs747091524
+CCDC103,NM_213607.3(CCDC103):c.276+136C>T,single nucleotide variant,Benign,not provided,rs11079382
+CCDC103,NM_213607.3(CCDC103):c.143+45T>C,single nucleotide variant,Benign,not provided,rs7222312
+CCDC103,NM_213607.3(CCDC103):c.277-141G>A,single nucleotide variant,Benign,not provided,rs12451394
+CCDC103,NM_213607.3(CCDC103):c.276+67C>T,single nucleotide variant,Likely benign,not provided,rs185656902
+CCDC103,NM_213607.3(CCDC103):c.143+49A>G,single nucleotide variant,Likely benign,not provided,rs74761853
+CCDC103,NM_213607.3(CCDC103):c.-9-314C>A,single nucleotide variant,Benign,not provided,rs3809756
+CCDC103,NM_213607.3(CCDC103):c.439C>T (p.Leu147=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1178106681
+CCDC103,NM_213607.3(CCDC103):c.567G>A (p.Glu189=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs771177851
+CCDC103,NM_213607.3(CCDC103):c.470C>T (p.Pro157Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1159140845
+CCDC103,NM_213607.3(CCDC103):c.500T>A (p.Leu167Gln),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs764358359
+CCDC103,NM_213607.3(CCDC103):c.301A>G (p.Thr101Ala),single nucleotide variant,Uncertain significance,not provided,rs924433215
+CCDC103,NM_213607.3(CCDC103):c.31G>C (p.Ala11Pro),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs146015856
+CCDC103,NM_213607.3(CCDC103):c.106G>A (p.Ala36Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs376733810
+CCDC103,NM_213607.3(CCDC103):c.146G>C (p.Gly49Ala),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs148724732
+CCDC103,NM_213607.3(CCDC103):c.-135C>T,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs778315117
+CCDC103,NM_001258400.2(FAM187A):c.-229C>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs940631847
+CCDC103,NM_001258400.2(FAM187A):c.-274T>C,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs557164647
+CCDC103,NM_213607.3(CCDC103):c.*584G>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs1263335251
+CCDC103,NM_213607.3(CCDC103):c.*24C>T,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs192397040
+CCDC103,NM_213607.3(CCDC103):c.*19G>C,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs1394506445
+CCDC103,NM_213607.3(CCDC103):c.671G>C (p.Gly224Ala),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs771395013
+CCDC103,NM_213607.3(CCDC103):c.554G>A (p.Arg185Gln),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs182319938
+CCDC103,NM_213607.3(CCDC103):c.104G>A (p.Arg35Gln),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs587783065
+CCDC103,NM_213607.3(CCDC103):c.72G>A (p.Glu24=),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia 17,rs752532336
+CCDC103,NM_213607.3(CCDC103):c.-16C>T,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs2051488704
+CCDC103,NM_213607.3(CCDC103):c.437A>G (p.Glu146Gly),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1389269843
+CCDC103,NM_213607.3(CCDC103):c.353A>C (p.Glu118Ala),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs758916687
+CCDC103,NM_213607.3(CCDC103):c.348G>C (p.Gly116=),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs575078578
+CCDC103,NM_213607.3(CCDC103):c.501A>G (p.Leu167=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs374801461
+CCDC103,NM_213607.3(CCDC103):c.473C>T (p.Ala158Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs148834205
+CCDC103,NM_213607.3(CCDC103):c.133G>A (p.Glu45Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs748579846
+CCDC103,NM_213607.3(CCDC103):c.276+4G>T,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs373891184
+CCDC103,NM_213607.3(CCDC103):c.197G>A (p.Gly66Glu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs199961859
+CCDC103,NM_213607.3(CCDC103):c.485C>T (p.Ala162Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs146454626
+CCDC103,NM_213607.3(CCDC103):c.332G>T (p.Arg111Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs367570529
+CCDC103,NM_213607.3(CCDC103):c.445G>A (p.Val149Met),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs746981376
+CCDC103,NM_213607.3(CCDC103):c.297C>T (p.Pro99=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs112994687
+CCDC103,NM_213607.3(CCDC103):c.5A>G (p.Glu2Gly),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs890129325
+CCDC103,NM_213607.3(CCDC103):c.181C>T (p.Arg61Trp),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs763938078
+CCDC103,NM_213607.3(CCDC103):c.710A>G (p.Glu237Gly),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs759937836
+CCDC103,NM_213607.3(CCDC103):c.568_569dup (p.Ser190fs),Microsatellite,Likely pathogenic,Primary ciliary dyskinesia,rs746242380
+CCDC103,NM_213607.3(CCDC103):c.413A>C (p.Asp138Ala),single nucleotide variant,Uncertain significance,not provided,rs372407548
+CCDC103,NM_213607.3(CCDC103):c.302C>T (p.Thr101Met),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs764426959
+CCDC103,NM_213607.3(CCDC103):c.182G>A (p.Arg61Gln),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs150876063
+CCDC103,NM_213607.3(CCDC103):c.393C>T (p.Leu131=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs766427351
+CCDC103,NM_213607.3(CCDC103):c.329G>A (p.Arg110Gln),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs755213252
+CCDC103,NM_213607.3(CCDC103):c.275C>T (p.Pro92Leu),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs142342712
+CCDC103,NM_213607.3(CCDC103):c.277-63C>A,single nucleotide variant,Benign,not provided,rs8079610
+CCDC103,NM_002055.5(GFAP):c.*1001G>A,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1042329
+CCDC103,NM_002055.5(GFAP):c.*1620C>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs7049
+CCDC103,NM_213607.2(CCDC103):c.-164T>G,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs2277617
+CCDC103,NM_002055.5(GFAP):c.*338C>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs8067254
+CCDC103,NM_002055.5(GFAP):c.*814T>A,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs3744470
+CCDC103,NM_002055.5(GFAP):c.*1074C>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs117405516
+CCDC103,NM_002055.5(GFAP):c.*1522T>C,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs17027
+CCDC103,NM_001258400.2(FAM187A):c.-218G>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs886053016
+CCDC103,NM_001258400.2(FAM187A):c.-224C>T,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs144369192
+CCDC103,NM_001258400.2(FAM187A):c.-224C>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs144369192
+CCDC103,NM_001258400.2(FAM187A):c.-226C>T,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs886053015
+CCDC103,NM_001258400.2(FAM187A):c.-280C>T,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs542384155
+CCDC103,NM_001258400.2(FAM187A):c.-328C>T,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs539555310
+CCDC103,NM_213607.3(CCDC103):c.*307C>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs188688493
+CCDC103,NM_213607.3(CCDC103):c.627G>A (p.Glu209=),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs200474997
+CCDC103,NM_213607.3(CCDC103):c.606C>A (p.Gly202=),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs763062802
+CCDC103,NM_213607.3(CCDC103):c.513G>A (p.Ala171=),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs557822238
+CCDC103,NM_213607.3(CCDC103):c.8G>A (p.Arg3Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs886053014
+CCDC103,NM_213607.3(CCDC103):c.-11G>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs886053013
+CCDC103,NM_213607.3(CCDC103):c.-45G>A,single nucleotide variant,Benign,Primary ciliary dyskinesia 17,rs2277616
+CCDC103,NM_213607.3(CCDC103):c.-113G>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs148582322
+CCDC103,NM_213607.3(CCDC103):c.-131C>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs558940643
+CCDC103,NM_213607.2(CCDC103):c.-141C>T,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 17,rs546976256
+CCDC103,NM_213607.3(CCDC103):c.618C>T (p.Ser206=),single nucleotide variant,Benign/Likely benign,Primary ciliary dyskinesia,rs186133494
+CCDC103,NM_213607.3(CCDC103):c.303G>A (p.Thr101=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs200964903
+CCDC103,NM_213607.3(CCDC103):c.276+6T>C,single nucleotide variant,Benign/Likely benign,not specified,rs74349463
+CCDC103,NM_213607.3(CCDC103):c.*4G>A,single nucleotide variant,Benign/Likely benign,Primary ciliary dyskinesia,rs8079308
+CCDC103,NM_213607.3(CCDC103):c.82C>T (p.Arg28Trp),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs144226204
+CCDC103,NM_213607.3(CCDC103):c.705G>C (p.Leu235=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs878855312
+CCDC103,NM_213607.3(CCDC103):c.359A>G (p.Tyr120Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs149858795
+CCDC103,NM_213607.3(CCDC103):c.104G>C (p.Arg35Pro),single nucleotide variant,Uncertain significance,not provided,rs587783065
+CCDC103,NM_002055.5(GFAP):c.*28C>G,single nucleotide variant,Benign/Likely benign,Primary ciliary dyskinesia,rs11558961
+CCDC103,NM_213607.3(CCDC103):c.461A>C (p.His154Pro),single nucleotide variant,Pathogenic/Likely pathogenic,CCDC103-related disorder,rs145457535

@@ -1,0 +1,125 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+STK36,NM_015690.5(STK36):c.3643G>A (p.Ala1215Thr),single nucleotide variant,Conflicting classifications of pathogenicity,"Ciliary dyskinesia, primary, 46",rs537610210
+STK36,NM_015690.5(STK36):c.3332A>G (p.Tyr1111Cys),single nucleotide variant,Uncertain significance,not provided,rs56278660
+STK36,NM_015690.5(STK36):c.3176C>T (p.Pro1059Leu),single nucleotide variant,Uncertain significance,not provided,rs1575144500
+STK36,NM_015690.5(STK36):c.2043+46A>G,single nucleotide variant,Benign,not provided,rs58715847
+STK36,NM_015690.5(STK36):c.2148+126C>G,single nucleotide variant,Benign,not provided,rs55996799
+STK36,NM_015690.5(STK36):c.1381-88A>G,single nucleotide variant,Benign,not provided,rs73079058
+STK36,NM_015690.5(STK36):c.434+145G>A,single nucleotide variant,Benign,not provided,rs145775550
+STK36,NM_015690.5(STK36):c.434+67_434+68del,Deletion,Benign,not provided,rs33970984
+STK36,NM_015690.5(STK36):c.884A>G (p.Lys295Arg),single nucleotide variant,Benign,not provided,rs1863703
+STK36,NM_015690.5(STK36):c.-89-227A>T,single nucleotide variant,Benign,not provided,rs6748692
+STK36,NM_015690.5(STK36):c.1560+122G>A,single nucleotide variant,Benign,not provided,rs7576129
+STK36,NM_015690.5(STK36):c.1381-182T>C,single nucleotide variant,Benign,not provided,rs73079056
+STK36,NM_015690.5(STK36):c.2512-109G>A,single nucleotide variant,Benign,not provided,rs6733350
+STK36,NM_015690.5(STK36):c.1764+14A>G,single nucleotide variant,Benign,not provided,rs1427444
+STK36,NM_015690.5(STK36):c.434+68dup,Duplication,Benign,not provided,rs33970984
+STK36,NM_015690.5(STK36):c.2587-48T>C,single nucleotide variant,Benign,not provided,rs1465535
+STK36,NM_015690.5(STK36):c.303+120A>C,single nucleotide variant,Benign,not provided,rs7604319
+STK36,NM_015690.5(STK36):c.684+110C>T,single nucleotide variant,Benign,not provided,rs73079030
+STK36,NM_015690.5(STK36):c.304-76A>G,single nucleotide variant,Benign,not provided,rs73079025
+STK36,NM_015690.5(STK36):c.2043+43_2043+44insTT,Insertion,Benign,not provided,rs747092394
+STK36,NM_015690.5(STK36):c.1137-17T>C,single nucleotide variant,Benign,not provided,rs2303565
+STK36,NM_015690.5(STK36):c.2754T>C (p.Ser918=),single nucleotide variant,Benign,STK36-related disorder,rs56148168
+STK36,NM_015690.5(STK36):c.2043+45_2043+46del,Deletion,Benign,not provided,rs768997397
+STK36,NM_015690.5(STK36):c.1137-135G>T,single nucleotide variant,Benign,not provided,rs57995704
+STK36,NM_015690.5(STK36):c.1913A>C (p.Gln638Pro),single nucleotide variant,Benign,not provided,rs6709303
+STK36,NM_015690.5(STK36):c.3237C>T (p.Ser1079=),single nucleotide variant,Benign,STK36-related disorder,rs55654526
+STK36,NM_015690.5(STK36):c.2043+228G>T,single nucleotide variant,Benign,not provided,rs78686214
+STK36,NM_015690.5(STK36):c.3010G>A (p.Val1004Ile),single nucleotide variant,Benign,not provided,rs55633575
+STK36,NM_015690.5(STK36):c.1764+125C>T,single nucleotide variant,Benign,not provided,rs73079062
+STK36,NM_015690.5(STK36):c.3335G>A (p.Arg1112Gln),single nucleotide variant,Benign,not provided,rs12993599
+STK36,NM_015690.5(STK36):c.2044-225G>A,single nucleotide variant,Benign,not provided,rs2303566
+STK36,NM_015690.5(STK36):c.684+55T>C,single nucleotide variant,Benign,not provided,rs2556388
+STK36,NM_015690.5(STK36):c.434+70A>G,single nucleotide variant,Benign,not provided,rs143680180
+STK36,NM_015690.5(STK36):c.3229T>C (p.Leu1077=),single nucleotide variant,Benign,not provided,rs58753698
+STK36,NM_015690.5(STK36):c.-89-240G>A,single nucleotide variant,Benign,not provided,rs2241527
+STK36,NM_015690.5(STK36):c.3691T>G (p.Cys1231Gly),single nucleotide variant,Benign,not provided,rs73079079
+STK36,NM_015690.5(STK36):c.1464T>C (p.Asp488=),single nucleotide variant,Benign,not provided,rs73079060
+STK36,NM_015690.5(STK36):c.1429C>T (p.Arg477Trp),single nucleotide variant,Benign,not provided,rs16859180
+STK36,NM_015690.5(STK36):c.1399del (p.Glu467fs),Deletion,Pathogenic,"Ciliary dyskinesia, primary, 46",rs763400883
+STK36,NM_015690.5(STK36):c.434+68del,Deletion,Benign,not provided,rs33970984
+STK36,NM_015690.5(STK36):c.1489C>G (p.Arg497Gly),single nucleotide variant,Likely benign,not provided,rs146493276
+STK36,NM_015690.5(STK36):c.985G>A (p.Asp329Asn),single nucleotide variant,Benign,STK36-related disorder,rs34027859
+STK36,NM_015690.5(STK36):c.2368C>G (p.Leu790Val),single nucleotide variant,Benign,STK36-related disorder,rs73079072
+STK36,NM_015690.5(STK36):c.3838T>C (p.Ser1280Pro),single nucleotide variant,Likely benign,not provided,rs147792143
+STK36,NM_015690.5(STK36):c.2518T>G (p.Leu840Val),single nucleotide variant,Benign/Likely benign,STK36-related disorder,rs36099639
+STK36,NM_015690.5(STK36):c.3540C>T (p.Ala1180=),single nucleotide variant,Benign,"Ciliary dyskinesia, primary, 46",rs2241528
+STK36,NM_015690.5(STK36):c.2339T>C (p.Met780Thr),single nucleotide variant,Benign,STK36-related disorder,rs139073740
+STK36,NM_015690.5(STK36):c.2087A>C (p.Gln696Pro),single nucleotide variant,Benign,STK36-related disorder,rs145980892
+STK36,NM_015690.5(STK36):c.1245C>A (p.Asp415Glu),single nucleotide variant,Benign,STK36-related disorder,rs144833360
+STK36,NM_015690.5(STK36):c.64C>A (p.Arg22=),single nucleotide variant,Likely benign,not provided,rs765682610
+STK36,NM_015690.5(STK36):c.2979G>A (p.Ala993=),single nucleotide variant,Likely benign,not provided,rs781197058
+STK36,NM_015690.5(STK36):c.779-7C>T,single nucleotide variant,Likely benign,not provided,rs372490459
+STK36,NM_015690.5(STK36):c.1419G>A (p.Leu473=),single nucleotide variant,Likely benign,not provided,rs141511662
+STK36,NM_015690.5(STK36):c.2676C>T (p.Pro892=),single nucleotide variant,Benign/Likely benign,not provided,rs150037304
+STK36,NM_015690.5(STK36):c.2595G>A (p.Lys865=),single nucleotide variant,Likely benign,not provided,rs763117513
+STK36,NM_015690.5(STK36):c.1066G>A (p.Gly356Arg),single nucleotide variant,Likely benign,not provided,rs78424919
+STK36,NM_015690.5(STK36):c.3800A>G (p.His1267Arg),single nucleotide variant,Likely benign,not provided,rs141876461
+STK36,NM_015690.5(STK36):c.1611C>T (p.Ala537=),single nucleotide variant,Benign,not provided,rs143073615
+STK36,NM_015690.5(STK36):c.2516G>A (p.Arg839Gln),single nucleotide variant,Benign/Likely benign,not provided,rs13023540
+STK36,NM_015690.5(STK36):c.1158T>C (p.Asp386=),single nucleotide variant,Benign/Likely benign,not specified,rs55839518
+STK36,NM_015690.5(STK36):c.3008G>A (p.Gly1003Asp),single nucleotide variant,Benign,not provided,rs1863704
+STK36,NM_015690.5(STK36):c.1748G>A (p.Arg583Gln),single nucleotide variant,Benign,not specified,rs1344642
+STK36,NM_015690.5(STK36):c.3643G>A (p.Ala1215Thr),single nucleotide variant,Conflicting classifications of pathogenicity,"Ciliary dyskinesia, primary, 46",rs537610210
+STK36,NM_015690.5(STK36):c.3332A>G (p.Tyr1111Cys),single nucleotide variant,Uncertain significance,not provided,rs56278660
+STK36,NM_015690.5(STK36):c.3176C>T (p.Pro1059Leu),single nucleotide variant,Uncertain significance,not provided,rs1575144500
+STK36,NM_015690.5(STK36):c.2043+46A>G,single nucleotide variant,Benign,not provided,rs58715847
+STK36,NM_015690.5(STK36):c.2148+126C>G,single nucleotide variant,Benign,not provided,rs55996799
+STK36,NM_015690.5(STK36):c.1381-88A>G,single nucleotide variant,Benign,not provided,rs73079058
+STK36,NM_015690.5(STK36):c.434+145G>A,single nucleotide variant,Benign,not provided,rs145775550
+STK36,NM_015690.5(STK36):c.434+67_434+68del,Deletion,Benign,not provided,rs33970984
+STK36,NM_015690.5(STK36):c.884A>G (p.Lys295Arg),single nucleotide variant,Benign,not provided,rs1863703
+STK36,NM_015690.5(STK36):c.-89-227A>T,single nucleotide variant,Benign,not provided,rs6748692
+STK36,NM_015690.5(STK36):c.1560+122G>A,single nucleotide variant,Benign,not provided,rs7576129
+STK36,NM_015690.5(STK36):c.1381-182T>C,single nucleotide variant,Benign,not provided,rs73079056
+STK36,NM_015690.5(STK36):c.2512-109G>A,single nucleotide variant,Benign,not provided,rs6733350
+STK36,NM_015690.5(STK36):c.1764+14A>G,single nucleotide variant,Benign,not provided,rs1427444
+STK36,NM_015690.5(STK36):c.434+68dup,Duplication,Benign,not provided,rs33970984
+STK36,NM_015690.5(STK36):c.2587-48T>C,single nucleotide variant,Benign,not provided,rs1465535
+STK36,NM_015690.5(STK36):c.303+120A>C,single nucleotide variant,Benign,not provided,rs7604319
+STK36,NM_015690.5(STK36):c.684+110C>T,single nucleotide variant,Benign,not provided,rs73079030
+STK36,NM_015690.5(STK36):c.304-76A>G,single nucleotide variant,Benign,not provided,rs73079025
+STK36,NM_015690.5(STK36):c.2043+43_2043+44insTT,Insertion,Benign,not provided,rs747092394
+STK36,NM_015690.5(STK36):c.1137-17T>C,single nucleotide variant,Benign,not provided,rs2303565
+STK36,NM_015690.5(STK36):c.2754T>C (p.Ser918=),single nucleotide variant,Benign,STK36-related disorder,rs56148168
+STK36,NM_015690.5(STK36):c.2043+45_2043+46del,Deletion,Benign,not provided,rs768997397
+STK36,NM_015690.5(STK36):c.1137-135G>T,single nucleotide variant,Benign,not provided,rs57995704
+STK36,NM_015690.5(STK36):c.1913A>C (p.Gln638Pro),single nucleotide variant,Benign,not provided,rs6709303
+STK36,NM_015690.5(STK36):c.3237C>T (p.Ser1079=),single nucleotide variant,Benign,STK36-related disorder,rs55654526
+STK36,NM_015690.5(STK36):c.2043+228G>T,single nucleotide variant,Benign,not provided,rs78686214
+STK36,NM_015690.5(STK36):c.3010G>A (p.Val1004Ile),single nucleotide variant,Benign,not provided,rs55633575
+STK36,NM_015690.5(STK36):c.1764+125C>T,single nucleotide variant,Benign,not provided,rs73079062
+STK36,NM_015690.5(STK36):c.3335G>A (p.Arg1112Gln),single nucleotide variant,Benign,not provided,rs12993599
+STK36,NM_015690.5(STK36):c.2044-225G>A,single nucleotide variant,Benign,not provided,rs2303566
+STK36,NM_015690.5(STK36):c.684+55T>C,single nucleotide variant,Benign,not provided,rs2556388
+STK36,NM_015690.5(STK36):c.434+70A>G,single nucleotide variant,Benign,not provided,rs143680180
+STK36,NM_015690.5(STK36):c.3229T>C (p.Leu1077=),single nucleotide variant,Benign,not provided,rs58753698
+STK36,NM_015690.5(STK36):c.-89-240G>A,single nucleotide variant,Benign,not provided,rs2241527
+STK36,NM_015690.5(STK36):c.3691T>G (p.Cys1231Gly),single nucleotide variant,Benign,not provided,rs73079079
+STK36,NM_015690.5(STK36):c.1464T>C (p.Asp488=),single nucleotide variant,Benign,not provided,rs73079060
+STK36,NM_015690.5(STK36):c.1429C>T (p.Arg477Trp),single nucleotide variant,Benign,not provided,rs16859180
+STK36,NM_015690.5(STK36):c.1399del (p.Glu467fs),Deletion,Pathogenic,"Ciliary dyskinesia, primary, 46",rs763400883
+STK36,NM_015690.5(STK36):c.434+68del,Deletion,Benign,not provided,rs33970984
+STK36,NM_015690.5(STK36):c.1489C>G (p.Arg497Gly),single nucleotide variant,Likely benign,not provided,rs146493276
+STK36,NM_015690.5(STK36):c.985G>A (p.Asp329Asn),single nucleotide variant,Benign,STK36-related disorder,rs34027859
+STK36,NM_015690.5(STK36):c.2368C>G (p.Leu790Val),single nucleotide variant,Benign,STK36-related disorder,rs73079072
+STK36,NM_015690.5(STK36):c.3838T>C (p.Ser1280Pro),single nucleotide variant,Likely benign,not provided,rs147792143
+STK36,NM_015690.5(STK36):c.2518T>G (p.Leu840Val),single nucleotide variant,Benign/Likely benign,STK36-related disorder,rs36099639
+STK36,NM_015690.5(STK36):c.3540C>T (p.Ala1180=),single nucleotide variant,Benign,"Ciliary dyskinesia, primary, 46",rs2241528
+STK36,NM_015690.5(STK36):c.2339T>C (p.Met780Thr),single nucleotide variant,Benign,STK36-related disorder,rs139073740
+STK36,NM_015690.5(STK36):c.2087A>C (p.Gln696Pro),single nucleotide variant,Benign,STK36-related disorder,rs145980892
+STK36,NM_015690.5(STK36):c.1245C>A (p.Asp415Glu),single nucleotide variant,Benign,STK36-related disorder,rs144833360
+STK36,NM_015690.5(STK36):c.64C>A (p.Arg22=),single nucleotide variant,Likely benign,not provided,rs765682610
+STK36,NM_015690.5(STK36):c.2979G>A (p.Ala993=),single nucleotide variant,Likely benign,not provided,rs781197058
+STK36,NM_015690.5(STK36):c.779-7C>T,single nucleotide variant,Likely benign,not provided,rs372490459
+STK36,NM_015690.5(STK36):c.1419G>A (p.Leu473=),single nucleotide variant,Likely benign,not provided,rs141511662
+STK36,NM_015690.5(STK36):c.2676C>T (p.Pro892=),single nucleotide variant,Benign/Likely benign,not provided,rs150037304
+STK36,NM_015690.5(STK36):c.2595G>A (p.Lys865=),single nucleotide variant,Likely benign,not provided,rs763117513
+STK36,NM_015690.5(STK36):c.1066G>A (p.Gly356Arg),single nucleotide variant,Likely benign,not provided,rs78424919
+STK36,NM_015690.5(STK36):c.3800A>G (p.His1267Arg),single nucleotide variant,Likely benign,not provided,rs141876461
+STK36,NM_015690.5(STK36):c.1611C>T (p.Ala537=),single nucleotide variant,Benign,not provided,rs143073615
+STK36,NM_015690.5(STK36):c.2516G>A (p.Arg839Gln),single nucleotide variant,Benign/Likely benign,not provided,rs13023540
+STK36,NM_015690.5(STK36):c.1158T>C (p.Asp386=),single nucleotide variant,Benign/Likely benign,not specified,rs55839518
+STK36,NM_015690.5(STK36):c.3008G>A (p.Gly1003Asp),single nucleotide variant,Benign,not provided,rs1863704
+STK36,NM_015690.5(STK36):c.1748G>A (p.Arg583Gln),single nucleotide variant,Benign,not specified,rs1344642

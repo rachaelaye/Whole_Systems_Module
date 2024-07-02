@@ -1,0 +1,47 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+SFRP4,NM_003014.4(SFRP4):c.446-20T>C,single nucleotide variant,Likely benign,not provided,rs748375442
+SFRP4,NM_003014.4(SFRP4):c.747G>A (p.Leu249=),single nucleotide variant,Likely benign,not provided,rs762742897
+SFRP4,NM_003014.4(SFRP4):c.777C>T (p.Tyr259=),single nucleotide variant,Benign,not provided,rs61761894
+SFRP4,NM_003014.4(SFRP4):c.527-18C>T,single nucleotide variant,Likely benign,not provided,rs373883127
+SFRP4,NM_003014.4(SFRP4):c.915C>T (p.Ala305=),single nucleotide variant,Benign/Likely benign,not provided,rs546932583
+SFRP4,NM_003014.4(SFRP4):c.288G>A (p.Pro96=),single nucleotide variant,Likely benign,not provided,rs143563677
+SFRP4,NM_003014.4(SFRP4):c.135C>T (p.His45=),single nucleotide variant,Likely benign,not provided,rs138916893
+SFRP4,NM_003014.4(SFRP4):c.43C>T (p.Leu15=),single nucleotide variant,Likely benign,not provided,rs1364771859
+SFRP4,NM_003014.4(SFRP4):c.426C>T (p.Ile142=),single nucleotide variant,Likely benign,not provided,rs145633853
+SFRP4,NM_003014.4(SFRP4):c.99G>A (p.Arg33=),single nucleotide variant,Likely benign,not provided,rs201842328
+SFRP4,NM_003014.4(SFRP4):c.526+20A>T,single nucleotide variant,Likely benign,not provided,rs756492138
+SFRP4,NM_003014.4(SFRP4):c.22G>C (p.Ala8Pro),single nucleotide variant,Likely benign,not provided,rs149474737
+SFRP4,NM_003014.4(SFRP4):c.24G>A (p.Ala8=),single nucleotide variant,Likely benign,SFRP4-related disorder,rs780871022
+SFRP4,NM_003014.4(SFRP4):c.633C>T (p.Cys211=),single nucleotide variant,Likely benign,not provided,rs199701204
+SFRP4,NM_003014.4(SFRP4):c.792G>A (p.Arg264=),single nucleotide variant,Uncertain significance,not provided,rs147388554
+SFRP4,NM_003014.4(SFRP4):c.530G>T (p.Arg177Leu),single nucleotide variant,Uncertain significance,not provided,rs750181342
+SFRP4,NM_003014.4(SFRP4):c.37C>A (p.Leu13Met),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs752828075
+SFRP4,NM_003014.4(SFRP4):c.245C>T (p.Ala82Val),single nucleotide variant,Uncertain significance,not provided,rs1562852039
+SFRP4,NM_003014.4(SFRP4):c.214G>T (p.Val72Leu),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs770542595
+SFRP4,NM_003014.4(SFRP4):c.739C>T (p.His247Tyr),single nucleotide variant,Uncertain significance,not provided,rs866588308
+SFRP4,NM_003014.4(SFRP4):c.83G>T (p.Arg28Leu),single nucleotide variant,Uncertain significance,not provided,rs555863176
+SFRP4,NM_003014.4(SFRP4):c.310G>A (p.Ala104Thr),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs201127378
+SFRP4,NM_003014.4(SFRP4):c.617del (p.Val206fs),Deletion,Pathogenic,not provided,rs1785505791
+SFRP4,NM_003014.4(SFRP4):c.760G>A (p.Val254Ile),single nucleotide variant,Uncertain significance,not provided,rs377005166
+SFRP4,NM_003014.4(SFRP4):c.457A>G (p.Ile153Val),single nucleotide variant,Uncertain significance,not provided,rs374657153
+SFRP4,NM_003014.4(SFRP4):c.799C>T (p.Leu267Phe),single nucleotide variant,Uncertain significance,not provided,rs751834775
+SFRP4,NM_003014.4(SFRP4):c.646A>G (p.Thr216Ala),single nucleotide variant,Uncertain significance,not provided,rs769341984
+SFRP4,NM_003014.4(SFRP4):c.707C>T (p.Pro236Leu),single nucleotide variant,Uncertain significance,not provided,rs773522363
+SFRP4,NM_003014.4(SFRP4):c.947C>A (p.Pro316Gln),single nucleotide variant,Uncertain significance,not provided,rs147145122
+SFRP4,NM_003014.4(SFRP4):c.530G>A (p.Arg177Gln),single nucleotide variant,Uncertain significance,not provided,rs750181342
+SFRP4,NM_003014.4(SFRP4):c.566C>T (p.Thr189Met),single nucleotide variant,Uncertain significance,not provided,rs149860855
+SFRP4,NM_003014.4(SFRP4):c.73G>T (p.Glu25Ter),single nucleotide variant,Pathogenic,not provided,rs756881667
+SFRP4,NM_003014.4(SFRP4):c.1032_1033del (p.Arg345fs),Deletion,Uncertain significance,not provided,rs760845503
+SFRP4,NM_003014.4(SFRP4):c.4T>G (p.Phe2Val),single nucleotide variant,Uncertain significance,not provided,rs143943716
+SFRP4,NM_003014.4(SFRP4):c.413C>T (p.Ser138Leu),single nucleotide variant,Uncertain significance,not provided,rs774089133
+SFRP4,NM_003014.4(SFRP4):c.613G>C (p.Ala205Pro),single nucleotide variant,Uncertain significance,not provided,rs1785505972
+SFRP4,NM_003014.4(SFRP4):c.567G>A (p.Thr189=),single nucleotide variant,Benign,not provided,rs1132552
+SFRP4,NM_003014.4(SFRP4):c.786C>T (p.Arg262=),single nucleotide variant,Benign,not provided,rs1132553
+SFRP4,NM_003014.4(SFRP4):c.1019G>A (p.Arg340Lys),single nucleotide variant,Benign,not provided,rs1802074
+SFRP4,NM_003014.4(SFRP4):c.958C>A (p.Pro320Thr),single nucleotide variant,Benign,SFRP4-related disorder,rs1802073
+SFRP4,NM_003014.4(SFRP4):c.373T>A (p.Cys125Ser),single nucleotide variant,Likely pathogenic,Pyle metaphyseal dysplasia,rs1344808304
+SFRP4,NM_003014.4(SFRP4):c.161C>A (p.Ala54Asp),single nucleotide variant,Likely pathogenic,Pyle metaphyseal dysplasia,rs758308395
+SFRP4,NM_003014.4(SFRP4):c.1038G>C (p.Val346=),single nucleotide variant,Benign,not provided,rs35937440
+SFRP4,NM_003014.4(SFRP4):c.102C>T (p.His34=),single nucleotide variant,Benign,not provided,rs112343199
+SFRP4,NM_003014.4(SFRP4):c.618G>A (p.Val206=),single nucleotide variant,Likely benign,not provided,rs1384911388
+SFRP4,NM_003014.3(SFRP4):c.694C>T,single nucleotide variant,Pathogenic,Pyle metaphyseal dysplasia,rs755007671

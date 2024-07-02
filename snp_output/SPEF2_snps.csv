@@ -1,0 +1,90 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+SPEF2,NM_024867.4(SPEF2):c.2399-181A>G,single nucleotide variant,Benign,not provided,rs11957765
+SPEF2,NM_024867.4(SPEF2):c.2037+17A>C,single nucleotide variant,Benign,not provided,rs62351876
+SPEF2,NM_024867.4(SPEF2):c.3949+133G>A,single nucleotide variant,Benign,not provided,rs6861184
+SPEF2,NM_024867.4(SPEF2):c.727-117A>G,single nucleotide variant,Benign,not provided,rs73080218
+SPEF2,NM_024867.4(SPEF2):c.2637G>A (p.Thr879=),single nucleotide variant,Benign,not provided,rs73084351
+SPEF2,NM_024867.4(SPEF2):c.2507+128G>A,single nucleotide variant,Benign,not provided,rs10058349
+SPEF2,NM_024867.4(SPEF2):c.5379+100T>G,single nucleotide variant,Benign,not provided,rs7736291
+SPEF2,NM_024867.4(SPEF2):c.161+156A>G,single nucleotide variant,Benign,not provided,rs430828
+SPEF2,NM_024867.4(SPEF2):c.2666-116A>T,single nucleotide variant,Benign,not provided,rs76741778
+SPEF2,NM_024867.4(SPEF2):c.2398+86A>G,single nucleotide variant,Benign,not provided,rs6451207
+SPEF2,NM_024867.4(SPEF2):c.3949+194del,Deletion,Benign,not provided,rs11350411
+SPEF2,NM_024867.4(SPEF2):c.1168-85A>G,single nucleotide variant,Benign,not provided,rs12519864
+SPEF2,NM_024867.4(SPEF2):c.2840-134A>G,single nucleotide variant,Benign,not provided,rs10078803
+SPEF2,NM_024867.4(SPEF2):c.4079-120A>G,single nucleotide variant,Benign,not provided,rs11749262
+SPEF2,NM_024867.4(SPEF2):c.3801+91T>C,single nucleotide variant,Benign,not provided,rs6876874
+SPEF2,NM_024867.4(SPEF2):c.1355+150G>A,single nucleotide variant,Benign,not provided,rs114963054
+SPEF2,NM_024867.4(SPEF2):c.2914+19T>G,single nucleotide variant,Benign,not provided,rs10073537
+SPEF2,NM_024867.4(SPEF2):c.3064-61A>G,single nucleotide variant,Benign,not provided,rs10043875
+SPEF2,NM_024867.4(SPEF2):c.2995G>A (p.Ala999Thr),single nucleotide variant,Benign,not provided,rs115170604
+SPEF2,NM_024867.4(SPEF2):c.220G>A (p.Gly74Ser),single nucleotide variant,Benign,not provided,rs34307272
+SPEF2,NM_024867.4(SPEF2):c.727-75C>G,single nucleotide variant,Benign,not provided,rs16902375
+SPEF2,NC_000005.10:g.35617754C>T,single nucleotide variant,Benign,not provided,rs76648753
+SPEF2,NM_024867.4(SPEF2):c.3801+74del,Deletion,Benign,not provided,rs11298650
+SPEF2,NM_024867.4(SPEF2):c.5256+78A>T,single nucleotide variant,Benign,not provided,rs1494573
+SPEF2,NM_024867.4(SPEF2):c.3801+112A>G,single nucleotide variant,Benign,not provided,rs6895801
+SPEF2,NM_024867.4(SPEF2):c.2399-72C>T,single nucleotide variant,Benign,not provided,rs7448971
+SPEF2,NM_024867.4(SPEF2):c.4738-67T>C,single nucleotide variant,Benign,not provided,rs716971
+SPEF2,NM_024867.4(SPEF2):c.1167+46T>C,single nucleotide variant,Benign,not provided,rs9292598
+SPEF2,NM_024867.4(SPEF2):c.4448-86A>C,single nucleotide variant,Benign,not provided,rs7730148
+SPEF2,NM_024867.4(SPEF2):c.2141+187C>G,single nucleotide variant,Benign,not provided,rs74768172
+SPEF2,NM_024867.4(SPEF2):c.2398+163T>A,single nucleotide variant,Benign,not provided,rs6889546
+SPEF2,NM_024867.4(SPEF2):c.2840-80G>C,single nucleotide variant,Benign,not provided,rs10064115
+SPEF2,NM_024867.4(SPEF2):c.1097G>A (p.Arg366Lys),single nucleotide variant,Benign,not provided,rs16902381
+SPEF2,NM_024867.4(SPEF2):c.2142-226A>T,single nucleotide variant,Benign,not provided,rs6862961
+SPEF2,NM_024867.4(SPEF2):c.3191+38G>A,single nucleotide variant,Benign,not provided,rs79295037
+SPEF2,NM_024867.4(SPEF2):c.5256+16T>C,single nucleotide variant,Benign,not provided,rs36093359
+SPEF2,NM_024867.4(SPEF2):c.4446A>C (p.Lys1482Asn),single nucleotide variant,Benign,not provided,rs2277044
+SPEF2,NM_024867.4(SPEF2):c.3468+61T>C,single nucleotide variant,Benign,not provided,rs62353693
+SPEF2,NM_024867.4(SPEF2):c.1525-111C>G,single nucleotide variant,Benign,not provided,rs73082282
+SPEF2,NM_024867.4(SPEF2):c.2142-171A>G,single nucleotide variant,Benign,not provided,rs60114739
+SPEF2,NM_024867.4(SPEF2):c.3950-218C>T,single nucleotide variant,Benign,not provided,rs6451217
+SPEF2,NM_024867.4(SPEF2):c.3063+64A>G,single nucleotide variant,Benign,not provided,rs7731139
+SPEF2,NM_024867.4(SPEF2):c.4831-76A>G,single nucleotide variant,Benign,not provided,rs3822735
+SPEF2,NM_024867.4(SPEF2):c.791+138T>G,single nucleotide variant,Benign,not provided,rs80047215
+SPEF2,NM_024867.4(SPEF2):c.2141+68A>G,single nucleotide variant,Benign,not provided,rs6891096
+SPEF2,NM_024867.4(SPEF2):c.3950-169A>G,single nucleotide variant,Benign,not provided,rs6894309
+SPEF2,NM_024867.4(SPEF2):c.2915-39A>G,single nucleotide variant,Benign,not provided,rs112987691
+SPEF2,NM_024867.4(SPEF2):c.1975+23del,Deletion,Benign,not provided,rs75251573
+SPEF2,NM_024867.4(SPEF2):c.2665+185del,Deletion,Benign,not provided,rs33975419
+SPEF2,NM_024867.4(SPEF2):c.2508-195T>C,single nucleotide variant,Benign,not provided,rs9292600
+SPEF2,NM_024867.4(SPEF2):c.2914+148G>A,single nucleotide variant,Benign,not provided,rs13153876
+SPEF2,NM_024867.4(SPEF2):c.415-121T>G,single nucleotide variant,Benign,not provided,rs2035994
+SPEF2,NM_024867.4(SPEF2):c.2914+185G>A,single nucleotide variant,Benign,not provided,rs13153894
+SPEF2,NM_024867.4(SPEF2):c.248A>G (p.His83Arg),single nucleotide variant,Benign,not provided,rs139855000
+SPEF2,NM_024867.4(SPEF2):c.414+34C>T,single nucleotide variant,Benign,not provided,rs2131988
+SPEF2,NM_024867.4(SPEF2):c.3801+164G>T,single nucleotide variant,Benign,not provided,rs6896356
+SPEF2,NM_024867.4(SPEF2):c.2399-139C>T,single nucleotide variant,Benign,not provided,rs79139426
+SPEF2,NM_024867.4(SPEF2):c.2141+130C>T,single nucleotide variant,Benign,not provided,rs73082302
+SPEF2,NM_024867.4(SPEF2):c.1899+191G>A,single nucleotide variant,Benign,not provided,rs10044455
+SPEF2,NM_024867.4(SPEF2):c.1355+15dup,Duplication,Likely benign,not provided,rs566674548
+SPEF2,NM_024867.4(SPEF2):c.4102G>T (p.Glu1368Ter),single nucleotide variant,Pathogenic,Spermatogenic failure 43,rs1230916222
+SPEF2,NM_024867.4(SPEF2):c.1745-2A>G,single nucleotide variant,Pathogenic,Spermatogenic failure 43,rs1375975527
+SPEF2,NM_024867.4(SPEF2):c.13del (p.Leu5fs),Deletion,Pathogenic,Spermatogenic failure 43,rs1391102782
+SPEF2,NM_024867.4(SPEF2):c.5229C>T (p.His1743=),single nucleotide variant,Benign,not provided,rs115647448
+SPEF2,NM_024867.4(SPEF2):c.1964A>G (p.Glu655Gly),single nucleotide variant,Benign,not provided,rs12332369
+SPEF2,NM_024867.4(SPEF2):c.4034G>T (p.Arg1345Met),single nucleotide variant,Benign,not provided,rs139687000
+SPEF2,NM_024867.4(SPEF2):c.1633C>T (p.Pro545Ser),single nucleotide variant,Likely benign,Spermatogenic failure 43,rs185000070
+SPEF2,NM_024867.4(SPEF2):c.398G>A (p.Ser133Asn),single nucleotide variant,Likely benign,not provided,rs148174540
+SPEF2,NM_024867.4(SPEF2):c.5187A>G (p.Lys1729=),single nucleotide variant,Likely benign,not provided,rs185804225
+SPEF2,NM_024867.4(SPEF2):c.3829A>G (p.Met1277Val),single nucleotide variant,Likely benign,not provided,rs202045210
+SPEF2,NM_024867.4(SPEF2):c.2127A>G (p.Ile709Met),single nucleotide variant,Benign,not provided,rs77660141
+SPEF2,NM_024867.4(SPEF2):c.1619C>T (p.Ala540Val),single nucleotide variant,Benign,not provided,rs114311414
+SPEF2,NM_024867.4(SPEF2):c.1569T>C (p.Asn523=),single nucleotide variant,Benign,not provided,rs115016107
+SPEF2,NM_024867.4(SPEF2):c.297A>G (p.Gln99=),single nucleotide variant,Benign,not provided,rs78762910
+SPEF2,NM_024867.4(SPEF2):c.3063+9A>T,single nucleotide variant,Benign,not provided,rs114936685
+SPEF2,NM_024867.4(SPEF2):c.3802-8G>A,single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs138022749
+SPEF2,NM_024867.4(SPEF2):c.2390A>G (p.Asp797Gly),single nucleotide variant,Uncertain significance,not specified,rs201730485
+SPEF2,NM_024867.4(SPEF2):c.1262G>A (p.Arg421His),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs139580877
+SPEF2,NM_024867.4(SPEF2):c.3331-11T>C,single nucleotide variant,Benign,not specified,rs11957963
+SPEF2,NM_024867.4(SPEF2):c.2840-13G>A,single nucleotide variant,Benign,not specified,rs115898419
+SPEF2,NM_024867.4(SPEF2):c.2800G>C (p.Ala934Pro),single nucleotide variant,Benign,not provided,rs13170390
+SPEF2,NM_024867.4(SPEF2):c.2711C>T (p.Ala904Val),single nucleotide variant,Benign,not provided,rs13170082
+SPEF2,NM_024867.4(SPEF2):c.2142T>C (p.Asn714=),single nucleotide variant,Benign,not specified,rs6451206
+SPEF2,NM_024867.4(SPEF2):c.1983T>C (p.Asn661=),single nucleotide variant,Benign,not provided,rs78576797
+SPEF2,NM_024867.4(SPEF2):c.1848T>A (p.Asn616Lys),single nucleotide variant,Benign,not specified,rs7710284
+SPEF2,NM_024867.4(SPEF2):c.1498G>A (p.Asp500Asn),single nucleotide variant,Benign,not provided,rs34708521
+SPEF2,NM_024867.4(SPEF2):c.861C>T (p.Asp287=),single nucleotide variant,Benign,Spermatogenic failure 43,rs2270558
+SPEF2,NM_024867.4(SPEF2):c.579T>C (p.Ile193=),single nucleotide variant,Benign,Spermatogenic failure 43,rs7706444
+SPEF2,NM_024867.4(SPEF2):c.211A>C (p.Asn71His),single nucleotide variant,Benign,not specified,rs6897513

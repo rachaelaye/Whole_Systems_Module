@@ -1,0 +1,10 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+MAST2,NM_015112.3(MAST2):c.2236G>A (p.Glu746Lys),single nucleotide variant,Benign,not provided,rs142312565
+MAST2,NM_015112.3(MAST2):c.4929C>T (p.Cys1643=),single nucleotide variant,Benign,not provided,rs36097855
+MAST2,NM_015112.3(MAST2):c.3852C>T (p.Pro1284=),single nucleotide variant,Likely benign,not provided,rs191618396
+MAST2,NM_015112.3(MAST2):c.2202T>C (p.Phe734=),single nucleotide variant,Likely benign,not provided,rs191974594
+MAST2,NM_015112.3(MAST2):c.5258G>A (p.Arg1753Lys),single nucleotide variant,Likely benign,not provided,rs9429089
+MAST2,NM_015112.3(MAST2):c.2859A>G (p.Gln953=),single nucleotide variant,Benign,not provided,rs9429087
+MAST2,NM_015112.3(MAST2):c.1263C>T (p.Ala421=),single nucleotide variant,Likely benign,not provided,rs201649155
+MAST2,NM_015112.3(MAST2):c.178-8C>G,single nucleotide variant,Benign,not provided,rs116664070
+MAST2,NM_015112.3(MAST2):c.505C>T (p.Arg169Trp),single nucleotide variant,Benign,not provided,rs142661646

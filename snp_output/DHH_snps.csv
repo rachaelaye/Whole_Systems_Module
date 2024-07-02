@@ -1,0 +1,61 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+DHH,NM_021044.4(DHH):c.303+10G>A,single nucleotide variant,Likely benign,"46,XY sex reversal 7",rs372590251
+DHH,NM_021044.4(DHH):c.174C>A (p.Gly58=),single nucleotide variant,Likely benign,DHH-related disorder,rs376829299
+DHH,NM_021044.4(DHH):c.324C>A (p.Asn108Lys),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs750761379
+DHH,NM_021044.4(DHH):c.286G>T (p.Asp96Tyr),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs1795489232
+DHH,NM_021044.4(DHH):c.565+29G>A,single nucleotide variant,Likely benign,not provided,rs78617192
+DHH,NM_021044.4(DHH):c.303+142A>G,single nucleotide variant,Likely benign,not provided,rs370975790
+DHH,NM_021044.4(DHH):c.303+143A>G,single nucleotide variant,Likely benign,not provided,rs571950397
+DHH,NM_021044.4(DHH):c.566-227C>A,single nucleotide variant,Benign,not provided,rs12580339
+DHH,NM_021044.4(DHH):c.303+66C>T,single nucleotide variant,Benign,not provided,rs11168855
+DHH,NM_021044.4(DHH):c.566-227CATA[10],Microsatellite,Benign,not provided,rs35343506
+DHH,NM_021044.4(DHH):c.566-227CATA[12],Microsatellite,Benign,not provided,rs35343506
+DHH,NM_021044.4(DHH):c.304-201G>C,single nucleotide variant,Benign,not provided,rs11168854
+DHH,NM_021044.4(DHH):c.566-231_566-228dup,Duplication,Benign,not provided,rs200610053
+DHH,NM_021044.4(DHH):c.566-224_566-223insATAA,Insertion,Benign,not provided,rs576250652
+DHH,NM_021044.4(DHH):c.566-227CATA[13],Microsatellite,Likely benign,not provided,rs35343506
+DHH,NM_021044.4(DHH):c.913G>A (p.Gly305Arg),single nucleotide variant,Uncertain significance,Disorder of sexual differentiation,rs1939270334
+DHH,NM_021044.4(DHH):c.566-187C>G,single nucleotide variant,Likely benign,not provided,rs142272711
+DHH,NM_021044.4(DHH):c.566-227CATA[9],Microsatellite,Likely benign,not provided,rs35343506
+DHH,NM_021044.4(DHH):c.1130C>A (p.Pro377Gln),single nucleotide variant,Uncertain significance,not provided,rs775728192
+DHH,NM_021044.4(DHH):c.832G>C (p.Gly278Arg),single nucleotide variant,Uncertain significance,not provided,rs1939272322
+DHH,NM_021044.4(DHH):c.822T>G (p.Phe274Leu),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs1242767279
+DHH,NM_021044.4(DHH):c.*427C>T,single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs1389748240
+DHH,NM_021044.4(DHH):c.-53G>A,single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs913605931
+DHH,NM_021044.4(DHH):c.135C>T (p.Tyr45=),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs765506943
+DHH,NM_021044.4(DHH):c.217C>G (p.Arg73Gly),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs754182591
+DHH,NM_021044.4(DHH):c.305G>A (p.Arg102His),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs149972274
+DHH,NM_021044.4(DHH):c.536G>A (p.Arg179His),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs768138247
+DHH,NM_021044.4(DHH):c.565+13G>A,single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs369743278
+DHH,NM_021044.4(DHH):c.630C>A (p.Ser210Arg),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs764922471
+DHH,NM_021044.4(DHH):c.953G>C (p.Arg318Pro),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs1373354654
+DHH,NM_021044.4(DHH):c.132C>G (p.Leu44=),single nucleotide variant,Likely benign,not provided,rs1463443563
+DHH,NM_021044.4(DHH):c.192G>A (p.Glu64=),single nucleotide variant,Benign,"46,XY sex reversal 7",rs201464596
+DHH,NM_021044.4(DHH):c.228C>T (p.Asp76=),single nucleotide variant,Conflicting classifications of pathogenicity,"46,XY sex reversal 7",rs201597166
+DHH,NM_021044.4(DHH):c.188C>G (p.Ala63Gly),single nucleotide variant,Benign/Likely benign,DHH-related disorder,rs142269288
+DHH,NM_021044.4(DHH):c.304-7C>T,single nucleotide variant,Likely benign,not provided,rs1228523618
+DHH,NM_021044.4(DHH):c.634G>A (p.Glu212Lys),single nucleotide variant,Likely pathogenic,"46,XY sex reversal 7",rs1480612338
+DHH,NM_021044.4(DHH):c.528C>G (p.Tyr176Ter),single nucleotide variant,Pathogenic,"46,XY sex reversal 7",rs1565573786
+DHH,NM_021044.4(DHH):c.528C>A (p.Tyr176Ter),single nucleotide variant,Pathogenic,"46,XY sex reversal 7",rs1565573786
+DHH,NM_021044.4(DHH):c.860C>A (p.Ala287Glu),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs1033987082
+DHH,NM_021044.4(DHH):c.80G>A (p.Arg27Gln),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs779682957
+DHH,NM_021044.4(DHH):c.-256C>G,single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs563591024
+DHH,NM_021044.4(DHH):c.-255T>C,single nucleotide variant,Benign,not provided,rs59178045
+DHH,NM_021044.4(DHH):c.-254G>A,single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs577191826
+DHH,NM_021044.4(DHH):c.-18C>T,single nucleotide variant,Benign,"46,XY sex reversal 7",rs112818602
+DHH,NM_021044.4(DHH):c.234G>A (p.Val78=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs370468314
+DHH,NM_021044.4(DHH):c.367C>T (p.Leu123=),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs760627027
+DHH,NM_021044.4(DHH):c.543C>T (p.His181=),single nucleotide variant,Benign,not specified,rs117527954
+DHH,NM_021044.4(DHH):c.576G>C (p.Leu192=),single nucleotide variant,Uncertain significance,"46,XY DSD/46,XY CGD",rs886049492
+DHH,NM_021044.4(DHH):c.587C>A (p.Ala196Glu),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs755199142
+DHH,NM_021044.4(DHH):c.726C>T (p.Phe242=),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs886049491
+DHH,NM_021044.4(DHH):c.926G>T (p.Arg309Leu),single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs886049490
+DHH,NM_021044.4(DHH):c.1134T>A (p.Thr378=),single nucleotide variant,Conflicting classifications of pathogenicity,"46,XY sex reversal 7",rs144444357
+DHH,NM_021044.4(DHH):c.*87G>T,single nucleotide variant,Benign,not provided,rs75012285
+DHH,NM_021044.4(DHH):c.*110G>C,single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs189970312
+DHH,NM_021044.4(DHH):c.*159G>T,single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs886049489
+DHH,NM_021044.4(DHH):c.*219G>A,single nucleotide variant,Likely benign,not provided,rs145466782
+DHH,NM_021044.4(DHH):c.*401G>T,single nucleotide variant,Uncertain significance,"46,XY sex reversal 7",rs550262271
+DHH,NM_021044.4(DHH):c.1027T>C (p.Cys343Arg),single nucleotide variant,Likely pathogenic,"46,XY sex reversal 7",rs867798393
+DHH,NM_021044.4(DHH):c.485T>C (p.Leu162Pro),single nucleotide variant,Pathogenic,"46,XY sex reversal 7",rs111033589
+DHH,NM_021044.4(DHH):c.2T>C (p.Met1Thr),single nucleotide variant,Pathogenic,"46,XY gonadal dysgenesis-motor and sensory neuropathy syndrome",rs104894346

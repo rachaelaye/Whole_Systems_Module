@@ -1,0 +1,4 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+RELCH,NM_001346231.2(RELCH):c.1197A>G (p.Ala399=),single nucleotide variant,Benign,not provided,rs552082774
+RELCH,NM_001346231.2(RELCH):c.903T>G (p.Pro301=),single nucleotide variant,Likely benign,not provided,rs369560994
+RELCH,NM_001346231.2(RELCH):c.1735C>A (p.Gln579Lys),single nucleotide variant,Uncertain significance,not provided,rs386352321

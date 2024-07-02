@@ -1,0 +1,10 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+KIF27,NM_017576.4(KIF27):c.2019T>A (p.Val673=),single nucleotide variant,Benign,not provided,rs114435432
+KIF27,NM_017576.4(KIF27):c.1943A>T (p.Asp648Val),single nucleotide variant,Likely benign,not provided,rs187689772
+KIF27,NM_017576.4(KIF27):c.3099C>A (p.Arg1033=),single nucleotide variant,Benign,not provided,rs149424110
+KIF27,NM_017576.4(KIF27):c.637A>G (p.Ile213Val),single nucleotide variant,Benign,not specified,rs12001918
+KIF27,NM_017576.4(KIF27):c.1973G>A (p.Gly658Glu),single nucleotide variant,Benign,not specified,rs13289566
+KIF27,NM_017576.4(KIF27):c.3054A>G (p.Glu1018=),single nucleotide variant,Benign,not specified,rs74436006
+KIF27,NM_017576.4(KIF27):c.3106A>G (p.Asn1036Asp),single nucleotide variant,Benign,not specified,rs55654273
+KIF27,NM_017576.4(KIF27):c.3186T>A (p.Ile1062=),single nucleotide variant,Benign,not specified,rs295274
+KIF27,NM_017576.4(KIF27):c.3439A>G (p.Met1147Val),single nucleotide variant,Benign,not specified,rs58077086

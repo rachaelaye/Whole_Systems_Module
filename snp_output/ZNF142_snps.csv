@@ -1,0 +1,51 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+ZNF142,NM_001379659.1(ZNF142):c.1556G>A (p.Arg519His),single nucleotide variant,Benign/Likely benign,not provided,rs146514201
+ZNF142,NM_001379659.1(ZNF142):c.4691C>G (p.Pro1564Arg),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs200075933
+ZNF142,NM_001379659.1(ZNF142):c.1718G>A (p.Arg573His),single nucleotide variant,Uncertain significance,not specified,rs139412557
+ZNF142,NM_001379659.1(ZNF142):c.1765_1766del (p.Asp589fs),Deletion,Likely pathogenic,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs750681891
+ZNF142,NM_001105537.4(ZNF142):c.3406C>G (p.His1136Asp),single nucleotide variant,Uncertain significance,not provided,rs373958230
+ZNF142,NM_001366290.3(ZNF142):c.598T>C (p.Cys200Arg),single nucleotide variant,Uncertain significance,not provided,rs1054232204
+ZNF142,NM_001379659.1(ZNF142):c.945G>A (p.Gln315=),single nucleotide variant,Likely benign,ZNF142-related disorder,rs186337382
+ZNF142,NM_001379659.1(ZNF142):c.5116C>T (p.Arg1706Trp),single nucleotide variant,Likely benign,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs72962069
+ZNF142,NM_001379659.1(ZNF142):c.3787dup (p.Gln1263fs),Duplication,Likely pathogenic,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs750239776
+ZNF142,NM_001379659.1(ZNF142):c.3640G>A (p.Glu1214Lys),single nucleotide variant,Uncertain significance,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs201639604
+ZNF142,NM_001379659.1(ZNF142):c.2554T>G (p.Leu852Val),single nucleotide variant,Likely benign,not provided,rs143333715
+ZNF142,NM_001379659.1(ZNF142):c.3067C>T (p.Arg1023Trp),single nucleotide variant,Uncertain significance,not provided,rs775971362
+ZNF142,NM_001379659.1(ZNF142):c.3185G>T (p.Arg1062Leu),single nucleotide variant,Uncertain significance,not provided,rs759050060
+ZNF142,NM_001379659.1(ZNF142):c.3576C>A (p.Pro1192=),single nucleotide variant,Benign,ZNF142-related disorder,rs3770212
+ZNF142,NM_001379659.1(ZNF142):c.1873+76C>T,single nucleotide variant,Benign,not provided,rs6723570
+ZNF142,NM_001379659.1(ZNF142):c.3467T>A (p.Leu1156His),single nucleotide variant,Benign,not provided,rs3770213
+ZNF142,NM_001379659.1(ZNF142):c.258A>G (p.Pro86=),single nucleotide variant,Benign,not provided,rs3731872
+ZNF142,NM_001379659.1(ZNF142):c.1449A>G (p.Pro483=),single nucleotide variant,Benign,ZNF142-related disorder,rs4674322
+ZNF142,NM_001379659.1(ZNF142):c.4537G>A (p.Ala1513Thr),single nucleotide variant,Benign,not provided,rs3821033
+ZNF142,NM_001379659.1(ZNF142):c.5089-180dup,Duplication,Benign,not provided,rs34502703
+ZNF142,NM_001379659.1(ZNF142):c.2051+126T>C,single nucleotide variant,Benign,not provided,rs4674320
+ZNF142,NM_001379659.1(ZNF142):c.3552C>T (p.Val1184=),single nucleotide variant,Benign,not provided,rs61733645
+ZNF142,NM_001379659.1(ZNF142):c.2851A>G (p.Ser951Gly),single nucleotide variant,Benign,not provided,rs3770214
+ZNF142,NM_001379659.1(ZNF142):c.2221G>T (p.Ala741Ser),single nucleotide variant,Benign,not provided,rs2230115
+ZNF142,NM_001379659.1(ZNF142):c.-576C>T,single nucleotide variant,Benign,not provided,rs28384379
+ZNF142,NM_001379659.1(ZNF142):c.5613G>A (p.Glu1871=),single nucleotide variant,Benign,not provided,rs1803383
+ZNF142,NM_001379659.1(ZNF142):c.5089-162del,Deletion,Benign,not provided,rs34502703
+ZNF142,NM_001379659.1(ZNF142):c.3628T>C (p.Ser1210Pro),single nucleotide variant,Benign,not provided,rs61733644
+ZNF142,NM_001379659.1(ZNF142):c.1873+148A>G,single nucleotide variant,Benign,not provided,rs6738417
+ZNF142,NM_001379659.1(ZNF142):c.1873+238G>A,single nucleotide variant,Benign,not provided,rs75433731
+ZNF142,NM_001379659.1(ZNF142):c.1048+139A>G,single nucleotide variant,Benign,not provided,rs16859160
+ZNF142,NM_001379659.1(ZNF142):c.1284G>A (p.Ala428=),single nucleotide variant,Benign/Likely benign,not provided,rs61733647
+ZNF142,NM_001379659.1(ZNF142):c.3140G>A (p.Arg1047Gln),single nucleotide variant,Uncertain significance,not provided,rs781345614
+ZNF142,NM_001379659.1(ZNF142):c.1375C>T (p.Arg459Cys),single nucleotide variant,Uncertain significance,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs763899662
+ZNF142,NM_001379659.1(ZNF142):c.4717C>T (p.Arg1573Trp),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs778031136
+ZNF142,NM_001379659.1(ZNF142):c.4331G>A (p.Arg1444His),single nucleotide variant,Uncertain significance,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs200398690
+ZNF142,NM_001379659.1(ZNF142):c.4059C>G (p.His1353Gln),single nucleotide variant,Uncertain significance,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs768106776
+ZNF142,NM_001379659.1(ZNF142):c.25C>T (p.Gln9Ter),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs200699349
+ZNF142,NM_001379659.1(ZNF142):c.3139C>T (p.Arg1047Trp),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs373309205
+ZNF142,NM_001379659.1(ZNF142):c.1852C>T (p.Arg618Ter),single nucleotide variant,Pathogenic,not provided,rs369649419
+ZNF142,NM_001379659.1(ZNF142):c.4880C>T (p.Pro1627Leu),single nucleotide variant,Uncertain significance,Global developmental delay,rs866857892
+ZNF142,NM_001379659.1(ZNF142):c.3235C>T (p.Arg1079Cys),single nucleotide variant,Uncertain significance,not provided,rs754686597
+ZNF142,NM_001379659.1(ZNF142):c.5254C>T (p.Arg1752Cys),single nucleotide variant,Conflicting classifications of pathogenicity,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs756225038
+ZNF142,NM_001379659.1(ZNF142):c.4785G>A (p.Leu1595=),single nucleotide variant,no classification for the single variant,N/A,rs748323893
+ZNF142,NM_001379659.1(ZNF142):c.4783del (p.Leu1595fs),Deletion,no classification for the single variant,N/A,rs776031837
+ZNF142,NM_001379659.1(ZNF142):c.4298G>T (p.Cys1433Phe),single nucleotide variant,Conflicting classifications of pathogenicity,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs1275959058
+ZNF142,NM_001379659.1(ZNF142):c.4783del (p.Leu1595fs),Deletion,Pathogenic/Likely pathogenic,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs776031837
+ZNF142,NM_001379659.1(ZNF142):c.3775C>T (p.Arg1259Ter),single nucleotide variant,Likely pathogenic,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs546151500
+ZNF142,NM_001379659.1(ZNF142):c.5098C>T (p.Arg1700Trp),single nucleotide variant,Conflicting classifications of pathogenicity,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs367658234
+ZNF142,NM_001379659.1(ZNF142):c.1417_1418del (p.Lys473fs),Deletion,Pathogenic,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,rs1447313633

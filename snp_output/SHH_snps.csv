@@ -1,0 +1,137 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+SHH,NM_000193.4(SHH):c.206A>T (p.Asn69Ile),single nucleotide variant,Likely pathogenic,Autism,rs777486607
+SHH,NM_000193.4(SHH):c.597C>T (p.Phe199=),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs999942157
+SHH,NM_022458.4(LMBR1):c.423+7000_423+7003del,Deletion,Benign,Holoprosencephaly 3,rs533793951
+SHH,NM_000193.4(SHH):c.562+16C>A,single nucleotide variant,Benign,Holoprosencephaly 3,rs552346452
+SHH,NM_022458.4(LMBR1):c.424-5603C>G,single nucleotide variant,Benign,Holoprosencephaly 3,rs76709606
+SHH,NM_022458.4(LMBR1):c.424-15649G>C,single nucleotide variant,Benign,Holoprosencephaly 3,rs188992894
+SHH,NM_022458.4(LMBR1):c.424-15815A>G,single nucleotide variant,Benign,Holoprosencephaly 3,rs6970048
+SHH,NM_022458.4(LMBR1):c.423+6810A>G,single nucleotide variant,Benign,Holoprosencephaly 3,rs77727105
+SHH,NM_000193.4(SHH):c.25C>T (p.Leu9=),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs748809006
+SHH,NM_000193.4(SHH):c.60G>C (p.Ser20=),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs374343495
+SHH,NM_022458.4(LMBR1):c.424-15786G>A,single nucleotide variant,Benign,Holoprosencephaly 3,rs112621739
+SHH,NM_000193.4(SHH):c.702C>G (p.Leu234=),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs1324122120
+SHH,NM_022458.4(LMBR1):c.423+117A>G,single nucleotide variant,Benign,Holoprosencephaly 3,rs149671193
+SHH,NM_022458.4(LMBR1):c.424-5607C>T,single nucleotide variant,Benign,Holoprosencephaly 3,rs73741533
+SHH,NM_000193.4(SHH):c.60G>A (p.Ser20=),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs374343495
+SHH,NM_022458.4(LMBR1):c.424-5301G>A,single nucleotide variant,Benign,Holoprosencephaly 3,rs375863418
+SHH,NM_000193.4(SHH):c.12G>T (p.Leu4=),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs1239752360
+SHH,NM_022458.4(LMBR1):c.424-189A>G,single nucleotide variant,Likely benign,Holoprosencephaly 3,rs1390665963
+SHH,NM_022458.4(LMBR1):c.423+101T>C,single nucleotide variant,Likely benign,Holoprosencephaly 3,rs1310694365
+SHH,NM_022458.4(LMBR1):c.424-5551T>G,single nucleotide variant,Benign,Holoprosencephaly 3,rs78118131
+SHH,NM_022458.4(LMBR1):c.423+6677C>T,single nucleotide variant,Likely benign,Holoprosencephaly 3,rs950345080
+SHH,NM_022458.4(LMBR1):c.424-473C>T,single nucleotide variant,Likely benign,Holoprosencephaly 3,rs182107923
+SHH,NM_022458.4(LMBR1):c.424-15749C>G,single nucleotide variant,Likely benign,Holoprosencephaly 3,rs529780075
+SHH,NM_022458.4(LMBR1):c.424-5478G>A,single nucleotide variant,Benign,Holoprosencephaly 3,rs546513589
+SHH,NM_022458.4(LMBR1):c.424-5482T>C,single nucleotide variant,Benign,Holoprosencephaly 3,rs116462624
+SHH,NM_022458.4(LMBR1):c.423+6862A>C,single nucleotide variant,Benign,Holoprosencephaly 3,rs139601576
+SHH,NM_022458.4(LMBR1):c.423+341T>C,single nucleotide variant,Likely benign,Holoprosencephaly 3,rs969290071
+SHH,NM_022458.4(LMBR1):c.424-5571C>T,single nucleotide variant,Likely benign,Holoprosencephaly 3,rs116257411
+SHH,NM_022458.4(LMBR1):c.423+7042C>T,single nucleotide variant,Likely benign,Holoprosencephaly 3,rs114908146
+SHH,NM_022458.4(LMBR1):c.424-5613A>C,single nucleotide variant,Likely benign,Holoprosencephaly 3,rs755035014
+SHH,NM_022458.4(LMBR1):c.423+7043G>A,single nucleotide variant,Benign,Holoprosencephaly 3,rs10949603
+SHH,NM_022458.4(LMBR1):c.423+111G>A,single nucleotide variant,Benign,Holoprosencephaly 3,rs114781898
+SHH,NM_022458.4(LMBR1):c.424-15833T>C,single nucleotide variant,Benign,Holoprosencephaly 3,rs150658639
+SHH,NM_000193.4(SHH):c.301-17T>A,single nucleotide variant,Likely benign,SHH-related disorder,rs201670599
+SHH,NM_022458.4(LMBR1):c.424-15747A>G,single nucleotide variant,Likely benign,Holoprosencephaly 3,rs926894818
+SHH,NM_000193.4(SHH):c.1176C>T (p.Pro392=),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs1803239333
+SHH,NM_000193.4(SHH):c.961C>A (p.Arg321Ser),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs1803249091
+SHH,NM_000193.4(SHH):c.766G>C (p.Glu256Gln),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs104894051
+SHH,NM_000193.4(SHH):c.236A>G (p.Asn79Ser),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs754993269
+SHH,NM_000193.4(SHH):c.605C>T (p.Ser202Leu),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs1473100698
+SHH,NM_022458.4(LMBR1):c.424-5267T>G,single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs1824685325
+SHH,NM_022458.4(LMBR1):c.423+6727T>G,single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs1828847366
+SHH,NM_000193.4(SHH):c.563-5C>G,single nucleotide variant,Likely benign,not provided,rs768983299
+SHH,NM_000193.4(SHH):c.1279G>A (p.Gly427Arg),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs763665589
+SHH,NM_000193.4(SHH):c.1189_1200dup (p.Arg397_Asp400dup),Duplication,Uncertain significance,Holoprosencephaly 3,rs1379532101
+SHH,NM_000193.4(SHH):c.479T>C (p.Met160Thr),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs747511798
+SHH,NM_000193.4(SHH):c.1196G>A (p.Gly399Glu),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs1370608867
+SHH,NM_000193.4(SHH):c.1331C>T (p.Thr444Ile),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs1301593958
+SHH,NM_022458.4(LMBR1):c.423+291T>C,single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs1272085196
+SHH,NM_022458.4(LMBR1):c.423+6918G>A,single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs1000223232
+SHH,NM_000193.4(SHH):c.532A>C (p.Lys178Gln),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs757178896
+SHH,NM_022458.4(LMBR1):c.423+6976A>C,single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs1298076365
+SHH,NM_022458.4(LMBR1):c.423+326A>G,single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs572645079
+SHH,NM_022458.4(LMBR1):c.423+6722C>G,single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs896035837
+SHH,NM_000193.4(SHH):c.1210_1233del (p.Gly404_Gly411del),Deletion,Uncertain significance,Holoprosencephaly 3,rs780129844
+SHH,NM_000193.4(SHH):c.1178C>G (p.Ala393Gly),single nucleotide variant,Uncertain significance,not provided,rs751239867
+SHH,NM_000193.4(SHH):c.853C>G (p.Pro285Ala),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs747668656
+SHH,NM_000193.4(SHH):c.1199A>T (p.Asp400Val),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs1395203013
+SHH,NM_000193.4(SHH):c.86G>C (p.Gly29Ala),single nucleotide variant,Uncertain significance,Anemia,rs1313527438
+SHH,NM_000193.4(SHH):c.*2721C>T,single nucleotide variant,Likely benign,not provided,rs555228243
+SHH,NM_000193.4(SHH):c.*10dup,Duplication,Uncertain significance,not provided,rs747055674
+SHH,NM_000193.4(SHH):c.1195G>A (p.Gly399Arg),single nucleotide variant,Uncertain significance,not provided,rs977002510
+SHH,NM_000193.4(SHH):c.1292G>A (p.Gly431Asp),single nucleotide variant,Uncertain significance,not provided,rs1803230945
+SHH,NM_000193.4(SHH):c.1210G>A (p.Gly404Arg),single nucleotide variant,Uncertain significance,not provided,rs1803237255
+SHH,NM_000193.4(SHH):c.-255G>A,single nucleotide variant,Benign,not provided,rs9333592
+SHH,NM_000193.4(SHH):c.*112GAATAA[3],Microsatellite,Benign,not provided,rs9333636
+SHH,NM_000193.4(SHH):c.563-202_563-201insGTCTGC,Insertion,Benign,not provided,rs12720059
+SHH,NM_000193.4(SHH):c.563-217C>A,single nucleotide variant,Benign,not provided,rs6968409
+SHH,NM_000193.4(SHH):c.563-171G>C,single nucleotide variant,Benign,not provided,rs73735499
+SHH,NM_000193.4(SHH):c.*35C>G,single nucleotide variant,Likely benign,not provided,rs768929857
+SHH,NM_000193.4(SHH):c.-68C>G,single nucleotide variant,Likely benign,not provided,rs111495739
+SHH,NM_022458.4(LMBR1):c.424-237A>G,single nucleotide variant,Benign/Likely benign,not provided,rs115905286
+SHH,NM_000193.4(SHH):c.*212T>C,single nucleotide variant,Likely benign,not provided,rs111658284
+SHH,NM_000193.4(SHH):c.*29A>G,single nucleotide variant,Likely benign,not provided,rs767315773
+SHH,NM_000193.4(SHH):c.*25C>G,single nucleotide variant,Likely benign,not provided,rs772915697
+SHH,NM_000193.4(SHH):c.922C>T (p.Arg308Cys),single nucleotide variant,Uncertain significance,not provided,rs1343790066
+SHH,NM_022458.4(LMBR1):c.424-218dup,Duplication,Benign/Likely benign,not provided,rs200856353
+SHH,NM_000193.4(SHH):c.525C>G (p.Tyr175Ter),single nucleotide variant,Pathogenic,not provided,rs1803360739
+SHH,NM_000193.4(SHH):c.*2824C>A,single nucleotide variant,Pathogenic,Partial agenesis of the corpus callosum,rs868096125
+SHH,NM_000193.4(SHH):c.552G>C (p.Ser184=),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs763853851
+SHH,NM_000193.4(SHH):c.741C>T (p.Gly247=),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs754898783
+SHH,NM_000193.4(SHH):c.301-131C>T,single nucleotide variant,Benign/Likely benign,not provided,rs9333618
+SHH,NM_000193.4(SHH):c.44C>G (p.Ser15Trp),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs760920236
+SHH,NM_000193.4(SHH):c.1048G>T (p.Ala350Ser),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs768025752
+SHH,NM_000193.4(SHH):c.958G>T (p.Glu320Ter),single nucleotide variant,Pathogenic,not provided,rs1159911756
+SHH,NM_000193.4(SHH):c.1167A>T (p.Ala389=),single nucleotide variant,Likely benign,not provided,rs1803239855
+SHH,NM_000193.4(SHH):c.1222GGC[5] (p.Gly411dup),Microsatellite,Conflicting classifications of pathogenicity,SHH-related disorder,rs769920627
+SHH,NM_000193.4(SHH):c.756C>T (p.Phe252=),single nucleotide variant,Likely benign,SHH-related disorder,rs113275997
+SHH,NM_000193.4(SHH):c.183G>T (p.Arg61Ser),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs776420800
+SHH,NM_022458.4(LMBR1):c.423+4458T>C,single nucleotide variant,Benign,Holoprosencephaly 3,rs77295788
+SHH,NM_022458.4(LMBR1):c.423+4468A>C,single nucleotide variant,Benign,Holoprosencephaly 3,rs78890432
+SHH,NM_000193.4(SHH):c.879G>A (p.Pro293=),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs911838783
+SHH,NM_000193.4(SHH):c.873G>C (p.Ser291=),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs1404435726
+SHH,NM_000193.4(SHH):c.563-5C>T,single nucleotide variant,Likely benign,not provided,rs768983299
+SHH,NM_000193.4(SHH):c.1029C>G (p.Gly343=),single nucleotide variant,Likely benign,not provided,rs1178084524
+SHH,NM_000193.4(SHH):c.861G>T (p.Ala287=),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs1229649312
+SHH,NM_000193.4(SHH):c.966C>T (p.Asp322=),single nucleotide variant,Likely benign,not provided,rs1422908199
+SHH,NM_000193.4(SHH):c.765C>T (p.Ile255=),single nucleotide variant,Likely benign,not provided,rs1482015086
+SHH,NM_022458.4(LMBR1):c.423+4505A>G,single nucleotide variant,Benign/Likely benign,Holoprosencephaly 3,rs76511713
+SHH,NM_000193.4(SHH):c.861G>A (p.Ala287=),single nucleotide variant,Likely benign,not provided,rs1229649312
+SHH,NM_000193.4(SHH):c.1149G>T (p.Ala383=),single nucleotide variant,Likely benign,not provided,rs1584796659
+SHH,NM_000193.4(SHH):c.562+8G>T,single nucleotide variant,Likely benign,not provided,rs775356820
+SHH,NM_000193.4(SHH):c.562+111T>G,single nucleotide variant,Benign,not provided,rs1233554
+SHH,NM_000193.4(SHH):c.562+319G>T,single nucleotide variant,Benign,not provided,rs9333624
+SHH,NM_000193.4(SHH):c.562+324A>G,single nucleotide variant,Benign,not provided,rs9333625
+SHH,NM_000193.4(SHH):c.1102G>T (p.Glu368Ter),single nucleotide variant,Likely pathogenic,"Microphthalmia, isolated, with coloboma 5",rs753315599
+SHH,NM_000193.4(SHH):c.276C>A (p.Thr92=),single nucleotide variant,Uncertain significance,not provided,rs1008384764
+SHH,NM_000193.4(SHH):c.750G>A (p.Lys250=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs779670631
+SHH,NM_000193.4(SHH):c.*2759G>A,single nucleotide variant,Benign,not provided,rs148863769
+SHH,NM_000193.4(SHH):c.301-163C>T,single nucleotide variant,Benign/Likely benign,not provided,rs4716913
+SHH,NM_000193.4(SHH):c.214C>T (p.Arg72Ter),single nucleotide variant,Pathogenic,Holoprosencephaly 3,rs779093031
+SHH,NM_000193.4(SHH):c.796C>T (p.Leu266Phe),single nucleotide variant,Likely pathogenic,Holoprosencephaly 3,rs1420292012
+SHH,NM_000193.4(SHH):c.213G>A (p.Glu71=),single nucleotide variant,Benign/Likely benign,not provided,rs200317108
+SHH,NM_022458.4(LMBR1):c.423+5176A>G,single nucleotide variant,Likely benign,not specified,rs140304968
+SHH,NM_000193.4(SHH):c.909G>A (p.Ala303=),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs764118631
+SHH,NM_000193.4(SHH):c.481C>T (p.Leu161=),single nucleotide variant,Likely benign,not specified,rs1202580309
+SHH,NM_000193.4(SHH):c.964G>A (p.Asp322Asn),single nucleotide variant,Likely benign,Holoprosencephaly 3,rs1480063398
+SHH,NM_000193.4(SHH):c.1171G>A (p.Ala391Thr),single nucleotide variant,Uncertain significance,Holoprosencephaly 3,rs1131692264
+SHH,NM_000193.4(SHH):c.866C>A (p.Ser289Ter),single nucleotide variant,Likely pathogenic,not provided,rs1131691966
+SHH,NM_000193.4(SHH):c.1101C>G (p.Ile367Met),single nucleotide variant,Uncertain significance,not provided,rs758397120
+SHH,NM_000193.4(SHH):c.863C>A (p.Ser288Tyr),single nucleotide variant,Uncertain significance,not provided,rs773945644
+SHH,NM_000193.4(SHH):c.-125G>A,single nucleotide variant,Benign,not specified,rs9333594
+SHH,NM_000193.4(SHH):c.1060A>G (p.Ile354Val),single nucleotide variant,Uncertain significance,not provided,rs1057524243
+SHH,NM_000193.4(SHH):c.475G>A (p.Gly159Ser),single nucleotide variant,Uncertain significance,not provided,rs1057523055
+SHH,NM_000193.4(SHH):c.423C>A (p.Tyr141Ter),single nucleotide variant,Pathogenic,not provided,rs763132615
+SHH,NM_000193.4(SHH):c.300+17G>A,single nucleotide variant,Benign/Likely benign,not provided,rs116412905
+SHH,NM_000193.4(SHH):c.972C>T (p.Asp324=),single nucleotide variant,Uncertain significance,not provided,rs765693103
+SHH,NM_000193.4(SHH):c.989C>T (p.Ala330Val),single nucleotide variant,Uncertain significance,not provided,rs886043421
+SHH,NM_000193.4(SHH):c.330C>T (p.Ala110=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs552960040
+SHH,NM_000193.4(SHH):c.1181G>A (p.Arg394His),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs551809680
+SHH,NM_000193.4(SHH):c.301-49G>A,single nucleotide variant,Benign,not specified,rs1233555
+SHH,NM_000193.4(SHH):c.1102G>A (p.Glu368Lys),single nucleotide variant,Uncertain significance,not provided,rs753315599
+SHH,NM_000193.4(SHH):c.1078C>T (p.Leu360=),single nucleotide variant,Conflicting classifications of pathogenicity,Holoprosencephaly 3,rs191903572
+SHH,NM_000193.4(SHH):c.853C>T (p.Pro285Ser),single nucleotide variant,Uncertain significance,not provided,rs747668656
+SHH,NM_000193.4(SHH):c.897G>C (p.Leu299=),single nucleotide variant,Benign,Holoprosencephaly 3,rs9333635
+SHH,NM_000193.4(SHH):c.271A>G (p.Asn91Asp),single nucleotide variant,Uncertain significance,not provided,rs750835058

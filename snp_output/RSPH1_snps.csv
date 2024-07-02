@@ -1,0 +1,175 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+RSPH1,NM_080860.4(RSPH1):c.*189C>T,single nucleotide variant,Likely benign,not provided,rs111759882
+RSPH1,NM_080860.4(RSPH1):c.648A>G (p.Glu216=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs2054078510
+RSPH1,NM_080860.4(RSPH1):c.795G>A (p.Arg265=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs2054043655
+RSPH1,NM_080860.4(RSPH1):c.877+13C>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs747107857
+RSPH1,NM_080860.4(RSPH1):c.274+18A>C,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs199679087
+RSPH1,NM_080860.4(RSPH1):c.144C>T (p.Tyr48=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs534988351
+RSPH1,NM_080860.4(RSPH1):c.727+15C>G,single nucleotide variant,Benign/Likely benign,Primary ciliary dyskinesia,rs202146973
+RSPH1,NM_080860.4(RSPH1):c.501+14A>G,single nucleotide variant,Benign,Primary ciliary dyskinesia,rs368082841
+RSPH1,NM_080860.4(RSPH1):c.798T>C (p.Pro266=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs577891231
+RSPH1,NM_080860.4(RSPH1):c.574-18T>C,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs200788622
+RSPH1,NM_080860.4(RSPH1):c.727+11C>T,single nucleotide variant,Benign,Primary ciliary dyskinesia,rs201392587
+RSPH1,NM_080860.4(RSPH1):c.60T>C (p.Tyr20=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs762144549
+RSPH1,NM_080860.4(RSPH1):c.502-18G>A,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs371221411
+RSPH1,NM_080860.4(RSPH1):c.55-5C>A,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs756723653
+RSPH1,NM_080860.4(RSPH1):c.483C>A (p.Gly161=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs371312378
+RSPH1,NM_080860.4(RSPH1):c.365+4C>T,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs201479872
+RSPH1,NM_080860.4(RSPH1):c.638A>C (p.Gln213Pro),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs1403144349
+RSPH1,NM_080860.4(RSPH1):c.835C>T (p.Arg279Trp),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs373429437
+RSPH1,NM_080860.4(RSPH1):c.240C>T (p.Gly80=),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs2054248887
+RSPH1,NM_080860.4(RSPH1):c.624A>G (p.Lys208=),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1168301982
+RSPH1,NM_080860.4(RSPH1):c.655del (p.Leu219fs),Deletion,Pathogenic,Primary ciliary dyskinesia,rs767700639
+RSPH1,NM_080860.4(RSPH1):c.661A>G (p.Thr221Ala),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs369932767
+RSPH1,NM_080860.4(RSPH1):c.317A>G (p.Tyr106Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs2054181407
+RSPH1,NM_080860.4(RSPH1):c.560G>A (p.Arg187His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs746604496
+RSPH1,NM_080860.4(RSPH1):c.712G>A (p.Ala238Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs200745905
+RSPH1,NM_080860.4(RSPH1):c.860G>A (p.Arg287His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs868793685
+RSPH1,NM_080860.4(RSPH1):c.451G>A (p.Glu151Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs767070148
+RSPH1,NM_080860.4(RSPH1):c.775G>A (p.Glu259Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs762397242
+RSPH1,NM_080860.4(RSPH1):c.727+16G>A,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs571130499
+RSPH1,NM_080860.4(RSPH1):c.313T>C (p.Tyr105His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1388776078
+RSPH1,NM_080860.4(RSPH1):c.377G>T (p.Gly126Val),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs1334138475
+RSPH1,NM_080860.4(RSPH1):c.637C>T (p.Gln213Ter),single nucleotide variant,Likely pathogenic,Primary ciliary dyskinesia 24,rs146298259
+RSPH1,NM_080860.4(RSPH1):c.-43C>T,single nucleotide variant,Benign,Primary ciliary dyskinesia 24,rs1573413
+RSPH1,NM_080860.4(RSPH1):c.*53C>T,single nucleotide variant,Benign,not provided,rs1043807
+RSPH1,NM_080860.4(RSPH1):c.728-244T>G,single nucleotide variant,Benign,not provided,rs116753329
+RSPH1,NM_080860.4(RSPH1):c.55-189T>C,single nucleotide variant,Benign,not provided,rs7277667
+RSPH1,NM_080860.4(RSPH1):c.877+284A>C,single nucleotide variant,Benign,not provided,rs4920112
+RSPH1,NM_080860.4(RSPH1):c.365+130C>G,single nucleotide variant,Benign,not provided,rs2839537
+RSPH1,NM_080860.4(RSPH1):c.55-232C>T,single nucleotide variant,Benign,not provided,rs7283383
+RSPH1,NM_080860.4(RSPH1):c.*153C>T,single nucleotide variant,Benign,not provided,rs11203205
+RSPH1,NM_080860.4(RSPH1):c.877+112G>A,single nucleotide variant,Benign,not provided,rs78900688
+RSPH1,NM_080860.4(RSPH1):c.*182G>A,single nucleotide variant,Benign,not provided,rs1127455
+RSPH1,NM_080860.4(RSPH1):c.727+46G>A,single nucleotide variant,Benign,not provided,rs11702140
+RSPH1,NM_080860.4(RSPH1):c.878-204C>T,single nucleotide variant,Benign,not provided,rs2839532
+RSPH1,NM_080860.4(RSPH1):c.727+65_727+66insGAGT,Insertion,Likely benign,not provided,rs58885682
+RSPH1,NM_080860.4(RSPH1):c.727+166T>C,single nucleotide variant,Benign,not provided,rs11700635
+RSPH1,NM_080860.4(RSPH1):c.727+190G>T,single nucleotide variant,Benign,not provided,rs13048879
+RSPH1,NM_080860.4(RSPH1):c.877+311A>G,single nucleotide variant,Benign,not provided,rs7275527
+RSPH1,NM_080860.4(RSPH1):c.877+310C>T,single nucleotide variant,Benign,not provided,rs114954017
+RSPH1,NM_080860.4(RSPH1):c.728-307C>G,single nucleotide variant,Benign,not provided,rs112095888
+RSPH1,NM_080860.4(RSPH1):c.727+280del,Deletion,Benign,not provided,rs60974545
+RSPH1,NM_080860.4(RSPH1):c.574-217T>C,single nucleotide variant,Benign,not provided,rs7281187
+RSPH1,NM_080860.4(RSPH1):c.727+285_727+317del,Microsatellite,Benign,not provided,rs571278891
+RSPH1,NM_080860.4(RSPH1):c.727+160G>A,single nucleotide variant,Benign,not provided,rs11702109
+RSPH1,NM_080860.4(RSPH1):c.55-181C>T,single nucleotide variant,Benign,not provided,rs9979100
+RSPH1,NM_080860.4(RSPH1):c.574-293G>A,single nucleotide variant,Benign,not provided,rs75049965
+RSPH1,NM_080860.4(RSPH1):c.727+19del,Deletion,Benign/Likely benign,Primary ciliary dyskinesia 24,rs144909525
+RSPH1,NM_080860.4(RSPH1):c.727+258G>A,single nucleotide variant,Likely benign,not provided,rs62215895
+RSPH1,NM_080860.4(RSPH1):c.727+291G>A,single nucleotide variant,Likely benign,not provided,rs62215893
+RSPH1,NM_080860.4(RSPH1):c.728-79del,Deletion,Likely benign,not provided,rs552457851
+RSPH1,NM_080860.4(RSPH1):c.727+180A>G,single nucleotide variant,Likely benign,not provided,rs375951502
+RSPH1,NM_080860.4(RSPH1):c.727+67_727+68insGGGGT,Insertion,Likely benign,not provided,rs58986745
+RSPH1,NM_080860.4(RSPH1):c.275-151G>T,single nucleotide variant,Likely benign,not provided,rs117827223
+RSPH1,NM_080860.4(RSPH1):c.877+149G>A,single nucleotide variant,Likely benign,not provided,rs73374124
+RSPH1,NM_080860.4(RSPH1):c.*229G>A,single nucleotide variant,Likely benign,not provided,rs17114994
+RSPH1,NM_080860.4(RSPH1):c.275-226G>A,single nucleotide variant,Likely benign,not provided,rs117942452
+RSPH1,NM_080860.4(RSPH1):c.727+35G>T,single nucleotide variant,Likely benign,not provided,rs150348163
+RSPH1,NM_080860.4(RSPH1):c.727+52_727+83del,Deletion,Likely benign,not provided,rs1568959104
+RSPH1,NM_080860.4(RSPH1):c.727+201G>A,single nucleotide variant,Likely benign,not provided,rs58181767
+RSPH1,NM_080860.4(RSPH1):c.727+218T>A,single nucleotide variant,Likely benign,not provided,rs187889106
+RSPH1,NM_080860.4(RSPH1):c.727+67_727+68insGGGGG,Insertion,Likely benign,not provided,rs58986745
+RSPH1,NM_080860.4(RSPH1):c.727+286G>A,single nucleotide variant,Likely benign,not provided,rs537850913
+RSPH1,NM_080860.4(RSPH1):c.574-312T>C,single nucleotide variant,Benign,not provided,rs116482462
+RSPH1,NM_080860.4(RSPH1):c.728-129G>A,single nucleotide variant,Likely benign,not provided,rs181378838
+RSPH1,NM_080860.4(RSPH1):c.*287A>G,single nucleotide variant,Benign,not provided,rs2839531
+RSPH1,NM_080860.4(RSPH1):c.573+9C>T,single nucleotide variant,Benign/Likely benign,RSPH1-related disorder,rs376931534
+RSPH1,NM_080860.4(RSPH1):c.714T>C (p.Ala238=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs141840867
+RSPH1,NM_080860.4(RSPH1):c.315C>T (p.Tyr105=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs144037391
+RSPH1,NM_080860.4(RSPH1):c.66G>T (p.Gly22=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs774776494
+RSPH1,NM_080860.4(RSPH1):c.709G>A (p.Asp237Asn),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs368695982
+RSPH1,NM_080860.4(RSPH1):c.471C>G (p.His157Gln),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs61758127
+RSPH1,NM_080860.4(RSPH1):c.850GAG[1] (p.Glu285del),Microsatellite,Uncertain significance,Primary ciliary dyskinesia,rs562822292
+RSPH1,NM_080860.4(RSPH1):c.824G>A (p.Arg275Gln),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs376500424
+RSPH1,NM_080860.4(RSPH1):c.670C>G (p.Leu224Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs375795708
+RSPH1,NM_080860.4(RSPH1):c.635C>T (p.Thr212Ile),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs771875847
+RSPH1,NM_080860.4(RSPH1):c.916G>C (p.Asp306His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1052502852
+RSPH1,NM_080860.4(RSPH1):c.350G>T (p.Trp117Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs758245475
+RSPH1,NM_080860.4(RSPH1):c.651G>A (p.Leu217=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs747395137
+RSPH1,NM_080860.4(RSPH1):c.205G>A (p.Gly69Arg),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs368878819
+RSPH1,NM_080860.4(RSPH1):c.713C>T (p.Ala238Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs201984262
+RSPH1,NM_080860.4(RSPH1):c.430G>A (p.Gly144Arg),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs201489134
+RSPH1,NM_080860.4(RSPH1):c.847C>T (p.Gln283Ter),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia 24,rs2054042523
+RSPH1,NM_080860.4(RSPH1):c.391G>A (p.Ala131Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 24,rs781199496
+RSPH1,NM_080860.4(RSPH1):c.653C>T (p.Ala218Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs373119665
+RSPH1,NM_080860.4(RSPH1):c.501+9A>G,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs373972724
+RSPH1,NM_080860.4(RSPH1):c.549T>C (p.His183=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs780989649
+RSPH1,NM_080860.4(RSPH1):c.55-4C>G,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1196582041
+RSPH1,NM_080860.4(RSPH1):c.399G>A (p.Thr133=),single nucleotide variant,Likely benign,not provided,rs760016966
+RSPH1,NM_080860.4(RSPH1):c.365+10C>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs962821435
+RSPH1,NM_080860.4(RSPH1):c.162T>C (p.His54=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs150239715
+RSPH1,NM_080860.4(RSPH1):c.741C>T (p.Pro247=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs142166675
+RSPH1,NM_080860.4(RSPH1):c.390C>T (p.Tyr130=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs529633380
+RSPH1,NM_080860.4(RSPH1):c.55-8T>C,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs368421971
+RSPH1,NM_080860.4(RSPH1):c.94G>A (p.Gly32Arg),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs543602231
+RSPH1,NM_080860.4(RSPH1):c.513T>C (p.Pro171=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs767684217
+RSPH1,NM_080860.4(RSPH1):c.447G>A (p.Thr149=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs200870072
+RSPH1,NM_080860.4(RSPH1):c.54+7G>A,single nucleotide variant,Likely benign,not provided,rs1198333104
+RSPH1,NM_080860.4(RSPH1):c.877+7T>A,single nucleotide variant,Benign/Likely benign,Primary ciliary dyskinesia 24,rs116369489
+RSPH1,NM_080860.4(RSPH1):c.204C>T (p.Ile68=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs755219864
+RSPH1,NM_080860.4(RSPH1):c.683C>T (p.Pro228Leu),single nucleotide variant,Likely benign,RSPH1-related disorder,rs149604283
+RSPH1,NM_080860.4(RSPH1):c.684G>A (p.Pro228=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs138330014
+RSPH1,NM_080860.4(RSPH1):c.817G>A (p.Val273Ile),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs374702500
+RSPH1,NM_080860.4(RSPH1):c.196C>T (p.Arg66Ter),single nucleotide variant,Pathogenic/Likely pathogenic,Primary ciliary dyskinesia 24,rs753105954
+RSPH1,NM_080860.4(RSPH1):c.712G>C (p.Ala238Pro),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs200745905
+RSPH1,NM_080860.4(RSPH1):c.748G>A (p.Glu250Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1057278008
+RSPH1,NM_080860.4(RSPH1):c.797C>T (p.Pro266Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs146309440
+RSPH1,NM_080860.4(RSPH1):c.310G>A (p.Val104Ile),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs373683028
+RSPH1,NM_080860.4(RSPH1):c.295C>T (p.Arg99Trp),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs770359437
+RSPH1,NM_080860.4(RSPH1):c.727+6G>C,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs374688679
+RSPH1,NM_080860.4(RSPH1):c.559C>T (p.Arg187Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs150576105
+RSPH1,NM_080860.4(RSPH1):c.340A>G (p.Thr114Ala),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs764166547
+RSPH1,NM_080860.4(RSPH1):c.11T>G (p.Leu4Arg),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs144240955
+RSPH1,NM_080860.4(RSPH1):c.315C>G (p.Tyr105Ter),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia 24,rs144037391
+RSPH1,NM_080860.4(RSPH1):c.774C>T (p.Phe258=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs144996547
+RSPH1,NM_080860.4(RSPH1):c.192T>G (p.Gly64=),single nucleotide variant,Likely benign,not provided,rs375454508
+RSPH1,NM_080860.4(RSPH1):c.168+9C>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs371856844
+RSPH1,NM_080860.4(RSPH1):c.531T>C (p.Asp177=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs755284624
+RSPH1,NM_080860.4(RSPH1):c.732A>G (p.Ala244=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs141241740
+RSPH1,NM_080860.4(RSPH1):c.150C>A (p.Phe50Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs752263023
+RSPH1,NM_080860.4(RSPH1):c.695A>T (p.Asp232Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs748503692
+RSPH1,NM_080860.4(RSPH1):c.693G>A (p.Thr231=),single nucleotide variant,Likely benign,RSPH1-related disorder,rs372338741
+RSPH1,NM_080860.4(RSPH1):c.365+13T>C,single nucleotide variant,Benign/Likely benign,not provided,rs181902996
+RSPH1,NM_080860.4(RSPH1):c.98G>A (p.Arg33His),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs145742147
+RSPH1,NM_080860.4(RSPH1):c.93C>T (p.His31=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs370387704
+RSPH1,NM_080860.4(RSPH1):c.919C>T (p.Leu307Phe),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs141886699
+RSPH1,NM_080860.4(RSPH1):c.785T>C (p.Met262Thr),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs139390401
+RSPH1,NM_080860.4(RSPH1):c.727A>G (p.Ser243Gly),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs137935071
+RSPH1,NM_080860.4(RSPH1):c.711C>T (p.Asp237=),single nucleotide variant,Benign,Primary ciliary dyskinesia,rs75626002
+RSPH1,NM_080860.4(RSPH1):c.709G>C (p.Asp237His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs368695982
+RSPH1,NM_080860.4(RSPH1):c.692C>T (p.Thr231Met),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs778123315
+RSPH1,NM_080860.4(RSPH1):c.680dup (p.Pro228fs),Duplication,Pathogenic,Primary ciliary dyskinesia,rs556286752
+RSPH1,NM_080860.4(RSPH1):c.674C>T (p.Pro225Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs201100138
+RSPH1,NM_080860.4(RSPH1):c.433C>A (p.Gln145Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs778786028
+RSPH1,NM_080860.4(RSPH1):c.398C>T (p.Thr133Met),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs529237191
+RSPH1,NM_080860.4(RSPH1):c.231C>T (p.His77=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs373561308
+RSPH1,NM_080860.4(RSPH1):c.649T>C (p.Leu217=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs142072750
+RSPH1,NM_080860.4(RSPH1):c.546A>G (p.Gln182=),single nucleotide variant,Benign,Primary ciliary dyskinesia,rs139625725
+RSPH1,NM_080860.4(RSPH1):c.673C>T (p.Pro225Ser),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs562591045
+RSPH1,NM_080860.4(RSPH1):c.859C>T (p.Arg287Cys),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs143552625
+RSPH1,NM_080860.4(RSPH1):c.57A>T (p.Glu19Asp),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs200861411
+RSPH1,NM_080860.4(RSPH1):c.907A>G (p.Arg303Gly),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs150629342
+RSPH1,NM_080860.4(RSPH1):c.128C>A (p.Thr43Asn),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs144221071
+RSPH1,NM_080860.4(RSPH1):c.287dup (p.Asn96fs),Duplication,Pathogenic,Primary ciliary dyskinesia,rs1060501861
+RSPH1,NM_080860.4(RSPH1):c.870G>A (p.Met290Ile),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs140450252
+RSPH1,NM_080860.4(RSPH1):c.733G>A (p.Gly245Arg),single nucleotide variant,Benign,Primary ciliary dyskinesia,rs151158140
+RSPH1,NM_080860.4(RSPH1):c.730G>A (p.Ala244Thr),single nucleotide variant,Benign/Likely benign,Primary ciliary dyskinesia,rs150400022
+RSPH1,NM_080860.4(RSPH1):c.670C>T (p.Leu224Phe),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs375795708
+RSPH1,NM_080860.4(RSPH1):c.650T>G (p.Leu217Trp),single nucleotide variant,Benign/Likely benign,not specified,rs138007679
+RSPH1,NM_080860.4(RSPH1):c.637C>A (p.Gln213Lys),single nucleotide variant,Likely benign,Inborn genetic diseases,rs146298259
+RSPH1,NM_080860.4(RSPH1):c.636C>T (p.Thr212=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs765328542
+RSPH1,NM_080860.4(RSPH1):c.501+7C>T,single nucleotide variant,Benign/Likely benign,Primary ciliary dyskinesia,rs201034280
+RSPH1,NM_080860.4(RSPH1):c.450C>T (p.Ala150=),single nucleotide variant,Benign,Primary ciliary dyskinesia,rs117797631
+RSPH1,NM_080860.4(RSPH1):c.120C>T (p.Asn40=),single nucleotide variant,Benign/Likely benign,not provided,rs116480603
+RSPH1,NM_080860.4(RSPH1):c.742G>A (p.Gly248Arg),single nucleotide variant,Benign,not provided,rs117385282
+RSPH1,NM_080860.4(RSPH1):c.579A>G (p.Arg193=),single nucleotide variant,Benign,Primary ciliary dyskinesia,rs149478284
+RSPH1,NM_080860.4(RSPH1):c.393G>A (p.Ala131=),single nucleotide variant,Benign,Primary ciliary dyskinesia,rs2839536
+RSPH1,NM_080860.4(RSPH1):c.727+5G>A,single nucleotide variant,Likely pathogenic,Primary ciliary dyskinesia,rs200382776
+RSPH1,NM_080860.4(RSPH1):c.563T>G (p.Leu188Ter),single nucleotide variant,Pathogenic/Likely pathogenic,Primary ciliary dyskinesia 24,rs727503394
+RSPH1,NM_080860.4(RSPH1):c.281G>A (p.Trp94Ter),single nucleotide variant,Pathogenic/Likely pathogenic,RSPH1-related disorder,rs587777635
+RSPH1,NM_080860.4(RSPH1):c.308G>A (p.Gly103Asp),single nucleotide variant,Uncertain significance,RSPH1-related disorder,rs587777060
+RSPH1,NM_080860.4(RSPH1):c.275-2A>C,single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs151107532
+RSPH1,NM_080860.4(RSPH1):c.407_410del (p.Lys136fs),Microsatellite,Likely pathogenic,Primary ciliary dyskinesia 24,rs587777059
+RSPH1,NM_080860.4(RSPH1):c.366-3C>A,single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs587777058
+RSPH1,NM_080860.4(RSPH1):c.85G>T (p.Glu29Ter),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs138320978

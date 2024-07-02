@@ -1,0 +1,86 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+RSPH9,NM_152732.5(RSPH9):c.393+2del,Deletion,Likely pathogenic,Primary ciliary dyskinesia,rs1771335561
+RSPH9,NM_152732.5(RSPH9):c.671-5C>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs760442254
+RSPH9,NM_152732.5(RSPH9):c.813C>T (p.Asp271=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs763528022
+RSPH9,NM_152732.5(RSPH9):c.671-8T>C,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs371183985
+RSPH9,NM_152732.5(RSPH9):c.154G>T (p.Gly52Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs763447905
+RSPH9,NM_152732.5(RSPH9):c.328G>A (p.Glu110Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs150021750
+RSPH9,NM_152732.5(RSPH9):c.281C>T (p.Ala94Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs142194323
+RSPH9,NM_152732.5(RSPH9):c.249C>A (p.Ser83Arg),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs773953326
+RSPH9,NM_152732.5(RSPH9):c.191G>A (p.Ser64Asn),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1770719497
+RSPH9,NM_152732.5(RSPH9):c.757C>T (p.Pro253Ser),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1449083319
+RSPH9,NM_152732.5(RSPH9):c.1A>G (p.Met1Val),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs775745422
+RSPH9,NM_152732.5(RSPH9):c.272A>G (p.Glu91Gly),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs777885477
+RSPH9,NM_152732.5(RSPH9):c.668A>C (p.Lys223Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs772608546
+RSPH9,NM_152732.5(RSPH9):c.227+271del,Deletion,Benign,not provided,rs111461969
+RSPH9,NM_152732.5(RSPH9):c.2T>C (p.Met1Thr),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs1395940101
+RSPH9,NM_152732.5(RSPH9):c.394-157A>C,single nucleotide variant,Benign,not provided,rs2295946
+RSPH9,NM_152732.5(RSPH9):c.523+298CTTC[14],Microsatellite,Benign,not provided,rs70993404
+RSPH9,NM_152732.5(RSPH9):c.228-102C>T,single nucleotide variant,Benign,not provided,rs77473340
+RSPH9,NM_152732.5(RSPH9):c.524-229A>C,single nucleotide variant,Benign,not provided,rs113893893
+RSPH9,NM_152732.5(RSPH9):c.227+271dup,Duplication,Benign,not provided,rs111461969
+RSPH9,NM_152732.5(RSPH9):c.524-263G>A,single nucleotide variant,Benign,not provided,rs55863814
+RSPH9,NM_152732.5(RSPH9):c.227+42C>T,single nucleotide variant,Benign,not provided,rs200367700
+RSPH9,NM_152732.5(RSPH9):c.523+298CTTC[13],Microsatellite,Benign,not provided,rs70993404
+RSPH9,NM_152732.5(RSPH9):c.227+118G>A,single nucleotide variant,Benign,not provided,rs1617105
+RSPH9,NM_152732.5(RSPH9):c.394-185C>T,single nucleotide variant,Benign,not provided,rs2295945
+RSPH9,NM_152732.5(RSPH9):c.228-117A>G,single nucleotide variant,Benign,not provided,rs6915370
+RSPH9,NM_152732.5(RSPH9):c.523+301C>G,single nucleotide variant,Benign,not provided,rs28514841
+RSPH9,NM_152732.5(RSPH9):c.523+298CTTC[10],Microsatellite,Benign,not provided,rs70993404
+RSPH9,NM_152732.5(RSPH9):c.523+298CTTC[11],Microsatellite,Benign,not provided,rs70993404
+RSPH9,NM_152732.5(RSPH9):c.228-86C>T,single nucleotide variant,Benign,not provided,rs6915523
+RSPH9,NM_152732.5(RSPH9):c.671-41C>A,single nucleotide variant,Benign,not provided,rs78970418
+RSPH9,NM_152732.5(RSPH9):c.523+220A>G,single nucleotide variant,Likely benign,not provided,rs75054864
+RSPH9,NM_152732.5(RSPH9):c.393+220G>A,single nucleotide variant,Likely benign,not provided,rs9784790
+RSPH9,NM_152732.5(RSPH9):c.394-197C>T,single nucleotide variant,Benign,not provided,rs2295944
+RSPH9,NM_152732.5(RSPH9):c.671-4152C>T,single nucleotide variant,Benign,not provided,rs115507210
+RSPH9,NM_152732.5(RSPH9):c.227+9G>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs759429967
+RSPH9,NM_152732.5(RSPH9):c.657T>C (p.His219=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs748721325
+RSPH9,NM_152732.5(RSPH9):c.18C>G (p.Leu6=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs768726027
+RSPH9,NM_152732.5(RSPH9):c.799G>A (p.Glu267Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1554149875
+RSPH9,NM_152732.5(RSPH9):c.25T>C (p.Ser9Pro),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs767450427
+RSPH9,NM_152732.5(RSPH9):c.718C>T (p.Arg240Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs756423549
+RSPH9,NM_152732.5(RSPH9):c.118C>T (p.Arg40Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs937089073
+RSPH9,NM_152732.5(RSPH9):c.523+1G>C,single nucleotide variant,Likely pathogenic,Primary ciliary dyskinesia,rs762292335
+RSPH9,NM_152732.5(RSPH9):c.393+1G>A,single nucleotide variant,Likely pathogenic,Primary ciliary dyskinesia,rs1054247330
+RSPH9,NM_152732.5(RSPH9):c.393+13G>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 12,rs551113626
+RSPH9,NM_152732.5(RSPH9):c.146G>T (p.Arg49Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 12,rs1055513498
+RSPH9,NM_152732.5(RSPH9):c.*13C>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 12,rs369595180
+RSPH9,NM_152732.5(RSPH9):c.804G>C (p.Lys268Asn),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 12,rs542453386
+RSPH9,NM_152732.5(RSPH9):c.787G>A (p.Val263Met),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs772227123
+RSPH9,NM_152732.5(RSPH9):c.808A>C (p.Met270Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs769366839
+RSPH9,NM_152732.5(RSPH9):c.389T>C (p.Ile130Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs935743330
+RSPH9,NM_152732.5(RSPH9):c.108G>A (p.Lys36=),single nucleotide variant,Likely benign,not provided,rs139124499
+RSPH9,NM_152732.5(RSPH9):c.624C>T (p.Asp208=),single nucleotide variant,Likely benign,not provided,rs149007099
+RSPH9,NM_152732.5(RSPH9):c.135C>T (p.Leu45=),single nucleotide variant,Likely benign,not provided,rs765016716
+RSPH9,NM_152732.5(RSPH9):c.719G>A (p.Arg240His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs143815397
+RSPH9,NM_152732.5(RSPH9):c.799G>T (p.Glu267Ter),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs1554149875
+RSPH9,NM_152732.5(RSPH9):c.283C>T (p.Gln95Ter),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs1436804091
+RSPH9,NM_152732.5(RSPH9):c.98T>C (p.Met33Thr),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs374043705
+RSPH9,NM_152732.5(RSPH9):c.288G>A (p.Ser96=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs368692729
+RSPH9,NM_152732.5(RSPH9):c.481A>G (p.Lys161Glu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1351239709
+RSPH9,NM_152732.5(RSPH9):c.330A>G (p.Glu110=),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs760134926
+RSPH9,NM_152732.5(RSPH9):c.260C>G (p.Pro87Arg),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs774989438
+RSPH9,NM_152732.5(RSPH9):c.117C>A (p.Tyr39Ter),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs1233811324
+RSPH9,NM_152732.5(RSPH9):c.466C>T (p.Arg156Ter),single nucleotide variant,Pathogenic,not provided,rs376496894
+RSPH9,NM_152732.5(RSPH9):c.760C>T (p.Arg254Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs200193470
+RSPH9,NM_152732.5(RSPH9):c.373G>C (p.Val125Leu),single nucleotide variant,Benign/Likely benign,Primary ciliary dyskinesia,rs199874020
+RSPH9,NM_152732.5(RSPH9):c.228-6T>A,single nucleotide variant,Likely pathogenic,Primary ciliary dyskinesia,rs775136764
+RSPH9,NM_152732.5(RSPH9):c.683T>C (p.Ile228Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs753489926
+RSPH9,NM_152732.5(RSPH9):c.577C>G (p.Pro193Ala),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs373236553
+RSPH9,NM_152732.5(RSPH9):c.819C>T (p.Pro273=),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia 12,rs79412180
+RSPH9,NM_152732.5(RSPH9):c.598A>G (p.Thr200Ala),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 12,rs886061478
+RSPH9,NM_152732.5(RSPH9):c.512G>A (p.Arg171Gln),single nucleotide variant,Conflicting classifications of pathogenicity,RSPH9-related disorder,rs201032669
+RSPH9,NM_152732.5(RSPH9):c.385G>A (p.Glu129Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 12,rs886061477
+RSPH9,NM_152732.5(RSPH9):c.276G>A (p.Met92Ile),single nucleotide variant,Uncertain significance,not provided,rs147713380
+RSPH9,NM_152732.5(RSPH9):c.327C>T (p.Tyr109=),single nucleotide variant,Likely benign,not specified,rs140285713
+RSPH9,NM_152732.5(RSPH9):c.-18A>G,single nucleotide variant,Benign,not specified,rs59110261
+RSPH9,NM_152732.5(RSPH9):c.263C>T (p.Ala88Val),single nucleotide variant,Benign/Likely benign,Primary ciliary dyskinesia,rs35110984
+RSPH9,NM_152732.5(RSPH9):c.702T>C (p.Asn234=),single nucleotide variant,Likely benign,not specified,rs757687268
+RSPH9,NM_152732.5(RSPH9):c.415C>T (p.Arg139Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs368519003
+RSPH9,NM_152732.5(RSPH9):c.798C>T (p.Gly266=),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs770913202
+RSPH9,NM_152732.5(RSPH9):c.781G>A (p.Val261Ile),single nucleotide variant,Benign,Primary ciliary dyskinesia,rs16896629
+RSPH9,NM_152732.5(RSPH9):c.671-4259C>T,single nucleotide variant,Benign/Likely benign,not specified,rs41281830
+RSPH9,NM_152732.5(RSPH9):c.421G>A (p.Val141Met),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia 12,rs2295947
+RSPH9,NM_152732.5(RSPH9):c.52C>T (p.Gln18Ter),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia 12,rs397515488
+RSPH9,NM_152732.5(RSPH9):c.801GAA[1] (p.Lys268del),Microsatellite,Pathogenic,not provided,rs397515340

@@ -1,0 +1,67 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+DNAJC19,NM_145261.4(DNAJC19):c.280+1_280+5del,Deletion,Likely pathogenic,3-methylglutaconic aciduria type 5,rs753055824
+DNAJC19,NM_145261.4(DNAJC19):c.281-5T>A,single nucleotide variant,Likely benign,3-methylglutaconic aciduria type 5,rs766954639
+DNAJC19,NM_145261.4(DNAJC19):c.55+20A>T,single nucleotide variant,Likely benign,3-methylglutaconic aciduria type 5,rs1577025780
+DNAJC19,NM_145261.4(DNAJC19):c.348A>G (p.Lys116=),single nucleotide variant,Likely benign,3-methylglutaconic aciduria type 5,rs771098271
+DNAJC19,NM_145261.4(DNAJC19):c.210-14_210-13del,Deletion,Likely benign,3-methylglutaconic aciduria type 5,rs757422860
+DNAJC19,NM_145261.4(DNAJC19):c.63C>T (p.Tyr21=),single nucleotide variant,Likely benign,not provided,rs145786060
+DNAJC19,NM_145261.4(DNAJC19):c.209+11C>T,single nucleotide variant,Likely benign,3-methylglutaconic aciduria type 5,rs374496383
+DNAJC19,NM_145261.4(DNAJC19):c.129+11G>T,single nucleotide variant,Likely benign,3-methylglutaconic aciduria type 5,rs546533068
+DNAJC19,NM_145261.4(DNAJC19):c.210-17T>C,single nucleotide variant,Likely benign,3-methylglutaconic aciduria type 5,rs750700018
+DNAJC19,NM_145261.4(DNAJC19):c.210-19C>T,single nucleotide variant,Likely benign,3-methylglutaconic aciduria type 5,rs780397593
+DNAJC19,NM_145261.4(DNAJC19):c.280+16A>T,single nucleotide variant,Likely benign,3-methylglutaconic aciduria type 5,rs773185733
+DNAJC19,NM_145261.4(DNAJC19):c.281-15dup,Duplication,Benign,3-methylglutaconic aciduria type 5,rs764813798
+DNAJC19,NM_145261.4(DNAJC19):c.326T>C (p.Leu109Ser),single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs200732155
+DNAJC19,NM_145261.4(DNAJC19):c.331G>C (p.Glu111Gln),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs370042988
+DNAJC19,NM_145261.4(DNAJC19):c.129+6A>G,single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs192629594
+DNAJC19,NM_145261.4(DNAJC19):c.142G>A (p.Gly48Ser),single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs781284254
+DNAJC19,NM_145261.4(DNAJC19):c.202G>A (p.Gly68Ser),single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs754317673
+DNAJC19,NM_145261.4(DNAJC19):c.280+5G>C,single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs762722601
+DNAJC19,NM_145261.4(DNAJC19):c.221A>G (p.Asn74Ser),single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs1218208437
+DNAJC19,NM_145261.4(DNAJC19):c.167C>A (p.Pro56His),single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs1714943164
+DNAJC19,NM_145261.4(DNAJC19):c.280+1G>A,single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs774006022
+DNAJC19,NM_145261.4(DNAJC19):c.83A>G (p.His28Arg),single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs776130966
+DNAJC19,NM_145261.4(DNAJC19):c.55+5G>C,single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs1454974888
+DNAJC19,NM_145261.4(DNAJC19):c.62dup (p.Tyr21Ter),Duplication,Pathogenic,3-methylglutaconic aciduria type 5,rs1560040369
+DNAJC19,NM_145261.4(DNAJC19):c.210-296_210-295insC,Insertion,Benign,not provided,rs113348683
+DNAJC19,NM_145261.4(DNAJC19):c.4-143dup,Duplication,Benign,not provided,rs369840102
+DNAJC19,NM_145261.4(DNAJC19):c.*188G>A,single nucleotide variant,Benign,not provided,rs1051411
+DNAJC19,NM_145261.4(DNAJC19):c.4-129_4-128insG,Insertion,Benign,not provided,rs1305104516
+DNAJC19,NM_145261.4(DNAJC19):c.4-128A>G,single nucleotide variant,Benign,not provided,rs13097207
+DNAJC19,NM_145261.4(DNAJC19):c.210-305dup,Duplication,Benign,not provided,rs138755965
+DNAJC19,NM_145261.4(DNAJC19):c.210-291del,Deletion,Likely benign,not provided,rs138755965
+DNAJC19,NM_145261.4(DNAJC19):c.4-128_4-127insG,Insertion,Likely benign,not provided,rs766807321
+DNAJC19,NM_145261.4(DNAJC19):c.130-38_130-34del,Microsatellite,Likely benign,not provided,rs145145539
+DNAJC19,NM_145261.4(DNAJC19):c.281-160A>T,single nucleotide variant,Likely benign,not provided,rs139914001
+DNAJC19,NM_145261.4(DNAJC19):c.105A>G (p.Gln35=),single nucleotide variant,Likely benign,3-methylglutaconic aciduria type 5,rs1400868784
+DNAJC19,NM_145261.4(DNAJC19):c.300A>G (p.Ala100=),single nucleotide variant,Likely benign,3-methylglutaconic aciduria type 5,rs373886730
+DNAJC19,NM_145261.4(DNAJC19):c.344A>G (p.Lys115Arg),single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs1253268997
+DNAJC19,NM_145261.4(DNAJC19):c.259C>T (p.Leu87Phe),single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs1714880831
+DNAJC19,NM_145261.4(DNAJC19):c.295A>G (p.Ile99Val),single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs762783413
+DNAJC19,NM_145261.4(DNAJC19):c.158G>A (p.Gly53Glu),single nucleotide variant,Likely pathogenic,3-methylglutaconic aciduria type 5,rs755024172
+DNAJC19,NM_145261.4(DNAJC19):c.63C>G (p.Tyr21Ter),single nucleotide variant,Pathogenic,3-methylglutaconic aciduria type 5,rs145786060
+DNAJC19,NM_145261.4(DNAJC19):c.280+2dup,Duplication,Likely benign,3-methylglutaconic aciduria type 5,rs756616792
+DNAJC19,NM_145261.4(DNAJC19):c.210-7T>A,single nucleotide variant,Benign,3-methylglutaconic aciduria type 5,rs779367415
+DNAJC19,NM_145261.4(DNAJC19):c.209+95C>G,single nucleotide variant,Likely benign,not provided,rs192120432
+DNAJC19,NM_145261.4(DNAJC19):c.280+129G>A,single nucleotide variant,Likely benign,not provided,rs115056126
+DNAJC19,NM_145261.4(DNAJC19):c.130-292T>C,single nucleotide variant,Likely benign,not provided,rs1805637
+DNAJC19,NM_145261.4(DNAJC19):c.192A>G (p.Ala64=),single nucleotide variant,Likely benign,not specified,rs1473896211
+DNAJC19,NM_145261.4(DNAJC19):c.62A>T (p.Tyr21Phe),single nucleotide variant,Uncertain significance,3-Methylglutaconic aciduria,rs752913622
+DNAJC19,NM_145261.4(DNAJC19):c.1A>G (p.Met1Val),single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs372756221
+DNAJC19,NM_145261.4(DNAJC19):c.90G>A (p.Glu30=),single nucleotide variant,Likely benign,3-methylglutaconic aciduria type 5,rs367996239
+DNAJC19,NM_145261.4(DNAJC19):c.3+16C>T,single nucleotide variant,Likely benign,not specified,rs367841424
+DNAJC19,NM_145261.4(DNAJC19):c.59G>A (p.Arg20His),single nucleotide variant,Conflicting classifications of pathogenicity,3-methylglutaconic aciduria type 5,rs756192515
+DNAJC19,NM_145261.4(DNAJC19):c.129+15A>C,single nucleotide variant,Likely benign,3-methylglutaconic aciduria type 5,rs201697391
+DNAJC19,NM_145261.4(DNAJC19):c.*190ATTA[1],Microsatellite,Uncertain significance,3-methylglutaconic aciduria type 5,rs886058203
+DNAJC19,NM_145261.4(DNAJC19):c.*488G>C,single nucleotide variant,Uncertain significance,3-methylglutaconic aciduria type 5,rs576646391
+DNAJC19,NM_145261.4(DNAJC19):c.*528GT[9],Microsatellite,Uncertain significance,3-methylglutaconic aciduria type 5,rs148074891
+DNAJC19,NM_145261.4(DNAJC19):c.4-1G>A,single nucleotide variant,Likely pathogenic,not provided,rs878852999
+DNAJC19,NM_145261.4(DNAJC19):c.281G>T (p.Gly94Val),single nucleotide variant,Uncertain significance,not provided,rs151056679
+DNAJC19,NM_145261.4(DNAJC19):c.182G>A (p.Arg61Gln),single nucleotide variant,Conflicting classifications of pathogenicity,3-methylglutaconic aciduria type 5,rs376891597
+DNAJC19,NM_145261.4(DNAJC19):c.181C>T (p.Arg61Trp),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs141007488
+DNAJC19,NM_145261.4(DNAJC19):c.281-12T>C,single nucleotide variant,Benign,not specified,rs141982712
+DNAJC19,NM_145261.4(DNAJC19):c.-29G>T,single nucleotide variant,Benign/Likely benign,DNAJC19-related disorder,rs181271620
+DNAJC19,NM_145261.4(DNAJC19):c.285A>C (p.Gly95=),single nucleotide variant,Benign/Likely benign,not specified,rs17850540
+DNAJC19,NM_145261.4(DNAJC19):c.69G>A (p.Leu23=),single nucleotide variant,Benign/Likely benign,not specified,rs142023670
+DNAJC19,NM_145261.4(DNAJC19):c.300del (p.Ala101fs),Deletion,Pathogenic,3-methylglutaconic aciduria type 5,rs587777224
+DNAJC19,NM_145261.4(DNAJC19):c.130-1G>C,single nucleotide variant,Pathogenic,DNAJC19-related disorder,rs137854888

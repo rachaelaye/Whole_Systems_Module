@@ -1,0 +1,25 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+KIF21B,NM_001252102.2(KIF21B):c.826G>A (p.Gly276Ser),single nucleotide variant,Uncertain significance,not provided,rs1657708643
+KIF21B,NM_001252102.2(KIF21B):c.4625A>G (p.Asn1542Ser),single nucleotide variant,Likely pathogenic,Neurodevelopmental disorder,rs893498810
+KIF21B,NM_001252102.2(KIF21B):c.865C>T (p.Arg289Trp),single nucleotide variant,Uncertain significance,Neurodevelopmental disorder,rs1459259252
+KIF21B,NM_001252102.2(KIF21B):c.2156G>A (p.Arg719Gln),single nucleotide variant,Uncertain significance,KIF21B-related Neurodevelopmental disorder,rs1345199231
+KIF21B,NM_017596.4(KIF21B):c.3259C>T (p.His1087Tyr),single nucleotide variant,Uncertain significance,not provided,rs759165397
+KIF21B,NM_001252102.2(KIF21B):c.433G>C (p.Ala145Pro),single nucleotide variant,Uncertain significance,Hypotonia,rs368704611
+KIF21B,NM_001252102.2(KIF21B):c.4303G>A (p.Val1435Ile),single nucleotide variant,Uncertain significance,KIF21B-related Neurodevelopmental disorder,rs759837389
+KIF21B,NM_001252102.2(KIF21B):c.1902G>C (p.Ala634=),single nucleotide variant,Benign,not provided,rs61740473
+KIF21B,NM_001252102.2(KIF21B):c.941G>A (p.Ser314Asn),single nucleotide variant,Uncertain significance,not provided,rs368047749
+KIF21B,NM_001252102.2(KIF21B):c.4615-16C>T,single nucleotide variant,Benign,not provided,rs296565
+KIF21B,NM_001252102.2(KIF21B):c.2994C>T (p.Asp998=),single nucleotide variant,Benign,not provided,rs2297911
+KIF21B,NM_001252102.2(KIF21B):c.3033G>A (p.Glu1011=),single nucleotide variant,Likely benign,not provided,rs748591412
+KIF21B,NM_001252102.2(KIF21B):c.354A>C (p.Ala118=),single nucleotide variant,Benign,not provided,rs137984276
+KIF21B,NM_001252102.2(KIF21B):c.597+3G>A,single nucleotide variant,Benign,not provided,rs111358777
+KIF21B,NM_001252102.2(KIF21B):c.1197G>T (p.Leu399=),single nucleotide variant,Benign,not provided,rs139054178
+KIF21B,NM_001252102.2(KIF21B):c.1467-7T>C,single nucleotide variant,Benign,not provided,rs16847518
+KIF21B,NM_001252102.2(KIF21B):c.2811G>A (p.Glu937=),single nucleotide variant,Benign,not provided,rs61740468
+KIF21B,NM_001252102.2(KIF21B):c.543C>T (p.Asn181=),single nucleotide variant,Likely benign,not provided,rs558278910
+KIF21B,NM_001252102.2(KIF21B):c.315G>A (p.Thr105=),single nucleotide variant,Likely benign,not provided,rs139383924
+KIF21B,NM_001252102.2(KIF21B):c.159C>T (p.Val53=),single nucleotide variant,Likely benign,not provided,rs745502175
+KIF21B,NM_001252102.2(KIF21B):c.1659G>A (p.Lys553=),single nucleotide variant,Benign,not provided,rs140654082
+KIF21B,NM_001252102.2(KIF21B):c.3615-4G>T,single nucleotide variant,Benign,not provided,rs74138804
+KIF21B,NM_001252102.2(KIF21B):c.2224G>A (p.Glu742Lys),single nucleotide variant,Uncertain significance,See cases,rs750865418
+KIF21B,NM_001252102.2(KIF21B):c.3601C>T (p.Arg1201Trp),single nucleotide variant,Uncertain significance,Long QT syndrome,rs796052152

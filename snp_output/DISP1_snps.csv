@@ -1,0 +1,141 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+DISP1,NM_001377229.1(DISP1):c.4054C>T (p.Pro1352Ser),single nucleotide variant,Uncertain significance,Esophageal atresia,rs952023183
+DISP1,NM_001377229.1(DISP1):c.3873G>A (p.Gly1291=),single nucleotide variant,Likely benign,not provided,rs1264506285
+DISP1,NM_001377229.1(DISP1):c.2662C>T (p.Leu888=),single nucleotide variant,Likely benign,not provided,rs201612131
+DISP1,NM_001377229.1(DISP1):c.3625A>G (p.Thr1209Ala),single nucleotide variant,Benign,not provided,rs140037475
+DISP1,NM_001377229.1(DISP1):c.4074C>T (p.His1358=),single nucleotide variant,Likely benign,not provided,rs766269187
+DISP1,NM_001377229.1(DISP1):c.4341T>C (p.Asp1447=),single nucleotide variant,Likely benign,not provided,rs200948471
+DISP1,NM_001377229.1(DISP1):c.3739G>T (p.Ala1247Ser),single nucleotide variant,Benign,not provided,rs9441940
+DISP1,NM_001377229.1(DISP1):c.3001C>T (p.Leu1001=),single nucleotide variant,Likely benign,not provided,rs148773109
+DISP1,NM_001377229.1(DISP1):c.510-4del,Deletion,Benign,not provided,rs761469315
+DISP1,NM_001377229.1(DISP1):c.54C>T (p.Ile18=),single nucleotide variant,Likely benign,not provided,rs143065552
+DISP1,NM_001377229.1(DISP1):c.509+12G>A,single nucleotide variant,Benign,not provided,rs147524774
+DISP1,NM_001377229.1(DISP1):c.509+15del,Deletion,Likely benign,not provided,rs769475530
+DISP1,NM_001377229.1(DISP1):c.4557_4559del (p.Leu1520del),Deletion,Conflicting classifications of pathogenicity,DISP1-related disorder,rs753844157
+DISP1,NM_001377229.1(DISP1):c.4224C>A (p.Asp1408Glu),single nucleotide variant,Uncertain significance,not provided,rs1679853609
+DISP1,NM_001377229.1(DISP1):c.3738C>A (p.Asp1246Glu),single nucleotide variant,Uncertain significance,not provided,rs72744122
+DISP1,NM_001377229.1(DISP1):c.1081C>G (p.Leu361Val),single nucleotide variant,Uncertain significance,not provided,rs144807113
+DISP1,NM_001377229.1(DISP1):c.739A>G (p.Lys247Glu),single nucleotide variant,Uncertain significance,not provided,rs139954139
+DISP1,NM_001377229.1(DISP1):c.4346G>C (p.Ser1449Thr),single nucleotide variant,Uncertain significance,not provided,rs1273219315
+DISP1,NM_001377229.1(DISP1):c.341C>T (p.Ser114Leu),single nucleotide variant,Uncertain significance,not provided,rs765644354
+DISP1,NM_001377229.1(DISP1):c.3668A>G (p.Gln1223Arg),single nucleotide variant,Uncertain significance,not provided,rs756647421
+DISP1,NM_001377229.1(DISP1):c.4063T>G (p.Phe1355Val),single nucleotide variant,Uncertain significance,not provided,rs1337594863
+DISP1,NM_001377229.1(DISP1):c.3989C>T (p.Thr1330Met),single nucleotide variant,Uncertain significance,not provided,rs140229487
+DISP1,NM_001377229.1(DISP1):c.1337C>T (p.Thr446Met),single nucleotide variant,Uncertain significance,not specified,rs190037827
+DISP1,NM_001377229.1(DISP1):c.1406T>C (p.Leu469Ser),single nucleotide variant,Uncertain significance,not provided,rs200592414
+DISP1,NM_001377229.1(DISP1):c.3788A>C (p.His1263Pro),single nucleotide variant,Uncertain significance,not provided,rs752958936
+DISP1,NM_001377229.1(DISP1):c.1981C>T (p.Arg661Trp),single nucleotide variant,Uncertain significance,not provided,rs369217520
+DISP1,NM_001377229.1(DISP1):c.1075G>A (p.Ala359Thr),single nucleotide variant,Uncertain significance,not provided,rs747659889
+DISP1,NM_001377229.1(DISP1):c.1400T>C (p.Ile467Thr),single nucleotide variant,Uncertain significance,not provided,rs755303223
+DISP1,NM_001377229.1(DISP1):c.1601C>A (p.Ala534Glu),single nucleotide variant,Uncertain significance,not provided,rs970333368
+DISP1,NM_001377229.1(DISP1):c.3838T>A (p.Leu1280Met),single nucleotide variant,Uncertain significance,not provided,rs754468285
+DISP1,NM_001377229.1(DISP1):c.4036G>A (p.Gly1346Arg),single nucleotide variant,Uncertain significance,not provided,rs201945216
+DISP1,NM_001377229.1(DISP1):c.3194A>G (p.Asp1065Gly),single nucleotide variant,Uncertain significance,not provided,rs763967788
+DISP1,NM_001377229.1(DISP1):c.1828G>A (p.Val610Ile),single nucleotide variant,Uncertain significance,not provided,rs1304068574
+DISP1,NM_001377229.1(DISP1):c.601G>A (p.Val201Ile),single nucleotide variant,Uncertain significance,not provided,rs772344845
+DISP1,NM_001377229.1(DISP1):c.3199G>A (p.Asp1067Asn),single nucleotide variant,Uncertain significance,not provided,rs200714482
+DISP1,NM_001377229.1(DISP1):c.3233G>A (p.Arg1078His),single nucleotide variant,Uncertain significance,not provided,rs150111973
+DISP1,NM_001377229.1(DISP1):c.856T>C (p.Phe286Leu),single nucleotide variant,Uncertain significance,not provided,rs749297185
+DISP1,NM_001377229.1(DISP1):c.2066A>T (p.Gln689Leu),single nucleotide variant,Uncertain significance,not provided,rs773625592
+DISP1,NM_001377229.1(DISP1):c.539+60T>C,single nucleotide variant,Likely benign,not provided,rs74514088
+DISP1,NM_001377229.1(DISP1):c.664G>A (p.Gly222Ser),single nucleotide variant,Uncertain significance,Microform holoprosencephaly,rs1678692537
+DISP1,NM_001377229.1(DISP1):c.566C>T (p.Pro189Leu),single nucleotide variant,Uncertain significance,Microform holoprosencephaly,rs200321673
+DISP1,NM_001377229.1(DISP1):c.1774G>A (p.Glu592Lys),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs140364622
+DISP1,NM_001377229.1(DISP1):c.992G>C (p.Arg331Thr),single nucleotide variant,Uncertain significance,DISP1-related Holoprosencephaly,rs1679522239
+DISP1,NM_001377229.1(DISP1):c.3701C>G (p.Ala1234Gly),single nucleotide variant,Uncertain significance,not provided,rs1679792048
+DISP1,NM_001377229.1(DISP1):c.3961G>A (p.Ala1321Thr),single nucleotide variant,Uncertain significance,not provided,rs138305944
+DISP1,NM_001377229.1(DISP1):c.463G>A (p.Asp155Asn),single nucleotide variant,Uncertain significance,not provided,rs908032421
+DISP1,NM_001377229.1(DISP1):c.540-10T>A,single nucleotide variant,Uncertain significance,not provided,rs1440171002
+DISP1,NM_001377229.1(DISP1):c.1292T>C (p.Leu431Ser),single nucleotide variant,Uncertain significance,not provided,rs1454626478
+DISP1,NM_001377229.1(DISP1):c.3652G>C (p.Glu1218Gln),single nucleotide variant,Uncertain significance,not provided,rs750944404
+DISP1,NM_001377229.1(DISP1):c.3157G>C (p.Ala1053Pro),single nucleotide variant,Uncertain significance,not provided,rs773636648
+DISP1,NM_001377229.1(DISP1):c.1339C>T (p.Pro447Ser),single nucleotide variant,Uncertain significance,not provided,rs1314051578
+DISP1,NM_001377229.1(DISP1):c.509+249A>T,single nucleotide variant,Benign,not provided,rs2789976
+DISP1,NM_001377229.1(DISP1):c.510-131dup,Duplication,Benign,not provided,rs10626845
+DISP1,NM_001377229.1(DISP1):c.664-315A>T,single nucleotide variant,Benign,not provided,rs2789957
+DISP1,NM_001377229.1(DISP1):c.791+85T>G,single nucleotide variant,Benign,not provided,rs74148213
+DISP1,NM_001377229.1(DISP1):c.510-40C>T,single nucleotide variant,Benign,not provided,rs2926159
+DISP1,NM_001377229.1(DISP1):c.-17-40C>T,single nucleotide variant,Benign,not provided,rs75109669
+DISP1,NM_001377229.1(DISP1):c.510-132_510-131dup,Duplication,Benign,not provided,rs10626845
+DISP1,NM_001377229.1(DISP1):c.3235G>A (p.Val1079Met),single nucleotide variant,Benign,not provided,rs76611705
+DISP1,NM_001377229.1(DISP1):c.539+202C>T,single nucleotide variant,Benign,not provided,rs4388710
+DISP1,NM_001377229.1(DISP1):c.3738C>T (p.Asp1246=),single nucleotide variant,Benign,not provided,rs72744122
+DISP1,NM_001377229.1(DISP1):c.988-347G>A,single nucleotide variant,Benign,not provided,rs1890616
+DISP1,NM_001377229.1(DISP1):c.509+213C>T,single nucleotide variant,Benign,not provided,rs79230202
+DISP1,NM_001377229.1(DISP1):c.-17-279G>A,single nucleotide variant,Likely benign,not provided,rs116787287
+DISP1,NM_001377229.1(DISP1):c.4215G>A (p.Thr1405=),single nucleotide variant,Benign/Likely benign,not provided,rs61740997
+DISP1,NM_001377229.1(DISP1):c.1008del (p.Phe336fs),Deletion,Uncertain significance,not provided,rs757426445
+DISP1,NM_001377229.1(DISP1):c.988-231A>G,single nucleotide variant,Likely benign,not provided,rs78501387
+DISP1,NM_001377229.1(DISP1):c.539+129T>C,single nucleotide variant,Likely benign,not provided,rs74317457
+DISP1,NM_001377229.1(DISP1):c.510-208C>T,single nucleotide variant,Benign,not provided,rs2926160
+DISP1,NC_000001.11:g.223006057A>C,single nucleotide variant,Benign,not provided,rs74148216
+DISP1,NM_001377229.1(DISP1):c.1804C>A (p.Gln602Lys),single nucleotide variant,Uncertain significance,not specified,rs555036894
+DISP1,NM_001377229.1(DISP1):c.3413del (p.Gly1138fs),Deletion,Uncertain significance,Microform holoprosencephaly,rs1220999915
+DISP1,NM_001377229.1(DISP1):c.3739G>A (p.Ala1247Thr),single nucleotide variant,Benign,not provided,rs9441940
+DISP1,NM_001377229.1(DISP1):c.1536G>A (p.Val512=),single nucleotide variant,Benign,not provided,rs61738819
+DISP1,NM_001377229.1(DISP1):c.657A>G (p.Pro219=),single nucleotide variant,Likely benign,not provided,rs751161325
+DISP1,NM_001377229.1(DISP1):c.4175C>T (p.Ser1392Leu),single nucleotide variant,Likely benign,not provided,rs140794097
+DISP1,NM_001377229.1(DISP1):c.558C>T (p.Ala186=),single nucleotide variant,Likely benign,not provided,rs111752505
+DISP1,NM_001377229.1(DISP1):c.3716T>C (p.Leu1239Pro),single nucleotide variant,Benign,DISP1-related disorder,rs115615723
+DISP1,NM_001377229.1(DISP1):c.1188A>G (p.Pro396=),single nucleotide variant,Likely benign,not provided,rs200646799
+DISP1,NM_001377229.1(DISP1):c.3153C>T (p.Asp1051=),single nucleotide variant,Likely benign,not provided,rs111796312
+DISP1,NM_001377229.1(DISP1):c.414G>A (p.Thr138=),single nucleotide variant,Benign/Likely benign,not specified,rs143316612
+DISP1,NM_001377229.1(DISP1):c.3966C>T (p.Val1322=),single nucleotide variant,Benign,not provided,rs147272487
+DISP1,NM_001377229.1(DISP1):c.879C>T (p.Cys293=),single nucleotide variant,Likely benign,DISP1-related disorder,rs373716306
+DISP1,NM_001377229.1(DISP1):c.3801G>T (p.Leu1267=),single nucleotide variant,Likely benign,not provided,rs758619213
+DISP1,NM_001377229.1(DISP1):c.51C>T (p.Ser17=),single nucleotide variant,Likely benign,not provided,rs1481527113
+DISP1,NM_001377229.1(DISP1):c.1911G>C (p.Ala637=),single nucleotide variant,Likely benign,DISP1-related disorder,rs140195081
+DISP1,NM_001377229.1(DISP1):c.4249T>C (p.Cys1417Arg),single nucleotide variant,Likely benign,not provided,rs184692250
+DISP1,NM_001377229.1(DISP1):c.2871G>A (p.Ser957=),single nucleotide variant,Likely benign,not provided,rs745985730
+DISP1,NM_001377229.1(DISP1):c.275C>G (p.Thr92Ser),single nucleotide variant,Likely benign,not provided,rs141066173
+DISP1,NM_001377229.1(DISP1):c.3931G>A (p.Gly1311Ser),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs143356409
+DISP1,NM_001377229.1(DISP1):c.2019C>T (p.Pro673=),single nucleotide variant,Likely benign,not provided,rs150357097
+DISP1,NM_001377229.1(DISP1):c.3536A>C (p.Asp1179Ala),single nucleotide variant,Likely benign,not provided,rs571258186
+DISP1,NM_001377229.1(DISP1):c.1074C>T (p.Ile358=),single nucleotide variant,Likely benign,not provided,rs770022569
+DISP1,NM_001377229.1(DISP1):c.2250C>T (p.Ser750=),single nucleotide variant,Likely benign,not provided,rs377033862
+DISP1,NM_001377229.1(DISP1):c.1809C>T (p.His603=),single nucleotide variant,Likely benign,DISP1-related disorder,rs751940938
+DISP1,NM_001377229.1(DISP1):c.4173A>G (p.Pro1391=),single nucleotide variant,Likely benign,not provided,rs144013471
+DISP1,NM_001377229.1(DISP1):c.2267G>A (p.Arg756Gln),single nucleotide variant,Likely benign,not provided,rs148437031
+DISP1,NM_001377229.1(DISP1):c.1911G>T (p.Ala637=),single nucleotide variant,Likely benign,not provided,rs140195081
+DISP1,NM_001377229.1(DISP1):c.1773C>T (p.Ala591=),single nucleotide variant,Likely benign,not provided,rs200623849
+DISP1,NM_001377229.1(DISP1):c.3735T>A (p.Ser1245Arg),single nucleotide variant,Likely benign,not provided,rs746964677
+DISP1,NM_001377229.1(DISP1):c.2271G>A (p.Ser757=),single nucleotide variant,Likely benign,not provided,rs150671718
+DISP1,NM_001377229.1(DISP1):c.1542C>T (p.Val514=),single nucleotide variant,Likely benign,not provided,rs368376610
+DISP1,NM_001377229.1(DISP1):c.2439T>C (p.Asp813=),single nucleotide variant,Benign/Likely benign,DISP1-related disorder,rs147223870
+DISP1,NM_001377229.1(DISP1):c.2781C>T (p.Phe927=),single nucleotide variant,Likely benign,not provided,rs375333427
+DISP1,NM_001377229.1(DISP1):c.4263C>T (p.Asp1421=),single nucleotide variant,Benign,not provided,rs558555782
+DISP1,NM_001377229.1(DISP1):c.3842A>T (p.Asn1281Ile),single nucleotide variant,Likely benign,not provided,rs149190569
+DISP1,NM_001377229.1(DISP1):c.186C>G (p.Val62=),single nucleotide variant,Benign,not provided,rs140230946
+DISP1,NM_001377229.1(DISP1):c.2922T>C (p.Tyr974=),single nucleotide variant,Benign,not provided,rs182895496
+DISP1,NM_001377229.1(DISP1):c.2783A>G (p.Gln928Arg),single nucleotide variant,Likely benign,not provided,rs116310302
+DISP1,NM_001377229.1(DISP1):c.3273C>T (p.Phe1091=),single nucleotide variant,Benign,not provided,rs149359302
+DISP1,NM_001377229.1(DISP1):c.3209G>A (p.Gly1070Asp),single nucleotide variant,Benign,not provided,rs74148215
+DISP1,NM_001377229.1(DISP1):c.3287T>C (p.Met1096Thr),single nucleotide variant,Benign/Likely benign,not provided,rs144673025
+DISP1,NM_001377229.1(DISP1):c.1322C>T (p.Thr441Met),single nucleotide variant,Conflicting classifications of pathogenicity,DISP1-related disorder,rs114523965
+DISP1,NM_001377229.1(DISP1):c.2719A>G (p.Ser907Gly),single nucleotide variant,Uncertain significance,not provided,rs934670686
+DISP1,NM_001377229.1(DISP1):c.3487A>G (p.Ser1163Gly),single nucleotide variant,Benign,not provided,rs61743732
+DISP1,NM_001377229.1(DISP1):c.1843A>G (p.Thr615Ala),single nucleotide variant,Uncertain significance,not provided,rs1231766318
+DISP1,NM_001377229.1(DISP1):c.3705C>A (p.Tyr1235Ter),single nucleotide variant,Uncertain significance,not provided,rs1467939710
+DISP1,NM_001377229.1(DISP1):c.3202C>T (p.Arg1068Ter),single nucleotide variant,Uncertain significance,not provided,rs781023274
+DISP1,NM_001377229.1(DISP1):c.1950A>G (p.Thr650=),single nucleotide variant,Benign/Likely benign,not provided,rs73130656
+DISP1,NM_001377229.1(DISP1):c.3781G>A (p.Val1261Met),single nucleotide variant,Benign,not provided,rs61746480
+DISP1,NM_001377229.1(DISP1):c.559G>A (p.Asp187Asn),single nucleotide variant,Uncertain significance,not specified,rs758163679
+DISP1,NM_001377229.1(DISP1):c.75G>A (p.Pro25=),single nucleotide variant,Benign,not provided,rs61746477
+DISP1,NM_001377229.1(DISP1):c.543T>G (p.Tyr181Ter),single nucleotide variant,Uncertain significance,not provided,rs1085307664
+DISP1,NM_001377229.1(DISP1):c.619G>C (p.Gly207Arg),single nucleotide variant,Uncertain significance,not provided,rs771344437
+DISP1,NM_001377229.1(DISP1):c.3104A>G (p.Asn1035Ser),single nucleotide variant,Uncertain significance,not provided,rs192049195
+DISP1,NM_001377229.1(DISP1):c.3206A>G (p.Glu1069Gly),single nucleotide variant,Uncertain significance,not provided,rs1064795201
+DISP1,NM_001377229.1(DISP1):c.89C>T (p.Pro30Leu),single nucleotide variant,Uncertain significance,not provided,rs780297875
+DISP1,NM_001377229.1(DISP1):c.2485C>T (p.His829Tyr),single nucleotide variant,Uncertain significance,not provided,rs760552910
+DISP1,NM_001377229.1(DISP1):c.2456C>A (p.Ala819Asp),single nucleotide variant,Uncertain significance,not provided,rs1064794602
+DISP1,NM_001377229.1(DISP1):c.3990_3993del (p.His1331fs),Deletion,Uncertain significance,not provided,rs763036343
+DISP1,NM_001377229.1(DISP1):c.743C>T (p.Ala248Val),single nucleotide variant,Uncertain significance,not provided,rs1029577112
+DISP1,NM_001377229.1(DISP1):c.2202C>A (p.Tyr734Ter),single nucleotide variant,Uncertain significance,not provided,rs763031170
+DISP1,NM_001377229.1(DISP1):c.3992A>C (p.His1331Pro),single nucleotide variant,Uncertain significance,not provided,rs750541511
+DISP1,NM_001377229.1(DISP1):c.890-14T>C,single nucleotide variant,Benign,not provided,rs2609359
+DISP1,NM_001377229.1(DISP1):c.3822A>C (p.Pro1274=),single nucleotide variant,Benign,not specified,rs9441941
+DISP1,NM_001377229.1(DISP1):c.309G>T (p.Glu103Asp),single nucleotide variant,Benign,not provided,rs2789975
+DISP1,NM_001377229.1(DISP1):c.307G>A (p.Glu103Lys),single nucleotide variant,Benign,not specified,rs2609383
+DISP1,NM_001377229.1(DISP1):c.2835A>G (p.Lys945=),single nucleotide variant,Benign,not specified,rs2609355
+DISP1,NM_001377229.1(DISP1):c.2898G>A (p.Trp966Ter),single nucleotide variant,Likely pathogenic,Microform holoprosencephaly,rs749035153
+DISP1,NM_001377229.1(DISP1):c.1657G>A (p.Glu553Lys),single nucleotide variant,Uncertain significance,Lobar holoprosencephaly,rs760562145

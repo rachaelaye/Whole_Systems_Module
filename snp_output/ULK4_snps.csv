@@ -1,0 +1,37 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+ULK4,NM_017886.4(ULK4):c.417C>G (p.Asn139Lys),single nucleotide variant,Likely benign,not provided,rs35833603
+ULK4,NM_017886.4(ULK4):c.3201G>A (p.Ser1067=),single nucleotide variant,Benign/Likely benign,not provided,rs143473972
+ULK4,NM_017886.4(ULK4):c.1626T>C (p.Ala542=),single nucleotide variant,Benign/Likely benign,ULK4-related disorder,rs374807458
+ULK4,NM_017886.4(ULK4):c.1183-8C>A,single nucleotide variant,Benign,not provided,rs116649838
+ULK4,NM_017886.4(ULK4):c.3411A>G (p.Ser1137=),single nucleotide variant,Benign,not provided,rs142834126
+ULK4,NM_017886.4(ULK4):c.537C>T (p.Val179=),single nucleotide variant,Likely benign,not provided,rs1452286692
+ULK4,NM_017886.4(ULK4):c.116A>G (p.Lys39Arg),single nucleotide variant,Benign,not specified,rs2272007
+ULK4,NM_017886.4(ULK4):c.670A>G (p.Ile224Val),single nucleotide variant,Benign,not specified,rs1716975
+ULK4,NM_017886.4(ULK4):c.803+3A>C,single nucleotide variant,Benign,not specified,rs1716698
+ULK4,NM_017886.4(ULK4):c.1288-9A>T,single nucleotide variant,Benign,not specified,rs1625226
+ULK4,NM_017886.4(ULK4):c.1349-5C>G,single nucleotide variant,Benign,not specified,rs1717005
+ULK4,NM_017886.4(ULK4):c.1577+10G>A,single nucleotide variant,Benign,not specified,rs1717003
+ULK4,NM_017886.4(ULK4):c.1599A>G (p.Val533=),single nucleotide variant,Benign,not specified,rs1716687
+ULK4,NM_017886.4(ULK4):c.1624G>A (p.Ala542Thr),single nucleotide variant,Benign,not specified,rs1052501
+ULK4,NM_017886.4(ULK4):c.1918T>G (p.Ser640Ala),single nucleotide variant,Benign,not specified,rs4973986
+ULK4,NM_017886.4(ULK4):c.2056G>A (p.Val686Ile),single nucleotide variant,Likely benign,not provided,rs77615850
+ULK4,NM_017886.4(ULK4):c.2584C>T (p.Arg862Ter),single nucleotide variant,Likely benign,ULK4-related disorder,rs199884004
+ULK4,NM_017886.4(ULK4):c.2887G>A (p.Val963Met),single nucleotide variant,Likely benign,ULK4-related disorder,rs188590896
+ULK4,NM_017886.4(ULK4):c.417C>G (p.Asn139Lys),single nucleotide variant,Likely benign,not provided,rs35833603
+ULK4,NM_017886.4(ULK4):c.3201G>A (p.Ser1067=),single nucleotide variant,Benign/Likely benign,not provided,rs143473972
+ULK4,NM_017886.4(ULK4):c.1626T>C (p.Ala542=),single nucleotide variant,Benign/Likely benign,ULK4-related disorder,rs374807458
+ULK4,NM_017886.4(ULK4):c.1183-8C>A,single nucleotide variant,Benign,not provided,rs116649838
+ULK4,NM_017886.4(ULK4):c.3411A>G (p.Ser1137=),single nucleotide variant,Benign,not provided,rs142834126
+ULK4,NM_017886.4(ULK4):c.537C>T (p.Val179=),single nucleotide variant,Likely benign,not provided,rs1452286692
+ULK4,NM_017886.4(ULK4):c.116A>G (p.Lys39Arg),single nucleotide variant,Benign,not specified,rs2272007
+ULK4,NM_017886.4(ULK4):c.670A>G (p.Ile224Val),single nucleotide variant,Benign,not specified,rs1716975
+ULK4,NM_017886.4(ULK4):c.803+3A>C,single nucleotide variant,Benign,not specified,rs1716698
+ULK4,NM_017886.4(ULK4):c.1288-9A>T,single nucleotide variant,Benign,not specified,rs1625226
+ULK4,NM_017886.4(ULK4):c.1349-5C>G,single nucleotide variant,Benign,not specified,rs1717005
+ULK4,NM_017886.4(ULK4):c.1577+10G>A,single nucleotide variant,Benign,not specified,rs1717003
+ULK4,NM_017886.4(ULK4):c.1599A>G (p.Val533=),single nucleotide variant,Benign,not specified,rs1716687
+ULK4,NM_017886.4(ULK4):c.1624G>A (p.Ala542Thr),single nucleotide variant,Benign,not specified,rs1052501
+ULK4,NM_017886.4(ULK4):c.1918T>G (p.Ser640Ala),single nucleotide variant,Benign,not specified,rs4973986
+ULK4,NM_017886.4(ULK4):c.2056G>A (p.Val686Ile),single nucleotide variant,Likely benign,not provided,rs77615850
+ULK4,NM_017886.4(ULK4):c.2584C>T (p.Arg862Ter),single nucleotide variant,Likely benign,ULK4-related disorder,rs199884004
+ULK4,NM_017886.4(ULK4):c.2887G>A (p.Val963Met),single nucleotide variant,Likely benign,ULK4-related disorder,rs188590896

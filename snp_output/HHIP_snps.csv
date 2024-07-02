@@ -1,0 +1,7 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+HHIP,NC_000004.12:g.144559628A>G,single nucleotide variant,association,Chronic obstructive pulmonary disease,rs1828591
+HHIP,NC_000004.12:g.144565237A>G,single nucleotide variant,association,Chronic obstructive pulmonary disease,rs13118928
+HHIP,NC_000004.12:g.144539078A>G,single nucleotide variant,association,Chronic obstructive pulmonary disease,rs13147758
+HHIP,NM_022475.3(HHIP):c.1547+10C>G,single nucleotide variant,Benign,not provided,rs76366317
+HHIP,NM_022475.3(HHIP):c.707G>A (p.Gly236Glu),single nucleotide variant,Benign,not provided,rs61730970
+HHIP,NM_022475.3(HHIP):c.1346C>T (p.Thr449Met),single nucleotide variant,Likely benign,not provided,rs114688020

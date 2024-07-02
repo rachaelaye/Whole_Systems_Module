@@ -1,0 +1,14 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+MEAK7,NM_020947.4(MEAK7):c.196C>T (p.Leu66=),single nucleotide variant,Benign,not provided,rs77408911
+MEAK7,NM_020947.4(MEAK7):c.736C>T (p.Leu246=),single nucleotide variant,Benign,not provided,rs35684738
+MEAK7,NM_020947.4(MEAK7):c.286T>G (p.Ser96Ala),single nucleotide variant,Benign,not provided,rs139063434
+MEAK7,NM_020947.4(MEAK7):c.689T>C (p.Leu230Pro),single nucleotide variant,Benign,not provided,rs148711218
+MEAK7,NM_020947.4(MEAK7):c.1330C>T (p.Arg444Cys),single nucleotide variant,Likely benign,not provided,rs113746582
+MEAK7,NM_020947.4(MEAK7):c.530-6C>T,single nucleotide variant,Benign,not provided,rs116435096
+MEAK7,NM_020947.4(MEAK7):c.813G>A (p.Ser271=),single nucleotide variant,Benign,not provided,rs77677332
+MEAK7,NM_020947.4(MEAK7):c.29G>T (p.Arg10Leu),single nucleotide variant,Benign,not provided,rs8046813
+MEAK7,NM_020947.4(MEAK7):c.699G>C (p.Glu233Asp),single nucleotide variant,Benign,not provided,rs34244563
+MEAK7,NM_020947.4(MEAK7):c.1089dup (p.Gln364fs),Duplication,Likely benign,not provided,rs549073767
+MEAK7,NM_020947.4(MEAK7):c.1258-6C>T,single nucleotide variant,Benign,not provided,rs113369604
+MEAK7,NM_020947.4(MEAK7):c.116A>G (p.Asn39Ser),single nucleotide variant,Likely benign,not provided,rs138181203
+MEAK7,NM_020947.4(MEAK7):c.1301A>G (p.Gln434Arg),single nucleotide variant,Benign,not provided,rs36033299

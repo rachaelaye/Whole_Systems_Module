@@ -1,0 +1,5 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+SFRP2,NM_003013.3(SFRP2):c.246G>A (p.Leu82=),single nucleotide variant,Benign,not provided,rs79844222
+SFRP2,NM_003013.3(SFRP2):c.584-4A>T,single nucleotide variant,Benign,not provided,rs78004612
+SFRP2,NM_003013.3(SFRP2):c.675C>T (p.Asn225=),single nucleotide variant,Likely benign,not provided,rs546360010
+SFRP2,NM_003013.3(SFRP2):c.626A>G (p.Asp209Gly),single nucleotide variant,Likely benign,Anophthalmia-microphthalmia syndrome,rs770485715

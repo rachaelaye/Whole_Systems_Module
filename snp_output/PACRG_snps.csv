@@ -1,0 +1,21 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+PACRG,NM_004562.3(PRKN):c.7+5G>A,single nucleotide variant,Uncertain significance,not provided,rs1204087943
+PACRG,NM_001080379.2(PACRG):c.-244T>C,single nucleotide variant,Benign,not provided,rs68144677
+PACRG,NM_004562.3(PRKN):c.7+111G>A,single nucleotide variant,Likely benign,not provided,rs114231735
+PACRG,NM_001080379.2(PACRG):c.-213A>C,single nucleotide variant,Benign,not provided,rs9347683
+PACRG,NM_004562.3(PRKN):c.-85G>A,single nucleotide variant,Uncertain significance,Autosomal recessive juvenile Parkinson disease 2,rs556535340
+PACRG,NM_004562.3(PRKN):c.-78C>A,single nucleotide variant,Uncertain significance,Autosomal recessive juvenile Parkinson disease 2,rs765761156
+PACRG,NM_004562.3(PRKN):c.-57G>C,single nucleotide variant,Uncertain significance,Autosomal recessive juvenile Parkinson disease 2,rs750626864
+PACRG,NM_004562.3(PRKN):c.2T>C (p.Met1Thr),single nucleotide variant,Pathogenic/Likely pathogenic,not provided,rs771586218
+PACRG,NM_001080379.2(PACRG):c.771C>T (p.Asn257=),single nucleotide variant,Benign,not provided,rs60454188
+PACRG,NM_001080379.2(PACRG):c.614-6C>A,single nucleotide variant,Benign,not provided,rs57286197
+PACRG,NM_001080379.2(PACRG):c.72G>A (p.Leu24=),single nucleotide variant,Benign,not provided,rs115890909
+PACRG,NM_004562.3(PRKN):c.4A>G (p.Ile2Val),single nucleotide variant,Uncertain significance,not provided,rs747682986
+PACRG,NM_004562.3(PRKN):c.7+5G>T,single nucleotide variant,Uncertain significance,not provided,rs1204087943
+PACRG,NM_004562.3(PRKN):c.1A>G (p.Met1Val),single nucleotide variant,Pathogenic/Likely pathogenic,not provided,rs772786691
+PACRG,NM_004562.2(PRKN):c.-107G>A,single nucleotide variant,Uncertain significance,Juvenile-onset Parkinson disease,rs886061239
+PACRG,NM_004562.3(PRKN):c.-46C>T,single nucleotide variant,Uncertain significance,Autosomal recessive juvenile Parkinson disease 2,rs369389244
+PACRG,NM_004562.3(PRKN):c.-42T>C,single nucleotide variant,Uncertain significance,Autosomal recessive juvenile Parkinson disease 2,rs112850281
+PACRG,NM_004562.3(PRKN):c.-30T>C,single nucleotide variant,Benign/Likely benign,PRKN-related disorder,rs200065081
+PACRG,NM_004562.3(PRKN):c.7+4C>T,single nucleotide variant,Uncertain significance,Autosomal recessive juvenile Parkinson disease 2,rs749081702
+PACRG,NM_004562.3(PRKN):c.7+1G>T,single nucleotide variant,Pathogenic,Autosomal recessive juvenile Parkinson disease 2,rs397518439

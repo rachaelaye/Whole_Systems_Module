@@ -1,0 +1,53 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+GLI1,NM_005269.3(GLI1):c.1557G>C (p.Leu519=),single nucleotide variant,Likely benign,not provided,rs113261025
+GLI1,NM_005269.3(GLI1):c.3298G>C (p.Glu1100Gln),single nucleotide variant,Benign,Preaxial hand polydactyly,rs2228226
+GLI1,NM_005269.3(GLI1):c.576G>A (p.Glu192=),single nucleotide variant,Benign,"Polydactyly, postaxial, type A8",rs2228225
+GLI1,NM_005269.3(GLI1):c.2798G>A (p.Gly933Asp),single nucleotide variant,Benign,"Polydactyly, postaxial, type A8",rs2228224
+GLI1,NM_005269.3(GLI1):c.1921G>T (p.Asp641Tyr),single nucleotide variant,Uncertain significance,not specified,rs763500947
+GLI1,NM_005269.3(GLI1):c.1796del (p.Gly599fs),Deletion,Likely pathogenic,not specified,rs758888293
+GLI1,NM_005269.3(GLI1):c.1485T>C (p.Leu495=),single nucleotide variant,Likely benign,GLI1-related disorder,rs201902084
+GLI1,NM_005269.3(GLI1):c.1530G>A (p.Arg510=),single nucleotide variant,Likely benign,GLI1-related disorder,rs551972267
+GLI1,NM_005269.3(GLI1):c.314C>A (p.Ser105Tyr),single nucleotide variant,Likely benign,GLI1-related disorder,rs139570630
+GLI1,NM_005269.3(GLI1):c.2136C>T (p.Ser712=),single nucleotide variant,Benign,GLI1-related disorder,rs148497133
+GLI1,NM_005269.3(GLI1):c.1560C>T (p.Pro520=),single nucleotide variant,Benign,GLI1-related disorder,rs74607574
+GLI1,NM_005269.3(GLI1):c.1214G>A (p.Arg405Gln),single nucleotide variant,Benign,GLI1-related disorder,rs114543757
+GLI1,NM_005269.3(GLI1):c.3318C>T (p.Ala1106=),single nucleotide variant,Benign,GLI1-related disorder,rs61734544
+GLI1,NM_005269.3(GLI1):c.1528C>T (p.Arg510Trp),single nucleotide variant,Likely benign,GLI1-related disorder,rs149817893
+GLI1,NM_005269.3(GLI1):c.3035G>T (p.Gly1012Val),single nucleotide variant,Benign,GLI1-related disorder,rs2229300
+GLI1,NM_005269.3(GLI1):c.3202C>T (p.Arg1068Trp),single nucleotide variant,Likely benign,GLI1-related disorder,rs149870317
+GLI1,NM_005269.3(GLI1):c.1818A>G (p.Ala606=),single nucleotide variant,Likely benign,not provided,rs1431720295
+GLI1,NM_005269.3(GLI1):c.503C>G (p.Pro168Arg),single nucleotide variant,Benign,GLI1-related disorder,rs542007910
+GLI1,NM_005269.3(GLI1):c.678G>A (p.Lys226=),single nucleotide variant,Likely benign,not provided,rs757173437
+GLI1,NM_005269.3(GLI1):c.291G>A (p.Thr97=),single nucleotide variant,Benign/Likely benign,not provided,rs117426148
+GLI1,NM_005269.3(GLI1):c.363C>T (p.Tyr121=),single nucleotide variant,Likely benign,not provided,rs150011919
+GLI1,NM_005269.3(GLI1):c.1517T>A (p.Leu506Gln),single nucleotide variant,Uncertain significance,Preaxial hand polydactyly,rs753690500
+GLI1,NM_005269.3(GLI1):c.337C>T (p.Arg113Ter),single nucleotide variant,Pathogenic,"Polydactyly, postaxial, type A8",rs748321474
+GLI1,NM_005269.3(GLI1):c.1930C>T (p.Gln644Ter),single nucleotide variant,Pathogenic,"Polydactyly, postaxial, type A8",rs1565601979
+GLI1,NM_005269.3(GLI1):c.2340G>A (p.Trp780Ter),single nucleotide variant,Pathogenic,"Polydactyly, postaxial, type A8",rs1309855392
+GLI1,NM_005269.3(GLI1):c.820G>C (p.Gly274Arg),single nucleotide variant,Uncertain significance,Bardet-Biedl syndrome,rs563340967
+GLI1,NM_005269.3(GLI1):c.1557G>C (p.Leu519=),single nucleotide variant,Likely benign,not provided,rs113261025
+GLI1,NM_005269.3(GLI1):c.3298G>C (p.Glu1100Gln),single nucleotide variant,Benign,Preaxial hand polydactyly,rs2228226
+GLI1,NM_005269.3(GLI1):c.576G>A (p.Glu192=),single nucleotide variant,Benign,"Polydactyly, postaxial, type A8",rs2228225
+GLI1,NM_005269.3(GLI1):c.2798G>A (p.Gly933Asp),single nucleotide variant,Benign,"Polydactyly, postaxial, type A8",rs2228224
+GLI1,NM_005269.3(GLI1):c.1921G>T (p.Asp641Tyr),single nucleotide variant,Uncertain significance,not specified,rs763500947
+GLI1,NM_005269.3(GLI1):c.1796del (p.Gly599fs),Deletion,Likely pathogenic,not specified,rs758888293
+GLI1,NM_005269.3(GLI1):c.1485T>C (p.Leu495=),single nucleotide variant,Likely benign,GLI1-related disorder,rs201902084
+GLI1,NM_005269.3(GLI1):c.1530G>A (p.Arg510=),single nucleotide variant,Likely benign,GLI1-related disorder,rs551972267
+GLI1,NM_005269.3(GLI1):c.314C>A (p.Ser105Tyr),single nucleotide variant,Likely benign,GLI1-related disorder,rs139570630
+GLI1,NM_005269.3(GLI1):c.2136C>T (p.Ser712=),single nucleotide variant,Benign,GLI1-related disorder,rs148497133
+GLI1,NM_005269.3(GLI1):c.1560C>T (p.Pro520=),single nucleotide variant,Benign,GLI1-related disorder,rs74607574
+GLI1,NM_005269.3(GLI1):c.1214G>A (p.Arg405Gln),single nucleotide variant,Benign,GLI1-related disorder,rs114543757
+GLI1,NM_005269.3(GLI1):c.3318C>T (p.Ala1106=),single nucleotide variant,Benign,GLI1-related disorder,rs61734544
+GLI1,NM_005269.3(GLI1):c.1528C>T (p.Arg510Trp),single nucleotide variant,Likely benign,GLI1-related disorder,rs149817893
+GLI1,NM_005269.3(GLI1):c.3035G>T (p.Gly1012Val),single nucleotide variant,Benign,GLI1-related disorder,rs2229300
+GLI1,NM_005269.3(GLI1):c.3202C>T (p.Arg1068Trp),single nucleotide variant,Likely benign,GLI1-related disorder,rs149870317
+GLI1,NM_005269.3(GLI1):c.1818A>G (p.Ala606=),single nucleotide variant,Likely benign,not provided,rs1431720295
+GLI1,NM_005269.3(GLI1):c.503C>G (p.Pro168Arg),single nucleotide variant,Benign,GLI1-related disorder,rs542007910
+GLI1,NM_005269.3(GLI1):c.678G>A (p.Lys226=),single nucleotide variant,Likely benign,not provided,rs757173437
+GLI1,NM_005269.3(GLI1):c.291G>A (p.Thr97=),single nucleotide variant,Benign/Likely benign,not provided,rs117426148
+GLI1,NM_005269.3(GLI1):c.363C>T (p.Tyr121=),single nucleotide variant,Likely benign,not provided,rs150011919
+GLI1,NM_005269.3(GLI1):c.1517T>A (p.Leu506Gln),single nucleotide variant,Uncertain significance,Preaxial hand polydactyly,rs753690500
+GLI1,NM_005269.3(GLI1):c.337C>T (p.Arg113Ter),single nucleotide variant,Pathogenic,"Polydactyly, postaxial, type A8",rs748321474
+GLI1,NM_005269.3(GLI1):c.1930C>T (p.Gln644Ter),single nucleotide variant,Pathogenic,"Polydactyly, postaxial, type A8",rs1565601979
+GLI1,NM_005269.3(GLI1):c.2340G>A (p.Trp780Ter),single nucleotide variant,Pathogenic,"Polydactyly, postaxial, type A8",rs1309855392
+GLI1,NM_005269.3(GLI1):c.820G>C (p.Gly274Arg),single nucleotide variant,Uncertain significance,Bardet-Biedl syndrome,rs563340967

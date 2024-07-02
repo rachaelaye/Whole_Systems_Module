@@ -1,0 +1,90 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+SMO,NM_005631.5(SMO):c.331+137G>A,single nucleotide variant,Likely benign,not provided,rs116115552
+SMO,NM_005631.5(SMO):c.1792G>A (p.Gly598Arg),single nucleotide variant,Uncertain significance,Hamartoma of hypothalamus,rs762491039
+SMO,NM_005631.5(SMO):c.1264+168G>A,single nucleotide variant,Likely benign,not provided,rs116059805
+SMO,NM_005631.5(SMO):c.1357+12C>T,single nucleotide variant,Likely benign,not provided,rs55987303
+SMO,NM_005631.5(SMO):c.1937-59G>C,single nucleotide variant,Likely benign,not provided,rs148130645
+SMO,NM_005631.5(SMO):c.392T>C (p.Met131Thr),single nucleotide variant,Uncertain significance,not provided,rs1793703823
+SMO,NM_005631.5(SMO):c.1684C>T (p.Arg562Trp),single nucleotide variant,Uncertain significance,not provided,rs138072219
+SMO,NM_005631.5(SMO):c.602A>T (p.Asp201Val),single nucleotide variant,Uncertain significance,not provided,rs1793744398
+SMO,NM_005631.5(SMO):c.747+72G>A,single nucleotide variant,Benign,not provided,rs2566872
+SMO,NM_005631.5(SMO):c.1467-37A>G,single nucleotide variant,Benign,not provided,rs13242765
+SMO,NM_005631.5(SMO):c.538-186AAAG[4],Microsatellite,Benign,not provided,rs10668861
+SMO,NM_005631.5(SMO):c.1264+41A>G,single nucleotide variant,Benign,Hamartoma of hypothalamus,rs2735842
+SMO,NM_005631.5(SMO):c.1264+130_1264+131dup,Duplication,Benign,not provided,rs10622446
+SMO,NM_005631.5(SMO):c.538-26C>T,single nucleotide variant,Benign,Hamartoma of hypothalamus,rs2703091
+SMO,NM_005631.5(SMO):c.1467-120T>G,single nucleotide variant,Benign,not provided,rs4728158
+SMO,NM_005631.5(SMO):c.*89C>T,single nucleotide variant,Benign,not provided,rs2075780
+SMO,NM_005631.5(SMO):c.747+24G>C,single nucleotide variant,Benign,Hamartoma of hypothalamus,rs2075777
+SMO,NM_005631.5(SMO):c.921-84T>C,single nucleotide variant,Benign,not provided,rs2075779
+SMO,NM_005631.5(SMO):c.1137G>A (p.Ala379=),single nucleotide variant,Benign,not provided,rs35678076
+SMO,NM_005631.5(SMO):c.332-56C>T,single nucleotide variant,Benign,not provided,rs2566871
+SMO,NM_005631.5(SMO):c.1264+288A>G,single nucleotide variant,Benign,not provided,rs2735843
+SMO,NM_005631.5(SMO):c.1264+259del,Deletion,Benign,not provided,rs35143663
+SMO,NM_005631.5(SMO):c.1467-270G>C,single nucleotide variant,Benign,not provided,rs13242728
+SMO,NM_005631.5(SMO):c.920+79C>T,single nucleotide variant,Benign,not provided,rs2075778
+SMO,NM_005631.5(SMO):c.1801+100C>T,single nucleotide variant,Likely benign,not provided,rs112692204
+SMO,NM_005631.5(SMO):c.384C>T (p.Ala128=),single nucleotide variant,Benign/Likely benign,not provided,rs45571737
+SMO,NM_005631.5(SMO):c.*219G>A,single nucleotide variant,Likely benign,not provided,rs41274236
+SMO,NM_005631.5(SMO):c.1801+201del,Deletion,Likely benign,not provided,rs35526047
+SMO,NM_005631.5(SMO):c.1467-44G>A,single nucleotide variant,Likely benign,not provided,rs193242977
+SMO,NM_005631.5(SMO):c.-415G>T,single nucleotide variant,Likely benign,not provided,rs75827493
+SMO,NM_005631.5(SMO):c.1265-209C>T,single nucleotide variant,Likely benign,not provided,rs75661386
+SMO,NM_005631.5(SMO):c.-35G>T,single nucleotide variant,Likely benign,not provided,rs543363913
+SMO,NM_005631.5(SMO):c.2052G>A (p.Pro684=),single nucleotide variant,Benign/Likely benign,not provided,rs77320475
+SMO,NM_005631.5(SMO):c.1801+118C>A,single nucleotide variant,Likely benign,not provided,rs41274167
+SMO,NM_005631.5(SMO):c.747+44C>T,single nucleotide variant,Likely benign,not provided,rs201383344
+SMO,NM_005631.5(SMO):c.1264+243C>T,single nucleotide variant,Likely benign,not provided,rs540755083
+SMO,NM_005631.5(SMO):c.920+68G>A,single nucleotide variant,Likely benign,not provided,rs116744883
+SMO,NM_005631.5(SMO):c.538-91C>A,single nucleotide variant,Likely benign,not provided,rs13223446
+SMO,NM_005631.5(SMO):c.583G>A (p.Val195Met),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs138284001
+SMO,NM_005631.5(SMO):c.332-243G>T,single nucleotide variant,Likely benign,not provided,rs55674128
+SMO,NM_005631.5(SMO):c.1801+23C>T,single nucleotide variant,Likely benign,not provided,rs56144682
+SMO,NM_005631.5(SMO):c.852G>A (p.Gln284=),single nucleotide variant,Likely benign,not provided,rs45445295
+SMO,NM_005631.5(SMO):c.1722T>C (p.Ser574=),single nucleotide variant,Benign,not provided,rs2016607
+SMO,NM_005631.5(SMO):c.747+46T>C,single nucleotide variant,Benign,not provided,rs34894139
+SMO,NM_005631.5(SMO):c.1265-208C>T,single nucleotide variant,Benign,not provided,rs34989446
+SMO,NM_005631.5(SMO):c.50_51insCCT (p.Leu23dup),Insertion,Uncertain significance,not provided,rs936754227
+SMO,NM_005631.5(SMO):c.1198C>T (p.Arg400Cys),single nucleotide variant,Likely pathogenic,Hamartoma of hypothalamus,rs766211091
+SMO,NM_005631.5(SMO):c.160G>A (p.Val54Met),single nucleotide variant,Uncertain significance,not specified,rs541359801
+SMO,NM_005631.5(SMO):c.1726C>T (p.Arg576Trp),single nucleotide variant,Pathogenic,Hamartoma of hypothalamus,rs767688088
+SMO,NM_005631.5(SMO):c.1727G>A (p.Arg576Gln),single nucleotide variant,Pathogenic,Hamartoma of hypothalamus,rs577512487
+SMO,NM_005631.5(SMO):c.1339G>T (p.Glu447Ter),single nucleotide variant,Pathogenic,Hamartoma of hypothalamus,rs1006687669
+SMO,NM_005631.5(SMO):c.781C>T (p.Arg261Cys),single nucleotide variant,Pathogenic,Hamartoma of hypothalamus,rs755698791
+SMO,NM_005631.5(SMO):c.2291_2292del (p.Gln764fs),Deletion,Pathogenic,Hamartoma of hypothalamus,rs1157132860
+SMO,NM_005631.5(SMO):c.536C>T (p.Thr179Met),single nucleotide variant,Uncertain significance,Microcephaly,rs115491500
+SMO,NM_005631.5(SMO):c.723G>A (p.Thr241=),single nucleotide variant,Uncertain significance,not provided,rs371084806
+SMO,NM_005631.5(SMO):c.735G>A (p.Thr245=),single nucleotide variant,Benign/Likely benign,not provided,rs45541540
+SMO,NM_005631.5(SMO):c.2259G>A (p.Pro753=),single nucleotide variant,Benign/Likely benign,not provided,rs45516102
+SMO,NM_005631.5(SMO):c.1317G>A (p.Glu439=),single nucleotide variant,Benign,not provided,rs200510336
+SMO,NM_005631.5(SMO):c.1203G>C (p.Ala401=),single nucleotide variant,Benign/Likely benign,not provided,rs117663825
+SMO,NM_005631.5(SMO):c.717C>T (p.Ala239=),single nucleotide variant,Benign/Likely benign,not provided,rs111482521
+SMO,NM_005631.5(SMO):c.49CTG[8] (p.Leu23dup),Microsatellite,Benign/Likely benign,not provided,rs570242755
+SMO,NM_005631.5(SMO):c.74A>G (p.Asp25Gly),single nucleotide variant,Benign,not provided,rs41304185
+SMO,NM_005631.5(SMO):c.1125C>T (p.Ile375=),single nucleotide variant,Likely benign,not provided,rs1259349686
+SMO,NM_005631.5(SMO):c.2067T>G (p.Pro689=),single nucleotide variant,Likely benign,not provided,rs1457180773
+SMO,NM_005631.5(SMO):c.621C>T (p.Tyr207=),single nucleotide variant,Benign/Likely benign,not provided,rs56318556
+SMO,NM_005631.5(SMO):c.1731C>T (p.His577=),single nucleotide variant,Likely benign,not provided,rs146040859
+SMO,NM_005631.5(SMO):c.582A>G (p.Glu194=),single nucleotide variant,Benign,not provided,rs56334250
+SMO,NM_005631.5(SMO):c.1140+13G>A,single nucleotide variant,Likely benign,not provided,rs56358283
+SMO,NM_005631.5(SMO):c.1164G>C (p.Gly388=),single nucleotide variant,Benign,not specified,rs2228617
+SMO,NM_005631.5(SMO):c.1248C>G (p.Gly416=),single nucleotide variant,Likely benign,not provided,rs199960351
+SMO,NM_005631.5(SMO):c.1417G>C (p.Asp473His),single nucleotide variant,Pathogenic,Basal cell carcinoma,rs17710891
+SMO,NM_005631.5(SMO):c.2057C>T (p.Ala686Val),single nucleotide variant,Uncertain significance,Hamartoma of hypothalamus,rs587778688
+SMO,NM_005631.5(SMO):c.1939C>T (p.Pro647Ser),single nucleotide variant,Benign/Likely benign,not provided,rs34545616
+SMO,NM_005631.5(SMO):c.1921C>G (p.Pro641Ala),single nucleotide variant,Uncertain significance,not provided,rs146200641
+SMO,NM_005631.5(SMO):c.1417G>A (p.Asp473Asn),single nucleotide variant,not provided,not specified,rs17710891
+SMO,NM_005631.5(SMO):c.808G>A (p.Val270Ile),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs111694017
+SMO,NM_005631.5(SMO):c.672G>T (p.Glu224Asp),single nucleotide variant,not provided,not specified,rs148484943
+SMO,NM_005631.5(SMO):c.518G>A (p.Arg173His),single nucleotide variant,Likely benign,not provided,rs147491841
+SMO,NM_005631.5(SMO):c.503G>A (p.Arg168His),single nucleotide variant,Benign,not provided,rs61746143
+SMO,NM_005631.5(SMO):c.517C>T (p.Arg173Cys),single nucleotide variant,not provided,not specified,rs143083812
+SMO,NM_005631.5(SMO):c.2344G>A (p.Asp782Asn),single nucleotide variant,not provided,not specified,rs587778689
+SMO,NM_005631.5(SMO):c.2177G>A (p.Arg726Gln),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs142495470
+SMO,NM_005631.5(SMO):c.2314C>T (p.Arg772Cys),single nucleotide variant,not provided,not specified,rs140172891
+SMO,NM_005631.5(SMO):c.2227C>A (p.Pro743Thr),single nucleotide variant,not provided,not specified,rs112783338
+SMO,NM_005631.5(SMO):c.2093C>G (p.Pro698Arg),single nucleotide variant,Likely benign,SMO-related disorder,rs116640950
+SMO,NM_005631.5(SMO):c.2060C>T (p.Pro687Leu),single nucleotide variant,Benign,not provided,rs55722779
+SMO,NM_005631.5(SMO):c.99C>G (p.Ser33Arg),single nucleotide variant,not provided,not specified,rs587778687
+SMO,NM_005631.5(SMO):c.1685G>A (p.Arg562Gln),single nucleotide variant,Pathogenic,"Basal cell carcinoma, somatic",rs121918348
+SMO,NM_005631.5(SMO):c.1604G>T (p.Trp535Leu),single nucleotide variant,Pathogenic,"Basal cell carcinoma, somatic",rs121918347

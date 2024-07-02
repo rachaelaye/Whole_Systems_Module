@@ -1,0 +1,15 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+HEATR4,NM_024644.5(RIOX1):c.1587C>G (p.Arg529=),single nucleotide variant,Benign/Likely benign,not provided,rs34068039
+HEATR4,NM_001037161.2(ACOT1):c.267C>T (p.Pro89=),single nucleotide variant,Likely benign,not provided,rs766196827
+HEATR4,NM_001037161.2(ACOT1):c.168C>T (p.Thr56=),single nucleotide variant,Likely benign,not provided,rs779044350
+HEATR4,NM_001037161.2(ACOT1):c.1238A>G (p.His413Arg),single nucleotide variant,Likely benign,not provided,rs61987131
+HEATR4,NM_024644.5(RIOX1):c.94C>A (p.Leu32Met),single nucleotide variant,Benign,not provided,rs73293424
+HEATR4,NM_001037161.2(ACOT1):c.827G>C (p.Gly276Ala),single nucleotide variant,Benign,not provided,rs141161609
+HEATR4,NM_001037161.2(ACOT1):c.824T>C (p.Val275Ala),single nucleotide variant,Benign,not provided,rs148598881
+HEATR4,NM_001037161.2(ACOT1):c.605del (p.Thr202fs),Deletion,Likely benign,not provided,rs556872020
+HEATR4,NM_001037161.2(ACOT1):c.150G>A (p.Ala50=),single nucleotide variant,Benign,not provided,rs753756865
+HEATR4,NM_006821.6(ACOT2):c.983A>G (p.His328Arg),single nucleotide variant,Benign,not provided,rs149033118
+HEATR4,NM_152331.4(ACOT4):c.569A>G (p.Tyr190Cys),single nucleotide variant,Uncertain significance,Intellectual disability,rs77814755
+HEATR4,NM_152331.4(ACOT4):c.567T>A (p.Ala189=),single nucleotide variant,Uncertain significance,Intellectual disability,rs74553611
+HEATR4,NM_152331.4(ACOT4):c.566C>A (p.Ala189Asp),single nucleotide variant,Uncertain significance,Intellectual disability,rs77261428
+HEATR4,NM_001037161.2(ACOT1):c.410_423del (p.Glu137fs),Deletion,Pathogenic,Generalized hypotonia,rs1057519450

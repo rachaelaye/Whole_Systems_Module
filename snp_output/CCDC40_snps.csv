@@ -1,0 +1,163 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+CCDC40,NM_017950.4(CCDC40):c.2619+45G>A,single nucleotide variant,Pathogenic,Primary ciliary dyskinesia 15,rs1225389709
+CCDC40,NM_017950.4(CCDC40):c.1814T>C (p.Met605Thr),single nucleotide variant,Uncertain significance,not provided,rs767290092
+CCDC40,NM_017950.4(CCDC40):c.2832+466_2832+467del,Deletion,Conflicting classifications of pathogenicity,not provided,rs570440845
+CCDC40,NM_017950.4(CCDC40):c.2832+462_2832+490dup,Duplication,Uncertain significance,not specified,rs758946774
+CCDC40,NM_017950.4(CCDC40):c.2235+15A>G,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs566067180
+CCDC40,NM_017950.4(CCDC40):c.939+11G>A,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs754748154
+CCDC40,NM_017950.4(CCDC40):c.3181-15T>C,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs376546339
+CCDC40,NM_017950.4(CCDC40):c.564A>G (p.Thr188=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs2037448406
+CCDC40,NM_017950.4(CCDC40):c.855+20_855+24del,Deletion,Likely benign,Primary ciliary dyskinesia,rs2037498801
+CCDC40,NM_017950.4(CCDC40):c.2298C>T (p.His766=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs754496723
+CCDC40,NM_017950.4(CCDC40):c.624C>T (p.His208=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs370581662
+CCDC40,NM_017950.4(CCDC40):c.21G>A (p.Ala7=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs766369570
+CCDC40,NM_017950.4(CCDC40):c.3348C>T (p.Asp1116=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs377559639
+CCDC40,NM_017950.4(CCDC40):c.1509G>C (p.Leu503=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs200124291
+CCDC40,NM_017950.4(CCDC40):c.1160-9G>A,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs779328167
+CCDC40,NM_017950.4(CCDC40):c.2460G>A (p.Glu820=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs369702545
+CCDC40,NM_017950.4(CCDC40):c.2124C>T (p.Leu708=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1598538668
+CCDC40,NM_017950.4(CCDC40):c.3021+12C>T,single nucleotide variant,Benign,Primary ciliary dyskinesia,rs377169531
+CCDC40,NM_017950.4(CCDC40):c.29+11C>G,single nucleotide variant,Benign,Primary ciliary dyskinesia,rs769092437
+CCDC40,NM_017950.4(CCDC40):c.1317+20C>T,single nucleotide variant,Benign,Primary ciliary dyskinesia,rs372184999
+CCDC40,NM_017950.4(CCDC40):c.315G>A (p.Gly105=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1398449246
+CCDC40,NM_017950.4(CCDC40):c.676+11C>G,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs761925173
+CCDC40,NM_017950.4(CCDC40):c.29+7C>G,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs558574170
+CCDC40,NM_017950.4(CCDC40):c.1563-15G>A,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs752972291
+CCDC40,NM_017950.4(CCDC40):c.2614C>T (p.Leu872=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1351266176
+CCDC40,NM_017950.4(CCDC40):c.1989+19G>A,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs768348648
+CCDC40,NM_017950.4(CCDC40):c.867A>G (p.Val289=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1386295352
+CCDC40,NM_017950.4(CCDC40):c.2325G>A (p.Val775=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1483877024
+CCDC40,NM_017950.4(CCDC40):c.1160-10C>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs757777653
+CCDC40,NM_017950.4(CCDC40):c.1160-13C>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs2037808461
+CCDC40,NM_017950.4(CCDC40):c.2995C>T (p.Arg999Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs546342011
+CCDC40,NM_017950.4(CCDC40):c.1528G>A (p.Asp510Asn),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1449822865
+CCDC40,NM_017950.4(CCDC40):c.2734A>G (p.Lys912Glu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs756183009
+CCDC40,NM_017950.4(CCDC40):c.2876G>A (p.Arg959His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs369114517
+CCDC40,NM_017950.4(CCDC40):c.1924_1926del (p.Ser642del),Deletion,Uncertain significance,Primary ciliary dyskinesia,rs750295453
+CCDC40,NM_017950.4(CCDC40):c.1537C>T (p.His513Tyr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs2038023446
+CCDC40,NM_017950.4(CCDC40):c.2216G>A (p.Arg739Gln),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs774558527
+CCDC40,NM_017950.4(CCDC40):c.1488G>A (p.Met496Ile),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs774462299
+CCDC40,NM_017950.4(CCDC40):c.2792C>T (p.Thr931Met),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs202141933
+CCDC40,NM_017950.4(CCDC40):c.1670G>A (p.Arg557Gln),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs200236937
+CCDC40,NM_017950.4(CCDC40):c.1159+3A>T,single nucleotide variant,Likely pathogenic,Primary ciliary dyskinesia,rs1185054167
+CCDC40,NM_017950.4(CCDC40):c.962G>A (p.Arg321Gln),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs114740534
+CCDC40,NM_017950.4(CCDC40):c.2762G>A (p.Arg921His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs745319642
+CCDC40,NM_017950.4(CCDC40):c.1565G>A (p.Gly522Glu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs947035837
+CCDC40,NM_017950.4(CCDC40):c.29+5G>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs934195206
+CCDC40,NM_017950.4(CCDC40):c.2395G>A (p.Asp799Asn),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs757730799
+CCDC40,NM_017950.4(CCDC40):c.690G>T (p.Gly230=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs750834095
+CCDC40,NM_017950.4(CCDC40):c.3148G>A (p.Asp1050Asn),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs111550470
+CCDC40,NM_017950.4(CCDC40):c.2126T>C (p.Ile709Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs759104776
+CCDC40,NM_017950.4(CCDC40):c.783_784del (p.Arg261fs),Microsatellite,Pathogenic,Primary ciliary dyskinesia,rs757076408
+CCDC40,NM_017950.4(CCDC40):c.3409G>A (p.Glu1137Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs774630271
+CCDC40,NM_017950.4(CCDC40):c.2014G>A (p.Gly672Ser),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs769532664
+CCDC40,NM_017950.4(CCDC40):c.344C>T (p.Pro115Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs754194373
+CCDC40,NM_017950.4(CCDC40):c.1246C>T (p.Arg416Cys),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs1489341724
+CCDC40,NM_017950.4(CCDC40):c.2104G>T (p.Val702Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs748948064
+CCDC40,NM_017950.4(CCDC40):c.2104G>A (p.Val702Met),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs748948064
+CCDC40,NM_017950.4(CCDC40):c.1163C>A (p.Ala388Glu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs199948075
+CCDC40,NM_017950.4(CCDC40):c.565G>A (p.Glu189Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs372456780
+CCDC40,NM_017950.4(CCDC40):c.2963G>A (p.Arg988His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs778921041
+CCDC40,NM_017950.4(CCDC40):c.929T>A (p.Leu310His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1209777694
+CCDC40,NM_017950.4(CCDC40):c.552G>A (p.Leu184=),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs141588728
+CCDC40,NM_017950.4(CCDC40):c.1800C>G (p.Asp600Glu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs965506812
+CCDC40,NM_017950.4(CCDC40):c.1240G>A (p.Asp414Asn),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs755164687
+CCDC40,NM_017950.4(CCDC40):c.1804C>A (p.Leu602Met),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1213836538
+CCDC40,NM_017950.4(CCDC40):c.1212_1220del (p.Met404_Asn406del),Deletion,Uncertain significance,Primary ciliary dyskinesia,rs775672044
+CCDC40,NM_017950.4(CCDC40):c.553-3T>C,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs779799024
+CCDC40,NM_017950.4(CCDC40):c.2800C>T (p.Arg934Trp),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs775749296
+CCDC40,NM_017950.4(CCDC40):c.38C>T (p.Pro13Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs541172966
+CCDC40,NM_017950.4(CCDC40):c.2423T>C (p.Met808Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs780626544
+CCDC40,NM_017950.4(CCDC40):c.1225C>T (p.Gln409Ter),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs1472033145
+CCDC40,NM_017950.4(CCDC40):c.2377G>A (p.Glu793Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs367812804
+CCDC40,NM_017950.4(CCDC40):c.1025A>G (p.Gln342Arg),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs201057426
+CCDC40,NM_017950.4(CCDC40):c.2652C>G (p.Asp884Glu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs368398257
+CCDC40,NM_017950.4(CCDC40):c.3262C>T (p.Arg1088Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs766993149
+CCDC40,NM_017950.4(CCDC40):c.3175C>T (p.Arg1059Ter),single nucleotide variant,Pathogenic/Likely pathogenic,Primary ciliary dyskinesia 15,rs1312712049
+CCDC40,NM_017950.4(CCDC40):c.901C>T (p.Arg301Ter),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs201223986
+CCDC40,NM_017950.4(CCDC40):c.2328C>T (p.Thr776=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1225610254
+CCDC40,NM_017950.4(CCDC40):c.2336G>T (p.Arg779Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs183809462
+CCDC40,NM_017950.4(CCDC40):c.2899C>T (p.Arg967Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1483239449
+CCDC40,NM_017950.4(CCDC40):c.1562+12C>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs369729537
+CCDC40,NM_017950.4(CCDC40):c.2670C>T (p.Ser890=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs371516381
+CCDC40,NM_017950.4(CCDC40):c.2539A>T (p.Met847Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs376872623
+CCDC40,NM_017950.4(CCDC40):c.2721T>G (p.Ile907Met),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs2038663366
+CCDC40,NM_017950.4(CCDC40):c.93+2T>C,single nucleotide variant,Likely pathogenic,Primary ciliary dyskinesia,rs2037179047
+CCDC40,NM_017950.4(CCDC40):c.1093G>T (p.Glu365Ter),single nucleotide variant,Likely pathogenic,Primary ciliary dyskinesia,rs1434356376
+CCDC40,NM_017950.4(CCDC40):c.2457del (p.Ile819fs),Deletion,Pathogenic,Primary ciliary dyskinesia,rs1277942930
+CCDC40,NM_017950.4(CCDC40):c.1520A>T (p.Lys507Met),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs563467821
+CCDC40,NM_017950.4(CCDC40):c.2832+509_2832+523del,Deletion,Likely benign,not specified,rs2038699482
+CCDC40,NM_017950.4(CCDC40):c.552+278G>A,single nucleotide variant,Benign,not provided,rs7503000
+CCDC40,NM_017950.4(CCDC40):c.93+215C>T,single nucleotide variant,Benign,not provided,rs138108510
+CCDC40,NM_017950.4(CCDC40):c.1441-137C>A,single nucleotide variant,Benign,not provided,rs78696842
+CCDC40,NM_017950.4(CCDC40):c.676+292A>G,single nucleotide variant,Benign,not provided,rs7211986
+CCDC40,NM_017950.4(CCDC40):c.2450-136G>C,single nucleotide variant,Benign,not provided,rs11150838
+CCDC40,NM_017950.4(CCDC40):c.29+220C>T,single nucleotide variant,Benign,not provided,rs3752040
+CCDC40,NM_017950.4(CCDC40):c.2711+209G>A,single nucleotide variant,Benign,not provided,rs112484891
+CCDC40,NM_017950.4(CCDC40):c.1563-262T>C,single nucleotide variant,Benign,not provided,rs4889952
+CCDC40,NM_017950.4(CCDC40):c.2449+187T>G,single nucleotide variant,Benign,not provided,rs57153705
+CCDC40,NM_017950.4(CCDC40):c.677-188T>C,single nucleotide variant,Benign,not provided,rs8074779
+CCDC40,NM_017950.4(CCDC40):c.1441-314C>T,single nucleotide variant,Benign,not provided,rs10083842
+CCDC40,NM_017950.4(CCDC40):c.553-137G>T,single nucleotide variant,Benign,not provided,rs76104475
+CCDC40,NM_017950.4(CCDC40):c.2832+381G>A,single nucleotide variant,Benign,not provided,rs7207166
+CCDC40,NM_017950.4(CCDC40):c.2449+94G>A,single nucleotide variant,Benign,not provided,rs73436177
+CCDC40,NM_017950.4(CCDC40):c.3021+74C>A,single nucleotide variant,Benign,not provided,rs1561810
+CCDC40,NM_017950.4(CCDC40):c.30-80G>A,single nucleotide variant,Benign,not provided,rs3764438
+CCDC40,NM_017950.4(CCDC40):c.676+328A>G,single nucleotide variant,Benign,not provided,rs7212117
+CCDC40,NM_017950.4(CCDC40):c.2832+701C>T,single nucleotide variant,Benign,not provided,rs73436194
+CCDC40,NM_017950.4(CCDC40):c.2450-132C>T,single nucleotide variant,Benign,not provided,rs12601285
+CCDC40,NM_017950.4(CCDC40):c.676+307C>T,single nucleotide variant,Benign,not provided,rs7223806
+CCDC40,NC_000017.11:g.80036451G>T,single nucleotide variant,Benign,not provided,rs3764441
+CCDC40,NM_017950.4(CCDC40):c.2450-188_2450-184del,Deletion,Benign,not provided,rs57113516
+CCDC40,NM_017950.4(CCDC40):c.677-308G>A,single nucleotide variant,Benign,not provided,rs3829604
+CCDC40,NM_017950.4(CCDC40):c.3181-32T>C,single nucleotide variant,Benign,not provided,rs147702876
+CCDC40,NM_017950.4(CCDC40):c.677-310T>C,single nucleotide variant,Benign,not provided,rs3829605
+CCDC40,NM_017950.4(CCDC40):c.2832+332_2832+363del,Deletion,Benign,not provided,rs1567813085
+CCDC40,NM_017950.4(CCDC40):c.1562+308T>C,single nucleotide variant,Benign,not provided,rs115155178
+CCDC40,NM_017950.4(CCDC40):c.30-191G>T,single nucleotide variant,Benign,not provided,rs3764439
+CCDC40,NM_017950.4(CCDC40):c.2450-265T>G,single nucleotide variant,Benign,not provided,rs11150836
+CCDC40,NM_017950.4(CCDC40):c.3021+117G>A,single nucleotide variant,Benign,not provided,rs12601244
+CCDC40,NM_017950.4(CCDC40):c.2832+332G>C,single nucleotide variant,Benign,not provided,rs4889953
+CCDC40,NM_017950.4(CCDC40):c.855+218A>C,single nucleotide variant,Benign,not provided,rs28484809
+CCDC40,NM_017950.4(CCDC40):c.30-231A>G,single nucleotide variant,Benign,not provided,rs3764440
+CCDC40,NM_017950.4(CCDC40):c.677-137G>A,single nucleotide variant,Benign,not provided,rs2289529
+CCDC40,NM_017950.4(CCDC40):c.676+218C>A,single nucleotide variant,Benign,not provided,rs7223648
+CCDC40,NM_017950.4(CCDC40):c.3181-326T>G,single nucleotide variant,Benign,not provided,rs56120040
+CCDC40,NM_017950.4(CCDC40):c.1563-158AAAT[12],Microsatellite,Benign,not provided,rs60850594
+CCDC40,NM_017950.4(CCDC40):c.2832+578_2832+609del,Microsatellite,Benign,not provided,rs753396712
+CCDC40,NM_017950.4(CCDC40):c.3180+125C>A,single nucleotide variant,Benign,not provided,rs56968343
+CCDC40,NM_017950.4(CCDC40):c.2832+535_2832+597del,Deletion,Benign,not provided,rs71163918
+CCDC40,NM_017950.4(CCDC40):c.3181-125G>A,single nucleotide variant,Benign,not provided,rs55990144
+CCDC40,NM_017950.4(CCDC40):c.676+59T>C,single nucleotide variant,Benign,not provided,rs7212643
+CCDC40,NM_017950.4(CCDC40):c.2832+281A>G,single nucleotide variant,Benign,not provided,rs7210664
+CCDC40,NM_017950.4(CCDC40):c.1563-158AAAT[11],Microsatellite,Benign,not provided,rs60850594
+CCDC40,NM_017950.4(CCDC40):c.1990-110G>A,single nucleotide variant,Benign,not provided,rs715041
+CCDC40,NM_017950.4(CCDC40):c.855+45G>A,single nucleotide variant,Benign,not provided,rs114589110
+CCDC40,NM_017950.4(CCDC40):c.855+198C>G,single nucleotide variant,Benign,not provided,rs28404913
+CCDC40,NM_017950.4(CCDC40):c.552+174G>A,single nucleotide variant,Benign,not provided,rs7502454
+CCDC40,NM_017950.4(CCDC40):c.2712-96G>A,single nucleotide variant,Benign,not provided,rs55987222
+CCDC40,NM_017950.4(CCDC40):c.2711+78A>C,single nucleotide variant,Benign,not provided,rs12942049
+CCDC40,NM_017950.4(CCDC40):c.676+202C>T,single nucleotide variant,Benign,not provided,rs78967608
+CCDC40,NM_017950.4(CCDC40):c.1440+136C>T,single nucleotide variant,Benign,not provided,rs11654770
+CCDC40,NM_017950.4(CCDC40):c.3022-273C>T,single nucleotide variant,Benign,not provided,rs58526201
+CCDC40,NM_017950.4(CCDC40):c.1563-158AAAT[10],Microsatellite,Benign,not provided,rs60850594
+CCDC40,NM_017950.4(CCDC40):c.1562+214G>A,single nucleotide variant,Benign,not provided,rs2289534
+CCDC40,NM_017950.4(CCDC40):c.94-200A>G,single nucleotide variant,Benign,not provided,rs142248358
+CCDC40,NM_017950.4(CCDC40):c.676+108T>C,single nucleotide variant,Benign,not provided,rs114632360
+CCDC40,NM_017950.4(CCDC40):c.2832+720G>C,single nucleotide variant,Benign,not provided,rs9905685
+CCDC40,NM_017950.4(CCDC40):c.1441-106A>G,single nucleotide variant,Benign,not provided,rs80207190
+CCDC40,NM_017950.4(CCDC40):c.3181-210T>C,single nucleotide variant,Benign,not provided,rs55662397
+CCDC40,NM_017950.4(CCDC40):c.2712-255TC[4],Microsatellite,Benign,not provided,rs71163917
+CCDC40,NM_017950.4(CCDC40):c.3181-186G>A,single nucleotide variant,Benign,not provided,rs56176300
+CCDC40,NM_017950.4(CCDC40):c.1159+239C>A,single nucleotide variant,Benign,not provided,rs9890752
+CCDC40,NM_017950.4(CCDC40):c.856-91G>A,single nucleotide variant,Benign,not provided,rs7219552
+CCDC40,NM_017950.4(CCDC40):c.1440+229C>T,single nucleotide variant,Benign,not provided,rs66942325
+CCDC40,NM_017950.4(CCDC40):c.553-136G>T,single nucleotide variant,Benign,not provided,rs77046309
+CCDC40,NM_017950.4(CCDC40):c.1563-158AAAT[9],Microsatellite,Benign,not provided,rs60850594
+CCDC40,NM_017950.4(CCDC40):c.553-135C>T,single nucleotide variant,Benign,not provided,rs80017238
+CCDC40,NM_017950.4(CCDC40):c.1440+140C>A,single nucleotide variant,Benign,not provided,rs75047487
+CCDC40,NM_017950.4(CCDC40):c.1989+192C>T,single nucleotide variant,Benign,not provided,rs79483216
+CCDC40,NM_017950.4(CCDC40):c.1562+64C>T,single nucleotide variant,Benign,not provided,rs56126512
+CCDC40,NM_017950.4(CCDC40):c.2833-114C>T,single nucleotide variant,Benign,not provided,rs1982244
+CCDC40,NM_017950.4(CCDC40):c.1318-76T>C,single nucleotide variant,Benign,not provided,rs78323211
+CCDC40,NM_017950.4(CCDC40):c.2832+274A>G,single nucleotide variant,Benign,not provided,rs7210658

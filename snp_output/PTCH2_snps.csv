@@ -1,0 +1,125 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+PTCH2,NM_003738.5(PTCH2):c.2092G>A (p.Gly698Ser),single nucleotide variant,Uncertain significance,"Diffuse midline glioma, H3 K27-altered",rs1052051090
+PTCH2,NM_003738.5(PTCH2):c.3431G>A (p.Gly1144Glu),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs1234546689
+PTCH2,NM_003738.5(PTCH2):c.3287C>T (p.Thr1096Met),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs1159570918
+PTCH2,NM_003738.5(PTCH2):c.617C>T (p.Pro206Leu),single nucleotide variant,Uncertain significance,not provided,rs1335376477
+PTCH2,NM_003738.5(PTCH2):c.3042G>C (p.Leu1014=),single nucleotide variant,Likely benign,Gorlin syndrome,rs371828594
+PTCH2,NM_003738.5(PTCH2):c.1569G>T (p.Ala523=),single nucleotide variant,Likely benign,Gorlin syndrome,rs143390610
+PTCH2,NM_003738.5(PTCH2):c.525+19A>C,single nucleotide variant,Benign,Gorlin syndrome,rs770589703
+PTCH2,NM_003738.5(PTCH2):c.3114+9G>C,single nucleotide variant,Likely benign,Gorlin syndrome,rs181508787
+PTCH2,NM_003738.5(PTCH2):c.909C>T (p.Ala303=),single nucleotide variant,Likely benign,Gorlin syndrome,rs1653356113
+PTCH2,NM_003738.5(PTCH2):c.987C>T (p.Tyr329=),single nucleotide variant,Likely benign,Gorlin syndrome,rs1338577427
+PTCH2,NM_003738.5(PTCH2):c.3357+15G>A,single nucleotide variant,Likely benign,Gorlin syndrome,rs377239356
+PTCH2,NM_003738.5(PTCH2):c.3114+14C>T,single nucleotide variant,Benign,Gorlin syndrome,rs11211040
+PTCH2,NM_003738.5(PTCH2):c.455+13G>A,single nucleotide variant,Likely benign,Gorlin syndrome,rs369547068
+PTCH2,NM_003738.5(PTCH2):c.1372-19C>T,single nucleotide variant,Likely benign,Gorlin syndrome,rs372260495
+PTCH2,NM_003738.5(PTCH2):c.2695+20C>T,single nucleotide variant,Likely benign,Gorlin syndrome,rs745409083
+PTCH2,NM_003738.5(PTCH2):c.2372-14C>T,single nucleotide variant,Likely benign,Gorlin syndrome,rs1243405696
+PTCH2,NM_003738.5(PTCH2):c.1709+12G>A,single nucleotide variant,Likely benign,Gorlin syndrome,rs369351238
+PTCH2,NM_003738.5(PTCH2):c.1216-5dup,Duplication,Benign,Gorlin syndrome,rs1557645739
+PTCH2,NM_003738.5(PTCH2):c.3257+14G>A,single nucleotide variant,Likely benign,Gorlin syndrome,rs772682205
+PTCH2,NM_003738.5(PTCH2):c.3340C>T (p.Leu1114=),single nucleotide variant,Benign,Gorlin syndrome,rs372274925
+PTCH2,NM_003738.5(PTCH2):c.2640C>T (p.Pro880=),single nucleotide variant,Likely benign,Gorlin syndrome,rs560873168
+PTCH2,NM_003738.5(PTCH2):c.3456C>T (p.Ser1152=),single nucleotide variant,Likely benign,Gorlin syndrome,rs1573638322
+PTCH2,NM_003738.5(PTCH2):c.1367C>A (p.Thr456Asn),single nucleotide variant,Likely benign,Gorlin syndrome,rs546170078
+PTCH2,NM_003738.5(PTCH2):c.312G>T (p.Leu104=),single nucleotide variant,Likely benign,Gorlin syndrome,rs746185871
+PTCH2,NM_003738.5(PTCH2):c.456-9C>T,single nucleotide variant,Likely benign,Gorlin syndrome,rs974138745
+PTCH2,NM_003738.5(PTCH2):c.526-16G>A,single nucleotide variant,Likely benign,Gorlin syndrome,rs367706281
+PTCH2,NM_003738.5(PTCH2):c.2583C>T (p.Thr861=),single nucleotide variant,Likely benign,Gorlin syndrome,rs764888111
+PTCH2,NM_003738.5(PTCH2):c.2700G>A (p.Pro900=),single nucleotide variant,Likely benign,Gorlin syndrome,rs200437527
+PTCH2,NM_003738.5(PTCH2):c.2371+18G>A,single nucleotide variant,Likely benign,Gorlin syndrome,rs370584384
+PTCH2,NM_003738.5(PTCH2):c.3258-19C>A,single nucleotide variant,Likely benign,Gorlin syndrome,rs745648260
+PTCH2,NM_003738.5(PTCH2):c.231T>C (p.Ile77=),single nucleotide variant,Likely benign,Gorlin syndrome,rs770754446
+PTCH2,NM_003738.5(PTCH2):c.1110C>T (p.Asn370=),single nucleotide variant,Likely benign,Gorlin syndrome,rs575126296
+PTCH2,NM_003738.5(PTCH2):c.1311G>A (p.Val437=),single nucleotide variant,Likely benign,Gorlin syndrome,rs749955039
+PTCH2,NM_003738.5(PTCH2):c.1709+19C>T,single nucleotide variant,Likely benign,Gorlin syndrome,rs1265027304
+PTCH2,NM_003738.5(PTCH2):c.618-6C>T,single nucleotide variant,Likely benign,Gorlin syndrome,rs924268501
+PTCH2,NM_003738.5(PTCH2):c.2592G>A (p.Val864=),single nucleotide variant,Likely benign,Gorlin syndrome,rs764151806
+PTCH2,NM_003738.5(PTCH2):c.1591-12T>C,single nucleotide variant,Likely benign,Gorlin syndrome,rs757224543
+PTCH2,NM_003738.5(PTCH2):c.1372-15C>T,single nucleotide variant,Likely benign,Gorlin syndrome,rs763685949
+PTCH2,NM_003738.5(PTCH2):c.132C>G (p.Leu44=),single nucleotide variant,Likely benign,Gorlin syndrome,rs778649189
+PTCH2,NM_003738.5(PTCH2):c.2811C>T (p.Ala937=),single nucleotide variant,Likely benign,Gorlin syndrome,rs375965470
+PTCH2,NM_003738.5(PTCH2):c.2199C>T (p.Tyr733=),single nucleotide variant,Likely benign,Gorlin syndrome,rs764374316
+PTCH2,NM_003738.5(PTCH2):c.3358-11_3358-9dup,Duplication,Likely benign,Gorlin syndrome,rs1240860649
+PTCH2,NM_003738.5(PTCH2):c.450T>C (p.Tyr150=),single nucleotide variant,Likely benign,Gorlin syndrome,rs138866688
+PTCH2,NM_003738.5(PTCH2):c.2673C>T (p.Asp891=),single nucleotide variant,Likely benign,Gorlin syndrome,rs370224493
+PTCH2,NM_003738.5(PTCH2):c.2640C>A (p.Pro880=),single nucleotide variant,Likely benign,Gorlin syndrome,rs560873168
+PTCH2,NM_003738.5(PTCH2):c.2211C>T (p.Tyr737=),single nucleotide variant,Likely benign,Gorlin syndrome,rs543080218
+PTCH2,NM_003738.5(PTCH2):c.1161G>A (p.Leu387=),single nucleotide variant,Likely benign,Gorlin syndrome,rs759092490
+PTCH2,NM_003738.5(PTCH2):c.1233G>A (p.Val411=),single nucleotide variant,Likely benign,Gorlin syndrome,rs1653317387
+PTCH2,NM_003738.5(PTCH2):c.2991G>A (p.Ala997=),single nucleotide variant,Likely benign,Gorlin syndrome,rs756770955
+PTCH2,NM_003738.5(PTCH2):c.3257+13C>T,single nucleotide variant,Likely benign,Gorlin syndrome,rs201767824
+PTCH2,NM_003738.5(PTCH2):c.3114+18G>A,single nucleotide variant,Likely benign,Gorlin syndrome,rs200966764
+PTCH2,NM_003738.5(PTCH2):c.741C>T (p.Tyr247=),single nucleotide variant,Likely benign,Gorlin syndrome,rs771872936
+PTCH2,NM_003738.5(PTCH2):c.72+8G>A,single nucleotide variant,Likely benign,Gorlin syndrome,rs1654014801
+PTCH2,NM_003738.5(PTCH2):c.933G>C (p.Leu311=),single nucleotide variant,Likely benign,Gorlin syndrome,rs966857361
+PTCH2,NM_003738.5(PTCH2):c.2695+11G>C,single nucleotide variant,Likely benign,Gorlin syndrome,rs373843383
+PTCH2,NM_003738.5(PTCH2):c.3357+16G>A,single nucleotide variant,Likely benign,Gorlin syndrome,rs1652977886
+PTCH2,NM_003738.5(PTCH2):c.1372-9C>T,single nucleotide variant,Likely benign,Gorlin syndrome,rs1003390877
+PTCH2,NM_003738.5(PTCH2):c.3258-16C>G,single nucleotide variant,Likely benign,Gorlin syndrome,rs778795322
+PTCH2,NM_003738.5(PTCH2):c.3114+8C>T,single nucleotide variant,Likely benign,Gorlin syndrome,rs765369976
+PTCH2,NM_003738.5(PTCH2):c.321G>A (p.Glu107=),single nucleotide variant,Benign/Likely benign,Gorlin syndrome,rs143348731
+PTCH2,NM_003738.5(PTCH2):c.2931C>T (p.Leu977=),single nucleotide variant,Likely benign,Gorlin syndrome,rs145617280
+PTCH2,NM_003738.5(PTCH2):c.266-16_266-15del,Microsatellite,Benign,Gorlin syndrome,rs756782903
+PTCH2,NM_003738.5(PTCH2):c.1041G>A (p.Gln347=),single nucleotide variant,Likely benign,Gorlin syndrome,rs1557646065
+PTCH2,NM_003738.5(PTCH2):c.3257+1G>A,single nucleotide variant,Uncertain significance,Gorlin syndrome,rs760843273
+PTCH2,NM_003738.5(PTCH2):c.530T>C (p.Ile177Thr),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs1383422802
+PTCH2,NM_003738.5(PTCH2):c.3357+14C>T,single nucleotide variant,Likely benign,Gorlin syndrome,rs765650749
+PTCH2,NM_003738.5(PTCH2):c.2247C>A (p.Tyr749Ter),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs779837932
+PTCH2,NM_003738.5(PTCH2):c.2697C>A (p.Ile899=),single nucleotide variant,Likely benign,Gorlin syndrome,rs777596264
+PTCH2,NM_003738.5(PTCH2):c.2432G>A (p.Arg811His),single nucleotide variant,Uncertain significance,not specified,rs112613379
+PTCH2,NM_003738.5(PTCH2):c.2033C>T (p.Pro678Leu),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs752642110
+PTCH2,NM_003738.5(PTCH2):c.2487C>A (p.Asp829Glu),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs2295996
+PTCH2,NM_003738.5(PTCH2):c.901G>A (p.Gly301Ser),single nucleotide variant,Uncertain significance,not specified,rs757505677
+PTCH2,NM_003738.5(PTCH2):c.1255G>A (p.Ala419Thr),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs765975927
+PTCH2,NM_003738.5(PTCH2):c.2411G>A (p.Arg804His),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs770837969
+PTCH2,NM_003738.5(PTCH2):c.360C>T (p.Arg120=),single nucleotide variant,Likely benign,Gorlin syndrome,rs753753033
+PTCH2,NM_003738.5(PTCH2):c.2977-5C>A,single nucleotide variant,Uncertain significance,Gorlin syndrome,rs950394831
+PTCH2,NM_003738.5(PTCH2):c.2017C>T (p.Arg673Cys),single nucleotide variant,Uncertain significance,not specified,rs151287275
+PTCH2,NM_003738.5(PTCH2):c.791C>A (p.Ala264Asp),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs1653415175
+PTCH2,NM_003738.5(PTCH2):c.359G>T (p.Arg120Leu),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs200617096
+PTCH2,NM_003738.5(PTCH2):c.3506del (p.Leu1169fs),Deletion,Uncertain significance,Gorlin syndrome,rs1049941528
+PTCH2,NM_003738.5(PTCH2):c.2419C>T (p.Arg807Cys),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs376171572
+PTCH2,NM_003738.5(PTCH2):c.1216-1G>C,single nucleotide variant,Uncertain significance,Gorlin syndrome,rs781065537
+PTCH2,NM_003738.5(PTCH2):c.2014G>A (p.Ala672Thr),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs145383991
+PTCH2,NM_003738.5(PTCH2):c.1726G>A (p.Val576Met),single nucleotide variant,Uncertain significance,not specified,rs867905557
+PTCH2,NM_003738.5(PTCH2):c.3506T>C (p.Leu1169Pro),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs779167991
+PTCH2,NM_003738.5(PTCH2):c.2260C>T (p.Arg754Cys),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs779024571
+PTCH2,NM_003738.5(PTCH2):c.1417del (p.Leu473fs),Deletion,Uncertain significance,Gorlin syndrome,rs1653297701
+PTCH2,NM_003738.5(PTCH2):c.2665_2666insTTCAGGGG (p.Lys889fs),Insertion,Uncertain significance,Gorlin syndrome,rs2148874605
+PTCH2,NM_003738.5(PTCH2):c.2247C>T (p.Tyr749=),single nucleotide variant,Likely benign,Gorlin syndrome,rs779837932
+PTCH2,NM_003738.5(PTCH2):c.935+6G>A,single nucleotide variant,Uncertain significance,Gorlin syndrome,rs370065753
+PTCH2,NM_003738.5(PTCH2):c.72+14G>A,single nucleotide variant,Likely benign,Gorlin syndrome,rs202169933
+PTCH2,NM_003738.5(PTCH2):c.73A>C (p.Ile25Leu),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs766919037
+PTCH2,NM_003738.5(PTCH2):c.1243C>T (p.Arg415Trp),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs143737414
+PTCH2,NM_003738.5(PTCH2):c.1111G>A (p.Ala371Thr),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs201191113
+PTCH2,NM_003738.5(PTCH2):c.221G>A (p.Arg74His),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs771760736
+PTCH2,NM_003738.5(PTCH2):c.3427T>G (p.Trp1143Gly),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs1573638370
+PTCH2,NM_003738.5(PTCH2):c.526-2A>G,single nucleotide variant,Uncertain significance,Gorlin syndrome,rs761307519
+PTCH2,NM_003738.5(PTCH2):c.3158A>G (p.His1053Arg),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs1573639533
+PTCH2,NM_003738.5(PTCH2):c.516G>A (p.Met172Ile),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs765585001
+PTCH2,NM_003738.5(PTCH2):c.1081C>T (p.Gln361Ter),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs757205202
+PTCH2,NM_003738.5(PTCH2):c.524G>T (p.Arg175Leu),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs745322399
+PTCH2,NM_003738.5(PTCH2):c.550G>A (p.Val184Met),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs748846701
+PTCH2,NM_003738.5(PTCH2):c.3607G>A (p.Gly1203Arg),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs369587910
+PTCH2,NM_003738.5(PTCH2):c.3076G>A (p.Val1026Ile),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs758023126
+PTCH2,NM_003738.5(PTCH2):c.1756G>T (p.Asp586Tyr),single nucleotide variant,Uncertain significance,not specified,rs751113988
+PTCH2,NM_003738.5(PTCH2):c.527T>G (p.Met176Arg),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs571129554
+PTCH2,NM_003738.5(PTCH2):c.2563C>T (p.Leu855Phe),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs770833248
+PTCH2,NM_003738.5(PTCH2):c.1913C>G (p.Pro638Arg),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs753624626
+PTCH2,NM_003738.5(PTCH2):c.1583C>T (p.Ser528Phe),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs746773302
+PTCH2,NM_003738.5(PTCH2):c.1526dup (p.Asn509fs),Duplication,Uncertain significance,Gorlin syndrome,rs1329842135
+PTCH2,NM_003738.5(PTCH2):c.266T>C (p.Val89Ala),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs752129680
+PTCH2,NM_003738.5(PTCH2):c.1083+4G>A,single nucleotide variant,Conflicting classifications of pathogenicity,Gorlin syndrome,rs370819522
+PTCH2,NM_003738.5(PTCH2):c.1078G>C (p.Val360Leu),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs745653597
+PTCH2,NM_003738.5(PTCH2):c.1492A>G (p.Thr498Ala),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs777213605
+PTCH2,NM_003738.5(PTCH2):c.1624G>A (p.Val542Met),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs1366049289
+PTCH2,NM_003738.5(PTCH2):c.2932G>A (p.Val978Ile),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs201618166
+PTCH2,NM_003738.5(PTCH2):c.953G>A (p.Ser318Asn),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs772366646
+PTCH2,NM_003738.5(PTCH2):c.1621G>T (p.Ala541Ser),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs778833779
+PTCH2,NM_003738.5(PTCH2):c.1682G>A (p.Arg561His),single nucleotide variant,Uncertain significance,not specified,rs375224102
+PTCH2,NM_003738.5(PTCH2):c.2319G>A (p.Pro773=),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs1346751141
+PTCH2,NM_003738.5(PTCH2):c.763C>G (p.Pro255Ala),single nucleotide variant,Uncertain significance,not specified,rs200618779
+PTCH2,NM_003738.5(PTCH2):c.2644C>T (p.Pro882Ser),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs746520920
+PTCH2,NM_003738.5(PTCH2):c.2996T>C (p.Met999Thr),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs149189451
+PTCH2,NM_003738.5(PTCH2):c.738C>G (p.Ala246=),single nucleotide variant,Uncertain significance,Gorlin syndrome,rs58079936

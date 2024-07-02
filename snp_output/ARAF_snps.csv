@@ -1,0 +1,6 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+ARAF,NM_001654.5(ARAF):c.1002C>T (p.Ala334=),single nucleotide variant,Benign,not provided,rs56322617
+ARAF,NM_001654.5(ARAF):c.1734G>C (p.Glu578Asp),single nucleotide variant,Benign,not provided,rs55852926
+ARAF,NM_001654.5(ARAF):c.1413G>A (p.Leu471=),single nucleotide variant,Benign,not provided,rs62636604
+ARAF,NM_001654.5(ARAF):c.641C>T (p.Ser214Phe),single nucleotide variant,Likely pathogenic,"Papillary renal cell carcinoma, sporadic",rs1057519786
+ARAF,NM_001654.5(ARAF):c.641C>G (p.Ser214Cys),single nucleotide variant,Likely pathogenic,"Papillary renal cell carcinoma, sporadic",rs1057519786

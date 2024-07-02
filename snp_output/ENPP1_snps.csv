@@ -1,0 +1,173 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+ENPP1,NM_006208.3(ENPP1):c.208A>T (p.Lys70Ter),single nucleotide variant,Pathogenic,"Arterial calcification, generalized, of infancy, 1",rs1167413684
+ENPP1,NM_006208.3(ENPP1):c.1106C>T (p.Thr369Ile),single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs1446027518
+ENPP1,NM_006208.3(ENPP1):c.26dup (p.Gly10fs),Duplication,Pathogenic,"Hypophosphatemic rickets, autosomal recessive, 2",rs1470739291
+ENPP1,NM_006208.3(ENPP1):c.1273+1G>A,single nucleotide variant,Pathogenic,"Hypophosphatemic rickets, autosomal recessive, 2",rs755969803
+ENPP1,NM_006208.3(ENPP1):c.574del (p.Glu192fs),Deletion,Pathogenic,"Hypophosphatemic rickets, autosomal recessive, 2",rs1234826768
+ENPP1,NM_006208.3(ENPP1):c.2741T>A (p.Leu914Ter),single nucleotide variant,Pathogenic,"Arterial calcification, generalized, of infancy, 1",rs751725130
+ENPP1,NM_006208.3(ENPP1):c.1366C>T (p.Arg456Ter),single nucleotide variant,Pathogenic,Type 2 diabetes mellitus,rs1258544339
+ENPP1,NM_006208.3(ENPP1):c.796-40G>A,single nucleotide variant,Likely benign,not provided,rs144151931
+ENPP1,NM_006208.3(ENPP1):c.617+62T>C,single nucleotide variant,Likely benign,not provided,rs114189737
+ENPP1,NM_006208.3(ENPP1):c.795+12A>G,single nucleotide variant,Likely benign,Hypopigmentation-punctate palmoplantar keratoderma syndrome,rs1781980876
+ENPP1,NM_006208.3(ENPP1):c.313+8_313+9insTTGTGTGT,Insertion,Likely benign,not provided,rs879243445
+ENPP1,NM_006208.3(ENPP1):c.716-15T>C,single nucleotide variant,Likely benign,not provided,rs751158406
+ENPP1,NM_006208.3(ENPP1):c.1724-19C>T,single nucleotide variant,Likely benign,not provided,rs765387857
+ENPP1,NM_006208.3(ENPP1):c.313+19G>T,single nucleotide variant,Likely benign,not provided,rs940664577
+ENPP1,NM_006208.3(ENPP1):c.2608-20_2608-18del,Deletion,Likely benign,not provided,rs768023537
+ENPP1,NM_006208.3(ENPP1):c.2379C>T (p.Val793=),single nucleotide variant,Likely benign,not provided,rs755592935
+ENPP1,NM_006208.3(ENPP1):c.2733T>C (p.Ile911=),single nucleotide variant,Likely benign,not provided,rs758782750
+ENPP1,NM_006208.3(ENPP1):c.210G>A (p.Lys70=),single nucleotide variant,Likely benign,not provided,rs901639495
+ENPP1,NM_006208.3(ENPP1):c.313+9_313+11del,Deletion,Likely benign,not provided,rs779101536
+ENPP1,NM_006208.3(ENPP1):c.2311+8A>G,single nucleotide variant,Likely benign,Hypopigmentation-punctate palmoplantar keratoderma syndrome,rs760047831
+ENPP1,NM_006208.3(ENPP1):c.1376C>T (p.Pro459Leu),single nucleotide variant,Uncertain significance,not provided,rs1340431392
+ENPP1,NM_006208.3(ENPP1):c.199C>G (p.Arg67Gly),single nucleotide variant,Uncertain significance,ENPP1-related disorder,rs1017385280
+ENPP1,NM_006208.3(ENPP1):c.2413G>A (p.Gly805Arg),single nucleotide variant,Uncertain significance,not provided,rs1274938315
+ENPP1,NM_006208.3(ENPP1):c.236C>T (p.Ser79Leu),single nucleotide variant,Uncertain significance,not provided,rs1320639230
+ENPP1,NM_006208.3(ENPP1):c.370G>A (p.Ala124Thr),single nucleotide variant,Uncertain significance,not provided,rs771405037
+ENPP1,NM_006208.3(ENPP1):c.2252G>A (p.Gly751Glu),single nucleotide variant,Uncertain significance,not provided,rs1195604374
+ENPP1,NM_006208.3(ENPP1):c.2114C>T (p.Thr705Met),single nucleotide variant,Likely benign,not provided,rs138032713
+ENPP1,NM_006208.3(ENPP1):c.595A>G (p.Asn199Asp),single nucleotide variant,Uncertain significance,not provided,rs766617922
+ENPP1,NM_006208.3(ENPP1):c.313+9GT[23],Microsatellite,Uncertain significance,not provided,rs59956343
+ENPP1,NM_006208.3(ENPP1):c.1352A>G (p.Tyr451Cys),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs201519006
+ENPP1,NM_006208.3(ENPP1):c.1564T>C (p.Leu522=),single nucleotide variant,Uncertain significance,not provided,rs907688104
+ENPP1,NM_006208.3(ENPP1):c.2741T>G (p.Leu914Trp),single nucleotide variant,Uncertain significance,not provided,rs751725130
+ENPP1,NM_006208.3(ENPP1):c.1273+70A>T,single nucleotide variant,Likely benign,not provided,rs145365159
+ENPP1,NM_006208.3(ENPP1):c.827A>G (p.Asp276Gly),single nucleotide variant,Uncertain significance,Type 2 diabetes mellitus,rs1293256202
+ENPP1,NM_006208.3(ENPP1):c.1438-26T>C,single nucleotide variant,Likely benign,not provided,rs78559603
+ENPP1,NC_000006.12:g.131807976G>A,single nucleotide variant,Likely benign,not provided,rs866671842
+ENPP1,NM_006208.3(ENPP1):c.2607+208T>C,single nucleotide variant,Likely benign,not provided,rs556957117
+ENPP1,NM_006208.3(ENPP1):c.1405+235C>T,single nucleotide variant,Benign,not provided,rs144202023
+ENPP1,NM_006208.3(ENPP1):c.2608-291T>C,single nucleotide variant,Benign,not provided,rs6929388
+ENPP1,NM_006208.3(ENPP1):c.1164+234A>G,single nucleotide variant,Benign,not provided,rs80045736
+ENPP1,NM_006208.3(ENPP1):c.1945+246C>T,single nucleotide variant,Benign,not provided,rs56181787
+ENPP1,NM_006208.3(ENPP1):c.1894-123A>G,single nucleotide variant,Benign,not provided,rs79482937
+ENPP1,NM_006208.3(ENPP1):c.2607+207T>C,single nucleotide variant,Benign,not provided,rs73778352
+ENPP1,NM_006208.3(ENPP1):c.1893+272G>A,single nucleotide variant,Benign,not provided,rs75899506
+ENPP1,NM_006208.3(ENPP1):c.1565+290G>A,single nucleotide variant,Benign,not provided,rs74958472
+ENPP1,NM_006208.3(ENPP1):c.2607+199_2607+200insCATT,Insertion,Benign,not provided,rs10692758
+ENPP1,NM_006208.3(ENPP1):c.2608-63A>G,single nucleotide variant,Benign,not provided,rs9493119
+ENPP1,NM_006208.3(ENPP1):c.1636-58G>T,single nucleotide variant,Benign,not provided,rs115951650
+ENPP1,NM_006208.3(ENPP1):c.1091+131G>A,single nucleotide variant,Benign,not provided,rs113445024
+ENPP1,NM_006208.3(ENPP1):c.556+236C>T,single nucleotide variant,Benign,not provided,rs114676646
+ENPP1,NM_006208.3(ENPP1):c.1164+222C>G,single nucleotide variant,Benign,not provided,rs62424489
+ENPP1,NM_006208.3(ENPP1):c.2231-209C>G,single nucleotide variant,Benign,not provided,rs9493117
+ENPP1,NM_006208.3(ENPP1):c.1893+210C>T,single nucleotide variant,Benign,not provided,rs41286152
+ENPP1,NM_006208.3(ENPP1):c.2230+128TA[3],Microsatellite,Benign,not provided,rs3036847
+ENPP1,NM_006208.3(ENPP1):c.2607+222del,Deletion,Benign,not provided,rs60409660
+ENPP1,NM_006208.3(ENPP1):c.915+27T>G,single nucleotide variant,Benign,not provided,rs9493113
+ENPP1,NM_006208.3(ENPP1):c.1437+154A>C,single nucleotide variant,Benign,not provided,rs7769712
+ENPP1,NM_006208.3(ENPP1):c.313+11_313+13del,Deletion,Benign,not provided,rs371265124
+ENPP1,NM_006208.3(ENPP1):c.1165-210T>C,single nucleotide variant,Benign,not provided,rs17060836
+ENPP1,NM_006208.3(ENPP1):c.2607+206_2607+207insC,Insertion,Benign,not provided,rs11442568
+ENPP1,NM_006208.3(ENPP1):c.314-346C>T,single nucleotide variant,Benign,not provided,rs79342398
+ENPP1,NM_006208.3(ENPP1):c.1893+141G>A,single nucleotide variant,Benign,not provided,rs41286150
+ENPP1,NM_006208.3(ENPP1):c.431-95T>C,single nucleotide variant,Benign,not provided,rs76925655
+ENPP1,NM_006208.3(ENPP1):c.1636-202A>C,single nucleotide variant,Benign,not provided,rs75998327
+ENPP1,NM_006208.3(ENPP1):c.1945+310G>C,single nucleotide variant,Benign,not provided,rs75248580
+ENPP1,NM_006208.3(ENPP1):c.1438-110A>G,single nucleotide variant,Benign,not provided,rs74401203
+ENPP1,NM_006208.3(ENPP1):c.2607+206T>C,single nucleotide variant,Benign,not provided,rs77601007
+ENPP1,NM_006208.3(ENPP1):c.1565+236C>G,single nucleotide variant,Benign,not provided,rs62424513
+ENPP1,NM_006208.3(ENPP1):c.1025+71T>C,single nucleotide variant,Benign,not provided,rs62424483
+ENPP1,NM_006208.3(ENPP1):c.2607+101_2607+102insCTT,Insertion,Benign,not provided,rs10692757
+ENPP1,NM_006208.3(ENPP1):c.1406-216A>T,single nucleotide variant,Benign,not provided,rs7769058
+ENPP1,NM_006208.3(ENPP1):c.314-64G>A,single nucleotide variant,Benign,not provided,rs113260515
+ENPP1,NM_006208.3(ENPP1):c.796-219A>T,single nucleotide variant,Benign,not provided,rs62424482
+ENPP1,NM_006208.3(ENPP1):c.556+197T>C,single nucleotide variant,Benign,not provided,rs78831768
+ENPP1,NM_006208.3(ENPP1):c.1636-254dup,Duplication,Benign,not provided,rs139777112
+ENPP1,NM_006208.3(ENPP1):c.795+141T>C,single nucleotide variant,Benign,not provided,rs58015366
+ENPP1,NM_006208.3(ENPP1):c.1405+236A>G,single nucleotide variant,Benign,not provided,rs4897548
+ENPP1,NM_006208.3(ENPP1):c.556+231G>A,single nucleotide variant,Benign,not provided,rs112329728
+ENPP1,NM_006208.3(ENPP1):c.241-138C>T,single nucleotide variant,Benign,not provided,rs59157727
+ENPP1,NM_006208.3(ENPP1):c.1893+57T>C,single nucleotide variant,Benign,not provided,rs115666152
+ENPP1,NM_006208.3(ENPP1):c.916-151A>G,single nucleotide variant,Benign,not provided,rs9493114
+ENPP1,NM_006208.3(ENPP1):c.715+146G>A,single nucleotide variant,Benign,not provided,rs73539675
+ENPP1,NM_006208.3(ENPP1):c.2101-313AATA[8],Microsatellite,Benign,not provided,rs10595693
+ENPP1,NM_006208.3(ENPP1):c.1165-76del,Deletion,Benign,not provided,rs879176917
+ENPP1,NM_006208.3(ENPP1):c.1893+127T>A,single nucleotide variant,Benign,not provided,rs112743162
+ENPP1,NM_006208.3(ENPP1):c.1894-204C>G,single nucleotide variant,Benign,not provided,rs75254665
+ENPP1,NM_006208.3(ENPP1):c.1091+35C>T,single nucleotide variant,Benign,not provided,rs77594562
+ENPP1,NM_006208.3(ENPP1):c.2101-53A>G,single nucleotide variant,Benign,not provided,rs7768480
+ENPP1,NM_006208.3(ENPP1):c.2608-116C>T,single nucleotide variant,Benign,not provided,rs9493118
+ENPP1,NM_006208.3(ENPP1):c.1274-94C>T,single nucleotide variant,Benign,not provided,rs76261637
+ENPP1,NM_006208.3(ENPP1):c.1946-94A>G,single nucleotide variant,Benign,not provided,rs114690999
+ENPP1,NM_006208.3(ENPP1):c.1025+268C>A,single nucleotide variant,Benign,not provided,rs62424484
+ENPP1,NM_006208.3(ENPP1):c.1894-67G>A,single nucleotide variant,Benign,not provided,rs79914189
+ENPP1,NM_006208.3(ENPP1):c.2101-286_2101-285insAAAA,Insertion,Benign,not provided,rs59854617
+ENPP1,NM_006208.3(ENPP1):c.2230+177_2230+178del,Deletion,Benign,not provided,rs10589841
+ENPP1,NM_006208.3(ENPP1):c.1893+271C>T,single nucleotide variant,Benign,not provided,rs41286154
+ENPP1,NM_006208.3(ENPP1):c.1946-325C>A,single nucleotide variant,Benign,not provided,rs77324163
+ENPP1,NM_006208.3(ENPP1):c.1025+234G>A,single nucleotide variant,Benign,not provided,rs78341739
+ENPP1,NM_006208.3(ENPP1):c.2230+28C>A,single nucleotide variant,Likely benign,not provided,rs181153206
+ENPP1,NM_006208.3(ENPP1):c.314-124C>G,single nucleotide variant,Likely benign,not provided,rs114868782
+ENPP1,NM_006208.3(ENPP1):c.1165-103C>G,single nucleotide variant,Likely benign,not provided,rs140165131
+ENPP1,NM_006208.3(ENPP1):c.1025+291C>T,single nucleotide variant,Likely benign,not provided,rs112519511
+ENPP1,NM_006208.3(ENPP1):c.1165-287A>G,single nucleotide variant,Likely benign,not provided,rs75755833
+ENPP1,NC_000006.12:g.131808001G>T,single nucleotide variant,Likely benign,not provided,rs188291420
+ENPP1,NM_006208.3(ENPP1):c.1091+76C>A,single nucleotide variant,Likely benign,not provided,rs146229718
+ENPP1,NM_006208.3(ENPP1):c.1274-191G>A,single nucleotide variant,Likely benign,not provided,rs77563741
+ENPP1,NM_006208.3(ENPP1):c.2101-215G>A,single nucleotide variant,Likely benign,not provided,rs148418203
+ENPP1,NC_000006.12:g.131807832C>T,single nucleotide variant,Likely benign,not provided,rs183601308
+ENPP1,NM_006208.3(ENPP1):c.1565+283C>T,single nucleotide variant,Likely benign,not provided,rs75112462
+ENPP1,NM_006208.3(ENPP1):c.1406-255A>G,single nucleotide variant,Likely benign,not provided,rs9493115
+ENPP1,NM_006208.3(ENPP1):c.1165-99G>C,single nucleotide variant,Likely benign,not provided,rs370142033
+ENPP1,NM_006208.3(ENPP1):c.1894-279A>G,single nucleotide variant,Benign,not provided,rs3757297
+ENPP1,NM_006208.3(ENPP1):c.2344C>T (p.Arg782Ter),single nucleotide variant,Pathogenic,not provided,rs1782357136
+ENPP1,NC_000006.12:g.131807700C>T,single nucleotide variant,Benign,not provided,rs115872950
+ENPP1,NM_006208.3(ENPP1):c.1274-8dup,Duplication,Benign,not provided,rs149287352
+ENPP1,NM_006208.3(ENPP1):c.313+8_313+9dup,Duplication,Benign/Likely benign,not provided,rs377330284
+ENPP1,NM_006208.3(ENPP1):c.618-20T>G,single nucleotide variant,Benign/Likely benign,not provided,rs143637835
+ENPP1,NM_006208.3(ENPP1):c.273T>G (p.Leu91=),single nucleotide variant,Likely benign,not provided,rs188509861
+ENPP1,NM_006208.3(ENPP1):c.313+9GT[15],Microsatellite,Likely benign,not provided,rs59956343
+ENPP1,NM_006208.3(ENPP1):c.990C>T (p.Asn330=),single nucleotide variant,Likely benign,not provided,rs758973448
+ENPP1,NM_006208.3(ENPP1):c.2445-5T>C,single nucleotide variant,Likely benign,Type 2 diabetes mellitus,rs369942606
+ENPP1,NM_006208.3(ENPP1):c.313+17G>T,single nucleotide variant,Likely benign,not provided,rs907957360
+ENPP1,NM_006208.3(ENPP1):c.313+8_313+9insTTGT,Insertion,Likely benign,not provided,rs879243445
+ENPP1,NM_006208.3(ENPP1):c.749C>T (p.Pro250Leu),single nucleotide variant,Pathogenic/Likely pathogenic,ENPP1-related disorder,rs754659608
+ENPP1,NM_006208.3(ENPP1):c.1699A>G (p.Ile567Val),single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs750660271
+ENPP1,NM_006208.3(ENPP1):c.626C>T (p.Thr209Met),single nucleotide variant,Uncertain significance,Type 2 diabetes mellitus,rs187764662
+ENPP1,NM_006208.3(ENPP1):c.313+11_313+15del,Deletion,Benign,"Arterial calcification, generalized, of infancy, 1",rs771304080
+ENPP1,NM_006208.3(ENPP1):c.*3879A>G,single nucleotide variant,Benign,"Hypophosphatemic rickets, autosomal recessive, 2",rs144511581
+ENPP1,NM_006208.3(ENPP1):c.*1307T>G,single nucleotide variant,Likely benign,"Hypophosphatemic rickets, autosomal recessive, 2",rs189263683
+ENPP1,NM_006208.3(ENPP1):c.*577G>A,single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs891388334
+ENPP1,NM_006208.3(ENPP1):c.*120C>T,single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs1435986196
+ENPP1,NM_006208.3(ENPP1):c.*103A>G,single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs934807026
+ENPP1,NM_006208.3(ENPP1):c.2191A>T (p.Asn731Tyr),single nucleotide variant,Uncertain significance,not provided,rs748292010
+ENPP1,NM_006208.3(ENPP1):c.313+11G>T,single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs781539069
+ENPP1,NM_006208.3(ENPP1):c.*4471C>T,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs755679925
+ENPP1,NM_006208.3(ENPP1):c.*4369C>T,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs1300407002
+ENPP1,NM_006208.3(ENPP1):c.*4332C>T,single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs1446084490
+ENPP1,NM_006208.3(ENPP1):c.*3718C>T,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs867805924
+ENPP1,NM_006208.3(ENPP1):c.*2966C>G,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs1224210803
+ENPP1,NM_006208.3(ENPP1):c.*1940T>G,single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs1752128155
+ENPP1,NM_006208.3(ENPP1):c.*1858C>G,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs559926548
+ENPP1,NM_006208.3(ENPP1):c.*1239T>C,single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs1251519009
+ENPP1,NM_006208.3(ENPP1):c.*902G>A,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs572823916
+ENPP1,NM_006208.3(ENPP1):c.*477A>T,single nucleotide variant,Benign,"Hypophosphatemic rickets, autosomal recessive, 2",rs113086095
+ENPP1,NM_006208.3(ENPP1):c.685G>A (p.Gly229Ser),single nucleotide variant,Uncertain significance,not provided,rs147798392
+ENPP1,NM_006208.3(ENPP1):c.214C>T (p.Pro72Ser),single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs1475050245
+ENPP1,NM_006208.3(ENPP1):c.157A>G (p.Met53Val),single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs1328207700
+ENPP1,NM_006208.3(ENPP1):c.1998G>A (p.Gln666=),single nucleotide variant,Conflicting classifications of pathogenicity,"Hypophosphatemic rickets, autosomal recessive, 2",rs140470927
+ENPP1,NM_006208.3(ENPP1):c.614C>A (p.Ala205Glu),single nucleotide variant,Uncertain significance,not provided,rs145868241
+ENPP1,NM_006208.3(ENPP1):c.601C>T (p.Pro201Ser),single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs752171315
+ENPP1,NM_006208.3(ENPP1):c.536A>G (p.Asn179Ser),single nucleotide variant,Conflicting classifications of pathogenicity,"Hypophosphatemic rickets, autosomal recessive, 2",rs2273411
+ENPP1,NM_006208.3(ENPP1):c.10G>A (p.Asp4Asn),single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs941474086
+ENPP1,NM_006208.3(ENPP1):c.*4064T>C,single nucleotide variant,Benign,"Hypophosphatemic rickets, autosomal recessive, 2",rs141760620
+ENPP1,NM_006208.3(ENPP1):c.*4047C>T,single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs1013601584
+ENPP1,NM_006208.3(ENPP1):c.*3602C>T,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs540525767
+ENPP1,NM_006208.3(ENPP1):c.*3600G>T,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs573224206
+ENPP1,NM_006208.3(ENPP1):c.*2564A>G,single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs534823686
+ENPP1,NM_006208.3(ENPP1):c.*1716G>A,single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs969372935
+ENPP1,NM_006208.3(ENPP1):c.*1618A>G,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs1782479055
+ENPP1,NM_006208.3(ENPP1):c.*1224A>G,single nucleotide variant,Benign,"Hypophosphatemic rickets, autosomal recessive, 2",rs115623040
+ENPP1,NM_006208.3(ENPP1):c.*848T>C,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs1782467588
+ENPP1,NM_006208.3(ENPP1):c.*804A>G,single nucleotide variant,Likely benign,"Hypophosphatemic rickets, autosomal recessive, 2",rs114078048
+ENPP1,NM_006208.3(ENPP1):c.*400C>A,single nucleotide variant,Benign,"Hypophosphatemic rickets, autosomal recessive, 2",rs55828988
+ENPP1,NM_006208.3(ENPP1):c.2444+10T>C,single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs947631280
+ENPP1,NM_006208.3(ENPP1):c.*4620G>T,single nucleotide variant,Uncertain significance,"Arterial calcification, generalized, of infancy, 1",rs1782530336
+ENPP1,NM_006208.3(ENPP1):c.*4014C>A,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs774267525
+ENPP1,NM_006208.3(ENPP1):c.*3920G>A,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs111741864
+ENPP1,NM_006208.3(ENPP1):c.*3919C>T,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs866475719
+ENPP1,NM_006208.3(ENPP1):c.*3885C>T,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs1223923900
+ENPP1,NM_006208.3(ENPP1):c.*2073C>G,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs541153028
+ENPP1,NM_006208.3(ENPP1):c.*1525T>G,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs751093256
+ENPP1,NM_006208.3(ENPP1):c.*1125G>T,single nucleotide variant,Uncertain significance,"Hypophosphatemic rickets, autosomal recessive, 2",rs565731581

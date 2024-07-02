@@ -1,0 +1,187 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+RIPK4,NM_020639.3(RIPK4):c.623+34T>G,single nucleotide variant,Likely benign,not provided,rs199948382
+RIPK4,NM_020639.3(RIPK4):c.2211C>T (p.Ser737=),single nucleotide variant,Uncertain significance,not specified,rs140415395
+RIPK4,NM_020639.3(RIPK4):c.2332C>T (p.Leu778Phe),single nucleotide variant,Uncertain significance,not provided,rs373629912
+RIPK4,NM_020639.3(RIPK4):c.739G>A (p.Val247Met),single nucleotide variant,Uncertain significance,not provided,rs759682809
+RIPK4,NM_020639.3(RIPK4):c.1417A>G (p.Thr473Ala),single nucleotide variant,Uncertain significance,not specified,rs778801615
+RIPK4,NM_020639.3(RIPK4):c.2318G>T (p.Gly773Val),single nucleotide variant,Uncertain significance,not provided,rs764183028
+RIPK4,NM_020639.3(RIPK4):c.1049C>T (p.Pro350Leu),single nucleotide variant,Uncertain significance,not provided,rs370587869
+RIPK4,NM_020639.3(RIPK4):c.183-94C>G,single nucleotide variant,Likely benign,not provided,rs116409546
+RIPK4,NM_020639.3(RIPK4):c.936+95A>G,single nucleotide variant,Benign,not provided,rs34366846
+RIPK4,NM_020639.3(RIPK4):c.722G>A (p.Arg241His),single nucleotide variant,Likely pathogenic,Bartsocas-Papas syndrome 1,rs891831110
+RIPK4,NM_020639.3(RIPK4):c.937-19C>T,single nucleotide variant,Benign,not provided,rs73906243
+RIPK4,NM_020639.3(RIPK4):c.674-124T>C,single nucleotide variant,Benign,not provided,rs73906705
+RIPK4,NM_020639.3(RIPK4):c.673+269C>G,single nucleotide variant,Benign,not provided,rs3787952
+RIPK4,NC_000021.9:g.41767119G>A,single nucleotide variant,Benign,not provided,rs4580471
+RIPK4,NM_020639.3(RIPK4):c.937-250C>T,single nucleotide variant,Benign,not provided,rs71318588
+RIPK4,NM_020639.3(RIPK4):c.937-45T>G,single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs2277790
+RIPK4,NC_000021.9:g.41767238A>C,single nucleotide variant,Benign,not provided,rs8132729
+RIPK4,NM_020639.3(RIPK4):c.1196-177C>T,single nucleotide variant,Benign,not provided,rs3746896
+RIPK4,NM_020639.3(RIPK4):c.1196-43A>G,single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs3746895
+RIPK4,NM_020639.3(RIPK4):c.183-148G>A,single nucleotide variant,Benign,not provided,rs59885183
+RIPK4,NM_020639.3(RIPK4):c.1196-199C>T,single nucleotide variant,Benign,not provided,rs13047402
+RIPK4,NM_020639.3(RIPK4):c.832+147A>C,single nucleotide variant,Benign,not provided,rs8133138
+RIPK4,NM_020639.3(RIPK4):c.936+276G>A,single nucleotide variant,Benign,not provided,rs35023612
+RIPK4,NM_020639.3(RIPK4):c.182+160T>G,single nucleotide variant,Benign,not provided,rs7280904
+RIPK4,NM_020639.3(RIPK4):c.182+169G>T,single nucleotide variant,Benign,not provided,rs114824086
+RIPK4,NM_020639.3(RIPK4):c.1196-99T>A,single nucleotide variant,Likely benign,not provided,rs116559033
+RIPK4,NM_020639.3(RIPK4):c.623+139C>T,single nucleotide variant,Likely benign,not provided,rs144948542
+RIPK4,NM_020639.3(RIPK4):c.*13G>T,single nucleotide variant,Likely benign,not provided,rs138541985
+RIPK4,NM_020639.3(RIPK4):c.833-194A>G,single nucleotide variant,Likely benign,not provided,rs150301539
+RIPK4,NM_020639.3(RIPK4):c.674-84C>T,single nucleotide variant,Likely benign,not provided,rs116839817
+RIPK4,NM_020639.3(RIPK4):c.1198C>G (p.Leu400Val),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs151200820
+RIPK4,NM_020639.3(RIPK4):c.936+85C>T,single nucleotide variant,Likely benign,not provided,rs143337027
+RIPK4,NM_020639.3(RIPK4):c.674-135T>G,single nucleotide variant,Likely benign,not provided,rs13048502
+RIPK4,NM_020639.3(RIPK4):c.936+241A>G,single nucleotide variant,Likely benign,not provided,rs71318589
+RIPK4,NM_020639.3(RIPK4):c.832+214C>T,single nucleotide variant,Likely benign,not provided,rs73906703
+RIPK4,NM_020639.3(RIPK4):c.1196-117C>T,single nucleotide variant,Likely benign,not provided,rs58045760
+RIPK4,NM_020639.3(RIPK4):c.832+178dup,Duplication,Likely benign,not provided,rs201861564
+RIPK4,NC_000021.9:g.41767122C>G,single nucleotide variant,Likely benign,not provided,rs563715273
+RIPK4,NM_020639.3(RIPK4):c.1196-253C>T,single nucleotide variant,Likely benign,not provided,rs13047429
+RIPK4,NM_020639.3(RIPK4):c.721C>T (p.Arg241Cys),single nucleotide variant,Uncertain significance,not provided,rs1351455476
+RIPK4,NM_020639.3(RIPK4):c.936+133C>T,single nucleotide variant,Likely benign,not provided,rs141055264
+RIPK4,NC_000021.9:g.41767408del,Deletion,Likely benign,not provided,rs377021274
+RIPK4,NM_020639.3(RIPK4):c.182+264_182+274del,Microsatellite,Benign,not provided,rs566164426
+RIPK4,NM_020639.3(RIPK4):c.833-319C>T,single nucleotide variant,Benign,not provided,rs76148570
+RIPK4,NM_020639.3(RIPK4):c.475-225C>T,single nucleotide variant,Benign,not provided,rs73369689
+RIPK4,NM_020639.3(RIPK4):c.1511A>G (p.Gln504Arg),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs372327761
+RIPK4,NM_020639.3(RIPK4):c.*173C>T,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs1008340022
+RIPK4,NM_020639.3(RIPK4):c.*204G>A,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs533596469
+RIPK4,NM_020639.3(RIPK4):c.*215G>C,single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs115041500
+RIPK4,NM_020639.3(RIPK4):c.*273A>C,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs1052236618
+RIPK4,NM_020639.3(RIPK4):c.*1192A>G,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs543933391
+RIPK4,NM_020639.3(RIPK4):c.*1203A>T,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs555235524
+RIPK4,NM_020639.3(RIPK4):c.*1206A>G,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs369347545
+RIPK4,NM_020639.3(RIPK4):c.*1376C>T,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs938071196
+RIPK4,NM_020639.3(RIPK4):c.*1420T>G,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs1194984878
+RIPK4,NM_020639.3(RIPK4):c.504C>T (p.Asn168=),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs200523041
+RIPK4,NM_020639.3(RIPK4):c.755C>T (p.Pro252Leu),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs770860869
+RIPK4,NM_020639.3(RIPK4):c.812G>A (p.Arg271Gln),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs144179743
+RIPK4,NM_020639.3(RIPK4):c.1561C>T (p.Arg521Trp),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs148559295
+RIPK4,NM_020639.3(RIPK4):c.1779G>A (p.Pro593=),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs202049606
+RIPK4,NM_020639.3(RIPK4):c.1862G>A (p.Arg621His),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs56056485
+RIPK4,NM_020639.3(RIPK4):c.*298A>G,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs1325503303
+RIPK4,NM_020639.3(RIPK4):c.*416C>T,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs187507566
+RIPK4,NM_020639.3(RIPK4):c.*550C>G,single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs113816274
+RIPK4,NM_020639.3(RIPK4):c.*637G>A,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs572218247
+RIPK4,NM_020639.3(RIPK4):c.*701A>G,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs553704130
+RIPK4,NM_020639.3(RIPK4):c.*1447A>C,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs1356634807
+RIPK4,NM_020639.3(RIPK4):c.899A>T (p.Asp300Val),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs1479686520
+RIPK4,NM_020639.3(RIPK4):c.1039G>A (p.Val347Ile),single nucleotide variant,Conflicting classifications of pathogenicity,RIPK4-related disorder,rs150480670
+RIPK4,NM_020639.3(RIPK4):c.1079C>T (p.Ser360Phe),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs1470223809
+RIPK4,NM_020639.3(RIPK4):c.1106A>G (p.Lys369Arg),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs377595424
+RIPK4,NM_020639.3(RIPK4):c.1995C>T (p.Ala665=),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs758168721
+RIPK4,NM_020639.3(RIPK4):c.2001C>G (p.Thr667=),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs759122850
+RIPK4,NM_020639.3(RIPK4):c.2041G>A (p.Gly681Arg),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs371444612
+RIPK4,NM_020639.3(RIPK4):c.117G>A (p.Val39=),single nucleotide variant,Benign/Likely benign,not provided,rs147023104
+RIPK4,NM_020639.3(RIPK4):c.1195+8G>C,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs750525932
+RIPK4,NM_020639.3(RIPK4):c.*747T>A,single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs188837957
+RIPK4,NM_020639.3(RIPK4):c.*823A>G,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs182698444
+RIPK4,NM_020639.3(RIPK4):c.*824C>T,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs1413927849
+RIPK4,NM_020639.3(RIPK4):c.277G>A (p.Gly93Ser),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs372343704
+RIPK4,NM_020639.3(RIPK4):c.377C>T (p.Ala126Val),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs773242499
+RIPK4,NM_020639.3(RIPK4):c.474+14C>T,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs532592992
+RIPK4,NM_020639.3(RIPK4):c.1453G>A (p.Gly485Ser),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs376154775
+RIPK4,NM_020639.3(RIPK4):c.1477C>T (p.Arg493Trp),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs745574177
+RIPK4,NM_020639.3(RIPK4):c.*72C>T,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs1193530619
+RIPK4,NM_020639.3(RIPK4):c.*161G>A,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs536240693
+RIPK4,NM_020639.3(RIPK4):c.*961G>A,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs1601672028
+RIPK4,NM_020639.3(RIPK4):c.*1025G>T,single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs73216989
+RIPK4,NM_020639.3(RIPK4):c.*1117T>C,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs941229311
+RIPK4,NM_020639.3(RIPK4):c.*1151G>A,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs948234291
+RIPK4,NM_020639.3(RIPK4):c.*1172T>C,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs2061146329
+RIPK4,NM_020639.3(RIPK4):c.1681G>A (p.Val561Met),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs773070455
+RIPK4,NM_020639.3(RIPK4):c.2214G>A (p.Ala738=),single nucleotide variant,Benign,not provided,rs150704061
+RIPK4,NM_020639.3(RIPK4):c.1803G>A (p.Thr601=),single nucleotide variant,Likely benign,not provided,rs758760107
+RIPK4,NM_020639.3(RIPK4):c.2070C>T (p.Val690=),single nucleotide variant,Benign/Likely benign,RIPK4-related disorder,rs149475741
+RIPK4,NM_020639.3(RIPK4):c.2277C>T (p.Ala759=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs201802815
+RIPK4,NM_020639.3(RIPK4):c.2352C>T (p.Thr784=),single nucleotide variant,Benign/Likely benign,not provided,rs141530812
+RIPK4,NM_020639.3(RIPK4):c.2296C>G (p.Leu766Val),single nucleotide variant,Likely benign,Bartsocas-Papas syndrome 1,rs200025631
+RIPK4,NM_020639.3(RIPK4):c.1765C>T (p.Leu589=),single nucleotide variant,Likely benign,not provided,rs760626227
+RIPK4,NM_020639.3(RIPK4):c.2187C>T (p.Asp729=),single nucleotide variant,Likely benign,not provided,rs774253578
+RIPK4,NM_020639.3(RIPK4):c.2007C>T (p.Asp669=),single nucleotide variant,Likely benign,not provided,rs141170819
+RIPK4,NM_020639.3(RIPK4):c.1344C>T (p.Ala448=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs577583084
+RIPK4,NM_020639.3(RIPK4):c.1100G>T (p.Ser367Ile),single nucleotide variant,Likely benign,Bartsocas-Papas syndrome 1,rs201477363
+RIPK4,NM_020639.3(RIPK4):c.1137C>T (p.Ser379=),single nucleotide variant,Conflicting classifications of pathogenicity,Bartsocas-Papas syndrome 1,rs200420912
+RIPK4,NM_020639.3(RIPK4):c.1926C>T (p.His642=),single nucleotide variant,Likely benign,not provided,rs201057277
+RIPK4,NM_020639.3(RIPK4):c.2330C>T (p.Thr777Met),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs147930789
+RIPK4,NM_020639.3(RIPK4):c.369C>T (p.His123=),single nucleotide variant,Likely benign,not provided,rs367871385
+RIPK4,NM_020639.3(RIPK4):c.159G>T (p.Ser53=),single nucleotide variant,Likely benign,not provided,rs6586238
+RIPK4,NM_020639.3(RIPK4):c.1491C>G (p.Val497=),single nucleotide variant,Likely benign,not provided,rs150669860
+RIPK4,NM_020639.3(RIPK4):c.1329C>T (p.His443=),single nucleotide variant,Likely benign,not provided,rs754736537
+RIPK4,NM_020639.3(RIPK4):c.2323G>A (p.Ala775Thr),single nucleotide variant,Benign/Likely benign,Bartsocas-Papas syndrome 1,rs142879262
+RIPK4,NM_020639.3(RIPK4):c.252G>A (p.Val84=),single nucleotide variant,Conflicting classifications of pathogenicity,Bartsocas-Papas syndrome 1,rs138268998
+RIPK4,NM_020639.3(RIPK4):c.303G>A (p.Thr101=),single nucleotide variant,Benign/Likely benign,"Curly hair, ankyloblepharon, nail dysplasia syndrome",rs2277792
+RIPK4,NM_020639.3(RIPK4):c.1458C>T (p.Val486=),single nucleotide variant,Likely benign,not provided,rs773279959
+RIPK4,NM_020639.3(RIPK4):c.330G>A (p.Ser110=),single nucleotide variant,Likely benign,not provided,rs749963367
+RIPK4,NM_020639.3(RIPK4):c.600C>T (p.Phe200=),single nucleotide variant,Likely benign,not provided,rs760414297
+RIPK4,NM_020639.3(RIPK4):c.1119G>T (p.Gly373=),single nucleotide variant,Benign/Likely benign,Bartsocas-Papas syndrome 1,rs61744790
+RIPK4,NM_020639.3(RIPK4):c.832+2T>C,single nucleotide variant,Conflicting classifications of pathogenicity,Bartsocas-Papas syndrome 1,rs146341788
+RIPK4,NM_020639.3(RIPK4):c.850G>A (p.Glu284Lys),single nucleotide variant,Pathogenic,"Curly hair, ankyloblepharon, nail dysplasia syndrome",rs199835696
+RIPK4,NM_020639.3(RIPK4):c.488G>A (p.Gly163Asp),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs764278537
+RIPK4,NM_020639.3(RIPK4):c.265C>T (p.Arg89Cys),single nucleotide variant,Uncertain significance,not specified,rs201602859
+RIPK4,NM_020639.3(RIPK4):c.906C>T (p.Asp302=),single nucleotide variant,Likely benign,not specified,rs142027135
+RIPK4,NM_020639.2(RIPK4):c.-44C>G,single nucleotide variant,Uncertain significance,Popliteal pterygium syndrome,rs774016517
+RIPK4,NM_020639.3(RIPK4):c.7G>A (p.Gly3Ser),single nucleotide variant,Benign/Likely benign,not provided,rs199825512
+RIPK4,NM_020639.3(RIPK4):c.35C>G (p.Ala12Gly),single nucleotide variant,Benign,not provided,rs6586239
+RIPK4,NM_020639.3(RIPK4):c.159G>A (p.Ser53=),single nucleotide variant,Benign,not provided,rs6586238
+RIPK4,NM_020639.3(RIPK4):c.267C>T (p.Arg89=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs55798804
+RIPK4,NM_020639.3(RIPK4):c.271C>A (p.Pro91Thr),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs886057089
+RIPK4,NM_020639.3(RIPK4):c.302C>T (p.Thr101Met),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs778210206
+RIPK4,NM_020639.3(RIPK4):c.327T>C (p.Ala109=),single nucleotide variant,Benign,not provided,rs2277791
+RIPK4,NM_020639.3(RIPK4):c.360A>C (p.Arg120=),single nucleotide variant,Benign,not provided,rs13049286
+RIPK4,NM_020639.3(RIPK4):c.630G>A (p.Ala210=),single nucleotide variant,Benign/Likely benign,not provided,rs2838114
+RIPK4,NM_020639.3(RIPK4):c.630G>C (p.Ala210=),single nucleotide variant,Benign,not provided,rs2838114
+RIPK4,NM_020639.3(RIPK4):c.779G>A (p.Arg260His),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs549925444
+RIPK4,NM_020639.3(RIPK4):c.819G>A (p.Arg273=),single nucleotide variant,Benign/Likely benign,not provided,rs139503982
+RIPK4,NM_020639.3(RIPK4):c.936+6G>A,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs199827829
+RIPK4,NM_020639.3(RIPK4):c.959G>A (p.Arg320Gln),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs187728866
+RIPK4,NM_020639.3(RIPK4):c.1164G>A (p.Ser388=),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs535635195
+RIPK4,NM_020639.3(RIPK4):c.1193G>T (p.Ser398Ile),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs201219158
+RIPK4,NM_020639.3(RIPK4):c.1243G>A (p.Val415Met),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs55645753
+RIPK4,NM_020639.3(RIPK4):c.1311C>T (p.Ser437=),single nucleotide variant,Benign/Likely benign,not provided,rs56149248
+RIPK4,NM_020639.3(RIPK4):c.1425G>A (p.Leu475=),single nucleotide variant,Benign/Likely benign,not provided,rs56092943
+RIPK4,NM_020639.3(RIPK4):c.1530T>C (p.Phe510=),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs761959722
+RIPK4,NM_020639.3(RIPK4):c.1587G>A (p.Ser529=),single nucleotide variant,Benign,not provided,rs61740546
+RIPK4,NM_020639.3(RIPK4):c.1617G>A (p.Thr539=),single nucleotide variant,Benign/Likely benign,not provided,rs61740535
+RIPK4,NM_020639.3(RIPK4):c.1941G>A (p.Thr647=),single nucleotide variant,Benign/Likely benign,not provided,rs116160025
+RIPK4,NM_020639.3(RIPK4):c.1980C>T (p.Gly660=),single nucleotide variant,Benign,not provided,rs144946647
+RIPK4,NM_020639.3(RIPK4):c.2008G>A (p.Gly670Ser),single nucleotide variant,Uncertain significance,not specified,rs148192173
+RIPK4,NM_020639.3(RIPK4):c.2139C>T (p.His713=),single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs202070628
+RIPK4,NM_020639.3(RIPK4):c.2145C>T (p.His715=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs61739694
+RIPK4,NM_020639.3(RIPK4):c.2250G>A (p.Thr750=),single nucleotide variant,Benign/Likely benign,RIPK4-related disorder,rs201024640
+RIPK4,NM_020639.3(RIPK4):c.2325C>T (p.Ala775=),single nucleotide variant,Benign/Likely benign,not provided,rs148947402
+RIPK4,NM_020639.3(RIPK4):c.*59C>T,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs886057088
+RIPK4,NM_020639.3(RIPK4):c.*60G>A,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs886057087
+RIPK4,NM_020639.3(RIPK4):c.*73G>A,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs188084540
+RIPK4,NM_020639.3(RIPK4):c.*90T>C,single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs6586232
+RIPK4,NM_020639.3(RIPK4):c.*142G>A,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs886057086
+RIPK4,NM_020639.3(RIPK4):c.*215G>T,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs115041500
+RIPK4,NM_020639.3(RIPK4):c.*219T>G,single nucleotide variant,Benign/Likely benign,Bartsocas-Papas syndrome 1,rs112292749
+RIPK4,NM_020639.3(RIPK4):c.*275T>C,single nucleotide variant,Benign/Likely benign,Bartsocas-Papas syndrome 1,rs73369674
+RIPK4,NM_020639.3(RIPK4):c.*281G>A,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs576215477
+RIPK4,NM_020639.3(RIPK4):c.*560A>G,single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs3746890
+RIPK4,NM_020639.3(RIPK4):c.*578C>A,single nucleotide variant,Likely benign,Bartsocas-Papas syndrome 1,rs17113879
+RIPK4,NM_020639.3(RIPK4):c.*707G>A,single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs115461340
+RIPK4,NM_020639.3(RIPK4):c.*715A>G,single nucleotide variant,Likely benign,Bartsocas-Papas syndrome 1,rs77257940
+RIPK4,NM_020639.3(RIPK4):c.*729C>T,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs886057084
+RIPK4,NM_020639.3(RIPK4):c.*741G>A,single nucleotide variant,Likely benign,Bartsocas-Papas syndrome 1,rs13050509
+RIPK4,NM_020639.3(RIPK4):c.*748A>G,single nucleotide variant,Likely benign,Bartsocas-Papas syndrome 1,rs17113877
+RIPK4,NM_020639.3(RIPK4):c.*782_*783dup,Duplication,Benign,Popliteal pterygium syndrome,rs34075882
+RIPK4,NM_020639.3(RIPK4):c.*978C>G,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs76434022
+RIPK4,NM_020639.3(RIPK4):c.*983G>A,single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs3171532
+RIPK4,NM_020639.3(RIPK4):c.*1081C>T,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs886057082
+RIPK4,NM_020639.3(RIPK4):c.*1234G>A,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs115885677
+RIPK4,NM_020639.3(RIPK4):c.*1248C>T,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs755144689
+RIPK4,NM_020639.3(RIPK4):c.*1361T>A,single nucleotide variant,Uncertain significance,Bartsocas-Papas syndrome 1,rs190283912
+RIPK4,NM_020639.3(RIPK4):c.2331G>A (p.Thr777=),single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs7276592
+RIPK4,NM_020639.3(RIPK4):c.1996A>G (p.Met666Val),single nucleotide variant,Benign,not provided,rs3746891
+RIPK4,NM_020639.3(RIPK4):c.1548C>T (p.Asp516=),single nucleotide variant,Benign,not provided,rs2838113
+RIPK4,NM_020639.3(RIPK4):c.1476G>A (p.Ala492=),single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs3746893
+RIPK4,NM_020639.3(RIPK4):c.1203C>T (p.Gly401=),single nucleotide variant,Benign,Bartsocas-Papas syndrome 1,rs3746894
+RIPK4,NM_020639.3(RIPK4):c.1005G>T (p.Leu335=),single nucleotide variant,Benign,not specified,rs2277789
+RIPK4,NM_020639.3(RIPK4):c.2101C>T (p.Pro701Ser),single nucleotide variant,Benign/Likely benign,not provided,rs35537517
+RIPK4,NM_020639.3(RIPK4):c.1884C>T (p.Ser628=),single nucleotide variant,Benign/Likely benign,not specified,rs55812846
+RIPK4,NM_020639.3(RIPK4):c.362T>A (p.Ile121Asn),single nucleotide variant,Pathogenic,Bartsocas-Papas syndrome 1,rs387906923
+RIPK4,NM_020639.3(RIPK4):c.242T>A (p.Ile81Asn),single nucleotide variant,Pathogenic,Bartsocas-Papas syndrome 1,rs387906922
+RIPK4,NM_020639.3(RIPK4):c.1127C>A (p.Ser376Ter),single nucleotide variant,Pathogenic,Bartsocas-Papas syndrome 1,rs387906921

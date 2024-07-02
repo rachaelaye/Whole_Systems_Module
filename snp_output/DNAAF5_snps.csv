@@ -1,0 +1,170 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+DNAAF5,NM_017802.4(DNAAF5):c.889G>A (p.Glu297Lys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 18,rs753466171
+DNAAF5,NM_017802.4(DNAAF5):c.416A>G (p.Glu139Gly),single nucleotide variant,Uncertain significance,not specified,rs1240120554
+DNAAF5,NM_017802.4(DNAAF5):c.2239+8A>G,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs202087864
+DNAAF5,NM_017802.4(DNAAF5):c.905+15G>A,single nucleotide variant,Benign,Primary ciliary dyskinesia,rs200552045
+DNAAF5,NM_017802.4(DNAAF5):c.699A>G (p.Ala233=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1781504659
+DNAAF5,NM_017802.4(DNAAF5):c.1773C>A (p.Val591=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs185154075
+DNAAF5,NM_017802.4(DNAAF5):c.735C>T (p.Asp245=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs766158599
+DNAAF5,NM_017802.4(DNAAF5):c.384C>G (p.Pro128=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs2128538410
+DNAAF5,NM_017802.4(DNAAF5):c.1784-14_1784-13del,Deletion,Likely benign,Primary ciliary dyskinesia,rs754684802
+DNAAF5,NM_017802.4(DNAAF5):c.2181G>A (p.Thr727=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs746205271
+DNAAF5,NM_017802.4(DNAAF5):c.2511G>A (p.Ser837=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs143524894
+DNAAF5,NM_017802.4(DNAAF5):c.905+18C>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs772079587
+DNAAF5,NM_017802.4(DNAAF5):c.1932-19C>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs762597761
+DNAAF5,NM_017802.4(DNAAF5):c.1471-14C>G,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs765928517
+DNAAF5,NM_017802.4(DNAAF5):c.2385G>A (p.Leu795=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs112210659
+DNAAF5,NM_017802.4(DNAAF5):c.1783+13G>T,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs201316573
+DNAAF5,NM_017802.4(DNAAF5):c.1098C>T (p.His366=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs142951273
+DNAAF5,NM_017802.4(DNAAF5):c.495C>T (p.Asp165=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1167742655
+DNAAF5,NM_017802.4(DNAAF5):c.2160C>T (p.Ile720=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs777084727
+DNAAF5,NM_017802.4(DNAAF5):c.534C>G (p.Pro178=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs543234628
+DNAAF5,NM_017802.4(DNAAF5):c.906-14_906-11del,Microsatellite,Likely benign,Primary ciliary dyskinesia,rs1444250614
+DNAAF5,NM_017802.4(DNAAF5):c.15G>C (p.Gly5=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1457734920
+DNAAF5,NM_017802.4(DNAAF5):c.79C>G (p.Leu27Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1487987262
+DNAAF5,NM_017802.4(DNAAF5):c.1615-2A>G,single nucleotide variant,Likely pathogenic,Primary ciliary dyskinesia,rs371542660
+DNAAF5,NM_017802.4(DNAAF5):c.238C>T (p.Arg80Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs928452266
+DNAAF5,NM_017802.4(DNAAF5):c.2507G>A (p.Arg836His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs760802184
+DNAAF5,NM_017802.4(DNAAF5):c.2510C>T (p.Ser837Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 18,rs115620965
+DNAAF5,NM_017802.4(DNAAF5):c.2506C>T (p.Arg836Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs755610202
+DNAAF5,NM_017802.4(DNAAF5):c.800C>T (p.Ser267Phe),single nucleotide variant,Uncertain significance,DNAAF5-related disorder,rs1583482187
+DNAAF5,NM_017802.4(DNAAF5):c.517T>C (p.Cys173Arg),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs902736696
+DNAAF5,NM_017802.4(DNAAF5):c.614C>T (p.Ser205Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs373565354
+DNAAF5,NM_017802.4(DNAAF5):c.55G>T (p.Ala19Ser),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1164221686
+DNAAF5,NM_017802.4(DNAAF5):c.2423C>T (p.Ala808Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1778888401
+DNAAF5,NM_017802.4(DNAAF5):c.2374C>T (p.Arg792Ter),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs1216182303
+DNAAF5,NM_017802.4(DNAAF5):c.1777_1778del (p.Gln593fs),Microsatellite,Pathogenic,Primary ciliary dyskinesia,rs1782745000
+DNAAF5,NM_017802.4(DNAAF5):c.1027C>T (p.Arg343Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 18,rs773921234
+DNAAF5,NM_017802.4(DNAAF5):c.2523C>T (p.Cys841=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs370588837
+DNAAF5,NM_017802.4(DNAAF5):c.745del (p.His249fs),Deletion,Pathogenic,Primary ciliary dyskinesia,rs1307353210
+DNAAF5,NM_017802.4(DNAAF5):c.2069T>C (p.Leu690Pro),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs761120794
+DNAAF5,NM_017802.4(DNAAF5):c.943C>T (p.Gln315Ter),single nucleotide variant,Pathogenic,Primary ciliary dyskinesia,rs756233808
+DNAAF5,NM_017802.4(DNAAF5):c.1978C>A (p.Pro660Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1778670673
+DNAAF5,NM_017802.4(DNAAF5):c.1108G>A (p.Asp370Asn),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs200573334
+DNAAF5,NM_017802.4(DNAAF5):c.280G>A (p.Ala94Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1048255936
+DNAAF5,NM_017802.4(DNAAF5):c.2082+5G>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1027651909
+DNAAF5,NM_017802.4(DNAAF5):c.1276C>G (p.Leu426Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs747227150
+DNAAF5,NM_017802.4(DNAAF5):c.1714G>A (p.Ala572Thr),single nucleotide variant,Uncertain significance,DNAAF5-related disorder,rs534027051
+DNAAF5,NM_017802.4(DNAAF5):c.2177A>C (p.Asn726Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1332012675
+DNAAF5,NM_017802.4(DNAAF5):c.1381C>T (p.Arg461Trp),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs373336873
+DNAAF5,NM_017802.4(DNAAF5):c.718G>A (p.Gly240Arg),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs142141660
+DNAAF5,NM_017802.4(DNAAF5):c.1221G>C (p.Gln407His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1782430981
+DNAAF5,NM_017802.4(DNAAF5):c.1246G>A (p.Val416Met),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs775542739
+DNAAF5,NM_017802.4(DNAAF5):c.454G>T (p.Ala152Ser),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs981760144
+DNAAF5,NM_017802.4(DNAAF5):c.1739A>G (p.His580Arg),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs762336859
+DNAAF5,NM_017802.4(DNAAF5):c.500C>G (p.Ala167Gly),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1391723138
+DNAAF5,NM_017802.4(DNAAF5):c.587C>T (p.Ala196Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1369424681
+DNAAF5,NM_017802.4(DNAAF5):c.2546A>C (p.Gln849Pro),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs768265611
+DNAAF5,NM_017802.4(DNAAF5):c.247C>T (p.Arg83Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1368397849
+DNAAF5,NM_017802.4(DNAAF5):c.321_325dup (p.Arg109fs),Microsatellite,Pathogenic,Primary ciliary dyskinesia,rs1376820756
+DNAAF5,NM_017802.4(DNAAF5):c.69G>T (p.Glu23Asp),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs540763017
+DNAAF5,NM_017802.4(DNAAF5):c.1771G>A (p.Val591Ile),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs754002298
+DNAAF5,NM_017802.4(DNAAF5):c.1610A>G (p.Asp537Gly),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs926185028
+DNAAF5,NM_017802.4(DNAAF5):c.1279G>A (p.Val427Ile),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs372983996
+DNAAF5,NM_017802.4(DNAAF5):c.1471-12G>A,single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs370817681
+DNAAF5,NM_017802.4(DNAAF5):c.596-108A>G,single nucleotide variant,Benign,not provided,rs80112543
+DNAAF5,NM_017802.4(DNAAF5):c.1614+259C>G,single nucleotide variant,Benign,not provided,rs62432250
+DNAAF5,NM_017802.4(DNAAF5):c.1470+252C>T,single nucleotide variant,Benign,not provided,rs4725241
+DNAAF5,NM_017802.4(DNAAF5):c.1470+274C>T,single nucleotide variant,Benign,not provided,rs7808491
+DNAAF5,NM_017802.4(DNAAF5):c.1614+322T>G,single nucleotide variant,Benign,not provided,rs62432251
+DNAAF5,NM_017802.4(DNAAF5):c.596-104G>T,single nucleotide variant,Benign,not provided,rs74857857
+DNAAF5,NM_017802.4(DNAAF5):c.1025-272G>A,single nucleotide variant,Benign,not provided,rs6463933
+DNAAF5,NM_017802.4(DNAAF5):c.1025-134C>T,single nucleotide variant,Benign,not provided,rs6951032
+DNAAF5,NM_017802.4(DNAAF5):c.1784-53C>T,single nucleotide variant,Benign,not provided,rs116810256
+DNAAF5,NM_017802.4(DNAAF5):c.*204G>A,single nucleotide variant,Benign,not provided,rs9458
+DNAAF5,NM_017802.4(DNAAF5):c.1784-54G>T,single nucleotide variant,Benign,not provided,rs114852264
+DNAAF5,NM_017802.4(DNAAF5):c.2240-113T>C,single nucleotide variant,Benign,not provided,rs35728023
+DNAAF5,NM_017802.4(DNAAF5):c.1931+251T>C,single nucleotide variant,Benign,not provided,rs6460801
+DNAAF5,NM_017802.4(DNAAF5):c.781-336C>T,single nucleotide variant,Benign,not provided,rs114445934
+DNAAF5,NM_017802.4(DNAAF5):c.781-88G>A,single nucleotide variant,Benign,not provided,rs4720773
+DNAAF5,NM_017802.4(DNAAF5):c.1931+214C>T,single nucleotide variant,Benign,not provided,rs6460800
+DNAAF5,NM_017802.4(DNAAF5):c.1784-44G>A,single nucleotide variant,Benign,not provided,rs79433478
+DNAAF5,NM_017802.4(DNAAF5):c.2083-214G>A,single nucleotide variant,Benign,not provided,rs7783647
+DNAAF5,NM_017802.4(DNAAF5):c.781-33A>T,single nucleotide variant,Benign,not provided,rs116184438
+DNAAF5,NM_017802.4(DNAAF5):c.1257+118C>T,single nucleotide variant,Benign,not provided,rs62432239
+DNAAF5,NM_017802.4(DNAAF5):c.595+30C>A,single nucleotide variant,Benign,not provided,rs116986757
+DNAAF5,NM_017802.4(DNAAF5):c.1471-179C>T,single nucleotide variant,Benign,not provided,rs4548086
+DNAAF5,NM_001164760.2(PRKAR1B):c.-23+627T>C,single nucleotide variant,Benign,not provided,rs79984239
+DNAAF5,NM_017802.4(DNAAF5):c.1024+310G>C,single nucleotide variant,Benign,not provided,rs62432213
+DNAAF5,NM_017802.4(DNAAF5):c.2432-155G>A,single nucleotide variant,Benign,not provided,rs4566936
+DNAAF5,NM_017802.4(DNAAF5):c.596-116A>G,single nucleotide variant,Benign,not provided,rs62432206
+DNAAF5,NM_017802.4(DNAAF5):c.1470+248G>A,single nucleotide variant,Benign,not provided,rs7804737
+DNAAF5,NM_017802.4(DNAAF5):c.1615-199C>T,single nucleotide variant,Benign,not provided,rs4333501
+DNAAF5,NM_017802.4(DNAAF5):c.2432-149T>C,single nucleotide variant,Benign,not provided,rs4509203
+DNAAF5,NM_017802.4(DNAAF5):c.1784-188T>C,single nucleotide variant,Benign,not provided,rs4719261
+DNAAF5,NM_017802.4(DNAAF5):c.1258-160C>T,single nucleotide variant,Benign,not provided,rs73032450
+DNAAF5,NM_017802.4(DNAAF5):c.1932-307C>T,single nucleotide variant,Likely benign,not provided,rs77954069
+DNAAF5,NM_001164760.2(PRKAR1B):c.-23+831A>G,single nucleotide variant,Benign,not provided,rs79215835
+DNAAF5,NM_001164760.2(PRKAR1B):c.-23+679T>G,single nucleotide variant,Benign,not provided,rs62432205
+DNAAF5,NM_017802.4(DNAAF5):c.2432-316C>T,single nucleotide variant,Likely benign,not provided,rs78022191
+DNAAF5,NM_017802.4(DNAAF5):c.781-160G>C,single nucleotide variant,Likely benign,not provided,rs77408922
+DNAAF5,NM_017802.4(DNAAF5):c.1784-283G>A,single nucleotide variant,Likely benign,not provided,rs62432867
+DNAAF5,NM_017802.4(DNAAF5):c.694G>A (p.Gly232Ser),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs369123218
+DNAAF5,NM_017802.4(DNAAF5):c.2431+262G>A,single nucleotide variant,Likely benign,not provided,rs116936105
+DNAAF5,NM_017802.4(DNAAF5):c.2082+236C>T,single nucleotide variant,Likely benign,not provided,rs76962855
+DNAAF5,NM_017802.4(DNAAF5):c.1000A>C (p.Thr334Pro),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1184837316
+DNAAF5,NM_017802.4(DNAAF5):c.1784-258A>G,single nucleotide variant,Likely benign,not provided,rs185920353
+DNAAF5,NM_017802.4(DNAAF5):c.2239+144C>T,single nucleotide variant,Likely benign,not provided,rs75212015
+DNAAF5,NM_017802.4(DNAAF5):c.1258-66G>A,single nucleotide variant,Likely benign,not provided,rs75334176
+DNAAF5,NM_017802.4(DNAAF5):c.595+116C>T,single nucleotide variant,Likely benign,not provided,rs866990454
+DNAAF5,NM_017802.4(DNAAF5):c.1470+63A>G,single nucleotide variant,Likely benign,not provided,rs114376033
+DNAAF5,NM_017802.4(DNAAF5):c.905+121G>A,single nucleotide variant,Likely benign,not provided,rs145951674
+DNAAF5,NM_017802.4(DNAAF5):c.1470+168C>T,single nucleotide variant,Likely benign,not provided,rs76611410
+DNAAF5,NM_017802.4(DNAAF5):c.780+167A>G,single nucleotide variant,Likely benign,not provided,rs78844251
+DNAAF5,NM_017802.4(DNAAF5):c.1783+85C>T,single nucleotide variant,Likely benign,not provided,rs183215567
+DNAAF5,NM_017802.4(DNAAF5):c.781-301A>G,single nucleotide variant,Likely benign,not provided,rs77251857
+DNAAF5,NM_017802.4(DNAAF5):c.2432-227G>T,single nucleotide variant,Likely benign,not provided,rs116103099
+DNAAF5,NM_017802.4(DNAAF5):c.906-125T>G,single nucleotide variant,Benign,not provided,rs6943174
+DNAAF5,NM_017802.4(DNAAF5):c.905+107T>C,single nucleotide variant,Benign,Primary ciliary dyskinesia 18,rs62432212
+DNAAF5,NM_017802.4(DNAAF5):c.*139A>G,single nucleotide variant,Benign,not provided,rs62432897
+DNAAF5,NM_017802.4(DNAAF5):c.2432-40T>C,single nucleotide variant,Benign,not provided,rs67721251
+DNAAF5,NM_017802.4(DNAAF5):c.2083-31G>A,single nucleotide variant,Benign,not provided,rs34943122
+DNAAF5,NM_017802.4(DNAAF5):c.1932-35G>A,single nucleotide variant,Benign,not provided,rs62432869
+DNAAF5,NM_017802.4(DNAAF5):c.1932-67T>C,single nucleotide variant,Benign,not provided,rs4719279
+DNAAF5,NM_017802.4(DNAAF5):c.1784-1298C>G,single nucleotide variant,Benign,Primary ciliary dyskinesia 18,rs6946758
+DNAAF5,NM_017802.4(DNAAF5):c.1615-101G>A,single nucleotide variant,Benign,not provided,rs4495324
+DNAAF5,NM_001164760.2(PRKAR1B):c.-23+632_-23+633insGTATC,Insertion,Benign,not provided,rs150662951
+DNAAF5,NM_017802.4(DNAAF5):c.1257+170C>T,single nucleotide variant,Benign,not provided,rs73032446
+DNAAF5,NM_017802.4(DNAAF5):c.2082+32C>G,single nucleotide variant,Benign,not provided,rs6973746
+DNAAF5,NM_017802.4(DNAAF5):c.905+48G>A,single nucleotide variant,Likely benign,not provided,rs77140093
+DNAAF5,NM_017802.4(DNAAF5):c.1866C>T (p.Arg622=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs754316026
+DNAAF5,NM_017802.4(DNAAF5):c.1784-1273G>A,single nucleotide variant,Likely benign,not provided,rs140560123
+DNAAF5,NM_017802.4(DNAAF5):c.293A>G (p.His98Arg),single nucleotide variant,Uncertain significance,not provided,rs1372269211
+DNAAF5,NM_017802.4(DNAAF5):c.1446C>G (p.Ala482=),single nucleotide variant,Benign/Likely benign,Primary ciliary dyskinesia,rs571248637
+DNAAF5,NM_017802.4(DNAAF5):c.1539C>T (p.Gly513=),single nucleotide variant,Benign,Primary ciliary dyskinesia,rs577043545
+DNAAF5,NM_017802.4(DNAAF5):c.1797A>T (p.Gly599=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs376945935
+DNAAF5,NM_017802.4(DNAAF5):c.1179C>T (p.His393=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs537994269
+DNAAF5,NM_017802.4(DNAAF5):c.1341G>A (p.Thr447=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs200587511
+DNAAF5,NM_017802.4(DNAAF5):c.1080C>T (p.Ile360=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs566588440
+DNAAF5,NM_017802.4(DNAAF5):c.2526G>A (p.Glu842=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs772910548
+DNAAF5,NM_017802.4(DNAAF5):c.840C>T (p.Tyr280=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs199992201
+DNAAF5,NM_017802.4(DNAAF5):c.1599C>T (p.Thr533=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs771906023
+DNAAF5,NM_017802.4(DNAAF5):c.2142G>A (p.Ser714=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs113450580
+DNAAF5,NM_017802.4(DNAAF5):c.1950C>G (p.Leu650=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs755182384
+DNAAF5,NM_017802.4(DNAAF5):c.324G>C (p.Ala108=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1241458505
+DNAAF5,NM_017802.4(DNAAF5):c.2200G>A (p.Gly734Ser),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs191515363
+DNAAF5,NM_017802.4(DNAAF5):c.1959G>A (p.Val653=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1583517339
+DNAAF5,NM_017802.4(DNAAF5):c.129G>A (p.Lys43=),single nucleotide variant,Likely benign,not provided,rs1039124490
+DNAAF5,NM_017802.4(DNAAF5):c.2196G>A (p.Ser732=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs374069664
+DNAAF5,NM_017802.4(DNAAF5):c.2535G>A (p.Leu845=),single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs1326859026
+DNAAF5,NM_017802.4(DNAAF5):c.1783+8G>A,single nucleotide variant,Likely benign,Primary ciliary dyskinesia,rs758632496
+DNAAF5,NM_017802.4(DNAAF5):c.1471-3C>T,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs543219185
+DNAAF5,NM_017802.4(DNAAF5):c.568G>A (p.Ala190Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1781361793
+DNAAF5,NM_017802.4(DNAAF5):c.2251C>T (p.Arg751Cys),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs779271163
+DNAAF5,NM_017802.4(DNAAF5):c.1435C>G (p.Leu479Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs769427761
+DNAAF5,NM_017802.4(DNAAF5):c.436G>T (p.Val146Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs745787736
+DNAAF5,NM_017802.4(DNAAF5):c.1450A>G (p.Ile484Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs139727224
+DNAAF5,NM_017802.4(DNAAF5):c.905+4C>T,single nucleotide variant,Conflicting classifications of pathogenicity,DNAAF5-related disorder,rs377210150
+DNAAF5,NM_017802.4(DNAAF5):c.420G>C (p.Glu140Asp),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1439027627
+DNAAF5,NM_017802.4(DNAAF5):c.2263G>A (p.Val755Met),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs777468194
+DNAAF5,NM_017802.4(DNAAF5):c.1856C>G (p.Pro619Arg),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs755871359
+DNAAF5,NM_017802.4(DNAAF5):c.1796G>A (p.Gly599Glu),single nucleotide variant,Conflicting classifications of pathogenicity,Primary ciliary dyskinesia,rs149924115
+DNAAF5,NM_017802.4(DNAAF5):c.1108G>T (p.Asp370Tyr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs200573334
+DNAAF5,NM_017802.4(DNAAF5):c.788G>T (p.Arg263Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs201059622
+DNAAF5,NM_017802.4(DNAAF5):c.28G>C (p.Val10Leu),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs577934097
+DNAAF5,NM_017802.4(DNAAF5):c.905+5G>A,single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs781625543
+DNAAF5,NM_017802.4(DNAAF5):c.1207C>T (p.Arg403Trp),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs372413434
+DNAAF5,NM_017802.4(DNAAF5):c.2048C>T (p.Ala683Val),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs1159798626
+DNAAF5,NM_017802.4(DNAAF5):c.1340C>T (p.Thr447Met),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs369586981
+DNAAF5,NM_017802.4(DNAAF5):c.1375G>A (p.Ala459Thr),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia 18,rs201942359
+DNAAF5,NM_017802.4(DNAAF5):c.2252G>A (p.Arg751His),single nucleotide variant,Uncertain significance,Primary ciliary dyskinesia,rs145339697

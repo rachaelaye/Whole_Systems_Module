@@ -1,0 +1,4 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+FCGRT,NM_001136019.3(FCGRT):c.126G>T (p.Pro42=),single nucleotide variant,Benign,not provided,rs11551281
+FCGRT,NM_001136019.3(FCGRT):c.1020C>T (p.Thr340=),single nucleotide variant,Benign,not provided,rs34072018
+FCGRT,NM_001136019.3(FCGRT):c.396G>C (p.Lys132Asn),single nucleotide variant,Benign,not provided,rs150420714

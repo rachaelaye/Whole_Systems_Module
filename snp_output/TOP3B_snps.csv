@@ -1,0 +1,12 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+TOP3B,NM_001282112.2(TOP3B):c.2386C>T (p.Gln796Ter),single nucleotide variant,Uncertain significance,not provided,rs749647936
+TOP3B,NM_001282112.2(TOP3B):c.1338C>T (p.Thr446=),single nucleotide variant,Benign,TOP3B-related disorder,rs115446312
+TOP3B,NM_001282112.2(TOP3B):c.1655-6T>C,single nucleotide variant,Benign/Likely benign,TOP3B-related disorder,rs141517762
+TOP3B,NM_001282112.2(TOP3B):c.165G>A (p.Thr55=),single nucleotide variant,Likely benign,TOP3B-related disorder,rs149374064
+TOP3B,NM_001282112.2(TOP3B):c.384+8T>C,single nucleotide variant,Benign,not provided,rs112837531
+TOP3B,NM_001282112.2(TOP3B):c.354C>T (p.Cys118=),single nucleotide variant,Benign/Likely benign,not provided,rs41283235
+TOP3B,NM_001282112.2(TOP3B):c.2193C>T (p.Ser731=),single nucleotide variant,Benign,not provided,rs145256528
+TOP3B,NM_001282112.2(TOP3B):c.1197C>T (p.Ala399=),single nucleotide variant,Likely benign,not provided,rs151148764
+TOP3B,NM_001282112.2(TOP3B):c.1215G>A (p.Ala405=),single nucleotide variant,Likely benign,not provided,rs376875913
+TOP3B,NM_001282112.2(TOP3B):c.1135C>T (p.Arg379Trp),single nucleotide variant,Likely benign,not provided,rs143308485
+TOP3B,NM_001282112.2(TOP3B):c.2107+7G>A,single nucleotide variant,Benign,not provided,rs201772998

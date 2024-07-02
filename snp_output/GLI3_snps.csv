@@ -1,0 +1,107 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+GLI3,NM_000168.6(GLI3):c.1030C>G (p.Pro344Ala),single nucleotide variant,Uncertain significance,not provided,rs779563132
+GLI3,NM_000168.6(GLI3):c.2447A>C (p.Asn816Thr),single nucleotide variant,Uncertain significance,not provided,rs968591547
+GLI3,NM_000168.6(GLI3):c.438C>G (p.Tyr146Ter),single nucleotide variant,Pathogenic,Polysyndactyly 4,rs151222023
+GLI3,NM_000168.6(GLI3):c.3586G>C (p.Gly1196Arg),single nucleotide variant,Uncertain significance,Pallister-Hall syndrome,rs376413286
+GLI3,NM_000168.6(GLI3):c.3727G>C (p.Ala1243Pro),single nucleotide variant,Uncertain significance,not provided,rs1404736446
+GLI3,NM_000168.6(GLI3):c.1673C>A (p.Ser558Ter),single nucleotide variant,Pathogenic,Polysyndactyly 4,rs1356013382
+GLI3,NM_000168.6(GLI3):c.1983G>C (p.Gln661His),single nucleotide variant,Uncertain significance,not provided,rs564000094
+GLI3,NM_000168.6(GLI3):c.1366G>T (p.Glu456Ter),single nucleotide variant,Likely pathogenic,Pallister-Hall syndrome,rs200230864
+GLI3,NM_000168.6(GLI3):c.2409G>A (p.Ala803=),single nucleotide variant,Likely benign,Pallister-Hall syndrome,rs138416748
+GLI3,NM_000168.6(GLI3):c.613C>T (p.Arg205Cys),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs767832980
+GLI3,NM_000168.6(GLI3):c.3549C>G (p.Pro1183=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs746224726
+GLI3,NM_000168.6(GLI3):c.636G>T (p.Ser212=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs369422937
+GLI3,NM_000168.6(GLI3):c.1740C>T (p.His580=),single nucleotide variant,Likely benign,GLI3-related disorder,rs146154710
+GLI3,NM_000168.6(GLI3):c.1242+16C>G,single nucleotide variant,Likely benign,Pallister-Hall syndrome,rs754808194
+GLI3,NM_000168.6(GLI3):c.2361T>C (p.Asn787=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs10259802
+GLI3,NM_000168.6(GLI3):c.434G>A (p.Arg145His),single nucleotide variant,Conflicting classifications of pathogenicity,Greig cephalopolysyndactyly syndrome,rs768622457
+GLI3,NM_000168.6(GLI3):c.1357-10C>G,single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs562653058
+GLI3,NM_000168.6(GLI3):c.2308G>T (p.Ala770Ser),single nucleotide variant,Conflicting classifications of pathogenicity,Pallister-Hall syndrome,rs1355649064
+GLI3,NM_000168.6(GLI3):c.2432-16C>T,single nucleotide variant,Benign,Greig cephalopolysyndactyly syndrome,rs761302001
+GLI3,NM_000168.6(GLI3):c.1497C>G (p.His499Gln),single nucleotide variant,Benign,Greig cephalopolysyndactyly syndrome,rs539144173
+GLI3,NM_000168.6(GLI3):c.4180C>T (p.Arg1394Cys),single nucleotide variant,Conflicting classifications of pathogenicity,Greig cephalopolysyndactyly syndrome,rs577664817
+GLI3,NM_000168.6(GLI3):c.954C>T (p.Val318=),single nucleotide variant,Likely benign,Pallister-Hall syndrome,rs142968143
+GLI3,NM_000168.6(GLI3):c.367+20G>A,single nucleotide variant,Likely benign,Pallister-Hall syndrome,rs371365628
+GLI3,NM_000168.6(GLI3):c.246G>A (p.Arg82=),single nucleotide variant,Likely benign,"Polydactyly, postaxial, type A1",rs890167751
+GLI3,NM_000168.6(GLI3):c.1506T>C (p.Asn502=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs1413686614
+GLI3,NM_000168.6(GLI3):c.1320T>C (p.Asp440=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs750416636
+GLI3,NM_000168.6(GLI3):c.1813-15T>C,single nucleotide variant,Benign,Greig cephalopolysyndactyly syndrome,rs201019815
+GLI3,NM_000168.6(GLI3):c.1909C>T (p.His637Tyr),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs371617666
+GLI3,NM_000168.6(GLI3):c.4625G>A (p.Arg1542Gln),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs1189345797
+GLI3,NM_000168.6(GLI3):c.1325A>G (p.Asp442Gly),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs749073077
+GLI3,NM_000168.6(GLI3):c.3900G>A (p.Ala1300=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs559754489
+GLI3,NM_000168.6(GLI3):c.2685C>T (p.Tyr895=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs772948115
+GLI3,NM_000168.6(GLI3):c.294G>A (p.Ala98=),single nucleotide variant,Benign,Greig cephalopolysyndactyly syndrome,rs758453658
+GLI3,NM_000168.6(GLI3):c.2975T>C (p.Leu992Pro),single nucleotide variant,Likely benign,Pallister-Hall syndrome,rs1370106320
+GLI3,NM_000168.6(GLI3):c.4369G>A (p.Ala1457Thr),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs1248816541
+GLI3,NM_000168.6(GLI3):c.1380T>C (p.Leu460=),single nucleotide variant,Likely benign,Pallister-Hall syndrome,rs748089575
+GLI3,NM_000168.6(GLI3):c.973C>T (p.Arg325Cys),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs942730954
+GLI3,NM_000168.6(GLI3):c.1433A>G (p.Tyr478Cys),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs1312485546
+GLI3,NM_000168.6(GLI3):c.3864G>A (p.Gly1288=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs369272004
+GLI3,NM_000168.6(GLI3):c.3557C>T (p.Pro1186Leu),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs541487979
+GLI3,NM_000168.6(GLI3):c.4427A>T (p.Asn1476Ile),single nucleotide variant,Conflicting classifications of pathogenicity,Pallister-Hall syndrome,rs138100963
+GLI3,NM_000168.6(GLI3):c.4148A>G (p.Tyr1383Cys),single nucleotide variant,Uncertain significance,Pallister-Hall syndrome,rs894551472
+GLI3,NM_000168.6(GLI3):c.1253C>T (p.Thr418Met),single nucleotide variant,Uncertain significance,Greig cephalopolysyndactyly syndrome,rs757359712
+GLI3,NM_000168.6(GLI3):c.4640T>A (p.Phe1547Tyr),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs373789617
+GLI3,NM_000168.6(GLI3):c.3762T>G (p.Tyr1254Ter),single nucleotide variant,Pathogenic,Greig cephalopolysyndactyly syndrome,rs148043302
+GLI3,NM_000168.6(GLI3):c.3899C>T (p.Ala1300Val),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs751790458
+GLI3,NM_000168.6(GLI3):c.4292C>T (p.Pro1431Leu),single nucleotide variant,Conflicting classifications of pathogenicity,Greig cephalopolysyndactyly syndrome,rs144128064
+GLI3,NM_000168.6(GLI3):c.1159T>C (p.Phe387Leu),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs370794111
+GLI3,NM_000168.6(GLI3):c.2520G>A (p.Met840Ile),single nucleotide variant,Uncertain significance,Greig cephalopolysyndactyly syndrome,rs1283743237
+GLI3,NM_000168.6(GLI3):c.4556T>C (p.Met1519Thr),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs745490483
+GLI3,NM_000168.6(GLI3):c.2944G>A (p.Gly982Arg),single nucleotide variant,Uncertain significance,Greig cephalopolysyndactyly syndrome,rs751382968
+GLI3,NM_000168.6(GLI3):c.4187C>A (p.Ala1396Asp),single nucleotide variant,Uncertain significance,Greig cephalopolysyndactyly syndrome,rs373003816
+GLI3,NM_000168.6(GLI3):c.3373G>C (p.Gly1125Arg),single nucleotide variant,Uncertain significance,Pallister-Hall syndrome,rs772233504
+GLI3,NM_000168.6(GLI3):c.1030C>G (p.Pro344Ala),single nucleotide variant,Uncertain significance,not provided,rs779563132
+GLI3,NM_000168.6(GLI3):c.2447A>C (p.Asn816Thr),single nucleotide variant,Uncertain significance,not provided,rs968591547
+GLI3,NM_000168.6(GLI3):c.438C>G (p.Tyr146Ter),single nucleotide variant,Pathogenic,Polysyndactyly 4,rs151222023
+GLI3,NM_000168.6(GLI3):c.3586G>C (p.Gly1196Arg),single nucleotide variant,Uncertain significance,Pallister-Hall syndrome,rs376413286
+GLI3,NM_000168.6(GLI3):c.3727G>C (p.Ala1243Pro),single nucleotide variant,Uncertain significance,not provided,rs1404736446
+GLI3,NM_000168.6(GLI3):c.1673C>A (p.Ser558Ter),single nucleotide variant,Pathogenic,Polysyndactyly 4,rs1356013382
+GLI3,NM_000168.6(GLI3):c.1983G>C (p.Gln661His),single nucleotide variant,Uncertain significance,not provided,rs564000094
+GLI3,NM_000168.6(GLI3):c.1366G>T (p.Glu456Ter),single nucleotide variant,Likely pathogenic,Pallister-Hall syndrome,rs200230864
+GLI3,NM_000168.6(GLI3):c.2409G>A (p.Ala803=),single nucleotide variant,Likely benign,Pallister-Hall syndrome,rs138416748
+GLI3,NM_000168.6(GLI3):c.613C>T (p.Arg205Cys),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs767832980
+GLI3,NM_000168.6(GLI3):c.3549C>G (p.Pro1183=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs746224726
+GLI3,NM_000168.6(GLI3):c.636G>T (p.Ser212=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs369422937
+GLI3,NM_000168.6(GLI3):c.1740C>T (p.His580=),single nucleotide variant,Likely benign,GLI3-related disorder,rs146154710
+GLI3,NM_000168.6(GLI3):c.1242+16C>G,single nucleotide variant,Likely benign,Pallister-Hall syndrome,rs754808194
+GLI3,NM_000168.6(GLI3):c.2361T>C (p.Asn787=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs10259802
+GLI3,NM_000168.6(GLI3):c.434G>A (p.Arg145His),single nucleotide variant,Conflicting classifications of pathogenicity,Greig cephalopolysyndactyly syndrome,rs768622457
+GLI3,NM_000168.6(GLI3):c.1357-10C>G,single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs562653058
+GLI3,NM_000168.6(GLI3):c.2308G>T (p.Ala770Ser),single nucleotide variant,Conflicting classifications of pathogenicity,Pallister-Hall syndrome,rs1355649064
+GLI3,NM_000168.6(GLI3):c.2432-16C>T,single nucleotide variant,Benign,Greig cephalopolysyndactyly syndrome,rs761302001
+GLI3,NM_000168.6(GLI3):c.1497C>G (p.His499Gln),single nucleotide variant,Benign,Greig cephalopolysyndactyly syndrome,rs539144173
+GLI3,NM_000168.6(GLI3):c.4180C>T (p.Arg1394Cys),single nucleotide variant,Conflicting classifications of pathogenicity,Greig cephalopolysyndactyly syndrome,rs577664817
+GLI3,NM_000168.6(GLI3):c.954C>T (p.Val318=),single nucleotide variant,Likely benign,Pallister-Hall syndrome,rs142968143
+GLI3,NM_000168.6(GLI3):c.367+20G>A,single nucleotide variant,Likely benign,Pallister-Hall syndrome,rs371365628
+GLI3,NM_000168.6(GLI3):c.246G>A (p.Arg82=),single nucleotide variant,Likely benign,"Polydactyly, postaxial, type A1",rs890167751
+GLI3,NM_000168.6(GLI3):c.1506T>C (p.Asn502=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs1413686614
+GLI3,NM_000168.6(GLI3):c.1320T>C (p.Asp440=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs750416636
+GLI3,NM_000168.6(GLI3):c.1813-15T>C,single nucleotide variant,Benign,Greig cephalopolysyndactyly syndrome,rs201019815
+GLI3,NM_000168.6(GLI3):c.1909C>T (p.His637Tyr),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs371617666
+GLI3,NM_000168.6(GLI3):c.4625G>A (p.Arg1542Gln),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs1189345797
+GLI3,NM_000168.6(GLI3):c.1325A>G (p.Asp442Gly),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs749073077
+GLI3,NM_000168.6(GLI3):c.3900G>A (p.Ala1300=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs559754489
+GLI3,NM_000168.6(GLI3):c.2685C>T (p.Tyr895=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs772948115
+GLI3,NM_000168.6(GLI3):c.294G>A (p.Ala98=),single nucleotide variant,Benign,Greig cephalopolysyndactyly syndrome,rs758453658
+GLI3,NM_000168.6(GLI3):c.2975T>C (p.Leu992Pro),single nucleotide variant,Likely benign,Pallister-Hall syndrome,rs1370106320
+GLI3,NM_000168.6(GLI3):c.4369G>A (p.Ala1457Thr),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs1248816541
+GLI3,NM_000168.6(GLI3):c.1380T>C (p.Leu460=),single nucleotide variant,Likely benign,Pallister-Hall syndrome,rs748089575
+GLI3,NM_000168.6(GLI3):c.973C>T (p.Arg325Cys),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs942730954
+GLI3,NM_000168.6(GLI3):c.1433A>G (p.Tyr478Cys),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs1312485546
+GLI3,NM_000168.6(GLI3):c.3864G>A (p.Gly1288=),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs369272004
+GLI3,NM_000168.6(GLI3):c.3557C>T (p.Pro1186Leu),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs541487979
+GLI3,NM_000168.6(GLI3):c.4427A>T (p.Asn1476Ile),single nucleotide variant,Conflicting classifications of pathogenicity,Pallister-Hall syndrome,rs138100963
+GLI3,NM_000168.6(GLI3):c.4148A>G (p.Tyr1383Cys),single nucleotide variant,Uncertain significance,Pallister-Hall syndrome,rs894551472
+GLI3,NM_000168.6(GLI3):c.1253C>T (p.Thr418Met),single nucleotide variant,Uncertain significance,Greig cephalopolysyndactyly syndrome,rs757359712
+GLI3,NM_000168.6(GLI3):c.4640T>A (p.Phe1547Tyr),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs373789617
+GLI3,NM_000168.6(GLI3):c.3762T>G (p.Tyr1254Ter),single nucleotide variant,Pathogenic,Greig cephalopolysyndactyly syndrome,rs148043302
+GLI3,NM_000168.6(GLI3):c.3899C>T (p.Ala1300Val),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs751790458
+GLI3,NM_000168.6(GLI3):c.4292C>T (p.Pro1431Leu),single nucleotide variant,Conflicting classifications of pathogenicity,Greig cephalopolysyndactyly syndrome,rs144128064
+GLI3,NM_000168.6(GLI3):c.1159T>C (p.Phe387Leu),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs370794111
+GLI3,NM_000168.6(GLI3):c.2520G>A (p.Met840Ile),single nucleotide variant,Uncertain significance,Greig cephalopolysyndactyly syndrome,rs1283743237
+GLI3,NM_000168.6(GLI3):c.4556T>C (p.Met1519Thr),single nucleotide variant,Likely benign,Greig cephalopolysyndactyly syndrome,rs745490483
+GLI3,NM_000168.6(GLI3):c.2944G>A (p.Gly982Arg),single nucleotide variant,Uncertain significance,Greig cephalopolysyndactyly syndrome,rs751382968
+GLI3,NM_000168.6(GLI3):c.4187C>A (p.Ala1396Asp),single nucleotide variant,Uncertain significance,Greig cephalopolysyndactyly syndrome,rs373003816
+GLI3,NM_000168.6(GLI3):c.3373G>C (p.Gly1125Arg),single nucleotide variant,Uncertain significance,Pallister-Hall syndrome,rs772233504

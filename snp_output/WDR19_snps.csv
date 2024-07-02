@@ -1,0 +1,98 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+WDR19,NM_025132.4(WDR19):c.1428C>T (p.Cys476=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs267600148
+WDR19,NM_025132.4(WDR19):c.685C>G (p.Gln229Glu),single nucleotide variant,Uncertain significance,Connective tissue disorder,rs1727822959
+WDR19,NM_025132.4(WDR19):c.2932A>G (p.Lys978Glu),single nucleotide variant,Uncertain significance,Connective tissue disorder,rs2109440327
+WDR19,NM_025132.4(WDR19):c.2645+1G>T,single nucleotide variant,Pathogenic,Cranioectodermal dysplasia 4,rs1237821935
+WDR19,NM_025132.4(WDR19):c.1483G>T (p.Gly495Cys),single nucleotide variant,Pathogenic,Senior-Loken syndrome 8,rs1215108056
+WDR19,NM_025132.4(WDR19):c.3716+46dup,Duplication,Benign,Senior-Loken syndrome 8,rs11096989
+WDR19,NM_025132.4(WDR19):c.2421+10G>C,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs760951645
+WDR19,NM_025132.4(WDR19):c.2490G>T (p.Gly830=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs763965982
+WDR19,NM_025132.4(WDR19):c.2364-16C>G,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs780933216
+WDR19,NM_025132.4(WDR19):c.604-10T>C,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs766591103
+WDR19,NM_025132.4(WDR19):c.3432C>G (p.Pro1144=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs1225242307
+WDR19,NM_025132.4(WDR19):c.2876+10T>C,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs773692164
+WDR19,NM_025132.4(WDR19):c.2730-11T>C,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs1314348967
+WDR19,NM_025132.4(WDR19):c.406+12C>T,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs781438702
+WDR19,NM_025132.4(WDR19):c.2298A>G (p.Ala766=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs1217640132
+WDR19,NM_025132.4(WDR19):c.141A>G (p.Lys47=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs749387746
+WDR19,NM_025132.4(WDR19):c.2364-13del,Deletion,Likely benign,Asphyxiating thoracic dystrophy 5,rs1293062183
+WDR19,NM_025132.4(WDR19):c.2220C>T (p.Tyr740=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs762882447
+WDR19,NM_025132.4(WDR19):c.2142+16T>C,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs1264244974
+WDR19,NM_025132.4(WDR19):c.522+13C>T,single nucleotide variant,Likely benign,Spermatogenic failure 72,rs374417243
+WDR19,NM_025132.4(WDR19):c.42C>T (p.Gly14=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs531575276
+WDR19,NM_025132.4(WDR19):c.1135-18C>T,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs187658795
+WDR19,NM_025132.4(WDR19):c.962-11G>A,single nucleotide variant,Likely benign,Nephronophthisis 13,rs537505873
+WDR19,NM_025132.4(WDR19):c.234C>T (p.Cys78=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs1232301082
+WDR19,NM_025132.4(WDR19):c.2364-4dup,Duplication,Benign,Senior-Loken syndrome 8,rs750106753
+WDR19,NM_025132.4(WDR19):c.2876+10T>A,single nucleotide variant,Likely benign,Spermatogenic failure 72,rs773692164
+WDR19,NM_025132.4(WDR19):c.798A>G (p.Gln266=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs1210144163
+WDR19,NM_025132.4(WDR19):c.3918-8del,Deletion,Likely benign,Asphyxiating thoracic dystrophy 5,rs748090823
+WDR19,NM_025132.4(WDR19):c.3399T>C (p.Tyr1133=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs1456107767
+WDR19,NM_025132.4(WDR19):c.3942T>C (p.Cys1314=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs930966543
+WDR19,NM_025132.4(WDR19):c.2076G>A (p.Glu692=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs1730908214
+WDR19,NM_025132.4(WDR19):c.3607A>C (p.Arg1203=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs1394483779
+WDR19,NM_025132.4(WDR19):c.2646-8C>T,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs1174650732
+WDR19,NM_025132.4(WDR19):c.3900A>G (p.Leu1300=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs753236230
+WDR19,NM_025132.4(WDR19):c.3261+20C>T,single nucleotide variant,Benign/Likely benign,Asphyxiating thoracic dystrophy 5,rs547317070
+WDR19,NM_025132.4(WDR19):c.99-12G>C,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs556356193
+WDR19,NM_025132.4(WDR19):c.1777+12C>T,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs764907062
+WDR19,NM_025132.4(WDR19):c.426C>T (p.Ile142=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs377419343
+WDR19,NM_025132.4(WDR19):c.2097G>A (p.Arg699=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs1730911570
+WDR19,NM_025132.4(WDR19):c.1836G>T (p.Leu612=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs377428033
+WDR19,NM_025132.4(WDR19):c.1875A>G (p.Gly625=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs998510920
+WDR19,NM_025132.4(WDR19):c.3184-14C>T,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs761439271
+WDR19,NM_025132.4(WDR19):c.890+19T>A,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs745976180
+WDR19,NM_025132.4(WDR19):c.3716+13G>A,single nucleotide variant,Likely benign,Spermatogenic failure 72,rs759523972
+WDR19,NM_025132.4(WDR19):c.164+12A>G,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs776617179
+WDR19,NM_025132.4(WDR19):c.3801T>C (p.Cys1267=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs769702825
+WDR19,NM_025132.4(WDR19):c.2877-17A>G,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs372257071
+WDR19,NM_025132.4(WDR19):c.1479+17T>A,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs765060066
+WDR19,NM_025132.4(WDR19):c.1722T>A (p.Ile574=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs779309885
+WDR19,NM_025132.4(WDR19):c.2055T>C (p.Cys685=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs368336762
+WDR19,NM_025132.4(WDR19):c.3147G>A (p.Ser1049=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs751070560
+WDR19,NM_025132.4(WDR19):c.962-12C>T,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs370663909
+WDR19,NM_025132.4(WDR19):c.198A>G (p.Gly66=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs749815295
+WDR19,NM_025132.4(WDR19):c.99-11A>C,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs756899296
+WDR19,NM_025132.4(WDR19):c.1778-11T>C,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs1730513628
+WDR19,NM_025132.4(WDR19):c.2645+16G>A,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs771913668
+WDR19,NM_025132.4(WDR19):c.1485T>G (p.Gly495=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs762372654
+WDR19,NM_025132.4(WDR19):c.3261+11C>T,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs202231140
+WDR19,NM_025132.4(WDR19):c.3002-7G>T,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs1260291347
+WDR19,NM_025132.4(WDR19):c.2645+15C>G,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs150628352
+WDR19,NM_025132.4(WDR19):c.1134+16T>C,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs1729035687
+WDR19,NM_025132.4(WDR19):c.2876+7_2876+8del,Deletion,Likely benign,Senior-Loken syndrome 8,rs1033377235
+WDR19,NM_025132.4(WDR19):c.1983-15G>A,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs1730894233
+WDR19,NM_025132.4(WDR19):c.2706C>T (p.Ala902=),single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs766560008
+WDR19,NM_025132.4(WDR19):c.3358+14A>G,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs372822923
+WDR19,NM_025132.4(WDR19):c.2766A>G (p.Lys922=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs765314003
+WDR19,NM_025132.4(WDR19):c.2730-17G>C,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs1342106743
+WDR19,NM_025132.4(WDR19):c.3115-10C>T,single nucleotide variant,Likely benign,Asphyxiating thoracic dystrophy 5,rs775640673
+WDR19,NM_025132.4(WDR19):c.3585G>A (p.Thr1195=),single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs537597265
+WDR19,NM_025132.4(WDR19):c.2646-16G>T,single nucleotide variant,Likely benign,Senior-Loken syndrome 8,rs750485530
+WDR19,NM_025132.4(WDR19):c.3114+3T>C,single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs1275093466
+WDR19,NM_025132.4(WDR19):c.2779G>A (p.Val927Ile),single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs757105603
+WDR19,NM_025132.4(WDR19):c.673C>A (p.Leu225Ile),single nucleotide variant,Uncertain significance,Asphyxiating thoracic dystrophy 5,rs1727822059
+WDR19,NM_025132.4(WDR19):c.2347A>G (p.Ile783Val),single nucleotide variant,Uncertain significance,Asphyxiating thoracic dystrophy 5,rs1055716143
+WDR19,NM_025132.4(WDR19):c.3513A>T (p.Lys1171Asn),single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs765379022
+WDR19,NM_025132.4(WDR19):c.2972A>G (p.Asn991Ser),single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs763190830
+WDR19,NM_025132.4(WDR19):c.2521G>A (p.Val841Ile),single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs1349223638
+WDR19,NM_025132.4(WDR19):c.2562+4C>G,single nucleotide variant,Uncertain significance,Asphyxiating thoracic dystrophy 5,rs1732285598
+WDR19,NM_025132.4(WDR19):c.1778-2A>C,single nucleotide variant,Likely pathogenic,Asphyxiating thoracic dystrophy 5,rs1730514795
+WDR19,NM_025132.4(WDR19):c.812C>T (p.Ala271Val),single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs981943939
+WDR19,NM_025132.4(WDR19):c.2236C>T (p.Pro746Ser),single nucleotide variant,Uncertain significance,Asphyxiating thoracic dystrophy 5,rs372232320
+WDR19,NM_025132.4(WDR19):c.3000T>C (p.Ile1000=),single nucleotide variant,Uncertain significance,Asphyxiating thoracic dystrophy 5,rs1733517192
+WDR19,NM_025132.4(WDR19):c.3579C>G (p.Ile1193Met),single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs368286694
+WDR19,NM_025132.4(WDR19):c.3184-3C>T,single nucleotide variant,Uncertain significance,Asphyxiating thoracic dystrophy 5,rs750130004
+WDR19,NM_025132.4(WDR19):c.3993C>G (p.Asp1331Glu),single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs778745769
+WDR19,NM_025132.4(WDR19):c.2978T>C (p.Met993Thr),single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs750227475
+WDR19,NM_025132.4(WDR19):c.1816T>C (p.Phe606Leu),single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs2109358423
+WDR19,NM_025132.4(WDR19):c.3280C>T (p.Arg1094Cys),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs757564170
+WDR19,NM_025132.4(WDR19):c.716+12A>G,single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs779700299
+WDR19,NM_025132.4(WDR19):c.1232A>G (p.Tyr411Cys),single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs761268969
+WDR19,NM_025132.4(WDR19):c.3834T>G (p.Ile1278Met),single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs1735983084
+WDR19,NM_025132.4(WDR19):c.3640G>A (p.Ala1214Thr),single nucleotide variant,Uncertain significance,Senior-Loken syndrome 8,rs1206705962
+WDR19,NM_025132.4(WDR19):c.3521G>T (p.Arg1174Leu),single nucleotide variant,Uncertain significance,Asphyxiating thoracic dystrophy 5,rs372719724
+WDR19,NM_025132.4(WDR19):c.977C>G (p.Ser326Cys),single nucleotide variant,Uncertain significance,Asphyxiating thoracic dystrophy 5,rs1729012449
+WDR19,NM_025132.4(WDR19):c.890+1G>T,single nucleotide variant,Likely pathogenic,Asphyxiating thoracic dystrophy 5,rs1338996032
+WDR19,NM_025132.4(WDR19):c.3964A>C (p.Asn1322His),single nucleotide variant,Uncertain significance,Asphyxiating thoracic dystrophy 5,rs1158060361
+WDR19,NM_025132.4(WDR19):c.3443C>T (p.Ala1148Val),single nucleotide variant,Uncertain significance,Asphyxiating thoracic dystrophy 5,rs1235824066

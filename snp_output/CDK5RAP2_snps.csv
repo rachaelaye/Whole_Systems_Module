@@ -1,0 +1,116 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5308-6G>A,single nucleotide variant,Likely benign,not provided,rs147693474
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.134C>T (p.Pro45Leu),single nucleotide variant,Uncertain significance,Global developmental delay,rs2042723087
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4673G>A (p.Arg1558Gln),single nucleotide variant,Uncertain significance,Global developmental delay,rs377338416
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2532G>A (p.Lys844=),single nucleotide variant,Likely benign,not provided,rs147892671
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2202+8C>T,single nucleotide variant,Likely benign,not provided,rs200043699
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.3953A>G (p.Asn1318Ser),single nucleotide variant,Uncertain significance,not provided,rs764546841
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.344G>A (p.Arg115Gln),single nucleotide variant,Uncertain significance,not provided,rs772364241
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1855G>A (p.Glu619Lys),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs373775777
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.3402A>G (p.Gln1134=),single nucleotide variant,Likely benign,not provided,rs770547701
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.355G>T (p.Glu119Ter),single nucleotide variant,Pathogenic,"Microcephaly 3, primary, autosomal recessive",rs376990082
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.3997A>C (p.Met1333Leu),single nucleotide variant,Uncertain significance,not provided,rs2034639358
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4306A>G (p.Ser1436Gly),single nucleotide variant,Uncertain significance,not provided,rs1316940946
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1311+205_1311+230del,Deletion,Likely benign,not provided,rs1313570179
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1280G>A (p.Arg427Gln),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs141387242
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4297+5G>A,single nucleotide variant,Uncertain significance,not specified,rs201798027
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4039C>G (p.Leu1347Val),single nucleotide variant,Conflicting classifications of pathogenicity,not specified,rs144012972
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1627-290del,Deletion,Likely benign,not provided,rs555333158
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1311+200C>T,single nucleotide variant,Benign,not provided,rs868618609
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4297+201G>T,single nucleotide variant,Benign,not provided,rs78650806
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1000-51G>C,single nucleotide variant,Benign,not provided,rs77536827
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4415-62T>C,single nucleotide variant,Benign,not provided,rs36054791
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5041+207T>C,single nucleotide variant,Benign,not provided,rs16909739
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1092+142T>G,single nucleotide variant,Benign,not provided,rs78446107
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2106+59T>A,single nucleotide variant,Benign,not provided,rs75136083
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.3149-78_3149-74del,Microsatellite,Benign,not provided,rs137974661
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1311+216CA[25],Microsatellite,Benign,not provided,rs56032707
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1311+213T>A,single nucleotide variant,Benign,not provided,rs111563757
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1092+285T>C,single nucleotide variant,Benign,not provided,rs75220571
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.59+289T>G,single nucleotide variant,Benign,not provided,rs77226253
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5042-96C>A,single nucleotide variant,Benign,not provided,rs75904110
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1311+209_1311+218del,Deletion,Benign,not provided,rs1328701473
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.3148+200G>A,single nucleotide variant,Benign,not provided,rs117351867
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2202+203A>G,single nucleotide variant,Benign,not provided,rs16909798
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.195+263G>T,single nucleotide variant,Benign,not provided,rs10984957
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4605-81T>C,single nucleotide variant,Benign,not provided,rs12339464
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1311+216CA[17],Microsatellite,Benign,not provided,rs56032707
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1311+216CA[26],Microsatellite,Benign,not provided,rs56032707
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5041+80C>T,single nucleotide variant,Benign,not provided,rs77451787
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1311+213_1311+214insTG,Insertion,Benign,not provided,rs55747215
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.60-126A>G,single nucleotide variant,Benign,not provided,rs2147381
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1627-258G>A,single nucleotide variant,Benign,not provided,rs114134113
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.383+76del,Deletion,Benign,not provided,rs60645195
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1858+321C>T,single nucleotide variant,Benign,not provided,rs112202333
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4726+320G>T,single nucleotide variant,Benign,not provided,rs77847730
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4298-270A>G,single nucleotide variant,Benign,not provided,rs75436989
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.3148+122G>T,single nucleotide variant,Benign,not provided,rs74701559
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.3025+312T>C,single nucleotide variant,Benign,not provided,rs7040688
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4726+120G>A,single nucleotide variant,Benign,not provided,rs78835673
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2793+35T>C,single nucleotide variant,Likely benign,not provided,rs117505828
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1482+119T>C,single nucleotide variant,Likely benign,not provided,rs115951030
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1483-27T>G,single nucleotide variant,Likely benign,not provided,rs77812790
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5626-80C>T,single nucleotide variant,Likely benign,not provided,rs76452024
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.826-285G>A,single nucleotide variant,Likely benign,not provided,rs148662163
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1312-286_1312-285del,Deletion,Likely benign,not provided,rs570816083
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1627-316A>C,single nucleotide variant,Likely benign,not provided,rs76628072
+CDK5RAP2,NC_000009.12:g.120580337_120580339del,Deletion,Likely benign,not provided,rs200726852
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5579-242A>G,single nucleotide variant,Likely benign,not provided,rs113524889
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.3148+183A>G,single nucleotide variant,Likely benign,not provided,rs75906965
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5579-195C>T,single nucleotide variant,Likely benign,not provided,rs2297455
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.3148+209G>A,single nucleotide variant,Likely benign,not provided,rs116824113
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5578+60G>C,single nucleotide variant,Likely benign,not provided,rs7859997
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2203-168CT[3],Microsatellite,Likely benign,not provided,rs149429216
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2376-218C>T,single nucleotide variant,Likely benign,not provided,rs77869514
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1626+318G>T,single nucleotide variant,Likely benign,not provided,rs73660260
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1728-69T>G,single nucleotide variant,Likely benign,not provided,rs73660259
+CDK5RAP2,NC_000009.12:g.120580340G>C,single nucleotide variant,Likely benign,not provided,rs114952595
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.195+117G>A,single nucleotide variant,Likely benign,not provided,rs187123086
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1311+215_1311+216insGTCTCACA,Insertion,Likely benign,not provided,rs1554770754
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1312-119A>G,single nucleotide variant,Likely benign,not provided,rs80011591
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4005-9A>G,single nucleotide variant,Likely pathogenic,not provided,rs766773448
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4415-262dup,Duplication,Likely benign,not provided,rs201243638
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4733C>T (p.Ser1578Leu),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs138510304
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4963+302G>C,single nucleotide variant,Likely benign,not provided,rs76865555
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2202+209G>T,single nucleotide variant,Likely benign,not provided,rs141455368
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1311+210C>G,single nucleotide variant,Likely benign,not provided,rs10984938
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.508-157G>A,single nucleotide variant,Likely benign,not provided,rs12115543
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4605-11G>C,single nucleotide variant,Benign/Likely benign,not provided,rs193196156
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.879+226G>A,single nucleotide variant,Likely benign,not provided,rs59470187
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4964-192G>C,single nucleotide variant,Likely benign,not provided,rs3780673
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4579C>T (p.Arg1527Cys),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs768629906
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.196-76C>T,single nucleotide variant,Likely benign,not provided,rs73660580
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1627-347A>G,single nucleotide variant,Likely benign,not provided,rs13283499
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.508-55A>G,single nucleotide variant,Likely benign,not provided,rs73660578
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.663-246A>G,single nucleotide variant,Likely benign,not provided,rs62577985
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.59+120G>A,single nucleotide variant,Likely benign,not provided,rs77761844
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.59+62T>C,single nucleotide variant,Likely benign,not provided,rs73660588
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1968+279T>C,single nucleotide variant,Likely benign,not provided,rs146113113
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.879+128G>A,single nucleotide variant,Likely benign,not provided,rs77496814
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2376-228T>C,single nucleotide variant,Likely benign,not provided,rs41273388
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1482+170G>A,single nucleotide variant,Likely benign,not provided,rs142470608
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1627-288_1627-286del,Deletion,Likely benign,not provided,rs557518375
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.826-86C>T,single nucleotide variant,Likely benign,not provided,rs114385062
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5578+316G>A,single nucleotide variant,Likely benign,not provided,rs116591661
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1968+241C>T,single nucleotide variant,Likely benign,not provided,rs114444999
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2375+308G>A,single nucleotide variant,Likely benign,not provided,rs116393613
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5308-261G>A,single nucleotide variant,Likely benign,not provided,rs115889058
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1311+185T>G,single nucleotide variant,Likely benign,not provided,rs184898896
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.508-154T>C,single nucleotide variant,Likely benign,not provided,rs113976847
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.128-92C>G,single nucleotide variant,Likely benign,not provided,rs75688196
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5307+49C>T,single nucleotide variant,Likely benign,not provided,rs200521701
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.195+133G>A,single nucleotide variant,Likely benign,not provided,rs112448228
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5308-30C>T,single nucleotide variant,Likely benign,not provided,rs142478904
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1311+209_1311+222del,Deletion,Likely benign,not provided,rs1392035969
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4604+243T>A,single nucleotide variant,Likely benign,not provided,rs142300381
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2793+299A>T,single nucleotide variant,Likely benign,not provided,rs116206522
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.307-289T>A,single nucleotide variant,Likely benign,not provided,rs111755029
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.826-298C>G,single nucleotide variant,Benign,not provided,rs77836388
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.5354C>T (p.Thr1785Met),single nucleotide variant,Uncertain significance,not provided,rs751971032
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2202+1G>A,single nucleotide variant,Likely pathogenic,not provided,rs755591966
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4235C>A (p.Ser1412Tyr),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs201387927
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.2636A>G (p.Glu879Gly),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs199766241
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4963+1G>A,single nucleotide variant,Likely pathogenic,"Microcephaly 3, primary, autosomal recessive",rs760836130
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.1427A>G (p.Glu476Gly),single nucleotide variant,Uncertain significance,not provided,rs2038897037
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4556A>G (p.Asn1519Ser),single nucleotide variant,Uncertain significance,"Microcephaly 3, primary, autosomal recessive",rs747762605
+CDK5RAP2,NM_018249.6(CDK5RAP2):c.4175A>G (p.Gln1392Arg),single nucleotide variant,Conflicting classifications of pathogenicity,"Microcephaly 3, primary, autosomal recessive",rs138157153

@@ -1,0 +1,156 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+ALDH3A2,NM_000382.3(ALDH3A2):c.94A>C (p.Arg32=),single nucleotide variant,Likely benign,not provided,rs779401237
+ALDH3A2,NM_000382.3(ALDH3A2):c.529C>A (p.Arg177=),single nucleotide variant,Likely benign,not provided,rs72547561
+ALDH3A2,NM_000382.3(ALDH3A2):c.774A>C (p.Val258=),single nucleotide variant,Likely benign,not provided,rs141842478
+ALDH3A2,NM_000382.3(ALDH3A2):c.1208-10T>C,single nucleotide variant,Likely benign,not provided,rs2085115871
+ALDH3A2,NM_000382.3(ALDH3A2):c.1276T>C (p.Leu426=),single nucleotide variant,Likely benign,not provided,rs2085117100
+ALDH3A2,NM_000382.3(ALDH3A2):c.594C>G (p.Ala198=),single nucleotide variant,Likely benign,not provided,rs748735361
+ALDH3A2,NM_000382.3(ALDH3A2):c.931C>T (p.Arg311Cys),single nucleotide variant,Likely benign,not provided,rs534244558
+ALDH3A2,NM_000382.3(ALDH3A2):c.1443+12T>G,single nucleotide variant,Likely benign,not provided,rs776760010
+ALDH3A2,NM_000382.3(ALDH3A2):c.941-17_941-14del,Deletion,Likely benign,not provided,rs1182511805
+ALDH3A2,NM_000382.3(ALDH3A2):c.1296A>G (p.Arg432=),single nucleotide variant,Likely benign,not provided,rs767381183
+ALDH3A2,NM_000382.3(ALDH3A2):c.520C>T (p.Leu174=),single nucleotide variant,Likely benign,not provided,rs571845978
+ALDH3A2,NM_000382.3(ALDH3A2):c.366G>T (p.Leu122=),single nucleotide variant,Likely benign,not provided,rs754624836
+ALDH3A2,NM_000382.3(ALDH3A2):c.1449A>G (p.Glu483=),single nucleotide variant,Likely benign,not provided,rs1480960264
+ALDH3A2,NM_000382.3(ALDH3A2):c.807T>C (p.Tyr269=),single nucleotide variant,Likely benign,ALDH3A2-related disorder,rs2084960020
+ALDH3A2,NM_000382.3(ALDH3A2):c.1208-16G>A,single nucleotide variant,Likely benign,not provided,rs1017601365
+ALDH3A2,NM_000382.3(ALDH3A2):c.386-5_386-2del,Microsatellite,Likely benign,not provided,rs2084830183
+ALDH3A2,NM_000382.3(ALDH3A2):c.75G>A (p.Gln25=),single nucleotide variant,Likely benign,not provided,rs767626910
+ALDH3A2,NM_000382.3(ALDH3A2):c.366G>A (p.Leu122=),single nucleotide variant,Likely benign,not provided,rs754624836
+ALDH3A2,NM_000382.3(ALDH3A2):c.1207+7C>T,single nucleotide variant,Likely benign,not provided,rs1334733826
+ALDH3A2,NM_000382.3(ALDH3A2):c.903T>C (p.Ala301=),single nucleotide variant,Likely benign,not provided,rs754226801
+ALDH3A2,NM_000382.3(ALDH3A2):c.680+16dup,Duplication,Likely benign,not provided,rs762486151
+ALDH3A2,NM_000382.3(ALDH3A2):c.940+16C>G,single nucleotide variant,Likely benign,not provided,rs375078986
+ALDH3A2,NM_000382.3(ALDH3A2):c.1444-4C>G,single nucleotide variant,Likely benign,not provided,rs192458322
+ALDH3A2,NM_000382.3(ALDH3A2):c.381T>G (p.Ala127=),single nucleotide variant,Likely benign,not provided,rs147787942
+ALDH3A2,NM_000382.3(ALDH3A2):c.36C>T (p.Phe12=),single nucleotide variant,Likely benign,not provided,rs1162502566
+ALDH3A2,NM_000382.3(ALDH3A2):c.1095G>A (p.Ser365=),single nucleotide variant,Likely benign,not provided,rs372077578
+ALDH3A2,NM_000382.3(ALDH3A2):c.792A>T (p.Thr264=),single nucleotide variant,Likely benign,not provided,rs1200271994
+ALDH3A2,NM_000382.3(ALDH3A2):c.346G>A (p.Val116Ile),single nucleotide variant,Likely benign,not provided,rs752169967
+ALDH3A2,NM_000382.3(ALDH3A2):c.1389A>G (p.Lys463=),single nucleotide variant,Likely benign,not provided,rs770888408
+ALDH3A2,NM_000382.3(ALDH3A2):c.1047A>G (p.Ile349Met),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs770078722
+ALDH3A2,NM_000382.3(ALDH3A2):c.941-7T>C,single nucleotide variant,Likely benign,not provided,rs747099039
+ALDH3A2,NM_000382.3(ALDH3A2):c.996T>A (p.Ile332=),single nucleotide variant,Likely benign,not provided,rs1480486742
+ALDH3A2,NM_000382.3(ALDH3A2):c.42C>T (p.Ser14=),single nucleotide variant,Likely benign,not provided,rs764149940
+ALDH3A2,NM_000382.3(ALDH3A2):c.856C>T (p.Arg286Cys),single nucleotide variant,Uncertain significance,not provided,rs150614683
+ALDH3A2,NM_000382.3(ALDH3A2):c.419G>A (p.Ser140Asn),single nucleotide variant,Uncertain significance,not provided,rs2084830816
+ALDH3A2,NM_000382.3(ALDH3A2):c.670A>G (p.Ile224Val),single nucleotide variant,Likely benign,not provided,rs145709210
+ALDH3A2,NM_000382.3(ALDH3A2):c.1332C>T (p.Ser444=),single nucleotide variant,Likely benign,not provided,rs760611340
+ALDH3A2,NM_000382.3(ALDH3A2):c.153+3A>G,single nucleotide variant,Uncertain significance,not provided,rs1189769004
+ALDH3A2,NM_000382.3(ALDH3A2):c.1406T>A (p.Leu469His),single nucleotide variant,Uncertain significance,not provided,rs2085120866
+ALDH3A2,NM_000382.3(ALDH3A2):c.1268G>A (p.Arg423His),single nucleotide variant,Pathogenic/Likely pathogenic,Sjögren-Larsson syndrome,rs768290318
+ALDH3A2,NM_000382.3(ALDH3A2):c.428C>T (p.Thr143Ile),single nucleotide variant,Uncertain significance,not provided,rs777394874
+ALDH3A2,NM_000382.3(ALDH3A2):c.1178C>T (p.Thr393Met),single nucleotide variant,Uncertain significance,not provided,rs756275242
+ALDH3A2,NM_000382.3(ALDH3A2):c.109C>A (p.Arg37Ser),single nucleotide variant,Uncertain significance,not provided,rs745576009
+ALDH3A2,NM_000382.3(ALDH3A2):c.65T>C (p.Phe22Ser),single nucleotide variant,Uncertain significance,Sjögren-Larsson syndrome,rs751631165
+ALDH3A2,NM_000382.3(ALDH3A2):c.133A>T (p.Ile45Phe),single nucleotide variant,Uncertain significance,not provided,rs1284346835
+ALDH3A2,NM_000382.3(ALDH3A2):c.1087_1090del (p.Val363fs),Deletion,Pathogenic,not provided,rs1339996692
+ALDH3A2,NM_000382.3(ALDH3A2):c.28_29dup (p.Gln10fs),Duplication,Pathogenic,not provided,rs753291303
+ALDH3A2,NM_000382.3(ALDH3A2):c.824A>T (p.Glu275Val),single nucleotide variant,Uncertain significance,not provided,rs1379222692
+ALDH3A2,NM_000382.3(ALDH3A2):c.1220T>A (p.Met407Lys),single nucleotide variant,Uncertain significance,not provided,rs779279732
+ALDH3A2,NM_000382.3(ALDH3A2):c.224T>G (p.Leu75Arg),single nucleotide variant,Uncertain significance,not provided,rs2084815651
+ALDH3A2,NM_000382.3(ALDH3A2):c.1393G>A (p.Gly465Ser),single nucleotide variant,Uncertain significance,not specified,rs371197295
+ALDH3A2,NM_000382.3(ALDH3A2):c.128C>T (p.Thr43Met),single nucleotide variant,Uncertain significance,not specified,rs112971072
+ALDH3A2,NM_001369137.2(ALDH3A2):c.-38+334G>C,single nucleotide variant,Likely benign,not provided,rs571225645
+ALDH3A2,NM_000382.3(ALDH3A2):c.681-159C>T,single nucleotide variant,Likely benign,not provided,rs114872380
+ALDH3A2,NM_001369137.2(ALDH3A2):c.-37-196T>C,single nucleotide variant,Likely benign,not provided,rs114897153
+ALDH3A2,NM_000382.3(ALDH3A2):c.1107+208C>T,single nucleotide variant,Likely benign,not provided,rs8073767
+ALDH3A2,NM_000382.3(ALDH3A2):c.202A>G (p.Ile68Val),single nucleotide variant,Uncertain significance,not provided,rs760752013
+ALDH3A2,NM_000382.3(ALDH3A2):c.153+223C>G,single nucleotide variant,Likely benign,not provided,rs117553817
+ALDH3A2,NM_000382.3(ALDH3A2):c.153+282A>G,single nucleotide variant,Benign,not provided,rs11204407
+ALDH3A2,NM_000382.3(ALDH3A2):c.1444-225T>C,single nucleotide variant,Benign,not provided,rs80002713
+ALDH3A2,NM_000382.3(ALDH3A2):c.1444-131del,Deletion,Benign,not provided,rs2085174559
+ALDH3A2,NM_000382.3(ALDH3A2):c.1443+1400del,Deletion,Benign,not provided,rs34160909
+ALDH3A2,NM_000382.3(ALDH3A2):c.681-206A>G,single nucleotide variant,Benign,not provided,rs1034897
+ALDH3A2,NM_000382.3(ALDH3A2):c.798+254T>G,single nucleotide variant,Benign,not provided,rs4646800
+ALDH3A2,NM_000382.3(ALDH3A2):c.940+232C>T,single nucleotide variant,Benign,not provided,rs114819899
+ALDH3A2,NM_000382.3(ALDH3A2):c.1443+1022T>C,single nucleotide variant,Benign,not provided,rs71369434
+ALDH3A2,NM_000382.3(ALDH3A2):c.472-211A>G,single nucleotide variant,Benign,not provided,rs962800
+ALDH3A2,NM_000382.3(ALDH3A2):c.471+246_471+247del,Microsatellite,Benign,not provided,rs34368630
+ALDH3A2,NM_000382.3(ALDH3A2):c.472-150G>C,single nucleotide variant,Benign,not provided,rs76113935
+ALDH3A2,NM_000382.3(ALDH3A2):c.798+259A>T,single nucleotide variant,Benign,not provided,rs111858353
+ALDH3A2,NM_000382.3(ALDH3A2):c.386-135A>T,single nucleotide variant,Benign,not provided,rs1004490
+ALDH3A2,NM_000382.3(ALDH3A2):c.1443+1009C>T,single nucleotide variant,Benign,not provided,rs66462929
+ALDH3A2,NM_000382.3(ALDH3A2):c.1207+130del,Deletion,Benign,Sjögren-Larsson syndrome,rs59755039
+ALDH3A2,NM_000382.3(ALDH3A2):c.681-37_681-30del,Microsatellite,Benign,not provided,rs3034928
+ALDH3A2,NM_000382.3(ALDH3A2):c.940+53C>G,single nucleotide variant,Benign/Likely benign,not provided,rs1800869
+ALDH3A2,NM_000382.3(ALDH3A2):c.472-56G>A,single nucleotide variant,Benign,not provided,rs2072332
+ALDH3A2,NM_000382.3(ALDH3A2):c.471+31T>C,single nucleotide variant,Benign,not provided,rs1004491
+ALDH3A2,NM_000382.3(ALDH3A2):c.153+39C>T,single nucleotide variant,Benign,not provided,rs4646793
+ALDH3A2,NM_000382.3(ALDH3A2):c.1443+1440del,Deletion,Benign,not provided,rs60107647
+ALDH3A2,NM_000382.3(ALDH3A2):c.657T>C (p.Asp219=),single nucleotide variant,Likely benign,not provided,rs1220715449
+ALDH3A2,NM_000382.3(ALDH3A2):c.732C>T (p.Pro244=),single nucleotide variant,Likely benign,not provided,rs756554580
+ALDH3A2,NM_000382.3(ALDH3A2):c.88C>T (p.Leu30=),single nucleotide variant,Likely benign,not provided,rs1300783348
+ALDH3A2,NM_000382.3(ALDH3A2):c.680+9G>A,single nucleotide variant,Likely benign,not provided,rs1478508777
+ALDH3A2,NM_000382.3(ALDH3A2):c.681-8C>T,single nucleotide variant,Likely benign,not provided,rs1244063415
+ALDH3A2,NM_000382.3(ALDH3A2):c.471+11_471+13del,Deletion,Likely benign,not provided,rs776125635
+ALDH3A2,NM_000382.3(ALDH3A2):c.1188T>C (p.Ser396=),single nucleotide variant,Likely benign,not provided,rs144496536
+ALDH3A2,NM_000382.3(ALDH3A2):c.1065T>C (p.Arg355=),single nucleotide variant,Likely benign,not provided,rs769281374
+ALDH3A2,NM_000382.3(ALDH3A2):c.1161C>T (p.Asp387=),single nucleotide variant,Likely benign,not provided,rs759678665
+ALDH3A2,NM_000382.3(ALDH3A2):c.1110C>T (p.Leu370=),single nucleotide variant,Likely benign,not provided,rs1400358976
+ALDH3A2,NM_000382.3(ALDH3A2):c.948A>G (p.Thr316=),single nucleotide variant,Likely benign,not provided,rs1309580399
+ALDH3A2,NM_000382.3(ALDH3A2):c.1233C>T (p.His411=),single nucleotide variant,Likely benign,not provided,rs148427967
+ALDH3A2,NM_000382.3(ALDH3A2):c.680+7C>G,single nucleotide variant,Likely benign,not provided,rs2084901309
+ALDH3A2,NM_000382.3(ALDH3A2):c.141C>T (p.Ala47=),single nucleotide variant,Likely benign,not provided,rs1202699490
+ALDH3A2,NM_000382.3(ALDH3A2):c.342C>T (p.Pro114=),single nucleotide variant,Likely benign,not provided,rs1236873806
+ALDH3A2,NM_000382.3(ALDH3A2):c.870G>A (p.Arg290=),single nucleotide variant,Likely benign,not provided,rs761803237
+ALDH3A2,NM_000382.3(ALDH3A2):c.138C>T (p.Ala46=),single nucleotide variant,Likely benign,not provided,rs1208121428
+ALDH3A2,NM_000382.3(ALDH3A2):c.126G>T (p.Leu42=),single nucleotide variant,Likely benign,not provided,rs2084778089
+ALDH3A2,NM_000382.3(ALDH3A2):c.975C>G (p.Thr325=),single nucleotide variant,Likely benign,not provided,rs764709902
+ALDH3A2,NM_000382.3(ALDH3A2):c.261C>T (p.Asn87=),single nucleotide variant,Likely benign,not provided,rs758891042
+ALDH3A2,NM_000382.3(ALDH3A2):c.720C>G (p.Thr240=),single nucleotide variant,Likely benign,not provided,rs757529940
+ALDH3A2,NM_000382.3(ALDH3A2):c.942C>G (p.Ala314=),single nucleotide variant,Likely benign,not provided,rs1289171259
+ALDH3A2,NM_000382.3(ALDH3A2):c.276G>T (p.Leu92=),single nucleotide variant,Likely benign,not provided,rs779837269
+ALDH3A2,NM_000382.3(ALDH3A2):c.87C>T (p.Ala29=),single nucleotide variant,Likely benign,not provided,rs749679693
+ALDH3A2,NM_000382.3(ALDH3A2):c.363A>G (p.Pro121=),single nucleotide variant,Likely benign,not provided,rs552108573
+ALDH3A2,NM_000382.3(ALDH3A2):c.324C>T (p.Ile108=),single nucleotide variant,Likely benign,not provided,rs112425629
+ALDH3A2,NM_000382.3(ALDH3A2):c.1443+9C>G,single nucleotide variant,Likely benign,not provided,rs1486773892
+ALDH3A2,NM_000382.3(ALDH3A2):c.941-8C>A,single nucleotide variant,Likely benign,not provided,rs2084991355
+ALDH3A2,NM_000382.3(ALDH3A2):c.129G>A (p.Thr43=),single nucleotide variant,Likely benign,not provided,rs762854937
+ALDH3A2,NM_000382.3(ALDH3A2):c.1431T>C (p.Ala477=),single nucleotide variant,Likely benign,not provided,rs1320588121
+ALDH3A2,NM_000382.3(ALDH3A2):c.591T>A (p.Ala197=),single nucleotide variant,Likely benign,not provided,rs2084899123
+ALDH3A2,NM_000382.3(ALDH3A2):c.1207+9T>G,single nucleotide variant,Likely benign,not provided,rs144781535
+ALDH3A2,NM_000382.3(ALDH3A2):c.1290A>G (p.Leu430=),single nucleotide variant,Likely benign,not provided,rs2085117598
+ALDH3A2,NM_000382.3(ALDH3A2):c.124C>T (p.Leu42=),single nucleotide variant,Likely benign,not provided,rs982580046
+ALDH3A2,NM_000382.3(ALDH3A2):c.386-10_386-6del,Deletion,Likely benign,not provided,rs768566352
+ALDH3A2,NM_000382.3(ALDH3A2):c.874C>T (p.Leu292=),single nucleotide variant,Likely benign,not provided,rs149453193
+ALDH3A2,NM_000382.3(ALDH3A2):c.1048A>C (p.Asn350His),single nucleotide variant,Likely benign,not provided,rs189167880
+ALDH3A2,NM_000382.3(ALDH3A2):c.513G>A (p.Thr171=),single nucleotide variant,Likely benign,not provided,rs370609228
+ALDH3A2,NM_000382.3(ALDH3A2):c.1443+8C>T,single nucleotide variant,Likely benign,not provided,rs760389717
+ALDH3A2,NM_000382.3(ALDH3A2):c.849C>A (p.Ile283=),single nucleotide variant,Likely benign,not provided,rs992796190
+ALDH3A2,NM_000382.3(ALDH3A2):c.417G>C (p.Leu139=),single nucleotide variant,Likely benign,not provided,rs200806435
+ALDH3A2,NM_000382.3(ALDH3A2):c.154-5A>G,single nucleotide variant,Likely benign,not provided,rs187629449
+ALDH3A2,NM_000382.3(ALDH3A2):c.774A>G (p.Val258=),single nucleotide variant,Likely benign,not provided,rs141842478
+ALDH3A2,NM_000382.3(ALDH3A2):c.792A>G (p.Thr264=),single nucleotide variant,Likely benign,not provided,rs1200271994
+ALDH3A2,NM_000382.3(ALDH3A2):c.285C>A (p.Ala95=),single nucleotide variant,Likely benign,not provided,rs201394150
+ALDH3A2,NM_000382.3(ALDH3A2):c.435G>A (p.Lys145=),single nucleotide variant,Likely benign,not provided,rs1195431203
+ALDH3A2,NM_000382.3(ALDH3A2):c.680+9G>C,single nucleotide variant,Likely benign,not provided,rs1478508777
+ALDH3A2,NM_000382.3(ALDH3A2):c.304C>T (p.Leu102=),single nucleotide variant,Likely benign,not provided,rs2084817677
+ALDH3A2,NM_000382.3(ALDH3A2):c.921T>C (p.Asp307=),single nucleotide variant,Likely benign,not provided,rs2152330009
+ALDH3A2,NM_000382.3(ALDH3A2):c.999T>C (p.Phe333=),single nucleotide variant,Likely benign,not provided,rs754768387
+ALDH3A2,NM_000382.3(ALDH3A2):c.1412T>C (p.Phe471Ser),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs141112437
+ALDH3A2,NM_000382.3(ALDH3A2):c.154-6T>A,single nucleotide variant,Likely benign,not provided,rs1267993370
+ALDH3A2,NM_000382.3(ALDH3A2):c.195T>C (p.Leu65=),single nucleotide variant,Likely benign,not provided,rs371684629
+ALDH3A2,NM_000382.3(ALDH3A2):c.1428C>T (p.Ala476=),single nucleotide variant,Likely benign,not provided,rs201772603
+ALDH3A2,NM_000382.3(ALDH3A2):c.681-15A>T,single nucleotide variant,Likely benign,not provided,rs766240333
+ALDH3A2,NM_000382.3(ALDH3A2):c.154-7A>G,single nucleotide variant,Likely benign,not provided,rs745394014
+ALDH3A2,NM_000382.3(ALDH3A2):c.936C>T (p.Tyr312=),single nucleotide variant,Likely benign,not provided,rs370799289
+ALDH3A2,NM_000382.3(ALDH3A2):c.821_822del (p.Lys274fs),Deletion,Pathogenic,not provided,rs2084960336
+ALDH3A2,NM_000382.3(ALDH3A2):c.538del (p.His180fs),Deletion,Pathogenic,not provided,rs769354565
+ALDH3A2,NM_000382.3(ALDH3A2):c.832G>A (p.Asp278Asn),single nucleotide variant,Uncertain significance,not provided,rs934749419
+ALDH3A2,NM_000382.3(ALDH3A2):c.554G>A (p.Gly185Glu),single nucleotide variant,Pathogenic/Likely pathogenic,not provided,rs72547563
+ALDH3A2,NM_000382.3(ALDH3A2):c.919G>A (p.Asp307Asn),single nucleotide variant,Uncertain significance,not provided,rs745558212
+ALDH3A2,NM_000382.3(ALDH3A2):c.303T>C (p.Pro101=),single nucleotide variant,Conflicting classifications of pathogenicity,Sjögren-Larsson syndrome,rs773093556
+ALDH3A2,NM_000382.3(ALDH3A2):c.287A>G (p.Tyr96Cys),single nucleotide variant,Uncertain significance,not provided,rs747913174
+ALDH3A2,NM_000382.3(ALDH3A2):c.87C>G (p.Ala29=),single nucleotide variant,Conflicting classifications of pathogenicity,Sjögren-Larsson syndrome,rs749679693
+ALDH3A2,NM_000382.3(ALDH3A2):c.1431T>A (p.Ala477=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs1320588121
+ALDH3A2,NM_000382.3(ALDH3A2):c.1392C>T (p.Leu464=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs181889379
+ALDH3A2,NM_000382.3(ALDH3A2):c.1347T>C (p.Asp449=),single nucleotide variant,Conflicting classifications of pathogenicity,Sjögren-Larsson syndrome,rs1054840414
+ALDH3A2,NM_000382.3(ALDH3A2):c.1254T>C (p.Thr418=),single nucleotide variant,Conflicting classifications of pathogenicity,Sjögren-Larsson syndrome,rs373251784
+ALDH3A2,NM_000382.3(ALDH3A2):c.978G>C (p.Lys326Asn),single nucleotide variant,Conflicting classifications of pathogenicity,Inborn genetic diseases,rs143717984
+ALDH3A2,NM_000382.3(ALDH3A2):c.799-6A>G,single nucleotide variant,Conflicting classifications of pathogenicity,Sjögren-Larsson syndrome,rs746519259
+ALDH3A2,NM_000382.3(ALDH3A2):c.50C>A (p.Ser17Ter),single nucleotide variant,Pathogenic,not provided,rs1447023449
+ALDH3A2,NM_000382.3(ALDH3A2):c.777G>A (p.Trp259Ter),single nucleotide variant,Pathogenic/Likely pathogenic,not provided,rs1555533754
+ALDH3A2,NM_000382.3(ALDH3A2):c.154-5A>T,single nucleotide variant,Likely benign,not provided,rs187629449
+ALDH3A2,NM_000382.3(ALDH3A2):c.45C>A (p.Gly15=),single nucleotide variant,Likely benign,not provided,rs1474617120
+ALDH3A2,NM_000382.3(ALDH3A2):c.1032T>C (p.Asn344=),single nucleotide variant,Likely benign,not provided,rs1220711241

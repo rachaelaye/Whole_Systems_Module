@@ -1,0 +1,79 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+PGAM2,NM_000290.4(PGAM2):c.310GCC[1] (p.Ala105del),Microsatellite,Uncertain significance,not provided,rs769549607
+PGAM2,NM_000290.4(PGAM2):c.489C>T (p.Ala163=),single nucleotide variant,Likely benign,Glycogen storage disease type X,rs1201379677
+PGAM2,NM_000290.4(PGAM2):c.363C>T (p.Ile121=),single nucleotide variant,Likely benign,Glycogen storage disease type X,rs768642477
+PGAM2,NM_000290.4(PGAM2):c.381C>T (p.Asp127=),single nucleotide variant,Likely benign,Glycogen storage disease type X,rs530105632
+PGAM2,NM_001014436.3(DBNL):c.*3905G>A,single nucleotide variant,Likely benign,Glycogen storage disease type X,rs760737158
+PGAM2,NM_001014436.3(DBNL):c.*2021C>T,single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs372222997
+PGAM2,NM_000290.4(PGAM2):c.37G>A (p.Glu13Lys),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs1026868358
+PGAM2,NM_000290.4(PGAM2):c.16C>G (p.Leu6Val),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs750344114
+PGAM2,NM_000290.4(PGAM2):c.515T>G (p.Val172Gly),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs370003298
+PGAM2,NM_000290.4(PGAM2):c.532G>A (p.Gly178Ser),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs772187619
+PGAM2,NM_000290.4(PGAM2):c.368C>G (p.Pro123Arg),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs372435680
+PGAM2,NM_000290.4(PGAM2):c.308C>T (p.Thr103Met),single nucleotide variant,Uncertain significance,not provided,rs1443019260
+PGAM2,NM_001014436.3(DBNL):c.*4824G>A,single nucleotide variant,Benign,not provided,rs62458756
+PGAM2,NM_001014436.3(DBNL):c.*1790C>T,single nucleotide variant,Benign,not provided,rs76119752
+PGAM2,NM_001014436.3(DBNL):c.*3704A>G,single nucleotide variant,Benign,not provided,rs6956492
+PGAM2,NM_001014436.3(DBNL):c.*4164A>G,single nucleotide variant,Likely benign,not provided,rs114578410
+PGAM2,NM_001014436.3(DBNL):c.*4973C>G,single nucleotide variant,Likely benign,not provided,rs62458757
+PGAM2,NM_001014436.3(DBNL):c.*4684G>A,single nucleotide variant,Likely benign,not provided,rs115920246
+PGAM2,NM_000290.4(PGAM2):c.276C>T (p.Tyr92=),single nucleotide variant,Likely benign,Glycogen storage disease type X,rs201201589
+PGAM2,NM_000290.4(PGAM2):c.90G>A (p.Leu30=),single nucleotide variant,Likely benign,Glycogen storage disease type X,rs759827542
+PGAM2,NM_000290.4(PGAM2):c.331C>T (p.Gln111Ter),single nucleotide variant,Pathogenic,Glycogen storage disease type X,rs764676548
+PGAM2,NM_000290.4(PGAM2):c.755C>A (p.Ala252Asp),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs752958758
+PGAM2,NM_000290.4(PGAM2):c.545T>C (p.Leu182Pro),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs749757183
+PGAM2,NM_000290.4(PGAM2):c.719G>A (p.Arg240Gln),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs369482159
+PGAM2,NM_000290.4(PGAM2):c.19G>A (p.Val7Met),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs774293728
+PGAM2,NM_000290.4(PGAM2):c.194G>A (p.Arg65His),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs200420235
+PGAM2,NM_000290.4(PGAM2):c.244G>A (p.Val82Met),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs528467394
+PGAM2,NM_000290.4(PGAM2):c.365C>T (p.Pro122Leu),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs147273213
+PGAM2,NM_000290.4(PGAM2):c.62G>A (p.Arg21His),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs1392611950
+PGAM2,NM_000290.4(PGAM2):c.455C>T (p.Thr152Ile),single nucleotide variant,Conflicting classifications of pathogenicity,PGAM2-related disorder,rs199869174
+PGAM2,NM_000290.4(PGAM2):c.480T>C (p.Ile160=),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs780650903
+PGAM2,NM_000290.4(PGAM2):c.501G>T (p.Trp167Cys),single nucleotide variant,Uncertain significance,not provided,rs150235677
+PGAM2,NM_000290.4(PGAM2):c.511A>C (p.Ile171Leu),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs372452057
+PGAM2,NM_000290.4(PGAM2):c.571C>T (p.Arg191Trp),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs368258088
+PGAM2,NM_000290.4(PGAM2):c.115A>C (p.Lys39Gln),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs147126221
+PGAM2,NM_000290.4(PGAM2):c.232T>C (p.Trp78Arg),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs1191913196
+PGAM2,NM_000290.4(PGAM2):c.252T>C (p.Thr84=),single nucleotide variant,Conflicting classifications of pathogenicity,Glycogen storage disease type X,rs755125202
+PGAM2,NM_000290.4(PGAM2):c.256C>T (p.Arg86Cys),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs371509257
+PGAM2,NM_000290.4(PGAM2):c.36C>T (p.Gly12=),single nucleotide variant,Likely benign,Glycogen storage disease type X,rs369660945
+PGAM2,NM_000290.4(PGAM2):c.143C>T (p.Ala48Val),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs1308236739
+PGAM2,NM_000290.4(PGAM2):c.636G>A (p.Thr212=),single nucleotide variant,Likely benign,Glycogen storage disease type X,rs755991460
+PGAM2,NM_001014436.3(DBNL):c.*4777G>A,single nucleotide variant,Likely benign,not provided,rs186968338
+PGAM2,NM_000290.4(PGAM2):c.611C>T (p.Ala204Val),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs747760221
+PGAM2,NM_000290.4(PGAM2):c.374C>T (p.Pro125Leu),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs1385458139
+PGAM2,NM_000290.4(PGAM2):c.533del (p.Gly178fs),Deletion,Pathogenic/Likely pathogenic,Glycogen storage disease type X,rs747947171
+PGAM2,NM_000290.4(PGAM2):c.637G>A (p.Gly213Arg),single nucleotide variant,Likely pathogenic,Rhabdomyolysis,rs750422335
+PGAM2,NM_000290.4(PGAM2):c.119G>A (p.Arg40Gln),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs140545494
+PGAM2,NM_000290.4(PGAM2):c.531C>G (p.Ala177=),single nucleotide variant,Likely benign,not specified,rs555158017
+PGAM2,NM_001014436.3(DBNL):c.*4099G>A,single nucleotide variant,Conflicting classifications of pathogenicity,Glycogen storage disease type X,rs201133395
+PGAM2,NM_001014436.3(DBNL):c.*4645C>T,single nucleotide variant,Likely benign,not specified,rs770194022
+PGAM2,NM_000290.4(PGAM2):c.264T>C (p.Asn88=),single nucleotide variant,Likely benign,not provided,rs146272559
+PGAM2,NM_000290.4(PGAM2):c.707A>C (p.Glu236Ala),single nucleotide variant,Conflicting classifications of pathogenicity,PGAM2-related disorder,rs140230479
+PGAM2,NM_000290.4(PGAM2):c.511A>G (p.Ile171Val),single nucleotide variant,Conflicting classifications of pathogenicity,Glycogen storage disease type X,rs372452057
+PGAM2,NM_000290.4(PGAM2):c.20del (p.Val7fs),Deletion,Pathogenic/Likely pathogenic,not provided,rs764567774
+PGAM2,NM_000290.4(PGAM2):c.288A>G (p.Thr96=),single nucleotide variant,Conflicting classifications of pathogenicity,Glycogen storage disease type X,rs139561812
+PGAM2,NM_001014436.3(DBNL):c.*4113C>T,single nucleotide variant,Likely benign,not specified,rs370359405
+PGAM2,NM_001014436.3(DBNL):c.*4659T>C,single nucleotide variant,Likely benign,not specified,rs201738712
+PGAM2,NM_001014436.3(DBNL):c.*4663A>C,single nucleotide variant,Benign,not specified,rs113274029
+PGAM2,NM_001014436.3(DBNL):c.*4668T>G,single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs528717273
+PGAM2,NM_001014436.3(DBNL):c.*4645dup,Duplication,Uncertain significance,Glycogen storage disease type X,rs554686318
+PGAM2,NM_000290.4(PGAM2):c.148A>C (p.Met50Leu),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs151308911
+PGAM2,NM_000290.4(PGAM2):c.244G>T (p.Val82Leu),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs528467394
+PGAM2,NM_000290.4(PGAM2):c.324G>A (p.Gly108=),single nucleotide variant,Benign,not specified,rs112828964
+PGAM2,NM_000290.4(PGAM2):c.341T>G (p.Ile114Ser),single nucleotide variant,Benign,not specified,rs61756062
+PGAM2,NM_000290.4(PGAM2):c.366G>A (p.Pro122=),single nucleotide variant,Benign/Likely benign,PGAM2-related disorder,rs143830182
+PGAM2,NM_000290.4(PGAM2):c.375G>A (p.Pro125=),single nucleotide variant,Benign/Likely benign,Glycogen storage disease type X,rs145985559
+PGAM2,NM_000290.4(PGAM2):c.426C>T (p.Tyr142=),single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs376134077
+PGAM2,NM_000290.4(PGAM2):c.459C>T (p.Cys153=),single nucleotide variant,Conflicting classifications of pathogenicity,PGAM2-related disorder,rs143809043
+PGAM2,NM_001014436.3(DBNL):c.*2017A>G,single nucleotide variant,Benign/Likely benign,Glycogen storage disease type X,rs367994618
+PGAM2,NM_000290.4(PGAM2):c.726C>T (p.Ala242=),single nucleotide variant,Conflicting classifications of pathogenicity,PGAM2-related disorder,rs142209394
+PGAM2,NM_001014436.3(DBNL):c.*1813T>C,single nucleotide variant,Uncertain significance,Glycogen storage disease type X,rs374509693
+PGAM2,NM_000290.4(PGAM2):c.310G>A (p.Ala104Thr),single nucleotide variant,Conflicting classifications of pathogenicity,Glycogen storage disease type X,rs150570281
+PGAM2,NM_000290.4(PGAM2):c.484C>T (p.Arg162Trp),single nucleotide variant,Uncertain significance,not provided,rs199977298
+PGAM2,NM_000290.4(PGAM2):c.216C>T (p.Asp72=),single nucleotide variant,Benign,not specified,rs111656877
+PGAM2,NM_000290.4(PGAM2):c.290G>A (p.Gly97Asp),single nucleotide variant,Conflicting classifications of pathogenicity,not provided,rs77938727
+PGAM2,NM_000290.4(PGAM2):c.268C>T (p.Arg90Trp),single nucleotide variant,Uncertain significance,not provided,rs104894034
+PGAM2,NM_000290.4(PGAM2):c.266A>C (p.Glu89Ala),single nucleotide variant,Conflicting classifications of pathogenicity,Glycogen storage disease type X,rs104894030
+PGAM2,NM_000290.4(PGAM2):c.233G>A (p.Trp78Ter),single nucleotide variant,Pathogenic/Likely pathogenic,not provided,rs10250779

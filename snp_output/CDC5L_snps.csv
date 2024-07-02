@@ -1,0 +1,29 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+CDC5L,NM_001253.4(CDC5L):c.904-262T>C,single nucleotide variant,Benign,not provided,rs6458384
+CDC5L,NM_001253.4(CDC5L):c.279G>A (p.Ala93=),single nucleotide variant,Benign,not provided,rs10948136
+CDC5L,NM_001253.3(CDC5L):c.-162G>T,single nucleotide variant,Benign,not provided,rs2297334
+CDC5L,NM_001318876.2(POLR1C):c.946-54399A>C,single nucleotide variant,Benign,not provided,rs77690047
+CDC5L,NM_001253.4(CDC5L):c.311+115A>G,single nucleotide variant,Benign,not provided,rs6942323
+CDC5L,NM_001253.4(CDC5L):c.1570-205G>A,single nucleotide variant,Benign,not provided,rs11572020
+CDC5L,NM_001253.4(CDC5L):c.149+336T>G,single nucleotide variant,Benign,not provided,rs9369481
+CDC5L,NM_001253.4(CDC5L):c.150-249T>A,single nucleotide variant,Benign,not provided,rs7757621
+CDC5L,NM_001253.4(CDC5L):c.45+94T>C,single nucleotide variant,Benign,not provided,rs2297331
+CDC5L,NM_001253.3(CDC5L):c.-138C>T,single nucleotide variant,Benign,not provided,rs2297333
+CDC5L,NM_001253.4(CDC5L):c.1241+183C>G,single nucleotide variant,Benign,not provided,rs6923521
+CDC5L,NM_001253.4(CDC5L):c.1404+218G>T,single nucleotide variant,Benign,not provided,rs11572007
+CDC5L,NM_001253.4(CDC5L):c.1894-169G>C,single nucleotide variant,Benign,not provided,rs4714787
+CDC5L,NM_001253.4(CDC5L):c.45+77G>A,single nucleotide variant,Benign,not provided,rs2297332
+CDC5L,NM_001253.4(CDC5L):c.903+304G>A,single nucleotide variant,Benign,not provided,rs1952979
+CDC5L,NM_001253.4(CDC5L):c.46-121T>G,single nucleotide variant,Benign,not provided,rs6908640
+CDC5L,NM_001253.4(CDC5L):c.1241+256C>A,single nucleotide variant,Benign,not provided,rs9395016
+CDC5L,NM_001253.4(CDC5L):c.1405-140A>C,single nucleotide variant,Benign,not provided,rs11572012
+CDC5L,NM_001253.4(CDC5L):c.2304+132A>G,single nucleotide variant,Benign,not provided,rs2273667
+CDC5L,NM_001253.4(CDC5L):c.708C>T (p.Asp236=),single nucleotide variant,Benign,not provided,rs6934058
+CDC5L,NM_001253.4(CDC5L):c.2163T>A (p.Leu721=),single nucleotide variant,Benign,not provided,rs2273666
+CDC5L,NM_001253.4(CDC5L):c.1569+194G>A,single nucleotide variant,Benign,not provided,rs864127
+CDC5L,NM_001253.4(CDC5L):c.2091+235T>C,single nucleotide variant,Benign,not provided,rs80152853
+CDC5L,NM_001253.4(CDC5L):c.903+263A>G,single nucleotide variant,Benign,not provided,rs1952980
+CDC5L,NM_001253.4(CDC5L):c.1854T>C (p.His618=),single nucleotide variant,Benign,not provided,rs11572023
+CDC5L,NM_001253.4(CDC5L):c.929T>C (p.Val310Ala),single nucleotide variant,Likely benign,CDC5L-related disorder,rs200087867
+CDC5L,NM_001253.4(CDC5L):c.2014C>T (p.Pro672Ser),single nucleotide variant,Uncertain significance,not provided,rs765864584
+CDC5L,NM_001253.4(CDC5L):c.1802A>G (p.Lys601Arg),single nucleotide variant,Uncertain significance,Congenital anomaly of kidney and urinary tract,rs368161524

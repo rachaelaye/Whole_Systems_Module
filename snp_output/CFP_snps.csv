@@ -1,0 +1,66 @@
+Gene,Variant,Variant Type,Clin_Sig,Phenotype,dbSNP ID
+CFP,NM_001145252.3(CFP):c.985C>T (p.Arg329Ter),single nucleotide variant,Uncertain significance,not specified,rs1603083122
+CFP,NM_001145252.3(CFP):c.120C>T (p.Ser40=),single nucleotide variant,Likely benign,not provided,rs763653323
+CFP,NM_001145252.3(CFP):c.699T>A (p.Pro233=),single nucleotide variant,Likely benign,not provided,rs777757134
+CFP,NM_001145252.3(CFP):c.227+18G>C,single nucleotide variant,Likely benign,not provided,rs769946055
+CFP,NM_001145252.3(CFP):c.909C>T (p.Thr303=),single nucleotide variant,Likely benign,not provided,rs757743217
+CFP,NM_001145252.3(CFP):c.1244+19T>C,single nucleotide variant,Likely benign,not provided,rs773460874
+CFP,NM_001145252.3(CFP):c.1245-11del,Deletion,Likely benign,not provided,rs752645314
+CFP,NM_001145252.3(CFP):c.391C>G (p.Gln131Glu),single nucleotide variant,Benign,not provided,rs371132642
+CFP,NM_001145252.3(CFP):c.135C>T (p.Gly45=),single nucleotide variant,Benign,not provided,rs767157838
+CFP,NM_001145252.3(CFP):c.1374G>A (p.Val458=),single nucleotide variant,Likely benign,not provided,rs370014336
+CFP,NM_001145252.3(CFP):c.579C>T (p.His193=),single nucleotide variant,Likely benign,not provided,rs752493725
+CFP,NM_001145252.3(CFP):c.849G>A (p.Thr283=),single nucleotide variant,Likely benign,not provided,rs768545409
+CFP,NM_001145252.3(CFP):c.633T>C (p.Gly211=),single nucleotide variant,Likely benign,not provided,rs1384246975
+CFP,NM_001145252.3(CFP):c.210G>A (p.Gly70=),single nucleotide variant,Likely benign,not provided,rs1243622202
+CFP,NM_001145252.3(CFP):c.582G>T (p.Gly194=),single nucleotide variant,Likely benign,not provided,rs781475195
+CFP,NM_001145252.3(CFP):c.658C>A (p.Arg220=),single nucleotide variant,Likely benign,not provided,rs372336803
+CFP,NM_001145252.3(CFP):c.88G>A (p.Val30Met),single nucleotide variant,Benign/Likely benign,CFP-related disorder,rs138456565
+CFP,NM_001145252.3(CFP):c.940+7A>G,single nucleotide variant,Benign,not provided,rs375455564
+CFP,NM_001145252.3(CFP):c.575-20C>T,single nucleotide variant,Likely benign,not provided,rs1436451900
+CFP,NM_001145252.3(CFP):c.701C>T (p.Pro234Leu),single nucleotide variant,Uncertain significance,not provided,rs769690133
+CFP,NM_001145252.3(CFP):c.469C>T (p.Arg157Trp),single nucleotide variant,Uncertain significance,not provided,rs745424947
+CFP,NM_001145252.3(CFP):c.530A>G (p.Gln177Arg),single nucleotide variant,Uncertain significance,not provided,rs376333570
+CFP,NM_001145252.3(CFP):c.1360C>G (p.Pro454Ala),single nucleotide variant,Uncertain significance,CFP-related disorder,rs768994510
+CFP,NM_001145252.3(CFP):c.227+2T>G,single nucleotide variant,Likely pathogenic,not provided,rs1317275240
+CFP,NM_001145252.3(CFP):c.977C>T (p.Pro326Leu),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs144021755
+CFP,NM_001145252.3(CFP):c.1320G>A (p.Glu440=),single nucleotide variant,Uncertain significance,not provided,rs2057959898
+CFP,NM_001145252.3(CFP):c.475C>T (p.Arg159Cys),single nucleotide variant,Uncertain significance,not provided,rs1454386310
+CFP,NM_001145252.3(CFP):c.470G>C (p.Arg157Pro),single nucleotide variant,Uncertain significance,not provided,rs140986480
+CFP,NM_001145252.3(CFP):c.308G>A (p.Arg103His),single nucleotide variant,Uncertain significance,not provided,rs2057977101
+CFP,NM_001145252.3(CFP):c.769G>A (p.Ala257Thr),single nucleotide variant,Uncertain significance,not provided,rs769720636
+CFP,NM_001145252.3(CFP):c.1205C>G (p.Ala402Gly),single nucleotide variant,Uncertain significance,not provided,rs757339568
+CFP,NM_001145252.3(CFP):c.894C>T (p.Gly298=),single nucleotide variant,Likely benign,not provided,rs1404194508
+CFP,NM_001145252.3(CFP):c.913A>G (p.Ile305Val),single nucleotide variant,Uncertain significance,not provided,rs764638136
+CFP,NM_001145252.3(CFP):c.1245-10_1245-9insAGGCACTCAATAAGAATTGAATGCATTCTTGCCTTCCCTGAGATTCTCCCTTCCGTTCCTCCCCACCCCTAGGGCCTG,Insertion,Uncertain significance,not provided,rs1569335024
+CFP,NM_001145252.3(CFP):c.200G>A (p.Arg67His),single nucleotide variant,Uncertain significance,not provided,rs370592348
+CFP,NM_001145252.3(CFP):c.517C>G (p.His173Asp),single nucleotide variant,Uncertain significance,not provided,rs1440928767
+CFP,NM_001145252.3(CFP):c.680C>T (p.Pro227Leu),single nucleotide variant,Uncertain significance,not provided,rs770396604
+CFP,NM_001145252.3(CFP):c.665G>A (p.Arg222His),single nucleotide variant,Uncertain significance,not provided,rs185246758
+CFP,NM_001145252.3(CFP):c.1117A>G (p.Ile373Val),single nucleotide variant,Uncertain significance,not provided,rs935700885
+CFP,NM_001145252.3(CFP):c.739A>T (p.Arg247Trp),single nucleotide variant,Uncertain significance,not provided,rs1406008963
+CFP,NM_001145252.3(CFP):c.1180C>T (p.Pro394Ser),single nucleotide variant,Uncertain significance,not provided,rs756946812
+CFP,NM_001145252.3(CFP):c.580G>A (p.Gly194Arg),single nucleotide variant,Uncertain significance,not provided,rs755651023
+CFP,NM_001145252.3(CFP):c.643G>A (p.Glu215Lys),single nucleotide variant,Uncertain significance,Inborn genetic diseases,rs1203449452
+CFP,NM_001145252.3(CFP):c.403+9G>A,single nucleotide variant,Benign,not provided,rs8177075
+CFP,NM_001145252.3(CFP):c.121G>A (p.Gly41Ser),single nucleotide variant,Benign/Likely benign,CFP-related disorder,rs374687577
+CFP,NM_001145252.3(CFP):c.1332G>T (p.Gly444=),single nucleotide variant,Benign,not provided,rs141133000
+CFP,NM_001145252.3(CFP):c.470G>A (p.Arg157Gln),single nucleotide variant,Uncertain significance,not provided,rs140986480
+CFP,NM_001145252.3(CFP):c.476G>A (p.Arg159His),single nucleotide variant,Uncertain significance,not provided,rs200131215
+CFP,NM_001145252.3(CFP):c.961T>G (p.Trp321Gly),single nucleotide variant,Pathogenic,not provided,rs1603083173
+CFP,NM_001145252.3(CFP):c.716C>T (p.Pro239Leu),single nucleotide variant,Conflicting classifications of pathogenicity,"Properdin deficiency, X-linked",rs200036265
+CFP,NM_001145252.3(CFP):c.87C>T (p.Pro29=),single nucleotide variant,Likely benign,not provided,rs747543016
+CFP,NM_001145252.3(CFP):c.663C>T (p.Ser221=),single nucleotide variant,Benign,not provided,rs367635632
+CFP,NM_001145252.3(CFP):c.1083C>T (p.Ala361=),single nucleotide variant,Likely benign,not provided,rs771963405
+CFP,NM_001145252.3(CFP):c.77-9C>G,single nucleotide variant,Likely benign,not provided,rs367959975
+CFP,NM_001145252.3(CFP):c.611C>T (p.Pro204Leu),single nucleotide variant,Benign,not provided,rs8177076
+CFP,NM_001145252.3(CFP):c.157G>A (p.Val53Met),single nucleotide variant,Benign,not provided,rs8177068
+CFP,NM_001145252.3(CFP):c.895G>A (p.Asp299Asn),single nucleotide variant,Benign/Likely benign,CFP-related disorder,rs61737993
+CFP,NM_001145252.3(CFP):c.1133-6T>C,single nucleotide variant,Likely benign,not provided,rs755279703
+CFP,NM_001145252.3(CFP):c.748G>A (p.Gly250Ser),single nucleotide variant,Benign,not provided,rs8177077
+CFP,NM_001145252.3(CFP):c.18G>A (p.Ala6=),single nucleotide variant,Likely benign,not provided,rs1020912849
+CFP,NM_001145252.3(CFP):c.1284C>T (p.Asn428=),single nucleotide variant,Benign,not provided,rs1048118
+CFP,NM_001145252.3(CFP):c.236G>A (p.Arg79Gln),single nucleotide variant,Benign,CFP-related disorder,rs761962858
+CFP,NM_001145252.3(CFP):c.1240T>G (p.Tyr414Asp),single nucleotide variant,Pathogenic,"Properdin deficiency, type III",rs132630261
+CFP,NM_001145252.3(CFP):c.893G>T (p.Gly298Val),single nucleotide variant,Pathogenic,"Properdin deficiency, X-linked",rs28935480
+CFP,NM_001145252.3(CFP):c.481C>T (p.Arg161Ter),single nucleotide variant,Pathogenic,"Properdin deficiency, X-linked",rs132630258
