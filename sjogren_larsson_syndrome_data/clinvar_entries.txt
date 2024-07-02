@@ -1,0 +1,908 @@
+ClinVar ID: 3239679
+Variant: NM_000382.3(ALDH3A2):c.901del (p.Ala301fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 3233377
+Variant: NM_000382.3(ALDH3A2):c.385+1G>C
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 3068866
+Variant: NM_000382.3(ALDH3A2):c.152A>G (p.Lys51Arg)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 3065983
+Variant: NM_000382.3(ALDH3A2):c.1350G>A (p.Trp450Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 2780380
+Variant: NM_000382.3(ALDH3A2):c.1349G>A (p.Trp450Ter)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 2628757
+Variant: NM_000382.3(ALDH3A2):c.1339A>G (p.Lys447Glu)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 2582586
+Variant: NM_000382.3(ALDH3A2):c.681-14T>A
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 2445728
+Variant: NM_000382.3(ALDH3A2):c.681-1G>A
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 2440904
+Variant: NM_000382.3(ALDH3A2):c.341C>T (p.Pro114Leu)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 2430377
+Variant: NM_000382.3(ALDH3A2):c.993A>C (p.Glu331Asp)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 2137941
+Variant: NM_000382.3(ALDH3A2):c.1234G>A (p.Gly412Arg)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 2137940
+Variant: NM_000382.3(ALDH3A2):c.554G>C (p.Gly185Ala)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 2102212
+Variant: NM_000382.3(ALDH3A2):c.292C>T (p.Gln98Ter)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1878545
+Variant: NM_000382.3(ALDH3A2):c.1362dup (p.Leu455fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1878338
+Variant: NM_000382.3(ALDH3A2):c.680+1G>A
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1726606
+Variant: NM_000382.3(ALDH3A2):c.253_254del (p.Lys85fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1725828
+Variant: NM_000382.3(ALDH3A2):c.1096del (p.His366fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1725824
+Variant: NM_000382.3(ALDH3A2):c.1023_1026del (p.Val342fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1725561
+Variant: NM_000382.3(ALDH3A2):c.420_426del (p.Ser140fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1725338
+Variant: NM_000382.3(ALDH3A2):c.723C>A (p.Cys241Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1724648
+Variant: NM_000382.3(ALDH3A2):c.257_259delinsCACTCAGC (p.Lys86fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1724236
+Variant: NM_000382.3(ALDH3A2):c.653_654del (p.Lys218fs)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 1724216
+Variant: NM_000382.3(ALDH3A2):c.522_523del (p.Lys175fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1723933
+Variant: NM_000382.3(ALDH3A2):c.913G>T (p.Glu305Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1705125
+Variant: NM_000382.3(ALDH3A2):c.154-6_154-2del
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 1685517
+Variant: NM_000382.3(ALDH3A2):c.608del (p.Pro203fs)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1684265
+Variant: NM_000382.3(ALDH3A2):c.1443+1274_1443+1275del
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 1679833
+Variant: NM_000382.3(ALDH3A2):c.620A>C (p.Glu207Ala)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 1496873
+Variant: NC_000017.10:g.(?_19575024)_(19578895_?)del
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1460470
+Variant: NM_000382.3(ALDH3A2):c.805del (p.Tyr269fs)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1459314
+Variant: NM_000382.3(ALDH3A2):c.1268G>A (p.Arg423His)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 1426070
+Variant: NM_000382.3(ALDH3A2):c.65T>C (p.Phe22Ser)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 1323874
+Variant: NM_000382.3(ALDH3A2):c.776G>A (p.Trp259Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1322996
+Variant: NM_000382.3(ALDH3A2):c.639_640del (p.Cys214fs)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1322990
+Variant: NM_000382.3(ALDH3A2):c.1187_1188del (p.Ser396fs)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1188867
+Variant: NM_000382.3(ALDH3A2):c.1207+130del
+Clinical Significance: Benign
+
+ClinVar ID: 1188866
+Variant: NM_000382.3(ALDH3A2):c.681-37_681-30del
+Clinical Significance: Benign
+
+ClinVar ID: 1184631
+Variant: NM_000382.3(ALDH3A2):c.940+53C>G
+Clinical Significance: Benign/Likely benign
+
+ClinVar ID: 1184630
+Variant: NM_000382.3(ALDH3A2):c.472-56G>A
+Clinical Significance: Benign
+
+ClinVar ID: 1184629
+Variant: NM_000382.3(ALDH3A2):c.471+31T>C
+Clinical Significance: Benign
+
+ClinVar ID: 1184628
+Variant: NM_000382.3(ALDH3A2):c.153+39C>T
+Clinical Significance: Benign
+
+ClinVar ID: 1174486
+Variant: NM_000382.3(ALDH3A2):c.1003C>T (p.Pro335Ser)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1162200
+Variant: NM_000382.3(ALDH3A2):c.126del (p.Thr43fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1071062
+Variant: NM_000382.3(ALDH3A2):c.681-2A>G
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1068917
+Variant: NM_000382.3(ALDH3A2):c.680+1del
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1039352
+Variant: NM_000382.3(ALDH3A2):c.832G>A (p.Asp278Asn)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 1030755
+Variant: NM_000382.3(ALDH3A2):c.605C>A (p.Thr202Asn)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 1027597
+Variant: NM_000382.3(ALDH3A2):c.103del (p.Gln35fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 1005018
+Variant: NM_000382.3(ALDH3A2):c.919G>A (p.Asp307Asn)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 996694
+Variant: NM_000382.3(ALDH3A2):c.10G>T (p.Glu4Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 990022
+Variant: NM_000382.3(ALDH3A2):c.352A>G (p.Thr118Ala)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 983976
+Variant: NM_000382.3(ALDH3A2):c.1141G>T (p.Gly381Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 983975
+Variant: NM_000382.3(ALDH3A2):c.1000G>T (p.Gly334Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 983974
+Variant: NM_000382.3(ALDH3A2):c.799G>T (p.Glu267Ter)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 983973
+Variant: NM_000382.3(ALDH3A2):c.784A>T (p.Lys262Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 983811
+Variant: NM_000382.3(ALDH3A2):c.760C>T (p.Gln254Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 983810
+Variant: NM_000382.3(ALDH3A2):c.652A>T (p.Lys218Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 983809
+Variant: NM_000382.3(ALDH3A2):c.571A>T (p.Lys191Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 983808
+Variant: NM_000382.3(ALDH3A2):c.464T>A (p.Leu155Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 977702
+Variant: NM_000382.3(ALDH3A2):c.471+1G>C
+Clinical Significance: Pathogenic
+
+ClinVar ID: 891987
+Variant: NM_000382.3(ALDH3A2):c.*630G>A
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 891986
+Variant: NM_000382.3(ALDH3A2):c.*171A>G
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 891949
+Variant: NM_000382.3(ALDH3A2):c.303T>C (p.Pro101=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 891948
+Variant: NM_000382.3(ALDH3A2):c.287A>G (p.Tyr96Cys)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 891947
+Variant: NM_000382.3(ALDH3A2):c.87C>G (p.Ala29=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 891946
+Variant: NM_000382.3(ALDH3A2):c.-11A>G
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 890793
+Variant: NM_000382.3(ALDH3A2):c.*1930C>T
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 890792
+Variant: NM_000382.3(ALDH3A2):c.*1721C>T
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 890791
+Variant: NM_000382.3(ALDH3A2):c.*1656C>T
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 890790
+Variant: NM_000382.3(ALDH3A2):c.*1628A>G
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 890751
+Variant: NM_000382.3(ALDH3A2):c.1431T>A (p.Ala477=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 890750
+Variant: NM_000382.3(ALDH3A2):c.1392C>T (p.Leu464=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 890700
+Variant: NM_000382.3(ALDH3A2):c.-67C>T
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 890699
+Variant: NM_000382.3(ALDH3A2):c.-215C>T
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 890222
+Variant: NM_000382.3(ALDH3A2):c.*1362G>A
+Clinical Significance: Benign
+
+ClinVar ID: 890221
+Variant: NM_000382.3(ALDH3A2):c.*1314T>C
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 890220
+Variant: NM_000382.3(ALDH3A2):c.*1184A>G
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 890171
+Variant: NM_000382.3(ALDH3A2):c.1347T>C (p.Asp449=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 890170
+Variant: NM_000382.3(ALDH3A2):c.1254T>C (p.Thr418=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 890169
+Variant: NM_000382.3(ALDH3A2):c.978G>C (p.Lys326Asn)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 889568
+Variant: NM_000382.3(ALDH3A2):c.*1082G>A
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 889567
+Variant: NM_000382.3(ALDH3A2):c.*847C>T
+Clinical Significance: Likely benign
+
+ClinVar ID: 889566
+Variant: NM_000382.3(ALDH3A2):c.*740G>C
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 889565
+Variant: NM_000382.3(ALDH3A2):c.*730T>A
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 889564
+Variant: NM_000382.3(ALDH3A2):c.*699A>G
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 889508
+Variant: NM_000382.3(ALDH3A2):c.799-6A>G
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 889507
+Variant: NM_000382.3(ALDH3A2):c.401T>C (p.Ile134Thr)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 844940
+Variant: NM_000382.3(ALDH3A2):c.385+2T>C
+Clinical Significance: Pathogenic
+
+ClinVar ID: 816625
+Variant: NM_000382.3(ALDH3A2):c.50C>A (p.Ser17Ter)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 804419
+Variant: NM_000382.3(ALDH3A2):c.777G>A (p.Trp259Ter)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 803334
+Variant: NM_000382.3(ALDH3A2):c.946del (p.Thr316fs)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 798483
+Variant: NM_000382.3(ALDH3A2):c.1032T>C (p.Asn344=)
+Clinical Significance: Likely benign
+
+ClinVar ID: 797594
+Variant: NM_000382.3(ALDH3A2):c.378C>T (p.Ile126=)
+Clinical Significance: Likely benign
+
+ClinVar ID: 766017
+Variant: NM_000382.3(ALDH3A2):c.989A>G (p.Glu330Gly)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 763817
+Variant: NM_000382.3(ALDH3A2):c.564G>A (p.Ala188=)
+Clinical Significance: Likely benign
+
+ClinVar ID: 763621
+Variant: NM_000382.3(ALDH3A2):c.1373G>A (p.Arg458Gln)
+Clinical Significance: Likely benign
+
+ClinVar ID: 759754
+Variant: NM_000382.3(ALDH3A2):c.114G>A (p.Glu38=)
+Clinical Significance: Likely benign
+
+ClinVar ID: 756538
+Variant: NM_000382.3(ALDH3A2):c.639A>G (p.Pro213=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 753731
+Variant: NM_000382.3(ALDH3A2):c.1179G>A (p.Thr393=)
+Clinical Significance: Likely benign
+
+ClinVar ID: 742836
+Variant: NM_000382.3(ALDH3A2):c.345C>T (p.Phe115=)
+Clinical Significance: Likely benign
+
+ClinVar ID: 733489
+Variant: NM_000382.3(ALDH3A2):c.1398C>T (p.Leu466=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 728495
+Variant: NM_000382.3(ALDH3A2):c.119A>G (p.Asp40Gly)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 653859
+Variant: NM_000382.3(ALDH3A2):c.683G>A (p.Arg228His)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 631767
+Variant: NM_000382.3(ALDH3A2):c.710G>A (p.Cys237Tyr)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 623290
+Variant: NM_000382.3(ALDH3A2):c.837T>G (p.Tyr279Ter)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 619024
+Variant: NM_000382.3(ALDH3A2):c.1309A>T (p.Lys437Ter)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 587417
+Variant: NM_000382.3(ALDH3A2):c.932G>T (p.Arg311Leu)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 558054
+Variant: NM_000382.3(ALDH3A2):c.1108-1G>A
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 557412
+Variant: NM_000382.3(ALDH3A2):c.1207+1G>A
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 557168
+Variant: NM_000382.3(ALDH3A2):c.979del (p.Lys326_Val327insTer)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 556695
+Variant: NM_000382.3(ALDH3A2):c.1443+1222del
+Clinical Significance: Likely benign
+
+ClinVar ID: 556629
+Variant: NM_000382.3(ALDH3A2):c.364del (p.Pro121_Leu122insTer)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 556574
+Variant: NM_000382.3(ALDH3A2):c.682C>T (p.Arg228Cys)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 556359
+Variant: NM_000382.3(ALDH3A2):c.1258dup (p.Ser420fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 555455
+Variant: NM_000382.3(ALDH3A2):c.1443+1G>A
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 554945
+Variant: NM_000382.3(ALDH3A2):c.255GAA[1] (p.Lys86del)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 554843
+Variant: NM_000382.3(ALDH3A2):c.471+2T>G
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 554479
+Variant: NM_000382.3(ALDH3A2):c.472-2A>G
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 554435
+Variant: NM_000382.3(ALDH3A2):c.73C>T (p.Gln25Ter)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 552790
+Variant: NM_000382.3(ALDH3A2):c.1367T>A (p.Leu456Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 552750
+Variant: NM_000382.3(ALDH3A2):c.1277T>G (p.Leu426Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 552722
+Variant: NM_000382.3(ALDH3A2):c.3G>C (p.Met1Ile)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 552666
+Variant: NM_000382.3(ALDH3A2):c.2T>A (p.Met1Lys)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 552611
+Variant: NM_000382.3(ALDH3A2):c.988GAA[1] (p.Glu331del)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 552218
+Variant: NM_000382.3(ALDH3A2):c.1367del (p.Leu455_Leu456insTer)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 552094
+Variant: NM_000382.3(ALDH3A2):c.984G>A (p.Met328Ile)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 551965
+Variant: NM_000382.3(ALDH3A2):c.1313dup (p.Arg439fs)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 551722
+Variant: NM_000382.3(ALDH3A2):c.1A>G (p.Met1Val)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 551717
+Variant: NM_000382.3(ALDH3A2):c.1A>T (p.Met1Leu)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 551714
+Variant: NM_000382.3(ALDH3A2):c.3G>A (p.Met1Ile)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 551105
+Variant: NM_000382.3(ALDH3A2):c.1212del (p.Ser405fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 550860
+Variant: NM_000382.2(ALDH3A2):c.154_155delAG
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 550147
+Variant: NM_000382.3(ALDH3A2):c.1443+1273_1443+1275delinsGG
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 522786
+Variant: NM_000382.3(ALDH3A2):c.908G>T (p.Gly303Val)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 495853
+Variant: NM_000382.3(ALDH3A2):c.28C>G (p.Gln10Glu)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 495851
+Variant: NM_000382.2(ALDH3A2):c.153+5_386-408delins19
+Clinical Significance: Pathogenic
+
+ClinVar ID: 495850
+Variant: NM_000382.3(ALDH3A2):c.1291_1292del (p.Lys431fs)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 438270
+Variant: NM_000382.3(ALDH3A2):c.909T>G (p.Gly303=)
+Clinical Significance: Likely benign
+
+ClinVar ID: 438265
+Variant: NM_000382.3(ALDH3A2):c.103C>T (p.Gln35Ter)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 438264
+Variant: NM_000382.3(ALDH3A2):c.733G>A (p.Asp245Asn)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 438263
+Variant: NM_000382.3(ALDH3A2):c.371_373del (p.Gly124del)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 438262
+Variant: NM_000382.3(ALDH3A2):c.631A>G (p.Lys211Glu)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 390465
+Variant: NM_000382.3(ALDH3A2):c.1144G>A (p.Gly382Ser)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 379490
+Variant: NM_000382.3(ALDH3A2):c.1202G>A (p.Gly401Glu)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 371604
+Variant: NM_000382.3(ALDH3A2):c.151_152del (p.Lys51fs)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 371540
+Variant: NM_000382.3(ALDH3A2):c.798+1_798+6del
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 371472
+Variant: NM_000382.3(ALDH3A2):c.1302dup (p.Ala435fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 371446
+Variant: NM_000382.3(ALDH3A2):c.798+1G>A
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 371336
+Variant: NM_000382.3(ALDH3A2):c.769dup (p.Ile257fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 371221
+Variant: NM_000382.3(ALDH3A2):c.1094C>T (p.Ser365Leu)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 371195
+Variant: NM_000382.3(ALDH3A2):c.798+1del
+Clinical Significance: Pathogenic
+
+ClinVar ID: 371103
+Variant: NM_000382.3(ALDH3A2):c.25_50del (p.Arg9fs)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 371097
+Variant: NM_000382.3(ALDH3A2):c.1444-1G>T
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 370913
+Variant: NM_000382.3(ALDH3A2):c.153+2T>G
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 370896
+Variant: NM_000382.3(ALDH3A2):c.577del (p.Val193fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 370813
+Variant: NM_000382.3(ALDH3A2):c.824_825del (p.Glu275fs)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 370751
+Variant: NM_000382.3(ALDH3A2):c.1108-2A>G
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 370471
+Variant: NM_000382.3(ALDH3A2):c.1108-1G>T
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 370452
+Variant: NM_000382.3(ALDH3A2):c.1108-1G>C
+Clinical Significance: Pathogenic
+
+ClinVar ID: 370430
+Variant: NM_000382.3(ALDH3A2):c.281dup (p.Ala95fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 370301
+Variant: NM_000382.3(ALDH3A2):c.231del (p.Glu77fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 370209
+Variant: NM_000382.3(ALDH3A2):c.234G>A (p.Trp78Ter)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 322243
+Variant: NM_000382.3(ALDH3A2):c.*1971A>G
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322242
+Variant: NM_000382.3(ALDH3A2):c.*1938G>A
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322241
+Variant: NM_000382.3(ALDH3A2):c.*1900A>G
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322240
+Variant: NM_000382.3(ALDH3A2):c.*1877CA[1]
+Clinical Significance: Benign
+
+ClinVar ID: 322239
+Variant: NM_000382.3(ALDH3A2):c.*1802A>G
+Clinical Significance: Benign
+
+ClinVar ID: 322238
+Variant: NM_000382.3(ALDH3A2):c.*1788C>G
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322237
+Variant: NM_000382.3(ALDH3A2):c.*1609A>G
+Clinical Significance: Benign
+
+ClinVar ID: 322236
+Variant: NM_000382.3(ALDH3A2):c.*1600C>G
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322235
+Variant: NM_000382.3(ALDH3A2):c.*1462G>A
+Clinical Significance: Benign
+
+ClinVar ID: 322234
+Variant: NM_000382.3(ALDH3A2):c.*1452C>G
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322233
+Variant: NM_000382.3(ALDH3A2):c.*1258A>C
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322232
+Variant: NM_000382.3(ALDH3A2):c.*1256C>G
+Clinical Significance: Benign
+
+ClinVar ID: 322231
+Variant: NM_000382.3(ALDH3A2):c.*1030G>T
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322230
+Variant: NM_000382.3(ALDH3A2):c.*973T>C
+Clinical Significance: Benign
+
+ClinVar ID: 322229
+Variant: NM_000382.3(ALDH3A2):c.*700G>T
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322228
+Variant: NM_000382.3(ALDH3A2):c.*694C>T
+Clinical Significance: Benign
+
+ClinVar ID: 322227
+Variant: NM_000382.3(ALDH3A2):c.*669del
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322226
+Variant: NM_000382.3(ALDH3A2):c.*636T>C
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322225
+Variant: NM_000382.3(ALDH3A2):c.*439G>C
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322224
+Variant: NM_000382.3(ALDH3A2):c.*378G>A
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322223
+Variant: NM_000382.3(ALDH3A2):c.*377TG[2]
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322222
+Variant: NM_000382.3(ALDH3A2):c.*330T>C
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322221
+Variant: NM_000382.3(ALDH3A2):c.*292G>T
+Clinical Significance: Likely benign
+
+ClinVar ID: 322220
+Variant: NM_000382.3(ALDH3A2):c.*36G>A
+Clinical Significance: Benign/Likely benign
+
+ClinVar ID: 322219
+Variant: NM_000382.3(ALDH3A2):c.1446A>T (p.Ala482=)
+Clinical Significance: Benign
+
+ClinVar ID: 322218
+Variant: NM_000382.3(ALDH3A2):c.1444-4C>T
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 322217
+Variant: NM_000382.3(ALDH3A2):c.1188T>G (p.Ser396=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 322216
+Variant: NM_000382.3(ALDH3A2):c.1021C>G (p.Pro341Ala)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322215
+Variant: NM_000382.3(ALDH3A2):c.957C>T (p.Thr319=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 322214
+Variant: NM_000382.3(ALDH3A2):c.918T>C (p.Thr306=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 322213
+Variant: NM_000382.3(ALDH3A2):c.786G>A (p.Lys262=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 322212
+Variant: NM_000382.3(ALDH3A2):c.680G>A (p.Arg227Lys)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322211
+Variant: NM_000382.3(ALDH3A2):c.566T>C (p.Val189Ala)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322210
+Variant: NM_000382.3(ALDH3A2):c.563C>T (p.Ala188Val)
+Clinical Significance: Benign/Likely benign
+
+ClinVar ID: 322209
+Variant: NM_000382.3(ALDH3A2):c.417G>A (p.Leu139=)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 322208
+Variant: NM_000382.3(ALDH3A2):c.386-6A>G
+Clinical Significance: Benign/Likely benign
+
+ClinVar ID: 322207
+Variant: NM_000382.3(ALDH3A2):c.86C>T (p.Ala29Val)
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322206
+Variant: NM_000382.3(ALDH3A2):c.-3G>A
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322205
+Variant: NM_000382.3(ALDH3A2):c.-97G>A
+Clinical Significance: Uncertain significance
+
+ClinVar ID: 322204
+Variant: NM_000382.3(ALDH3A2):c.-149C>G
+Clinical Significance: Likely benign
+
+ClinVar ID: 322203
+Variant: NM_000382.3(ALDH3A2):c.-154G>A
+Clinical Significance: Benign
+
+ClinVar ID: 283733
+Variant: NM_000382.3(ALDH3A2):c.1270C>T (p.Pro424Ser)
+Clinical Significance: Benign/Likely benign
+
+ClinVar ID: 280660
+Variant: NM_000382.3(ALDH3A2):c.574dup (p.Ile192fs)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 265459
+Variant: NM_000382.3(ALDH3A2):c.733G>A (p.Asp245Asn)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 265458
+Variant: NM_000382.3(ALDH3A2):c.191T>A (p.Val64Asp)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 265029
+Variant: NM_000382.3(ALDH3A2):c.374_378del (p.Ala125fs)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 265027
+Variant: NM_000382.3(ALDH3A2):c.529C>T (p.Arg177Ter)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 198723
+Variant: NM_000382.3(ALDH3A2):c.1108-3C>T
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 191071
+Variant: NM_000382.3(ALDH3A2):c.623T>C (p.Leu208Pro)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 189187
+Variant: NM_000382.3(ALDH3A2):c.901_903delinsCC (p.Ala301fs)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 189163
+Variant: NM_000382.3(ALDH3A2):c.471+1del
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 189079
+Variant: NM_000382.3(ALDH3A2):c.798+5G>A
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 189010
+Variant: NM_000382.3(ALDH3A2):c.1100del (p.Asn367fs)
+Clinical Significance: Likely pathogenic
+
+ClinVar ID: 188833
+Variant: NM_000382.3(ALDH3A2):c.28C>T (p.Gln10Ter)
+Clinical Significance: Conflicting classifications of pathogenicity
+
+ClinVar ID: 188768
+Variant: NM_000382.3(ALDH3A2):c.551C>T (p.Thr184Met)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 66385
+Variant: NM_000526.5(KRT14):c.92del (p.Ile31fs)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1644
+Variant: NM_000382.3(ALDH3A2):c.1157A>G (p.Asn386Ser)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 1643
+Variant: NM_000382.3(ALDH3A2):c.798G>C (p.Lys266Asn)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 1642
+Variant: NM_000382.3(ALDH3A2):c.1307_1311dup (p.Leu438fs)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1641
+Variant: NM_000382.3(ALDH3A2):c.1297_1298del (p.Glu433fs)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1640
+Variant: NM_000382.3(ALDH3A2):c.943C>T (p.Pro315Ser)
+Clinical Significance: Pathogenic/Likely pathogenic
+
+ClinVar ID: 1639
+Variant: NM_000382.3(ALDH3A2):c.641G>A (p.Cys214Tyr)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1638
+Variant: NM_000382.3(ALDH3A2):c.941_943delinsGGGCTAAAAGTACTGTTGGGG (p.Ala314_Pro315delinsGlyAlaLysSerThrValGlyAla)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1637
+Variant: NM_000382.3(ALDH3A2):c.809del (p.Gly270fs)
+Clinical Significance: Pathogenic
+
+ClinVar ID: 1636
+Variant: NM_000382.3(ALDH3A2):c.521del (p.Leu174fs)
+Clinical Significance: Pathogenic
+

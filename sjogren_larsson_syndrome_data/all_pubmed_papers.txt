@@ -1,0 +1,1848 @@
+PMID: 38653487
+Title: Sjögren: unique surname, two men, four syndromes and one disease.
+Journal: Arquivos de neuro-psiquiatria
+
+PMID: 38382313
+Title: Phenome-wide Mendelian randomization analysis reveals multiple health comorbidities of coeliac disease.
+Journal: EBioMedicine
+
+PMID: 38181883
+Title: Discovery of novel diagnostic biomarkers for Sjögren-Larsson syndrome by untargeted lipidomics.
+Journal: Biochimica et biophysica acta. Molecular and cell biology of lipids
+
+PMID: 38051253
+Title: Coexistence of Ichthyosis, Yellowish Keratoderma, and Neurologic Manifestations: Think About Sjogren-Larsson Syndrome.
+Journal: Skinmed
+
+PMID: 37793403
+Title: Sjogren-Larsson syndrome brain volumetric reductions demonstrated with an automated software.
+Journal: Arquivos de neuro-psiquiatria
+
+PMID: 37367841
+Title: Untargeted Metabolomic Analysis of Sjögren-Larsson Syndrome Reveals a Distinctive Pattern of Multiple Disrupted Biochemical Pathways.
+Journal: Metabolites
+
+PMID: 37180414
+Title: End-stage crystalline maculopathy with retinal atrophy in Sjögren-Larsson syndrome: a case report and review of the literature.
+Journal: Therapeutic advances in rare disease
+
+PMID: 36950004
+Title: Sjögren-Larsson Syndrome: A Rare Presentation With Developmental Delay.
+Journal: Cureus
+
+PMID: 36262015
+Title: Clinical and molecular characteristics of autosomal recessive congenital ichthyosis in Thailand.
+Journal: Pediatric dermatology
+
+PMID: 36030534
+Title: Sjögren-Larsson syndrome caused by novel mutations in ALDH3A2 gene.
+Journal: International journal of dermatology
+
+PMID: 35973883
+Title: Ceramide profiling of stratum corneum in Sjögren-Larsson syndrome.
+Journal: Journal of dermatological science
+
+PMID: 35871376
+Title: Small touches to big walks -the impact of rehabilitation on Sjögren-Larsson syndrome: A case report.
+Journal: Journal of pediatric rehabilitation medicine
+
+PMID: 35791223
+Title: Beyond retina in Sjogren-Larsson syndrome.
+Journal: Indian journal of ophthalmology
+
+PMID: 35702653
+Title: Retinal Capillary Abnormalities in Sjögren-Larsson Syndrome Maculopathy.
+Journal: Case reports in ophthalmology
+
+PMID: 35242571
+Title: Sjögren-Larsson syndrome: A biochemical rationale for using aldehyde-reactive therapeutic agents.
+Journal: Molecular genetics and metabolism reports
+
+PMID: 34544734
+Title: Lung transplant after 6 months on ECMO support for SARS-CoV-2-induced ARDS complicated by severe antibody-mediated rejection.
+Journal: BMJ open respiratory research
+
+PMID: 34370553
+Title: Impaired Skin Barrier Function Due to Reduced ω-
+Journal: Molecular and cellular biology
+
+PMID: 34340960
+Title: Sjögren-Larsson syndrome in Spain: Description of three new cases.
+Journal: Anales de pediatria
+
+PMID: 34315315
+Title: A Neurodegenerative Phenotype Associated With Sjögren-Larsson Syndrome.
+Journal: Journal of child neurology
+
+PMID: 34082469
+Title: Novel ALDH3A2 mutations in structural and functional domains of FALDH causing diverse clinical phenotypes in Sjögren-Larsson syndrome patients.
+Journal: Human mutation
+
+PMID: 33725695
+Title: Muscle Tone Assessment under General Anesthesia for Sjögren-Larsson Syndrome and Spasticity.
+Journal: Pediatric neurosurgery
+
+PMID: 33168096
+Title: Aldh1l2 knockout mouse metabolomics links the loss of the mitochondrial folate enzyme to deregulation of a lipid metabolism observed in rare human disorder.
+Journal: Human genomics
+
+PMID: 33037729
+Title: Sjögren-Larsson syndrome: Anesthetic considerations and practical recommendations.
+Journal: Paediatric anaesthesia
+
+PMID: 32930514
+Title: Sjogren-Larsson Syndrome: A case series of five members from an extended family with a novel mutation.
+Journal: Molecular genetics & genomic medicine
+
+PMID: 32800643
+Title: 1-O-Alkylglycerol accumulation reveals abnormal ether glycerolipid metabolism in Sjögren-Larsson syndrome.
+Journal: Molecular genetics and metabolism
+
+PMID: 32557630
+Title: Disturbed brain ether lipid metabolism and histology in Sjögren-Larsson syndrome.
+Journal: Journal of inherited metabolic disease
+
+PMID: 32506993
+Title: Macular crystalline inclusions in Sjögren-Larsson syndrome are dynamic structures that undergo remodeling.
+Journal: Ophthalmic genetics
+
+PMID: 32395410
+Title: Sjögren-Larsson syndrome: The mild end of the phenotypic spectrum.
+Journal: JIMD reports
+
+PMID: 32380062
+Title: Comprehensive Molecular Profiles of Functionally Effective MSC-Derived Extracellular Vesicles in Immunomodulation.
+Journal: Molecular therapy : the journal of the American Society of Gene Therapy
+
+PMID: 32085885
+Title: Comprehensive in silico screening and molecular dynamics studies of missense mutations in Sjogren-Larsson syndrome associated with the ALDH3A2 gene.
+Journal: Advances in protein chemistry and structural biology
+
+PMID: 32021380
+Title: Sjogren-Larsson Syndrome: Mechanisms and Management.
+Journal: The application of clinical genetics
+
+PMID: 31953843
+Title: Next-generation sequencing through multi-gene panel testing for diagnosis of hereditary ichthyosis in Chinese.
+Journal: Clinical genetics
+
+PMID: 31944864
+Title: Compound heterozygous mutations in the 
+Journal: The International journal of neuroscience
+
+PMID: 35529470
+Title: Novel imaging technologies for genetic diagnoses in the inborn errors of metabolism.
+Journal: Journal of translational genetics and genomics
+
+PMID: 31697031
+Title: Sjogren-Larsson syndrome associated hypermelanosis.
+Journal: Journal of cosmetic dermatology
+
+PMID: 31512987
+Title: Sjögren-Larsson syndrome: a complex metabolic disease with a distinctive ocular phenotype.
+Journal: Ophthalmic genetics
+
+PMID: 31388754
+Title: Genetic assessment of ten Egyptian patients with Sjögren-Larsson syndrome: expanding the clinical spectrum and reporting a novel ALDH3A2 mutation.
+Journal: Archives of dermatological research
+
+PMID: 31273323
+Title: Phenotypic and mutational spectrum of thirty-five patients with Sjögren-Larsson syndrome: identification of eleven novel ALDH3A2 mutations and founder effects.
+Journal: Journal of human genetics
+
+PMID: 31174672
+Title: Retinal Morphology in Sjögren-Larsson Syndrome on OCT: From Metabolic Crystalline Maculopathy to Early-Onset Macular Degeneration.
+Journal: Ophthalmology. Retina
+
+PMID: 31062435
+Title: Burden of itch in ichthyosis: a multicentre study in 94 patients.
+Journal: Journal of the European Academy of Dermatology and Venereology : JEADV
+
+PMID: 30925032
+Title: The combination of whole-exome sequencing and clinical analysis allows better diagnosis of rare syndromic retinal dystrophies.
+Journal: Acta ophthalmologica
+
+PMID: 30609437
+Title: Daily Functioning and Quality of Life in Patients with Sjögren-Larsson Syndrome.
+Journal: Neuropediatrics
+
+PMID: 30578509
+Title: Ciliopathy: Sjögren-Larsson Syndrome.
+Journal: Advances in experimental medicine and biology
+
+PMID: 30457735
+Title: [Sjögren-Larsson syndrome: Pediatric case report].
+Journal: Archivos argentinos de pediatria
+
+PMID: 30403285
+Title: [A new mutation in the ALDH3A2 gene in a boy with Sjogren-Larsson syndrome].
+Journal: Revista de neurologia
+
+PMID: 30372562
+Title: Genotype and phenotype variability in Sjögren-Larsson syndrome.
+Journal: Human mutation
+
+PMID: 30258805
+Title: Sjogren-Larsson Syndrome: A Rare Case Report.
+Journal: Indian dermatology online journal
+
+PMID: 30222823
+Title: Late-Stage Sjögren-Larsson Syndrome Maculopathy Imaged With OCT Angiography.
+Journal: Ophthalmic surgery, lasers & imaging retina
+
+PMID: 30157790
+Title: Neurodegeneration in an adolescent with Sjogren-Larsson syndrome: a decade-long follow-up case report.
+Journal: BMC medical genetics
+
+PMID: 30085884
+Title: Neural symptoms in a gene knockout mouse model of Sjögren-Larsson syndrome are associated with a decrease in 2-hydroxygalactosylceramide.
+Journal: FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+
+PMID: 29899769
+Title: Neuro-ichthyotic Syndromes: A Case Series.
+Journal: Journal of pediatric neurosciences
+
+PMID: 29742247
+Title: Typical clinical and neuroimaging features in Sjögren-Larsson syndrome.
+Journal: Arquivos de neuro-psiquiatria
+
+PMID: 29704247
+Title: Clinical and molecular characterization and response to acitretin in three families with Sjögren-Larsson syndrome.
+Journal: International journal of dermatology
+
+PMID: 29375833
+Title: Identification of a novel deletion within 
+Journal: Clinical case reports
+
+PMID: 29360893
+Title: Sjögren-Larsson syndrome: definitive diagnosis on magnetic resonance spectroscopy.
+Journal: Cutis
+
+PMID: 29183715
+Title: Novel mutations and a severe neurological phenotype in Sjögren-Larsson syndrome patients from Iran.
+Journal: European journal of medical genetics
+
+PMID: 29181214
+Title: Atypical Presentation of Sjögren-Larsson Syndrome.
+Journal: Case reports in pediatrics
+
+PMID: 29130490
+Title: Sequence variants in nine different genes underlying rare skin disorders in 10 consanguineous families.
+Journal: International journal of dermatology
+
+PMID: 29071827
+Title: Identification of Homozygous Likely Pathogenic Variant of ALDH3A2 in a Korean Boy with Sjögren-Larsson Syndrome.
+Journal: Annals of laboratory medicine
+
+PMID: 28915122
+Title: Understanding fetal factors that contribute to preterm birth: Sjögren-Larsson syndrome as a model.
+Journal: Journal of perinatal medicine
+
+PMID: 28588048
+Title: The sphingosine 1-phosphate breakdown product, (2
+Journal: Journal of lipid research
+
+PMID: 28543186
+Title: Clinical, biochemical, and genetic aspects of Sjögren-Larsson syndrome.
+Journal: Clinical genetics
+
+PMID: 28471629
+Title: Coexistence of Two Rare Autosomal Recessive Disorders: Activation-Induced Cytidine Deaminase Deficiency and Sjogren-Larsson Syndrome.
+Journal: The Israel Medical Association journal : IMAJ
+
+PMID: 28410621
+Title: Expanding the Genotype of Sjögren-Larsson Syndrome: A New Case Due to Two Novel Mutations.
+Journal: Actas dermo-sifiliograficas
+
+PMID: 28388737
+Title: Lack of Long-Term Neurologic Efficacy of Zileuton in Sjögren-Larsson's Syndrome.
+Journal: Neuropediatrics
+
+PMID: 28301413
+Title: OPHTHALMIC FINDINGS IN LATE STAGE SJOGREN-LARSSON SYNDROME.
+Journal: Retinal cases & brief reports
+
+PMID: 28257279
+Title: Intrathecal Baclofen Therapy for the Treatment of Spasticity in Sjögren-Larsson Syndrome.
+Journal: Journal of child neurology
+
+PMID: 28248318
+Title: PNPLA1 is a transacylase essential for the generation of the skin barrier lipid ω-O-acylceramide.
+Journal: Nature communications
+
+PMID: 30380284
+Title: [Anesthesia for an Eleven Year Old Girl with Sjögren-Larsson Syndrome].
+Journal: Masui. The Japanese journal of anesthesiology
+
+PMID: 28025403
+Title: Child Neurology: Sjögren-Larsson syndrome.
+Journal: Neurology
+
+PMID: 27862026
+Title: Unusual presentation Of Sjögren-associated neuropathy with plasma cell-rich infiltrate.
+Journal: Muscle & nerve
+
+PMID: 27061911
+Title: Macular fibrosis complicating macular pigment deficient maculopathy in Sjögren-Larsson syndrome.
+Journal: Acta ophthalmologica
+
+PMID: 27547594
+Title: Genetics and prospective therapeutic targets for Sjögren-Larsson Syndrome.
+Journal: Expert opinion on orphan drugs
+
+PMID: 27462357
+Title: A rare case of Sjogren-Larsson syndrome with recurrent pneumonia and asthma.
+Journal: Korean journal of pediatrics
+
+PMID: 27212566
+Title: Sjögren-Larsson Syndrome: A Neuro-Ichthyotic Disorder With Unique Magnetic Resonance Features.
+Journal: Pediatric neurology
+
+PMID: 27195039
+Title: Sjogren-Larsson syndrome: A rare neurocutaneous disorder.
+Journal: Journal of pediatric neurosciences
+
+PMID: 27095813
+Title: Sjögren-Larsson syndrome: a rare disease of the skin and central nervous system.
+Journal: BMJ case reports
+
+PMID: 27053112
+Title: Disruption of the Sjögren-Larsson Syndrome Gene Aldh3a2 in Mice Increases Keratinocyte Growth and Retards Skin Barrier Recovery.
+Journal: The Journal of biological chemistry
+
+PMID: 26945533
+Title: Inherited ichthyosis: Syndromic forms.
+Journal: The Journal of dermatology
+
+PMID: 26903188
+Title: Ocular manifestations of genetic skin disorders.
+Journal: Clinics in dermatology
+
+PMID: 26693506
+Title: SAXS fingerprints of aldehyde dehydrogenase oligomers.
+Journal: Data in brief
+
+PMID: 26394537
+Title: A rare cause of pruritic ichthyosis: Sjögren-Larsson syndrome in the first reported patients of Cypriot descent.
+Journal: European journal of dermatology : EJD
+
+PMID: 26296761
+Title: Phytol in a pharma-medico-stance.
+Journal: Chemico-biological interactions
+
+PMID: 26179322
+Title: Changes in the Submandibular Salivary Gland Epithelial Cell Subpopulations During Progression of Sjögren's Syndrome-Like Disease in the NOD/ShiLtJ Mouse Model.
+Journal: Anatomical record (Hoboken, N.J. : 2007)
+
+PMID: 26123322
+Title: Zileuton for Pruritus in Sjögren-Larsson Syndrome: A Randomized Double-blind Placebo-controlled Crossover Trial.
+Journal: Acta dermato-venereologica
+
+PMID: 25855245
+Title: Case of Sjögren-Larsson syndrome with a large deletion in the ALDH3A2 gene confirmed by single nucleotide polymorphism array analysis.
+Journal: The Journal of dermatology
+
+PMID: 25784589
+Title: Segmentation of Retinal Layers in Sjögren-Larsson Syndrome.
+Journal: Ophthalmology
+
+PMID: 25553455
+Title: Single amino acid polymorphism in aldehyde dehydrogenase gene superfamily.
+Journal: Frontiers in bioscience (Landmark edition)
+
+PMID: 25532748
+Title: Clinico-radiological and genetic features of a common neuro-ichthyotic syndrome.
+Journal: Indian journal of pediatrics
+
+PMID: 25468645
+Title: Cerebral lipid accumulation in Chanarin-Dorfman Syndrome.
+Journal: Molecular genetics and metabolism
+
+PMID: 25432520
+Title: Plasmalogens and fatty alcohols in rhizomelic chondrodysplasia punctata and Sjögren-Larsson syndrome.
+Journal: Journal of inherited metabolic disease
+
+PMID: 25137547
+Title: Method to simultaneously determine the sphingosine 1-phosphate breakdown product (2E)-hexadecenal and its fatty acid derivatives using isotope-dilution HPLC-electrospray ionization-quadrupole/time-of-flight mass spectrometry.
+Journal: Analytical chemistry
+
+PMID: 25047030
+Title: A gatekeeper helix determines the substrate specificity of Sjögren-Larsson Syndrome enzyme fatty aldehyde dehydrogenase.
+Journal: Nature communications
+
+PMID: 24860759
+Title: Sjögren-Larsson syndrome: A study of clinical symptoms in six children.
+Journal: Indian dermatology online journal
+
+PMID: 24704118
+Title: [Sjogren Larsson syndrome: a rare neurocutaneous disease].
+Journal: Revue neurologique
+
+PMID: 24377952
+Title: Sjögren-Larsson syndrome: optical coherence tomography and a novel mutation.
+Journal: Archivos de la Sociedad Espanola de Oftalmologia
+
+PMID: 24268012
+Title: Pulmonary arterial hypertension related to connective tissue disease: a review.
+Journal: Rheumatic diseases clinics of North America
+
+PMID: 24240491
+Title: Restoration of human lacrimal function following platelet-rich plasma injection.
+Journal: Cornea
+
+PMID: 24101836
+Title: A Turkish family with Sjögren-Larsson syndrome caused by a novel ALDH3A2 mutation.
+Journal: Annals of Indian Academy of Neurology
+
+PMID: 24036493
+Title: Fatty aldehyde and fatty alcohol metabolism: review and importance for epidermal structure and function.
+Journal: Biochimica et biophysica acta
+
+PMID: 23980469
+Title: [Complete metabolic pathway of sphingosine 1-phosphate and its importance as a metabolic intermediate].
+Journal: Seikagaku. The Journal of Japanese Biochemical Society
+
+PMID: 23639754
+Title: Aldehyde dehydrogenase 3 converts farnesal into farnesoic acid in the corpora allata of mosquitoes.
+Journal: Insect biochemistry and molecular biology
+
+PMID: 23450279
+Title: Sporadic VACTERL association in a Japanese family with Sjögren-Larsson syndrome.
+Journal: Acta dermato-venereologica
+
+PMID: 23419760
+Title: Ichthyosis in the newborn.
+Journal: Seminars in perinatology
+
+PMID: 23387297
+Title: Multimodal imaging of the macula in hereditary and acquired lack of macular pigment.
+Journal: Acta ophthalmologica
+
+PMID: 23034980
+Title: Novel mutation in Sjogren-Larsson syndrome is associated with divergent neurologic phenotypes.
+Journal: Journal of child neurology
+
+PMID: 23031378
+Title: Sjögren-Larsson syndrome: importance of early diagnosis and aggressive physiotherapy.
+Journal: Dermatology online journal
+
+PMID: 22978179
+Title: [Optical coherence tomography in Sjögren-Larsson Syndrome diagnosis].
+Journal: Bulletin de la Societe belge d'ophtalmologie
+
+PMID: 22932746
+Title: Optical coherence tomography aspect of crystalline macular dystrophy in Sjögren-Larsson syndrome.
+Journal: International ophthalmology
+
+PMID: 22833178
+Title: Sjögren-Larsson syndrome in clinical practice.
+Journal: Journal of inherited metabolic disease
+
+PMID: 22828186
+Title: Sjögren-Larsson syndrome--unusual presentation with pathological femoral neck fracture: a case report.
+Journal: Journal of pediatric orthopedics. Part B
+
+PMID: 22814679
+Title: Disorders of phospholipids, sphingolipids and fatty acids biosynthesis: toward a new category of inherited metabolic diseases.
+Journal: Journal of inherited metabolic disease
+
+PMID: 22633490
+Title: The Sjögren-Larsson syndrome gene encodes a hexadecenal dehydrogenase of the sphingosine 1-phosphate degradation pathway.
+Journal: Molecular cell
+
+PMID: 22508945
+Title: Studying fatty aldehyde metabolism in living cells with pyrene-labeled compounds.
+Journal: Journal of lipid research
+
+PMID: 22507046
+Title: Abnormal barrier function in the pathogenesis of ichthyosis: therapeutic implications for lipid metabolic disorders.
+Journal: Clinics in dermatology
+
+PMID: 22426667
+Title: Sjögren-Larsson syndrome: phenotypic variability in two brothers with a neurocutaneous disorder.
+Journal: Acta neurologica Belgica
+
+PMID: 22411255
+Title: Sjogren-Larsson syndrome.
+Journal: Advances in experimental medicine and biology
+
+PMID: 22397046
+Title: Sjögren-Larsson syndrome: report of monozygote twins and a case with a novel mutation.
+Journal: The Turkish journal of pediatrics
+
+PMID: 22196496
+Title: Diagnosis of Sjögren-Larsson syndrome by magnetic resonance spectroscopy.
+Journal: Pediatric neurology
+
+PMID: 22192722
+Title: [Sjögren-Larsson syndrome: 2 case reports].
+Journal: Archives de pediatrie : organe officiel de la Societe francaise de pediatrie
+
+PMID: 22100072
+Title: Recessive mutations in ELOVL4 cause ichthyosis, intellectual disability, and spastic quadriplegia.
+Journal: American journal of human genetics
+
+PMID: 21983059
+Title: Topical treatment of CHILD nevus and Sjögren-Larsson Syndrome with combined lovastatin and cholesterol.
+Journal: European journal of dermatology : EJD
+
+PMID: 21977511
+Title: Spastic paraplegia in a 4-year-old boy.
+Journal: Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia
+
+PMID: 21968182
+Title: Sjögren-larsson syndrome.
+Journal: Ophthalmology
+
+PMID: 21931015
+Title: Banding pattern on polarized hair microscopic examination and unilateral polymicrogyria in a patient with steroid sulfatase deficiency.
+Journal: Archives of dermatology
+
+PMID: 21872273
+Title: Sjögren-Larsson syndrome: novel mutations in the ALDH3A2 gene in a French cohort.
+Journal: Journal of the neurological sciences
+
+PMID: 21834825
+Title: Dermatophytosis and Sjögren-Larsson syndrome: foe or friend?
+Journal: The Australasian journal of dermatology
+
+PMID: 25386286
+Title: Karl Gustaf Torsten Sjögren and Sjögren-Larsson syndrome.
+Journal: Dermatology reports
+
+PMID: 21776446
+Title: Primary Sjögren syndrome: report of a 10 years old girl with local edema and positivity of anti SS-A and anti SS-B autoantibodies.
+Journal: Reumatismo
+
+PMID: 21713441
+Title: A case of Sjögren-Larsson syndrome with minimal MR imaging findings facilitated by proton spectroscopy.
+Journal: Pediatric radiology
+
+PMID: 21712190
+Title: Update on the aldehyde dehydrogenase gene (ALDH) superfamily.
+Journal: Human genomics
+
+PMID: 21695018
+Title: The role of fatty aldehyde dehydrogenase in epidermal structure and function.
+Journal: Dermato-endocrinology
+
+PMID: 21684788
+Title: Large contiguous gene deletions in Sjögren-Larsson syndrome.
+Journal: Molecular genetics and metabolism
+
+PMID: 21531120
+Title: Altered lipid profiles in the stratum corneum of Sjögren-Larsson syndrome.
+Journal: Journal of dermatological science
+
+PMID: 21524986
+Title: Sjögren-Larsson syndrome due to a novel mutation in the FALDH gene.
+Journal: European journal of dermatology : EJD
+
+PMID: 21413148
+Title: Identification of autoantibody biomarkers for primary Sjögren's syndrome using protein microarrays.
+Journal: Proteomics
+
+PMID: 21308331
+Title: Do you know this syndrome? Sjogren-Larsson syndrome.
+Journal: Anais brasileiros de dermatologia
+
+PMID: 23130213
+Title: Sjogren-Larsson syndrome: A case report of a rare disease.
+Journal: Indian dermatology online journal
+
+PMID: 20883264
+Title: An Indian family with Sjögren-Larsson syndrome caused by a novel ALDH3A2 mutation.
+Journal: International journal of dermatology
+
+PMID: 20623943
+Title: Methodological studies of orofacial aesthetics, orofacial function and oral health-related quality of life.
+Journal: Swedish dental journal. Supplement
+
+PMID: 20496529
+Title: Lymphocytic mastitis preceding Sjögren's syndrome.
+Journal: Puerto Rico health sciences journal
+
+PMID: 20176373
+Title: A case of Sjögren's syndrome leading to mitral and aortic valve replacement.
+Journal: The Journal of thoracic and cardiovascular surgery
+
+PMID: 20163870
+Title: Patients with Sjögren-Larsson syndrome lack macular pigment.
+Journal: Ophthalmology
+
+PMID: 20142464
+Title: A very rare neurocutaneous disorder in 2 siblings: Sjögren-Larsson syndrome.
+Journal: Journal of child neurology
+
+PMID: 20049467
+Title: Ichthyosis in Sjögren-Larsson syndrome reflects defective barrier function due to abnormal lamellar body structure and secretion.
+Journal: Archives of dermatological research
+
+PMID: 19965611
+Title: Monitoring of fatty aldehyde dehydrogenase by formation of pyrenedecanoic acid from pyrenedecanal.
+Journal: Journal of lipid research
+
+PMID: 19918432
+Title: Sjögren-Larsson syndrome in two brothers: a case report.
+Journal: Cases journal
+
+PMID: 19901712
+Title: Sjogren-larsson syndrome: case report and review of neurologic abnormalities and ichthyosis.
+Journal: The neurologist
+
+PMID: 19860831
+Title: Fatty aldehyde dehydrogenase is up-regulated by polyunsaturated fatty acid via peroxisome proliferator-activated receptor alpha and suppresses polyunsaturated fatty acid-induced endoplasmic reticulum stress.
+Journal: The FEBS journal
+
+PMID: 19823103
+Title: Human aldehyde dehydrogenase genes: alternatively spliced transcriptional variants and their suggested nomenclature.
+Journal: Pharmacogenetics and genomics
+
+PMID: 19656702
+Title: MR spectroscopy and diffusion tensor imaging of the brain in Sjögren-Larsson syndrome.
+Journal: Molecular genetics and metabolism
+
+PMID: 19466337
+Title: [Macular crystalline dystrophy in Sjögren-Larsson syndrome: case report].
+Journal: Arquivos brasileiros de oftalmologia
+
+PMID: 19446919
+Title: [Sjögren syndrome].
+Journal: Atencion primaria
+
+PMID: 24207035
+Title: Typical neuroradiological features of sjogren-larsson syndrome. A case report.
+Journal: The neuroradiology journal
+
+PMID: 19340663
+Title: Speech-language performance in Sjögren-Larsson syndrome.
+Journal: Developmental neurorehabilitation
+
+PMID: 19213277
+Title: Abnormal ocular electrophysiology in Sjögren-Larsson syndrome.
+Journal: Journal of pediatric ophthalmology and strabismus
+
+PMID: 19197545
+Title: Sjögren-larsson syndrome: a study of clinical symptoms and dermatological treatment in 34 Swedish patients.
+Journal: Acta dermato-venereologica
+
+PMID: 19124283
+Title: Enzymatic diagnosis of Sjögren-Larsson syndrome using electrospray ionization mass spectrometry.
+Journal: Journal of chromatography. B, Analytical technologies in the biomedical and life sciences
+
+PMID: 18951768
+Title: [Sjögren-Larsson syndrome: a novel mutation in a Moroccan child].
+Journal: Archives de pediatrie : organe officiel de la Societe francaise de pediatrie
+
+PMID: 18830564
+Title: Fundus autofluorescence changes in two cases of Sjögren-Larsson syndrome.
+Journal: International ophthalmology
+
+PMID: 18780535
+Title: The jaw functional limitation scale: development, reliability, and validity of 8-item and 20-item versions.
+Journal: Journal of orofacial pain
+
+PMID: 18751927
+Title: Lipidomics in diagnosis of lipidoses.
+Journal: Sub-cellular biochemistry
+
+PMID: 18684595
+Title: A novel homozygous missense mutation in the fatty aldehyde dehydrogenase gene causes Sjögren-Larsson syndrome.
+Journal: Journal of dermatological science
+
+PMID: 18611112
+Title: Non-P450 aldehyde oxidizing enzymes: the aldehyde dehydrogenase superfamily.
+Journal: Expert opinion on drug metabolism & toxicology
+
+PMID: 18476880
+Title: Pathogenesis of autoimmune diseases: antibodies against transglutaminase, peptidylarginine deiminase and protein-bound citrulline in primary Sjögren's syndrome, multiple sclerosis and Alzheimer's disease.
+Journal: Scandinavian journal of immunology
+
+PMID: 18429810
+Title: Mongolian spots in Sjögren-Larsson syndrome.
+Journal: Pediatric dermatology
+
+PMID: 18182499
+Title: Characterization of the human omega-oxidation pathway for omega-hydroxy-very-long-chain fatty acids.
+Journal: FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+
+PMID: 18173629
+Title: Sjögren-Larsson syndrome: motor performance and everyday functioning in 17 patients.
+Journal: Developmental medicine and child neurology
+
+PMID: 18035827
+Title: Characterisation of recombinant human fatty aldehyde dehydrogenase: implications for Sjögren-Larsson syndrome.
+Journal: Journal of enzyme inhibition and medicinal chemistry
+
+PMID: 17998529
+Title: Sjögren-larsson syndrome and crystalline maculopathy associated with a novel mutation.
+Journal: Archives of ophthalmology (Chicago, Ill. : 1960)
+
+PMID: 17971613
+Title: Abnormal fatty alcohol metabolism in cultured keratinocytes from patients with Sjögren-Larsson syndrome.
+Journal: Journal of lipid research
+
+PMID: 17902024
+Title: Novel and recurrent ALDH3A2 mutations in Italian patients with Sjögren-Larsson syndrome.
+Journal: Journal of human genetics
+
+PMID: 17826835
+Title: Subclinical changes in the juvenile crystalline macular dystrophy in Sjögren-Larsson syndrome detected by optical coherence tomography.
+Journal: Ophthalmology
+
+PMID: 17642579
+Title: Sjogren-Larsson syndrome: report of two cases.
+Journal: Indian journal of dermatology, venereology and leprology
+
+PMID: 17613926
+Title: Gluten sensitivity in patients with primary Sjögren's syndrome.
+Journal: Scandinavian journal of gastroenterology
+
+PMID: 17530708
+Title: Female mice are more susceptible to developing inflammatory disorders due to impaired transforming growth factor beta signaling in salivary glands.
+Journal: Arthritis and rheumatism
+
+PMID: 17515126
+Title: [A 2-year-old girl with a generalized scaling of the skin and developmental delay].
+Journal: No to hattatsu = Brain and development
+
+PMID: 17510724
+Title: Oral sugar clearance and other caries-related factors of stimulated whole saliva in patients with secondary Sjögren syndrome.
+Journal: Quintessence international (Berlin, Germany : 1985)
+
+PMID: 17453709
+Title: Physiological and pathological implications of laminins: from the gene to the protein.
+Journal: Autoimmunity
+
+PMID: 17379813
+Title: Neurotoxicity and metabolism of the catecholamine-derived 3,4-dihydroxyphenylacetaldehyde and 3,4-dihydroxyphenylglycolaldehyde: the role of aldehyde dehydrogenase.
+Journal: Pharmacological reviews
+
+PMID: 17324719
+Title: Antibody testing in peripheral neuropathies.
+Journal: Neurologic clinics
+
+PMID: 17302612
+Title: Diagnosing Sjögren-Larsson syndrome in a 7-year-old Moroccan boy.
+Journal: Journal of cutaneous pathology
+
+PMID: 17300667
+Title: Persistent, aberrant Mongolian spots in Sjögren-Larsson syndrome.
+Journal: Pediatric dermatology
+
+PMID: 17300584
+Title: Ocular features of Sjogren-Larsson syndrome.
+Journal: Clinical & experimental ophthalmology
+
+PMID: 17254005
+Title: Sjögren-Larsson syndrome.
+Journal: Developmental medicine and child neurology
+
+PMID: 17239159
+Title: A Moroccan patient with Sjögren-Larsson syndrome.
+Journal: The Journal of dermatology
+
+PMID: 17156709
+Title: Proton magnetic resonance spectroscopy findings and clinical effects of montelukast sodium in a case with Sjögren-Larsson syndrome.
+Journal: Journal of child neurology
+
+PMID: 16996289
+Title: Sjögren-Larsson syndrome: molecular genetics and biochemical pathogenesis of fatty aldehyde dehydrogenase deficiency.
+Journal: Molecular genetics and metabolism
+
+PMID: 16927642
+Title: Texture analysis of the epidermis based on fast Fourier transformation in Sjögren-Larsson syndrome.
+Journal: Analytical and quantitative cytology and histology
+
+PMID: 16917608
+Title: MRI and 1H-MRS findings of three patients with Sjögren-Larsson syndrome.
+Journal: Arquivos de neuro-psiquiatria
+
+PMID: 16903323
+Title: Sjögren-Larsson syndrome: a case report and literature review.
+Journal: Cutis
+
+PMID: 16837225
+Title: Bezafibrate induces FALDH in human fibroblasts; implications for Sjögren-Larsson syndrome.
+Journal: Molecular genetics and metabolism
+
+PMID: 16794762
+Title: A woman with red eyes and hypokalemia: a case of acquired Gitelman syndrome.
+Journal: Wiener klinische Wochenschrift
+
+PMID: 16794583
+Title: Novel ALDH3A2 heterozygous mutations in a Japanese family with Sjögren-Larsson syndrome.
+Journal: The Journal of investigative dermatology
+
+PMID: 16536828
+Title: Sjögren-Larsson syndrome in Brazil is caused by a common c.1108-1G-->C splice-site mutation in the ALDH3A2 gene.
+Journal: The British journal of dermatology
+
+PMID: 16525484
+Title: Restoration of fatty aldehyde dehydrogenase deficiency in Sjögren-Larsson syndrome.
+Journal: Gene therapy
+
+PMID: 16495864
+Title: [Sjögren-Larsson syndrome].
+Journal: Annales de dermatologie et de venereologie
+
+PMID: 16476818
+Title: Phenotypic variability among adult siblings with Sjögren-Larsson syndrome.
+Journal: Archives of neurology
+
+PMID: 16467033
+Title: Progress and regression within primary Sjögren's syndrome.
+Journal: Scandinavian journal of rheumatology
+
+PMID: 16436457
+Title: Mutations in a new cytochrome P450 gene in lamellar ichthyosis type 3.
+Journal: Human molecular genetics
+
+PMID: 16435189
+Title: A novel assay for the prenatal diagnosis of Sjögren-Larsson syndrome.
+Journal: Journal of inherited metabolic disease
+
+PMID: 16421762
+Title: [What's your diagnosis? Lichenification of flexures, tetraspasm and mental retardation].
+Journal: Der Hautarzt; Zeitschrift fur Dermatologie, Venerologie, und verwandte Gebiete
+
+PMID: 16407407
+Title: Proteomic analysis of the yeast mitochondrial outer membrane reveals accumulation of a subclass of preproteins.
+Journal: Molecular biology of the cell
+
+PMID: 16354271
+Title: Sjögren-Larsson syndrome: Indian and Central European similarities.
+Journal: Pediatric dermatology
+
+PMID: 16354265
+Title: What syndrome is this? Sjögren-Larsson syndrome.
+Journal: Pediatric dermatology
+
+PMID: 16021576
+Title: The expression of the 27-kd heat shock protein in keratinization disorders: an immunohistological study.
+Journal: Human pathology
+
+PMID: 16004729
+Title: Analysis and update of the human aldehyde dehydrogenase (ALDH) gene family.
+Journal: Human genomics
+
+PMID: 15931689
+Title: Sjögren-Larsson syndrome: diversity of mutations and polymorphisms in the fatty aldehyde dehydrogenase gene (ALDH3A2).
+Journal: Human mutation
+
+PMID: 15840601
+Title: Sjogren's syndrome and the danger model.
+Journal: Rheumatology (Oxford, England)
+
+PMID: 15834613
+Title: Adeno-associated virus vectors are able to restore fatty aldehyde dehydrogenase-deficiency. Implications for gene therapy in Sjogren-Larsson syndrome.
+Journal: Archives of dermatological research
+
+PMID: 15644129
+Title: Immunohistochemistry of the B-cell component in lower lip salivary glands of Sjögren's syndrome and healthy subjects.
+Journal: Scandinavian journal of immunology
+
+PMID: 15613721
+Title: Assay for Sjögren-Larsson syndrome based on a deficiency of phytol degradation.
+Journal: Clinical chemistry
+
+PMID: 15610535
+Title: Novel ALDH3A2 heterozygous mutations are associated with defective lamellar granule formation in a Japanese family of Sjögren-Larsson syndrome.
+Journal: The Journal of investigative dermatology
+
+PMID: 15575859
+Title: Sjögren-Larsson syndrome in an Indian child.
+Journal: Pediatric dermatology
+
+PMID: 15370634
+Title: Reliability and validity of a Swedish version of the Oral Health Impact Profile (OHIP-S).
+Journal: Acta odontologica Scandinavica
+
+PMID: 15241804
+Title: Sjögren-Larsson syndrome: seven novel mutations in the fatty aldehyde dehydrogenase gene ALDH3A2.
+Journal: Human mutation
+
+PMID: 15213331
+Title: Enhanced DNA-dependent protein kinase activity in Sjögren's syndrome B cells.
+Journal: Rheumatology (Oxford, England)
+
+PMID: 15144136
+Title: Interleukin-4 receptor alpha polymorphisms in primary Sjögren's syndrome.
+Journal: Clinical and experimental rheumatology
+
+PMID: 15110319
+Title: Identification of fatty aldehyde dehydrogenase in the breakdown of phytol to phytanic acid.
+Journal: Molecular genetics and metabolism
+
+PMID: 15090362
+Title: MR imaging and proton MR spectroscopic studies in Sjögren-Larsson syndrome: characterization of the leukoencephalopathy.
+Journal: AJNR. American journal of neuroradiology
+
+PMID: 15041916
+Title: [Sjögren's syndrome: clinical and therapeutic features. A review of the literature].
+Journal: Minerva stomatologica
+
+PMID: 14988513
+Title: Nutritional significance and metabolism of very long chain fatty alcohols and acids from dietary waxes.
+Journal: Experimental biology and medicine (Maywood, N.J.)
+
+PMID: 14983658
+Title: Neurophysiological studies in a case of Sjögren-Larsson syndrome.
+Journal: Acta paediatrica Taiwanica = Taiwan er ke yi xue hui za zhi
+
+PMID: 14626635
+Title: A role of the macrophage in Sjögen's syndrome?
+Journal: Scandinavian journal of rheumatology
+
+PMID: 14600863
+Title: [Systemic diseases].
+Journal: Anasthesiologie, Intensivmedizin, Notfallmedizin, Schmerztherapie : AINS
+
+PMID: 12810769
+Title: The prevalence of frontal variant frontotemporal dementia and the frontal lobe syndrome in a population based sample of 85 year olds.
+Journal: Journal of neurology, neurosurgery, and psychiatry
+
+PMID: 12692359
+Title: Report of a Turkish child with Sjören-Larsson syndrome associated with peripheral nerve involvement.
+Journal: The Journal of dermatology
+
+PMID: 12657023
+Title: Sjögren-Larsson syndrome: treatment with topical calcipotriol.
+Journal: Pediatric dermatology
+
+PMID: 12553849
+Title: Ichthyosis: etiology, diagnosis, and management.
+Journal: American journal of clinical dermatology
+
+PMID: 12498506
+Title: The differential diagnosis of crystals in the retina.
+Journal: International ophthalmology
+
+PMID: 12422296
+Title: [Pitfalls in hypertension management--misjudgements in diagnosis and therapy].
+Journal: Deutsche medizinische Wochenschrift (1946)
+
+PMID: 12391475
+Title: Sjogren - Larsson Syndrome: a case report.
+Journal: Neurology India
+
+PMID: 27407433
+Title: Sjogren - Larsson Syndrome.
+Journal: Medical journal, Armed Forces India
+
+PMID: 12218895
+Title: [Sjogren-Larsson syndrome: two cases with delayed diagnosis].
+Journal: Annales de medecine interne
+
+PMID: 11978568
+Title: Sjögren-Larsson syndrome: biochemical defects and follow up in three cases.
+Journal: European journal of dermatology : EJD
+
+PMID: 11967114
+Title: Expression of the B cell-attracting chemokine CXCL13 in the target organ and autoantibody production in ectopic lymphoid tissue in the chronic inflammatory disease Sjögren's syndrome.
+Journal: Scandinavian journal of immunology
+
+PMID: 11929038
+Title: Sjogren-Larsson syndrome.
+Journal: Indian journal of pediatrics
+
+PMID: 11795678
+Title: Clinical and biochemical effects of zileuton in patients with the Sjögren-Larsson syndrome.
+Journal: European journal of pediatrics
+
+PMID: 11707148
+Title: Pathophysiological role of leukotrienes in dermatological diseases: potential therapeutic implications.
+Journal: BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy
+
+PMID: 11555398
+Title: Ku protein and DNA strand breaks in lip glands of normal and primary Sjögren's syndrome subjects: lack of correlation with apoptosis.
+Journal: Scandinavian journal of immunology
+
+PMID: 11528943
+Title: [Sjögren-Larsson syndrome].
+Journal: Ryoikibetsu shokogun shirizu
+
+PMID: 11408337
+Title: Clinical, biochemical and molecular genetic characteristics of 19 patients with the Sjögren-Larsson syndrome.
+Journal: Brain : a journal of neurology
+
+PMID: 11378890
+Title: Proton magnetic resonance spectroscopy of Sjögren-Larsson syndrome heterozygotes.
+Journal: Magnetic resonance in medicine
+
+PMID: 11347089
+Title: [Sjögren-Larsson syndrome].
+Journal: Nihon rinsho. Japanese journal of clinical medicine
+
+PMID: 11341778
+Title: Identification of pristanal dehydrogenase activity in peroxisomes: conclusive evidence that the complete phytanic acid alpha-oxidation pathway is localized in peroxisomes.
+Journal: Biochemical and biophysical research communications
+
+PMID: 11306053
+Title: Fatty aldehyde dehydrogenase: genomic structure, expression and mutation analysis in Sjögren-Larsson syndrome.
+Journal: Chemico-biological interactions
+
+PMID: 11166796
+Title: Defective metabolism of leukotriene B4 in the Sjögren-Larsson syndrome.
+Journal: Journal of the neurological sciences
+
+PMID: 11124298
+Title: Juvenile macular dystrophy associated with deficient activity of fatty aldehyde dehydrogenase in Sjögren-Larsson syndrome.
+Journal: American journal of ophthalmology
+
+PMID: 11113626
+Title: Microsomal fatty aldehyde dehydrogenase catalyzes the oxidation of aliphatic aldehyde derived from ether glycerolipid catabolism: implications for Sjögren-Larsson syndrome.
+Journal: Biochimica et biophysica acta
+
+PMID: 11073717
+Title: Genomic organization, expression, and alternate splicing of the mouse fatty aldehyde dehydrogenase gene.
+Journal: Molecular genetics and metabolism
+
+PMID: 11071513
+Title: Dystonia secondary to Sjögren-Larsson syndrome.
+Journal: Neurology
+
+PMID: 11063076
+Title: Hypomelanosis of Ito: clinical syndrome or just phenotype?
+Journal: Journal of child neurology
+
+PMID: 11057136
+Title: [Sjögren-Larsson syndrome].
+Journal: Ryoikibetsu shokogun shirizu
+
+PMID: 10971205
+Title: Polymorphisms of human aldehyde dehydrogenases. Consequences for drug metabolism and disease.
+Journal: Pharmacology
+
+PMID: 10916184
+Title: An unusual central retinal dystrophy associated with ichthyosis vulgaris.
+Journal: Ophthalmic genetics
+
+PMID: 10884288
+Title: Sjögren-Larsson syndrome: accumulation of free fatty alcohols in cultured fibroblasts and plasma.
+Journal: Journal of lipid research
+
+PMID: 10854114
+Title: RNA-based mutation screening in German families with Sjögren-Larsson syndrome.
+Journal: European journal of human genetics : EJHG
+
+PMID: 10810660
+Title: [Sjögren-Larsson syndrome].
+Journal: Der Hautarzt; Zeitschrift fur Dermatologie, Venerologie, und verwandte Gebiete
+
+PMID: 10792573
+Title: A novel point mutation of the FALDH gene in a Japanese family with Sjögren-Larsson syndrome.
+Journal: The Journal of investigative dermatology
+
+PMID: 10774987
+Title: 5-Lipoxygenase inhibition: a new treatment strategy for Sjögren-Larsson syndrome.
+Journal: Neuropediatrics
+
+PMID: 10706028
+Title: Preterm birth in Sjögren-Larsson syndrome.
+Journal: Neuropediatrics
+
+PMID: 10657838
+Title: Sjögren-Larsson syndrome.
+Journal: The Journal of pediatrics
+
+PMID: 10657837
+Title: Defective inactivation of leukotriene B4 in patients with Sjögren-Larsson syndrome.
+Journal: The Journal of pediatrics
+
+PMID: 10627428
+Title: Lower frequency of focal lip sialadenitis (focus score) in smoking patients. Can tobacco diminish the salivary gland involvement as judged by histological examination and anti-SSA/Ro and anti-SSB/La antibodies in Sjögren's syndrome?
+Journal: Annals of the rheumatic diseases
+
+PMID: 10577908
+Title: The molecular basis of Sjögren-Larsson syndrome: mutation analysis of the fatty aldehyde dehydrogenase gene.
+Journal: American journal of human genetics
+
+PMID: 10559596
+Title: Incomplete Sjögren-Larsson syndrome in two Japanese siblings?
+Journal: Dermatology (Basel, Switzerland)
+
+PMID: 10543638
+Title: Proton MR spectroscopy of Sjögren-Larsson's syndrome.
+Journal: AJNR. American journal of neuroradiology
+
+PMID: 10525785
+Title: MRI of three siblings with Sjögren-Larsson syndrome.
+Journal: Pediatric radiology
+
+PMID: 10488862
+Title: The orthopaedic presentation and management of Sjögren-Larsson syndrome.
+Journal: Journal of pediatric orthopedics
+
+PMID: 10488861
+Title: Congenital synspondylism: diagnostic features.
+Journal: Journal of pediatric orthopedics
+
+PMID: 10449931
+Title: Sjögren-Larsson syndrome: early diagnosis, dietary management and biochemical studies in two cases.
+Journal: Dermatology (Basel, Switzerland)
+
+PMID: 10384396
+Title: Molecular basis of Sjögren-Larsson syndrome: frequency of the 1297-1298 del GA and 943C-->T mutation in 29 patients.
+Journal: Journal of inherited metabolic disease
+
+PMID: 10233781
+Title: A novel 4 bp deletion mutation in the FALDH gene segregating in a Turkish family with Sjögren-Larsson syndrome.
+Journal: The Journal of investigative dermatology
+
+PMID: 10229140
+Title: T(H)1 cytokines are produced in labial salivary glands in Sjögren's syndrome, but also in healthy individuals.
+Journal: Scandinavian journal of rheumatology
+
+PMID: 10227616
+Title: Sjögren-Larsson syndrome: clinical and MRI/MRS findings in FALDH-deficient patients.
+Journal: Neurology
+
+PMID: 10227610
+Title: Sjögren-Larsson syndrome: explaining the skin-brain connection.
+Journal: Neurology
+
+PMID: 10214507
+Title: A syndrome of congenital ichthyosis, hypogonadism, small stature, facial dysmorphism, scoliosis and myogenic dystrophy.
+Journal: Annales de genetique
+
+PMID: 10188163
+Title: A case of Sjögren-Larsson syndrome.
+Journal: Journal of the European Academy of Dermatology and Venereology : JEADV
+
+PMID: 10086857
+Title: Further evidence of genetic homogeneity in Sjögren-Larsson syndrome.
+Journal: Acta dermato-venereologica
+
+PMID: 10081515
+Title: Extrahepatic manifestations of chronic hepatitis C infection and the interrelationship between primary Sjögren's syndrome and hepatitis C in Swedish patients.
+Journal: Journal of internal medicine
+
+PMID: 10026413
+Title: Incomplete Sjögren-Larsson syndrome in two Japanese siblings.
+Journal: Dermatology (Basel, Switzerland)
+
+PMID: 9880150
+Title: SLS or not SLS. Sjögren-Larsson syndrome.
+Journal: Pediatric neurology
+
+PMID: 9832256
+Title: Sjögren-Larsson syndrome: sporadic case of the disease in a boy 8 years of age.
+Journal: Clinical neuropathology
+
+PMID: 9829906
+Title: Spectrum of mutations and sequence variants in the FALDH gene in patients with Sjögren-Larsson syndrome.
+Journal: Human mutation
+
+PMID: 9823494
+Title: Pre- and postnatal growth retardation, scaling skin, moderate mental retardation and quadrispasticity, hypospadias grade 2 and hydro-uretero nephrosis, postaxial polydactyly. A distinct MCA/MR syndrome?
+Journal: Clinical dysmorphology
+
+PMID: 9822200
+Title: Matrix metalloproteinase (MMP)-9 type IV collagenase/gelatinase implicated in the pathogenesis of Sjögren's syndrome.
+Journal: Matrix biology : journal of the International Society for Matrix Biology
+
+PMID: 9787098
+Title: Inherited disorders of fatty alcohol metabolism.
+Journal: Molecular genetics and metabolism
+
+PMID: 9760873
+Title: Detailed genetic and physical mapping in the Sjögren-Larsson syndrome gene region in 17p11.2.
+Journal: Hereditas
+
+PMID: 9695088
+Title: A syndrome of retinitis pigmentosa, congenital ichthyosis, hypergonadotropic hypogonadism, small stature, mental retardation, cranial dysmorphism, and abnormal electroencephalogram.
+Journal: Ophthalmic genetics
+
+PMID: 9662422
+Title: Involvement of microsomal fatty aldehyde dehydrogenase in the alpha-oxidation of phytanic acid.
+Journal: FEBS letters
+
+PMID: 9588531
+Title: Sjögren-Larsson syndrome: postmortem brain abnormalities.
+Journal: Pediatric neurology
+
+PMID: 9467812
+Title: First prenatal diagnosis by mutation analysis in a family with Sjögren-Larsson syndrome.
+Journal: Prenatal diagnosis
+
+PMID: 9441870
+Title: A common deletion mutation in European patients with Sjögren-Larsson syndrome.
+Journal: Biochemical and molecular medicine
+
+PMID: 9296200
+Title: MR of the brain in Sjögren-Larsson syndrome.
+Journal: AJNR. American journal of neuroradiology
+
+PMID: 9295289
+Title: Isolation of animal cell mutants defective in long-chain fatty aldehyde dehydrogenase. Sensitivity to fatty aldehydes and Schiff's base modification of phospholipids: implications for Sj-ogren-Larsson syndrome.
+Journal: The Journal of biological chemistry
+
+PMID: 9273168
+Title: [Keratotic neurocutaneous syndromes].
+Journal: Revista de neurologia
+
+PMID: 9254849
+Title: A missense mutation in the FALDH gene identified in Sjögren-Larsson syndrome patients originating from the northern part of Sweden.
+Journal: Human genetics
+
+PMID: 9204959
+Title: Sjögren-Larsson syndrome is caused by a common mutation in northern European and Swedish patients.
+Journal: The Journal of investigative dermatology
+
+PMID: 9250352
+Title: Mutations associated with Sjögren-Larsson syndrome.
+Journal: Annals of human genetics
+
+PMID: 9133646
+Title: Human liver fatty aldehyde dehydrogenase: microsomal localization, purification, and biochemical characterization.
+Journal: Biochimica et biophysica acta
+
+PMID: 9070922
+Title: Human fatty aldehyde dehydrogenase gene (ALDH10): organization and tissue-dependent expression.
+Journal: Genomics
+
+PMID: 9099524
+Title: The retina: genetic studies of several retinopathies located on the short arm of chromosome 17.
+Journal: Current opinion in neurology
+
+PMID: 9027499
+Title: Genomic organization and expression of the human fatty aldehyde dehydrogenase gene (FALDH).
+Journal: Genomics
+
+PMID: 8912560
+Title: Redefining the Sjögren-Larsson syndrome: atypical findings in three siblings and implications regarding diagnosis.
+Journal: Journal of the American Academy of Dermatology
+
+PMID: 8855639
+Title: Sjogren-Larsson syndrome.
+Journal: Journal of the Medical Association of Thailand = Chotmaihet thangphaet
+
+PMID: 9099920
+Title: The expression of human endogenous retrovirus-3 in fetal cardiac tissue and antibodies in congenital heart block.
+Journal: Clinical and experimental immunology
+
+PMID: 8763418
+Title: An appraisal of acitretin therapy in children with inherited disorders of keratinization.
+Journal: The British journal of dermatology
+
+PMID: 9025839
+Title: Inherited ichthyoses: a review of the histology of the skin.
+Journal: Pediatric pathology & laboratory medicine : journal of the Society for Pediatric Pathology, affiliated with the International Paediatric Pathology Association
+
+PMID: 8740259
+Title: Flow-cytometric investigation of epidermal cell characteristics in monogenic disorders of keratinization and their modulation by topical calcipotriol treatment.
+Journal: Acta dermato-venereologica
+
+PMID: 8728707
+Title: Confirmation of linkage of Sjögren-Larsson syndrome to chromosome 17 in families of different ethnic origins.
+Journal: Journal of medical genetics
+
+PMID: 8884139
+Title: Update on Sjögren-Larsson syndrome.
+Journal: Dermatology (Basel, Switzerland)
+
+PMID: 8528251
+Title: Sjögren-Larsson syndrome is caused by mutations in the fatty aldehyde dehydrogenase gene.
+Journal: Nature genetics
+
+PMID: 8719354
+Title: Biochemical markers of renal disease in primary Sjögren's syndrome.
+Journal: Scandinavian journal of urology and nephrology
+
+PMID: 7485163
+Title: Genetic homogeneity in Sjögren-Larsson syndrome: linkage to chromosome 17p in families of different non-Swedish ethnic origins.
+Journal: American journal of human genetics
+
+PMID: 8570059
+Title: MRI of white matter changes in the Sjögren-Larsson syndrome.
+Journal: Neuroradiology
+
+PMID: 7637470
+Title: [From rune stones to genes. The cause of Sjögren-Larsson syndrome is encircled].
+Journal: Lakartidningen
+
+PMID: 7619196
+Title: Monozygotic twin patients with congenital ichthyosis, microcephalus, spastic quadriplegia, myoclonus, and EEG abnormalities.
+Journal: Pediatric neurology
+
+PMID: 7603599
+Title: Cerebral MRI and spectroscopy in Sjögren-Larsson syndrome: case report.
+Journal: Neuroradiology
+
+PMID: 7655108
+Title: Topical treatment of Sjögren-Larsson syndrome with calcipotriol.
+Journal: Dermatology (Basel, Switzerland)
+
+PMID: 7894487
+Title: The Sjögren-Larsson syndrome gene is close to D17S805 as determined by linkage analysis and allelic association.
+Journal: Nature genetics
+
+PMID: 8043418
+Title: Quantification of stratum corneum ceramides and lipid envelope ceramides in the hereditary ichthyoses.
+Journal: The British journal of dermatology
+
+PMID: 7971759
+Title: Prenatal diagnosis of Sjögren-Larsson syndrome using enzymatic methods.
+Journal: Prenatal diagnosis
+
+PMID: 8176565
+Title: Unsuccessful dietary treatment of Sjögren-Larsson syndrome.
+Journal: The Journal of pediatrics
+
+PMID: 8280456
+Title: [Characteristic MRI findings of sibling cases with Sjögren-Larsson syndrome].
+Journal: No to hattatsu = Brain and development
+
+PMID: 8051916
+Title: Sjögren-Larsson syndrome: nuclear magnetic resonance imaging of the brain in a 4-year-old boy.
+Journal: Journal of inherited metabolic disease
+
+PMID: 7511491
+Title: Laboratory tests for ichthyosis.
+Journal: Dermatologic clinics
+
+PMID: 7902222
+Title: HgCl2-induced glandular pathosis in the brown Norway rat.
+Journal: Clinical immunology and immunopathology
+
+PMID: 29542675
+Title: Sjogren larsson syndrome.
+Journal: Neurology India
+
+PMID: 8378019
+Title: Sjögren-Larsson syndrome: technique and timing of prenatal diagnosis.
+Journal: Obstetrics and gynecology
+
+PMID: 8217748
+Title: The quantification of free sphingosine in the stratum corneum of patients with hereditary ichthyosis.
+Journal: The British journal of dermatology
+
+PMID: 8415311
+Title: What syndrome is this? Sjögren-Larsson syndrome.
+Journal: Pediatric dermatology
+
+PMID: 8217559
+Title: Sjögren-Larsson syndrome.
+Journal: Seminars in dermatology
+
+PMID: 8374670
+Title: Neurocutaneous disorders in children.
+Journal: Current opinion in pediatrics
+
+PMID: 7654590
+Title: Sjögren-Larsson syndrome.
+Journal: The British journal of dermatology
+
+PMID: 8477614
+Title: Sjögren-Larsson syndrome: report of a case in India.
+Journal: Cutis
+
+PMID: 1476577
+Title: Sjögren-Larsson-like syndrome with bone dysplasia and normal fatty alcohol NAD+ oxidoreductase activity.
+Journal: Pediatric neurology
+
+PMID: 1407988
+Title: Salivary gland involvement in autoimmune thyroiditis, with special reference to the degree of association with Sjögren's syndrome.
+Journal: Oral surgery, oral medicine, and oral pathology
+
+PMID: 1390160
+Title: Quantification of n-alkanes in stratum corneum in the hereditary ichthyoses.
+Journal: The British journal of dermatology
+
+PMID: 1617817
+Title: Ichthyoses and hyperkeratotic disorders.
+Journal: Dermatologic clinics
+
+PMID: 1607492
+Title: Detection of hexanol dehydrogenase activity in the epidermis of a patient with Sjögren-Larsson syndrome.
+Journal: The Journal of dermatology
+
+PMID: 1565240
+Title: Primary Sjögren's syndrome in patients with multiple sclerosis.
+Journal: Neurology
+
+PMID: 1728538
+Title: Metabolic pigmentary retinopathies: diagnosis and therapeutic attempts.
+Journal: European journal of pediatrics
+
+PMID: 1583866
+Title: Carrier detection for Sjögren-Larsson syndrome.
+Journal: Journal of inherited metabolic disease
+
+PMID: 1939650
+Title: Sjögren-Larsson syndrome. Deficient activity of the fatty aldehyde dehydrogenase component of fatty alcohol:NAD+ oxidoreductase in cultured fibroblasts.
+Journal: The Journal of clinical investigation
+
+PMID: 1836061
+Title: Sjögren-Larsson syndrome: case reports.
+Journal: Pediatric dermatology
+
+PMID: 1772531
+Title: Monoaminergic dysfunction in Sjögren-Larsson syndrome.
+Journal: Molecular and chemical neuropathology
+
+PMID: 2062544
+Title: Sjögren-Larsson syndrome: case reports of two brothers.
+Journal: Ophthalmic & physiological optics : the journal of the British College of Ophthalmic Opticians (Optometrists)
+
+PMID: 2062263
+Title: Lipids and neurological diseases.
+Journal: Medical hypotheses
+
+PMID: 2060160
+Title: Autoimmune thyroiditis and primary Sjögren's syndrome: clinical and laboratory evidence of the coexistence of the two diseases.
+Journal: Clinical and experimental rheumatology
+
+PMID: 1937621
+Title: The Sjogren-Larsson syndrome in a north Indian sibship.
+Journal: Indian journal of pediatrics
+
+PMID: 1867477
+Title: Ultrastructural study of the skin in Sjögren-Larsson syndrome.
+Journal: Archives of dermatological research
+
+PMID: 1770787
+Title: Hexanol dehydrogenase activity shown by enzyme histochemistry on skin biopsies allows differentiation of Sjögren-Larsson syndrome from other ichthyoses.
+Journal: Journal of inherited metabolic disease
+
+PMID: 2250105
+Title: Depletion of alcohol (hexanol) dehydrogenase activity in the epidermis and jejunal mucosa in Sjögren-Larsson syndrome.
+Journal: The Journal of investigative dermatology
+
+PMID: 2241202
+Title: Ichthyosis, mental retardation, and asymptomatic spasticity. A new neurocutaneous syndrome with normal fatty alcohol:NAD+ oxidoreductase activity.
+Journal: Archives of dermatology
+
+PMID: 2279363
+Title: [MRI study of three siblings of suspicious Sjögren-Larsson syndrome].
+Journal: Rinsho shinkeigaku = Clinical neurology
+
+PMID: 2201021
+Title: Isolation and characterization of a Chinese hamster ovary cell line deficient in fatty alcohol:NAD+ oxidoreductase activity.
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+
+PMID: 2616388
+Title: Sjögren-Larsson syndrome associated with the Dandy-Walker malformation: report of a case.
+Journal: Pediatric dermatology
+
+PMID: 2789654
+Title: Dry eyes or mouth--an epidemiological study in Swedish adults, with special reference to primary Sjögren's syndrome.
+Journal: Journal of autoimmunity
+
+PMID: 2666627
+Title: Sjögren-Larsson syndrome: inherited defect in the fatty alcohol cycle.
+Journal: The Journal of pediatrics
+
+PMID: 2714014
+Title: Sjögren-Larsson syndrome in Sweden: distribution of the gene.
+Journal: Clinical genetics
+
+PMID: 2558833
+Title: [A case of Sjögren-Larsson syndrome with peripheral nerve involvement].
+Journal: Rinsho shinkeigaku = Clinical neurology
+
+PMID: 2762000
+Title: [You make the diagnosis. Neurocutaneous dysplasia: Sjögren-Larsson syndrome].
+Journal: Padiatrie und Padologie
+
+PMID: 3068048
+Title: [Congenital neuroichthyosis and psychiatric involvement. Apropos of a case].
+Journal: L'Encephale
+
+PMID: 3186515
+Title: [Sjogren-Larsson syndrome. Description of a case].
+Journal: La Pediatria medica e chirurgica : Medical and surgical pediatrics
+
+PMID: 3343337
+Title: Sjögren-Larsson syndrome. Impaired fatty alcohol oxidation in cultured fibroblasts due to deficient fatty alcohol:nicotinamide adenine dinucleotide oxidoreductase activity.
+Journal: The Journal of clinical investigation
+
+PMID: 3207072
+Title: Clinical and immunological features of Sjögren's syndrome in patients with primary biliary cirrhosis with emphasis on focal sialadenitis.
+Journal: Acta medica Scandinavica
+
+PMID: 3828281
+Title: Lipofuscin and melanin content of the retinal pigment epithelium in a case of Sjögren-Larsson syndrome.
+Journal: The British journal of ophthalmology
+
+PMID: 3829441
+Title: Congenital ichthyosis with alopecia, eclabion, ectropion and mental retardation--a new genetic syndrome.
+Journal: Clinical genetics
+
+PMID: 3431701
+Title: Cranial CT in the Sjogren-Larsson syndrome.
+Journal: Neuroradiology
+
+PMID: 3431700
+Title: Computed tomography in Sjögren-Larsson syndrome.
+Journal: Neuroradiology
+
+PMID: 3322144
+Title: [Sjogren-Larsson syndrome. Apropos of a case].
+Journal: Annales de dermatologie et de venereologie
+
+PMID: 3804430
+Title: Sjogren-Larsson syndrome.
+Journal: Indian pediatrics
+
+PMID: 3974899
+Title: Sjögren-Larsson syndrome: delta 5-and delta 6-fatty acid desaturases in skin fibroblasts.
+Journal: Neurology
+
+PMID: 2580708
+Title: Etretinate therapy in children with severe keratinization defects.
+Journal: European journal of pediatrics
+
+PMID: 6735549
+Title: The Sjögren-Larsson syndrome.
+Journal: International journal of dermatology
+
+PMID: 6524807
+Title: [Generalized ichthyosis associated with a spastic syndrome of the lower limbs, a variant of Sjögren-Larsson syndrome? Light and electron microscopy study of ichthyosis and its evolution with oral etretinate treatment].
+Journal: Annales de dermatologie et de venereologie
+
+PMID: 6199488
+Title: The odontogenic keratocyst: a benign cystic tumor?
+Journal: Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons
+
+PMID: 6661100
+Title: [Sjögren-Larsson syndrome. Clinical and laboratory study of 2 cases].
+Journal: Arquivos de neuro-psiquiatria
+
+PMID: 6667967
+Title: [Sjögren-Larsson Syndrome].
+Journal: Giornale italiano di dermatologia e venereologia : organo ufficiale, Societa italiana di dermatologia e sifilografia
+
+PMID: 6614675
+Title: [Sjögren-Larsson syndrome. Study of 2 cases].
+Journal: Anales espanoles de pediatria
+
+PMID: 6642556
+Title: [Sjogren-Larsson syndrome. Contribution to an early diagnosis].
+Journal: Giornale italiano di dermatologia e venereologia : organo ufficiale, Societa italiana di dermatologia e sifilografia
+
+PMID: 6580755
+Title: Oral conditions in Sjögren-Larsson syndrome.
+Journal: Swedish dental journal
+
+PMID: 6191505
+Title: Treatment of the ichthyosis of the Sjögren-Larsson syndrome with etretinate (Tigason).
+Journal: Acta dermato-venereologica
+
+PMID: 7161420
+Title: Sjögren-Larsson syndrome: a dermato-histopathological study.
+Journal: Journal of cutaneous pathology
+
+PMID: 7143181
+Title: Prenatal diagnosis of Sjögren-Larsson syndrome.
+Journal: The Journal of pediatrics
+
+PMID: 7149178
+Title: Studies of the skin in Sjögren-Larsson syndrome by electron microscopy.
+Journal: The American Journal of dermatopathology
+
+PMID: 7142720
+Title: Sjogren-Larsson syndrome.
+Journal: Journal of the Indian Medical Association
+
+PMID: 7132503
+Title: [Rings of white dots in the fundus oculi in patients with Sjögren-Larsson syndrome].
+Journal: Lakartidningen
+
+PMID: 7105232
+Title: [Sjögren-Larsson syndrome].
+Journal: Ceskoslovenska pediatrie
+
+PMID: 6179662
+Title: Ichthyosis in the Sjögren-Larsson syndrome.
+Journal: Clinical genetics
+
+PMID: 7166487
+Title: Sjögren-Larsson syndrome: physical and neurological features. A survey of 35 patients.
+Journal: Helvetica paediatrica acta
+
+PMID: 7070875
+Title: Suspected faulty essential fatty acid metabolism in Sjögren-Larsson syndrome.
+Journal: Pediatric research
+
+PMID: 6183888
+Title: Sjögren-Larsson syndrome: microscopic and scanning electron microscopic findings in replicas of the skin.
+Journal: Acta dermato-venereologica
+
+PMID: 7296951
+Title: Urinary amino acids and organic acids in the Sjögren-Larsson syndrome.
+Journal: Clinical genetics
+
+PMID: 7273467
+Title: Sjögren-Larsson syndrome in Sweden. A clinical, genetic and epidemiological study.
+Journal: Clinical genetics
+
+PMID: 7207811
+Title: Cranial CT in the Sjögren-Larsson syndrome.
+Journal: Neuroradiology
+
+PMID: 7324288
+Title: Zinc and copper concentration in serum of patients with congenital ichthyosis, spastic di- or tetraplegia and mental retardation (Sjögren-Larsson syndrome).
+Journal: Upsala journal of medical sciences
+
+PMID: 7415820
+Title: Specific changes in the fundus typical for the Sjögren-Larsson syndrome. An ophthalmological study of 35 patients.
+Journal: Acta ophthalmologica
+
+PMID: 7363498
+Title: Dermatoglyphic patterns in the Sjögren-Larsson syndrome.
+Journal: Clinical genetics
+
+PMID: 7389762
+Title: Pathological findings in one of two siblings with Sjögren-Larsson Syndrome.
+Journal: European neurology
+
+PMID: 7188765
+Title: Sjögren-Larsson syndrome in dizygous twin sisters.
+Journal: Human heredity
+
+PMID: 679827
+Title: [Sjögren-Larsson syndrome].
+Journal: Deutsche medizinische Wochenschrift (1946)
+
+PMID: 556382
+Title: [Sjögren-Larsson syndrome].
+Journal: Nihon rinsho. Japanese journal of clinical medicine
+
+PMID: 340368
+Title: [The Sjögren-Larsson syndrome].
+Journal: Fortschritte der Medizin
+
+PMID: 726579
+Title: [Genetic counseling in Sjögren-Larsson syndrome (author's transl)].
+Journal: Zeitschrift fur Orthopadie und ihre Grenzgebiete
+
+PMID: 613957
+Title: [Sjögren-Larsson syndrome].
+Journal: Annales de dermatologie et de venereologie
+
+PMID: 876645
+Title: [Sjögrem-Larson syndrome].
+Journal: Orvosi hetilap
+
+PMID: 560199
+Title: Sjogren-Larsson syndrome (dizygotic twins).
+Journal: The British journal of dermatology
+
+PMID: 866015
+Title: [3 cases of Sjogren-Larsson syndrome in the same family].
+Journal: Pediatriia
+
+PMID: 65456
+Title: The Sjögren-Larsson syndrome. A case report.
+Journal: Journal of neurology
+
+PMID: 28266365
+Title: Sjogren Larsson Syndrome (Two case reports).
+Journal: Indian journal of dermatology, venereology and leprology
+
+PMID: 612910
+Title: [Sjögren-Larsson syndrome].
+Journal: Nihon rinsho. Japanese journal of clinical medicine
+
+PMID: 1007276
+Title: [Case of Sjögren-Larsson syndrome in an infant with univentricular heart].
+Journal: Wiadomosci lekarskie (Warsaw, Poland : 1960)
+
+PMID: 1029550
+Title: [Sjögren-Larsson syndrome with Stardgardt's juvenile macular degeneration].
+Journal: Bulletin des societes d'ophtalmologie de France
+
+PMID: 1208705
+Title: [Sjögren-Larsson syndrome].
+Journal: Psychiatrie, Neurologie, und medizinische Psychologie
+
+PMID: 4448995
+Title: Sjögren-Larsson syndrome in two sibs with peripheral nerve involvement and bisalbuminaemia.
+Journal: Journal of neurology, neurosurgery, and psychiatry
+
+PMID: 4434189
+Title: Neuropathological correlation in Sjögren-Larsson syndrome. Oligophrenia, ichthyosis and spasticity.
+Journal: Brain : a journal of neurology
+
+PMID: 4438040
+Title: [The Sjögren Larsson syndrome].
+Journal: Pediatrie
+
+PMID: 4135782
+Title: Sjögren-Larsson syndrome. Oligophrenia--ichthyosis--di-tetraplegia.
+Journal: Humangenetik
+
+PMID: 4208736
+Title: [Contribution to the Sjögren-Larsson syndrome (author's transl)].
+Journal: MMW, Munchener medizinische Wochenschrift
+
+PMID: 4453676
+Title: [Sjögren-Larsson syndrome: lamellar ichthyosis, mental retardation and spasticity (author's transl)].
+Journal: Revista de investigacion clinica; organo del Hospital de Enfermedades de la Nutricion
+
+PMID: 4782907
+Title: [Sjögren-Larsson syndrome].
+Journal: Ugeskrift for laeger
+
+PMID: 4634106
+Title: Sjögren-Larsson syndrome with epiphyseal-metaphyseal dysplasia.
+Journal: The American journal of roentgenology, radium therapy, and nuclear medicine
+
+PMID: 4736125
+Title: Sjögren-Larsson syndrome. Report of two cases in twins.
+Journal: Neurology
+
+PMID: 4742119
+Title: [Coexistence of Sjogren-Larsson syndrome and Rud's syndrome in the same family].
+Journal: Journal de genetique humaine
+
+PMID: 4685258
+Title: Amino acid abnormality in Sjögren-Larsson syndrome.
+Journal: Archives of neurology
+
+PMID: 4802949
+Title: [Sjögren-Larsson syndrome].
+Journal: Annales de dermatologie et de syphiligraphie
+
+PMID: 4691149
+Title: The Sjögren-Larsson syndrome. A case report.
+Journal: Humangenetik
+
+PMID: 5048685
+Title: [Sjögren Larsson syndrome].
+Journal: Medizinische Klinik
+
+PMID: 5011430
+Title: [Bullous ichthyosiform congenital erythroderma. Discussion of the Sjögren-Larsson syndrome].
+Journal: Archives belges de dermatologie et de syphiligraphie
+
+PMID: 5173380
+Title: Congenital ichthyosis, oligophrenia and spastic paresis (Sjögren-Larsson syndrome).
+Journal: Birth defects original article series
+
+PMID: 5152892
+Title: [Sjögren-Larsson syndrome in an infant].
+Journal: Bulletin de la Societe francaise de dermatologie et de syphiligraphie
+
+PMID: 5134974
+Title: [Congenital bullous ichtyosiform erythrodermia; discussion of Sjögren-Larsson syndrome].
+Journal: Bulletin de la Societe francaise de dermatologie et de syphiligraphie
+
+PMID: 4109276
+Title: Sjögren-Larsson syndrome. Diversity of cutaneous manifestations.
+Journal: Acta dermato-venereologica
+
+PMID: 4948442
+Title: [Sjögren-Larsson syndrome. Description of a case and review of literature].
+Journal: Rivista di clinica pediatrica
+
+PMID: 5429253
+Title: [Sjogren-Larsson syndrome. A recent case].
+Journal: Lille medical : journal de la Faculte de medecine et de pharmacie de l'Universite de Lille
+
+PMID: 4190405
+Title: Sjogren-Larsson syndrome.
+Journal: Lancet (London, England)
+
+PMID: 5471156
+Title: [The Sjogren-Larsson-Pardo Castello-Faz syndrome].
+Journal: Przeglad lekarski
+
+PMID: 4243579
+Title: Pathological findings in Sjögren-Larsson syndrome.
+Journal: Journal of mental deficiency research
+
+PMID: 5345110
+Title: Sjögren-Larsson syndrome in a Turkish family.
+Journal: Journal of medical genetics
+
+PMID: 5399675
+Title: [Sjögren-Larsson syndrome].
+Journal: Bulletin des societes d'ophtalmologie de France
+
+PMID: 5697194
+Title: Sjögren-Larsson syndrome. (Congenital ichthyosis with spastic paralysis and oligophrenia).
+Journal: American journal of diseases of children (1960)
+
+PMID: 5720011
+Title: [The Sjögren-Larsson syndrome].
+Journal: Annali di ottalmologia e clinica oculistica
+
+PMID: 5761608
+Title: [Sjogren-Larsson syndrome. Differential diagnosis of ichthyosis with neurological manifestations. Case report].
+Journal: Munchener medizinische Wochenschrift (1950)
+
+PMID: 5302287
+Title: The Sjogren-Larsson syndrome.
+Journal: Archives of ophthalmology (Chicago, Ill. : 1960)
+
+PMID: 5653107
+Title: Four cases of Sjögren-Larsson syndrome.
+Journal: Developmental medicine and child neurology
+
+PMID: 5595747
+Title: Sjögren-Larsson syndrome with exudative enteropathy. Influence of medium-chain triclycerides on the symptomatology.
+Journal: Helvetica paediatrica acta
+
+PMID: 5611127
+Title: [Sjögren-Larsson syndrome (contribution of 2 cases with familial features].
+Journal: Minerva pediatrica
+
+PMID: 6018858
+Title: The Sjögren-Larsson syndrome.
+Journal: The American journal of medicine
+
+PMID: 5595212
+Title: [Sjögren-Larsen syndrome].
+Journal: Acta paediatrica Belgica
+
+PMID: 5844397
+Title: Sjögren-larsson syndrome. Congenital ichthyosis, spastic paralysis, and oligophrenia.
+Journal: Archives of dermatology
+
+PMID: 5826367
+Title: Pathology of the Sjögren-Larsson syndrome.
+Journal: The Journal of the Maine Medical Association
+
+PMID: 11850936
+Title: Genetic classification of ichthyosis.
+Journal: Archives of dermatology
+
+PMID: 14166509
+Title: [DESCRIPTION OF A CASE OF ICHTHYOSIS, OLIGOPHRENIA AND SPASTIC TETRAPLEGIA (SJOEGREN-LARSSON SYNDROME)].
+Journal: Kinderarztliche Praxis
+
+PMID: 14120384
+Title: [SJOGREN AND LARSSON SYNDROME. ICHTHYOSIS-OLIGOPHRENIA-SYMMETRICAL PYRAMIDAL CONTRACTURE].
+Journal: Acta pediatrica espanola
+
+PMID: 13976512
+Title: [The Sjogren-Larsson syndrome. Critical review and report of 3 cases].
+Journal: Minerva medica
+
+PMID: 14001384
+Title: Sjogren-Larsson syndrome and histidinemia: hereditary biochemical diseases with defects of speech and oral functions.
+Journal: The Journal of speech and hearing disorders
+
+PMID: 14009718
+Title: Congenital ichthyosis, mental retardation and spasticity (Sjogren-Larsson syndrome).
+Journal: Canadian Medical Association journal
+
+PMID: 13879895
+Title: [Sjogren-Larsson syndrome. Congenitalicthyosis, oligophrenia, spastic diplegia and degeneration of the retina].
+Journal: La Presse medicale
+
+PMID: 14472785
+Title: [Congenital ichthyosis, oligophrenia, spastic diplegia and perimacular degeneration of the retina (Sjogren-Larsson syndrome)].
+Journal: Minerva pediatrica
+
+PMID: 13747142
+Title: [Oligophrenia, spasmodic paraplegia (Little type) and congenital ichthyosis in a little premature girl. Sjoegren-Larsson synkrome].
+Journal: Acta pediatrica espanola
+
+PMID: 13842646
+Title: Oligophrenia in combination with congenital ichthyosis, spastic disorders and macular degeneration (Sjogren-Larsson syndrome).
+Journal: Annales paediatrici. International review of pediatrics
+
