@@ -1,0 +1,304 @@
+<!-- 2 25 50 -->
+<tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/108999">BioGRID:108999</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/2737" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=2737">GLI3</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 25241761,10806483" href="/pubmed/25241761,10806483" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=25241761,10806483">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-Western; Co-localization </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/113934">BioGRID:113934</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/8338" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=8338">H2AC20</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 32707033" href="/pubmed/32707033" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=32707033">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/109269">BioGRID:109269</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/3015" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=3015">H2AZ1</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 32707033" href="/pubmed/32707033" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=32707033">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/113949">BioGRID:113949</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/8353" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=8353">H3C6</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 26527279" href="/pubmed/26527279" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=26527279">PubMed</a>
+  </td>
+  <td headers="inter-desc">Co-purification </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/109402">BioGRID:109402</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/3159" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=3159">HMGA1</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 32707033" href="/pubmed/32707033" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=32707033">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/109552">BioGRID:109552</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/3320" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=3320">HSP90AA1</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 25278022,17054904" href="/pubmed/25278022,17054904" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=25278022,17054904">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS; Affinity Capture-Western </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/610599">BioGRID:610599</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/730211" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=730211">HSP90AA5P</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 33961781" href="/pubmed/33961781" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=33961781">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/123565">BioGRID:123565</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/81631" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=81631">MAP1LC3B</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 35044719" href="/pubmed/35044719" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=35044719">PubMed</a>
+  </td>
+  <td headers="inter-desc">Protein-peptide </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/116756">BioGRID:116756</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/23139" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=23139">MAST2</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 12421765" href="/pubmed/12421765" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=12421765">PubMed</a>
+  </td>
+  <td headers="inter-desc">Two-hybrid </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/110427">BioGRID:110427</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/4281" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=4281">MID1</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 25278022" href="/pubmed/25278022" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=25278022">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-Western; Biochemical Activity </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/110434">BioGRID:110434</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/4288" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=4288">MKI67</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 32707033" href="/pubmed/32707033" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=32707033">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/122734">BioGRID:122734</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/79594" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=79594">MUL1</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 33961781" href="/pubmed/33961781" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=33961781">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/120538">BioGRID:120538</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/55247" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=55247">NEIL3</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 35031058" href="/pubmed/35031058" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=35031058">PubMed</a>
+  </td>
+  <td headers="inter-desc">Protein-RNA </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/111245">BioGRID:111245</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/5224" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=5224">PGAM2</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 33961781" href="/pubmed/33961781" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=33961781">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/111700">BioGRID:111700</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/5728" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=5728">PTEN</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 30631154" href="/pubmed/30631154" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=30631154">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/120437">BioGRID:120437</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/55131" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=55131">RBM28</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 32707033" href="/pubmed/32707033" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=32707033">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/119899">BioGRID:119899</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/54101" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=54101">RIPK4</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 33961781" href="/pubmed/33961781" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=33961781">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/124049">BioGRID:124049</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/84324" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=84324">SARNP</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 32707033" href="/pubmed/32707033" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=32707033">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/110874">BioGRID:110874</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/4809" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=4809">SNU13</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 32707033" href="/pubmed/32707033" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=32707033">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/116148">BioGRID:116148</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/10948" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=10948">STARD3</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 33961781" href="/pubmed/33961781" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=33961781">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID:118032</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/27148" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=27148">STK36</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 25278022" href="/pubmed/25278022" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=25278022">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-Western </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/119676">BioGRID:119676</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/51684" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=51684">SUFU</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 25241761" href="/pubmed/25241761" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=25241761">PubMed</a>
+  </td>
+  <td headers="inter-desc">Co-localization </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/114452">BioGRID:114452</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/8940" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=8940">TOP3B</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 35748872" href="/pubmed/35748872" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=35748872">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-RNA </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/113900">BioGRID:113900</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/8295" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=8295">TRRAP</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 35906200" href="/pubmed/35906200" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=35906200">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr><tr>
+  <td headers="inter-prod">BioGRID:118032</td>
+  <td headers="inter-interactant">
+    <a href="http://www.thebiogrid.org/SearchResults/summary/120321">BioGRID:120321</a>
+  </td>
+  <td headers="inter-otherGene"><a href="/gene/54986" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=54986">ULK4</a> </td>
+  <td headers="inter-compl"><a href=""/> </td>
+  <td headers="inter-source"><a href="http://www.thebiogrid.org/SearchResults/summary/118032">BioGRID</a> </td>
+  <td headers="inter-pubs">
+    <a title="PubMed ID 32707033" href="/pubmed/32707033" ref="ordinalpos=1&amp;ncbi_uid=27148&amp;link_uid=32707033">PubMed</a>
+  </td>
+  <td headers="inter-desc">Affinity Capture-MS </td>
+</tr>
+
+
